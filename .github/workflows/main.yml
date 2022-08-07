@@ -28,4 +28,4 @@ jobs:
         set -x
         docker version
         docker build -t dns-zone-test test/
-        docker run --rm -v ${{ env.GITHUB_WORKSPACE }}:/dns-zone-blacklist dns-zone-test
+        docker run --rm -v ${{ github.workspace }}:/dns-zone-blacklist dns-zone-test
