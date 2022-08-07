@@ -16,16 +16,35 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/setup-node@master
+    - name: 'Setup Node.js'
+      uses: actions/setup-node@master
       with:
         node-version: 16
-    - uses: actions/checkout@v3
-    - run: npm install ejs
-    - name: Build blacklists
+    - name: 'Install Node.js Dependency'
+      run: npm install ejs
+    - name: 'Checkout Code'
+      uses: actions/checkout@v3
+      with:
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+    - name: 'Build Blacklists'
       run: node build.js
-    - uses: docker-practice/actions-setup-docker@master
-    - run: |
+    - name: 'Setup Docker'
+      uses: docker-practice/actions-setup-docker@master
+    - name: 'Run Tests'
+      run: |
         set -x
         docker version
         docker build -t dns-zone-test test/
         docker run --rm -v ${{ github.workspace }}:/dns-zone-blacklist dns-zone-test
+    - name: 'Commit files'
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git commit -a -m 'Automated Update' || echo "Blacklist Already Up-to-date"
+    - name: 'Push changes'
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+    
