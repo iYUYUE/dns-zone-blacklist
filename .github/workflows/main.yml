@@ -1,0 +1,34 @@
+# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: Node.js CI
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/setup-node@master
+      with:
+        node-version: 16
+    - uses: actions/checkout@v3
+    - name: Build blacklists
+      run: node build.js
+    - uses: docker/build-push-action@v2
+      with:
+        context: test
+        tags: dns-zone-test
+        push: false
+    - uses: addnab/docker-run-action@v3
+      with:
+        image: dns-zone-test
+        options: -v $TRAVIS_BUILD_DIR:/dns-zone-blacklist
+        run: dns-zone-test
