@@ -32,4 +32,3 @@ jobs:
       with:
         image: dns-zone-test
         options: -v ${{ env.GITHUB_WORKSPACE }}:/dns-zone-blacklist
-        run: dns-zone-test
