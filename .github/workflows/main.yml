@@ -21,7 +21,8 @@ jobs:
         node-version: 16
     - uses: actions/checkout@v3
     - name: Build blacklists
-      run: node build.js
+    - run: npm install ejs
+    - run: node build.js
     - uses: docker/build-push-action@v2
       with:
         context: test
