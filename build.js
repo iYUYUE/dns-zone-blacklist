@@ -48,15 +48,13 @@ class Blacklist {
   }
 
   async build () {
-    let hosts = await rp.get('https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts')
-    let stats = await rp.get('https://raw.githubusercontent.com/StevenBlack/hosts/master/readmeData.json', {json: true})
+    let hosts = await rp.get('https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads')
 
     // Filter the original hosts file
     hosts
       .split('\n')
       .map(x => x.trim())
       .filter(x => !(x === '' || x.charAt(0) === '#'))
-      .map(x => x.split(' ')[1])
       .filter(x => !this.whitelist.includes(x))
       .sort((a, b) => a.length - b.length)
       .map(host => {
@@ -86,7 +84,7 @@ class Blacklist {
     // Update the README.md file
     let readmeTemplate = fs.readFileSync(path.resolve(__dirname, 'README.template.md'), 'utf8')
     let readme = ejs.render(readmeTemplate, {
-      hosts: stats.base.entries.toLocaleString(),
+      hosts: hosts.length.toLocaleString(),
       zones: this.blacklist.length.toLocaleString()
     })
 

@@ -21,11 +21,11 @@
 }
 
 @test "test unbound.blacklist is valid unbound conf" {
-  run unbound-checkconf /dns-zone-blacklist/.travis-ci/conf/unbound.conf
+  run unbound-checkconf /dns-zone-blacklist/test/conf/unbound.conf
   [ "$status" -eq 0 ]
 }
 
 @test "test unbound-nxdomain.blacklist is valid unbound conf" {
-  run unbound-checkconf /dns-zone-blacklist/.travis-ci/conf/unbound-nxdomain.conf
+  run unbound-checkconf /dns-zone-blacklist/test/conf/unbound-nxdomain.conf
   [ "$status" -eq 0 ]
 }

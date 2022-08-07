@@ -15,10 +15,6 @@ DNS based ad blockers can support wildcard entries. This tool filters out any su
 | Unbound | 0.0.0.0 | [link](https://raw.githubusercontent.com/oznu/dns-zone-blacklist/master/unbound/unbound.blacklist) | [link](https://raw.githubusercontent.com/oznu/dns-zone-blacklist/master/unbound/unbound.blacklist.checksum) |
 | Unbound | NXDOMAIN | [link](https://raw.githubusercontent.com/oznu/dns-zone-blacklist/master/unbound/unbound-nxdomain.blacklist) | [link](https://raw.githubusercontent.com/oznu/dns-zone-blacklist/master/unbound/unbound-nxdomain.blacklist.checksum) |
 
-## Blacklist Updates
-
-The blacklists are updated every 24 hours with the latest data from [StevenBlack/hosts](https://github.com/StevenBlack/hosts). The builds logs are publicly available on [Travis CI](https://travis-ci.org/oznu/dns-zone-blacklist) and each zone file is tested to be valid before publishing.
-
 ## Building the Blacklist
 
 The blacklist can be generated using [Node.js 8.4.0](https://nodejs.org) or later.
