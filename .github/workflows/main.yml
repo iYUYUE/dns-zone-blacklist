@@ -23,12 +23,9 @@ jobs:
     - run: npm install ejs
     - name: Build blacklists
       run: node build.js
-    - uses: docker/build-push-action@v2
-      with:
-        context: test
-        tags: dns-zone-test
-        push: false
-    - uses: addnab/docker-run-action@v3
-      with:
-        image: dns-zone-test
-        options: -v ${{ env.GITHUB_WORKSPACE }}:/dns-zone-blacklist
+    - uses: docker-practice/actions-setup-docker@master
+    - run: |
+        set -x
+        docker version
+        docker build -t dns-zone-test test/
+        docker run --rm -v ${{ env.GITHUB_WORKSPACE }}:/dns-zone-blacklist dns-zone-test
