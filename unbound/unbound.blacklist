@@ -16922,6 +16922,7 @@ local-zone: "voodoointernetmarketing.com" always_refuse
 local-zone: "webappstreamingnetwork.info" always_refuse
 local-zone: "werbung.dohrmann-projekt.de" always_refuse
 local-zone: "zfa.ledrugstoreparisien.com" always_refuse
+local-zone: "590233ee4fbb3.cdn.sohucs.com" always_refuse
 local-zone: "ad-council.brightspotcdn.com" always_refuse
 local-zone: "adimages.businessnews.com.au" always_refuse
 local-zone: "ads.aktualnosciregionalne.pl" always_refuse

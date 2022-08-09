@@ -16922,6 +16922,7 @@ zone "voodoointernetmarketing.com" { type master; notify no; file "null.zone.fil
 zone "webappstreamingnetwork.info" { type master; notify no; file "null.zone.file"; };
 zone "werbung.dohrmann-projekt.de" { type master; notify no; file "null.zone.file"; };
 zone "zfa.ledrugstoreparisien.com" { type master; notify no; file "null.zone.file"; };
+zone "590233ee4fbb3.cdn.sohucs.com" { type master; notify no; file "null.zone.file"; };
 zone "ad-council.brightspotcdn.com" { type master; notify no; file "null.zone.file"; };
 zone "adimages.businessnews.com.au" { type master; notify no; file "null.zone.file"; };
 zone "ads.aktualnosciregionalne.pl" { type master; notify no; file "null.zone.file"; };
