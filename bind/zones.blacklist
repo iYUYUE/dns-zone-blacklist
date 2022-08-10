@@ -3822,6 +3822,7 @@ zone "beeswax.com" { type master; notify no; file "null.zone.file"; };
 zone "beintoo.com" { type master; notify no; file "null.zone.file"; };
 zone "bepolite.eu" { type master; notify no; file "null.zone.file"; };
 zone "bestpush.io" { type master; notify no; file "null.zone.file"; };
+zone "bhumido.com" { type master; notify no; file "null.zone.file"; };
 zone "bibblio.org" { type master; notify no; file "null.zone.file"; };
 zone "bidclix.com" { type master; notify no; file "null.zone.file"; };
 zone "bidclix.net" { type master; notify no; file "null.zone.file"; };
