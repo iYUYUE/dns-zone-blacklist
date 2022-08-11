@@ -2086,6 +2086,7 @@ local-zone: "contema.ru" always_nxdomain
 local-zone: "content.ad" always_nxdomain
 local-zone: "context.ly" always_nxdomain
 local-zone: "cordial.io" always_nxdomain
+local-zone: "cos-rd.com" always_nxdomain
 local-zone: "cplone.com" always_nxdomain
 local-zone: "cplusl.com" always_nxdomain
 local-zone: "cpm-ad.com" always_nxdomain

@@ -2086,6 +2086,7 @@ local-zone: "contema.ru" always_refuse
 local-zone: "content.ad" always_refuse
 local-zone: "context.ly" always_refuse
 local-zone: "cordial.io" always_refuse
+local-zone: "cos-rd.com" always_refuse
 local-zone: "cplone.com" always_refuse
 local-zone: "cplusl.com" always_refuse
 local-zone: "cpm-ad.com" always_refuse

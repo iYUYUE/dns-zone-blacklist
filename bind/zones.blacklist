@@ -2086,6 +2086,7 @@ zone "contema.ru" { type master; notify no; file "null.zone.file"; };
 zone "content.ad" { type master; notify no; file "null.zone.file"; };
 zone "context.ly" { type master; notify no; file "null.zone.file"; };
 zone "cordial.io" { type master; notify no; file "null.zone.file"; };
+zone "cos-rd.com" { type master; notify no; file "null.zone.file"; };
 zone "cplone.com" { type master; notify no; file "null.zone.file"; };
 zone "cplusl.com" { type master; notify no; file "null.zone.file"; };
 zone "cpm-ad.com" { type master; notify no; file "null.zone.file"; };
