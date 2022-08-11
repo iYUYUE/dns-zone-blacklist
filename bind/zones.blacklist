@@ -2322,6 +2322,7 @@ zone "howzzat.co" { type master; notify no; file "null.zone.file"; };
 zone "hpyjmp.com" { type master; notify no; file "null.zone.file"; };
 zone "hqchbs.com" { type master; notify no; file "null.zone.file"; };
 zone "hrijqd.com" { type master; notify no; file "null.zone.file"; };
+zone "hrxxus.com" { type master; notify no; file "null.zone.file"; };
 zone "hrzyhg.com" { type master; notify no; file "null.zone.file"; };
 zone "hsgdyq.com" { type master; notify no; file "null.zone.file"; };
 zone "hssllq.com" { type master; notify no; file "null.zone.file"; };
