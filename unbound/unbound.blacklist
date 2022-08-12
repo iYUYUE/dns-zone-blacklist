@@ -2632,6 +2632,7 @@ local-zone: "nysvbl.com" always_refuse
 local-zone: "nytive.com" always_refuse
 local-zone: "nzbugd.com" always_refuse
 local-zone: "nzixhx.com" always_refuse
+local-zone: "nztago.com" always_refuse
 local-zone: "oaovcb.com" always_refuse
 local-zone: "obahet.com" always_refuse
 local-zone: "occash.com" always_refuse
@@ -9414,6 +9415,7 @@ local-zone: "tosuicunea.com" always_refuse
 local-zone: "totogetica.com" always_refuse
 local-zone: "tracdelight.io" always_refuse
 local-zone: "tradbypass.com" always_refuse
+local-zone: "trading-ad.net" always_refuse
 local-zone: "tradplusad.com" always_refuse
 local-zone: "traffhouse.com" always_refuse
 local-zone: "trafficadv.com" always_refuse
@@ -12127,6 +12129,7 @@ local-zone: "adzone.temp.co.za" always_refuse
 local-zone: "adz.rashflash.com" always_refuse
 local-zone: "adzsquadmedia.com" always_refuse
 local-zone: "a.extremetech.com" always_refuse
+local-zone: "affiliate.fc2.com" always_refuse
 local-zone: "affiliate.mogi.at" always_refuse
 local-zone: "affiliates.com.tw" always_refuse
 local-zone: "affiliateshop.com" always_refuse
