@@ -6665,6 +6665,7 @@ local-zone: "ads.juxxi.com" always_refuse
 local-zone: "adskeeper.com" always_refuse
 local-zone: "ads.klippa.tv" always_refuse
 local-zone: "ads.knives.pl" always_refuse
+local-zone: "ads.kompas.id" always_refuse
 local-zone: "ads.land24.de" always_refuse
 local-zone: "adslegend.com" always_refuse
 local-zone: "ads.makimo.pl" always_refuse
@@ -14131,6 +14132,7 @@ local-zone: "openxadexchange.com" always_refuse
 local-zone: "openxenterprise.com" always_refuse
 local-zone: "openx.lewatmana.com" always_refuse
 local-zone: "openx.masterhost.ru" always_refuse
+local-zone: "openx.specphone.com" always_refuse
 local-zone: "openx.watchmygf.net" always_refuse
 local-zone: "pagead.l.google.com" always_refuse
 local-zone: "pantheranetwork.com" always_refuse
