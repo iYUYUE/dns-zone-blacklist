@@ -3060,6 +3060,7 @@ zone "uwdvcn.com" { type master; notify no; file "null.zone.file"; };
 zone "uwpblc.com" { type master; notify no; file "null.zone.file"; };
 zone "uwwaml.com" { type master; notify no; file "null.zone.file"; };
 zone "uymjbn.com" { type master; notify no; file "null.zone.file"; };
+zone "uzkvpu.com" { type master; notify no; file "null.zone.file"; };
 zone "uzmdfi.com" { type master; notify no; file "null.zone.file"; };
 zone "uzttnr.com" { type master; notify no; file "null.zone.file"; };
 zone "vajvgt.com" { type master; notify no; file "null.zone.file"; };
