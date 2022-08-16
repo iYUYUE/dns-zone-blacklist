@@ -14917,6 +14917,7 @@ zone "webcampromotions.com" { type master; notify no; file "null.zone.file"; };
 zone "wepayyoulongtime.com" { type master; notify no; file "null.zone.file"; };
 zone "wesearchengineok.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.alireviews.io" { type master; notify no; file "null.zone.file"; };
+zone "widget.altrulabs.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.justwatch.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.reviews.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "widgets.business.com" { type master; notify no; file "null.zone.file"; };
