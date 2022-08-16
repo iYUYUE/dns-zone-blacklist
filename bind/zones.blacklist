@@ -2162,6 +2162,7 @@ zone "ecookie.nl" { type master; notify no; file "null.zone.file"; };
 zone "edicoo.com" { type master; notify no; file "null.zone.file"; };
 zone "edpjln.com" { type master; notify no; file "null.zone.file"; };
 zone "eeqrlc.com" { type master; notify no; file "null.zone.file"; };
+zone "egg-ad.com" { type master; notify no; file "null.zone.file"; };
 zone "eggyey.com" { type master; notify no; file "null.zone.file"; };
 zone "eiecaw.com" { type master; notify no; file "null.zone.file"; };
 zone "ekcsc2.com" { type master; notify no; file "null.zone.file"; };
