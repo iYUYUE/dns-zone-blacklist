@@ -1996,6 +1996,7 @@ local-zone: "bgynsr.com" always_refuse
 local-zone: "bidder.dev" always_refuse
 local-zone: "bidmag.net" always_refuse
 local-zone: "bidroid.io" always_refuse
+local-zone: "bidvay.com" always_refuse
 local-zone: "bidvol.com" always_refuse
 local-zone: "bigcom.com" always_refuse
 local-zone: "bikiko.com" always_refuse
@@ -2116,6 +2117,7 @@ local-zone: "dcbhub.com" always_refuse
 local-zone: "dcwacl.com" always_refuse
 local-zone: "ddcfzd.com" always_refuse
 local-zone: "ddxmgy.com" always_refuse
+local-zone: "ddyipu.com" always_refuse
 local-zone: "delona.net" always_refuse
 local-zone: "deltax.com" always_refuse
 local-zone: "dentsu.com" always_refuse
@@ -2298,6 +2300,7 @@ local-zone: "gutgdw.com" always_refuse
 local-zone: "gvfror.com" always_refuse
 local-zone: "gxcwa5.com" always_refuse
 local-zone: "gxwphb.com" always_refuse
+local-zone: "gzidfr.com" always_refuse
 local-zone: "gzppit.com" always_refuse
 local-zone: "gzqiki.com" always_refuse
 local-zone: "h6.msn.com" always_refuse
@@ -2696,6 +2699,7 @@ local-zone: "pandect.es" always_refuse
 local-zone: "panoll.com" always_refuse
 local-zone: "paperg.com" always_refuse
 local-zone: "pbmusf.com" always_refuse
+local-zone: "pbnblm.com" always_refuse
 local-zone: "pbsaqb.com" always_refuse
 local-zone: "pbstck.com" always_refuse
 local-zone: "pc3ads.com" always_refuse
@@ -2941,6 +2945,7 @@ local-zone: "squren.com" always_refuse
 local-zone: "ssacdn.com" always_refuse
 local-zone: "starbux.io" always_refuse
 local-zone: "staygg.com" always_refuse
+local-zone: "stcvhf.com" always_refuse
 local-zone: "sthjoq.com" always_refuse
 local-zone: "stipat.com" always_refuse
 local-zone: "stpd.cloud" always_refuse
@@ -5786,6 +5791,7 @@ local-zone: "meaclick.com" always_refuse
 local-zone: "meagplin.com" always_refuse
 local-zone: "medallia.com" always_refuse
 local-zone: "media.eso.tv" always_refuse
+local-zone: "media-lab.ai" always_refuse
 local-zone: "medialead.de" always_refuse
 local-zone: "mediamond.it" always_refuse
 local-zone: "mediapal.net" always_refuse
@@ -14074,6 +14080,7 @@ local-zone: "inclickadserver.com" always_refuse
 local-zone: "infectiousmedia.com" always_refuse
 local-zone: "infinizostudios.com" always_refuse
 local-zone: "influencevision.com" always_refuse
+local-zone: "infrontmarketing.ca" always_refuse
 local-zone: "insightcreative.com" always_refuse
 local-zone: "inspiremarketing.co" always_refuse
 local-zone: "intelligenceadx.com" always_refuse
