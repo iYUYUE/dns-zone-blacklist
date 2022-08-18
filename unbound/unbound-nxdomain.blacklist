@@ -4362,6 +4362,7 @@ local-zone: "onclkds.com" always_nxdomain
 local-zone: "oneload.com" always_nxdomain
 local-zone: "onepstr.com" always_nxdomain
 local-zone: "onepush.app" always_nxdomain
+local-zone: "onetrust.ca" always_nxdomain
 local-zone: "onetruth.io" always_nxdomain
 local-zone: "oneway.mobi" always_nxdomain
 local-zone: "onlycpm.com" always_nxdomain
@@ -6167,6 +6168,7 @@ local-zone: "soundcast.fm" always_nxdomain
 local-zone: "sowezije.xyz" always_nxdomain
 local-zone: "spacepush.ru" always_nxdomain
 local-zone: "spagat.space" always_nxdomain
+local-zone: "speedppc.com" always_nxdomain
 local-zone: "spe-roll.com" always_nxdomain
 local-zone: "sphereup.com" always_nxdomain
 local-zone: "spherexx.com" always_nxdomain
@@ -9151,6 +9153,7 @@ local-zone: "onclickmax.com" always_nxdomain
 local-zone: "onelivetra.com" always_nxdomain
 local-zone: "onemboaran.com" always_nxdomain
 local-zone: "onetag-sys.com" always_nxdomain
+local-zone: "onetrust.press" always_nxdomain
 local-zone: "onlinemngr.com" always_nxdomain
 local-zone: "onresponse.net" always_nxdomain
 local-zone: "openx.diena.lv" always_nxdomain

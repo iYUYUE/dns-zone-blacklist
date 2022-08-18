@@ -4362,6 +4362,7 @@ local-zone: "onclkds.com" always_refuse
 local-zone: "oneload.com" always_refuse
 local-zone: "onepstr.com" always_refuse
 local-zone: "onepush.app" always_refuse
+local-zone: "onetrust.ca" always_refuse
 local-zone: "onetruth.io" always_refuse
 local-zone: "oneway.mobi" always_refuse
 local-zone: "onlycpm.com" always_refuse
@@ -6167,6 +6168,7 @@ local-zone: "soundcast.fm" always_refuse
 local-zone: "sowezije.xyz" always_refuse
 local-zone: "spacepush.ru" always_refuse
 local-zone: "spagat.space" always_refuse
+local-zone: "speedppc.com" always_refuse
 local-zone: "spe-roll.com" always_refuse
 local-zone: "sphereup.com" always_refuse
 local-zone: "spherexx.com" always_refuse
@@ -9151,6 +9153,7 @@ local-zone: "onclickmax.com" always_refuse
 local-zone: "onelivetra.com" always_refuse
 local-zone: "onemboaran.com" always_refuse
 local-zone: "onetag-sys.com" always_refuse
+local-zone: "onetrust.press" always_refuse
 local-zone: "onlinemngr.com" always_refuse
 local-zone: "onresponse.net" always_refuse
 local-zone: "openx.diena.lv" always_refuse
