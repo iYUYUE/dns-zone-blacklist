@@ -2103,6 +2103,7 @@ local-zone: "cubeegg.de" always_refuse
 local-zone: "cutevo.com" always_refuse
 local-zone: "cwyxyw.com" always_refuse
 local-zone: "cxjrsb.com" always_refuse
+local-zone: "cxrsyt.com" always_refuse
 local-zone: "cxtvli.com" always_refuse
 local-zone: "cybmas.com" always_refuse
 local-zone: "cycsfe.com" always_refuse
@@ -2398,6 +2399,7 @@ local-zone: "janrise.in" always_refuse
 local-zone: "javelin.ie" always_refuse
 local-zone: "jbutml.com" always_refuse
 local-zone: "jccpaz.com" always_refuse
+local-zone: "jcyjly.com" always_refuse
 local-zone: "jdmodr.com" always_refuse
 local-zone: "jeeng.news" always_refuse
 local-zone: "jegkxt.com" always_refuse
@@ -2645,6 +2647,7 @@ local-zone: "nztago.com" always_refuse
 local-zone: "oaovcb.com" always_refuse
 local-zone: "obahet.com" always_refuse
 local-zone: "occash.com" always_refuse
+local-zone: "ocmurc.com" always_refuse
 local-zone: "oct8ne.com" always_refuse
 local-zone: "octonew.me" always_refuse
 local-zone: "ocxtfq.com" always_refuse
@@ -12603,7 +12606,6 @@ local-zone: "raz-raz-mataz.com" always_refuse
 local-zone: "rdr.wargaming.net" always_refuse
 local-zone: "reachjunction.com" always_refuse
 local-zone: "recruiting-ads.de" always_refuse
-local-zone: "redirectingat.com" always_refuse
 local-zone: "registermedia.com" always_refuse
 local-zone: "rek5.savefrom.net" always_refuse
 local-zone: "reklama.gazeta.pl" always_refuse
