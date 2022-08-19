@@ -2321,6 +2321,7 @@ zone "hihgin.com" { type master; notify no; file "null.zone.file"; };
 zone "hirons.com" { type master; notify no; file "null.zone.file"; };
 zone "hitlnk.com" { type master; notify no; file "null.zone.file"; };
 zone "hjjevg.com" { type master; notify no; file "null.zone.file"; };
+zone "hldlrm.com" { type master; notify no; file "null.zone.file"; };
 zone "hmgads.com" { type master; notify no; file "null.zone.file"; };
 zone "hmyjpt.com" { type master; notify no; file "null.zone.file"; };
 zone "hmzgdu.com" { type master; notify no; file "null.zone.file"; };
