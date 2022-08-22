@@ -8248,6 +8248,7 @@ zone "admarkgulf.com" { type master; notify no; file "null.zone.file"; };
 zone "admatic.com.tr" { type master; notify no; file "null.zone.file"; };
 zone "admedia.agency" { type master; notify no; file "null.zone.file"; };
 zone "admedia.com.pk" { type master; notify no; file "null.zone.file"; };
+zone "admedia.net.au" { type master; notify no; file "null.zone.file"; };
 zone "admediatex.net" { type master; notify no; file "null.zone.file"; };
 zone "ad.megapeer.ru" { type master; notify no; file "null.zone.file"; };
 zone "admeridian.com" { type master; notify no; file "null.zone.file"; };
