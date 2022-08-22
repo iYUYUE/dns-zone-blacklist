@@ -2802,6 +2802,7 @@ zone "pwhukl.com" { type master; notify no; file "null.zone.file"; };
 zone "pwkvdk.com" { type master; notify no; file "null.zone.file"; };
 zone "pwmads.com" { type master; notify no; file "null.zone.file"; };
 zone "pwukvp.com" { type master; notify no; file "null.zone.file"; };
+zone "pwxlqg.com" { type master; notify no; file "null.zone.file"; };
 zone "pxlsrv.net" { type master; notify no; file "null.zone.file"; };
 zone "pxxifc.com" { type master; notify no; file "null.zone.file"; };
 zone "qakdki.com" { type master; notify no; file "null.zone.file"; };
