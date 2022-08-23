@@ -1428,6 +1428,7 @@ local-zone: "wyuxy.com" always_refuse
 local-zone: "xandr.com" always_refuse
 local-zone: "xksqb.com" always_refuse
 local-zone: "xlnuj.com" always_refuse
+local-zone: "xlrdr.com" always_refuse
 local-zone: "xpicw.top" always_refuse
 local-zone: "xrum.info" always_refuse
 local-zone: "xtify.com" always_refuse
@@ -2715,6 +2716,7 @@ local-zone: "pc3ads.com" always_refuse
 local-zone: "pc5ads.com" always_refuse
 local-zone: "pcacdn.com" always_refuse
 local-zone: "pcmedia.in" always_refuse
+local-zone: "pctlwm.com" always_refuse
 local-zone: "pcxxvh.com" always_refuse
 local-zone: "pdmntn.com" always_refuse
 local-zone: "pdn-eu.com" always_refuse
@@ -3435,6 +3437,7 @@ local-zone: "ad.docer.pl" always_refuse
 local-zone: "addroid.com" always_refuse
 local-zone: "ad.eamc.org" always_refuse
 local-zone: "adeclik.com" always_refuse
+local-zone: "adether.com" always_refuse
 local-zone: "adeum.click" always_refuse
 local-zone: "adfactor.nl" always_refuse
 local-zone: "adfenix.com" always_refuse
@@ -3495,6 +3498,7 @@ local-zone: "adlefee.com" always_refuse
 local-zone: "ad.legit.si" always_refuse
 local-zone: "adlesse.com" always_refuse
 local-zone: "ad.linux.pl" always_refuse
+local-zone: "ad-linx.com" always_refuse
 local-zone: "ad.lista.cz" always_refuse
 local-zone: "adlocal.net" always_refuse
 local-zone: "adlogix.com" always_refuse
@@ -3512,6 +3516,7 @@ local-zone: "admatiq.com" always_refuse
 local-zone: "admatrix.jp" always_refuse
 local-zone: "admaxbd.com" always_refuse
 local-zone: "admaxim.com" always_refuse
+local-zone: "admax.space" always_refuse
 local-zone: "admedia.com" always_refuse
 local-zone: "admedit.net" always_refuse
 local-zone: "adme.net.au" always_refuse
@@ -4107,6 +4112,7 @@ local-zone: "gillynn.com" always_refuse
 local-zone: "giosany.com" always_refuse
 local-zone: "glazeads.in" always_refuse
 local-zone: "glokta.info" always_refuse
+local-zone: "goaserv.com" always_refuse
 local-zone: "goodidea.ae" always_refuse
 local-zone: "goodmove.tv" always_refuse
 local-zone: "goroost.com" always_refuse
@@ -4736,6 +4742,7 @@ local-zone: "wgwrp7yv.ru" always_refuse
 local-zone: "whizzco.com" always_refuse
 local-zone: "wifi.garden" always_refuse
 local-zone: "wixlsrv.com" always_refuse
+local-zone: "wmptctl.com" always_refuse
 local-zone: "wondoads.de" always_refuse
 local-zone: "wp-push.com" always_refuse
 local-zone: "wtg-ads.com" always_refuse
@@ -4936,6 +4943,7 @@ local-zone: "adgibbon.com" always_refuse
 local-zone: "adgreetz.com" always_refuse
 local-zone: "adgroups.com" always_refuse
 local-zone: "adgroups.net" always_refuse
+local-zone: "ad-haven.com" always_refuse
 local-zone: "ad.iai.or.id" always_refuse
 local-zone: "adiceltic.de" always_refuse
 local-zone: "ad.idgtn.net" always_refuse
@@ -6023,6 +6031,7 @@ local-zone: "prutosom.com" always_refuse
 local-zone: "psizouns.com" always_refuse
 local-zone: "ptairtug.net" always_refuse
 local-zone: "ptewarin.net" always_refuse
+local-zone: "ptlwmstc.com" always_refuse
 local-zone: "pt.ptawe.com" always_refuse
 local-zone: "pubacash.com" always_refuse
 local-zone: "pubgenius.io" always_refuse
@@ -6365,6 +6374,7 @@ local-zone: "xcdmedia.com" always_refuse
 local-zone: "xclick24.com" always_refuse
 local-zone: "xebalovo.com" always_refuse
 local-zone: "xewarycy.xyz" always_refuse
+local-zone: "xlviirdr.com" always_refuse
 local-zone: "xmllover.com" always_refuse
 local-zone: "xpartners.nl" always_refuse
 local-zone: "x-power.info" always_refuse
