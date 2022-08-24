@@ -5816,7 +5816,6 @@ zone "meaclick.com" { type master; notify no; file "null.zone.file"; };
 zone "meagplin.com" { type master; notify no; file "null.zone.file"; };
 zone "medallia.com" { type master; notify no; file "null.zone.file"; };
 zone "media.eso.tv" { type master; notify no; file "null.zone.file"; };
-zone "media-lab.ai" { type master; notify no; file "null.zone.file"; };
 zone "medialead.de" { type master; notify no; file "null.zone.file"; };
 zone "mediamond.it" { type master; notify no; file "null.zone.file"; };
 zone "mediapal.net" { type master; notify no; file "null.zone.file"; };
