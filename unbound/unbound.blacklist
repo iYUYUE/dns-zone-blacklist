@@ -11726,6 +11726,7 @@ local-zone: "smart.edf-re.com" always_refuse
 local-zone: "smarterclick.com" always_refuse
 local-zone: "smartredirect.de" always_refuse
 local-zone: "smpop.icfcdn.com" always_refuse
+local-zone: "socialbubbles.in" always_refuse
 local-zone: "socialfox.com.au" always_refuse
 local-zone: "socialsurf4u.com" always_refuse
 local-zone: "somoaudience.com" always_refuse
@@ -11965,6 +11966,7 @@ local-zone: "ad.planetizen.com" always_refuse
 local-zone: "ad.playamedia.com" always_refuse
 local-zone: "adplay-mobile.com" always_refuse
 local-zone: "adprimehealth.com" always_refuse
+local-zone: "adrielhampton.com" always_refuse
 local-zone: "ads.14news.com.br" always_refuse
 local-zone: "ads.1997media.com" always_refuse
 local-zone: "ads2.oldcabin.net" always_refuse

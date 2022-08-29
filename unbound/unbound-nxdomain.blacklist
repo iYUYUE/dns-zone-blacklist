@@ -11726,6 +11726,7 @@ local-zone: "smart.edf-re.com" always_nxdomain
 local-zone: "smarterclick.com" always_nxdomain
 local-zone: "smartredirect.de" always_nxdomain
 local-zone: "smpop.icfcdn.com" always_nxdomain
+local-zone: "socialbubbles.in" always_nxdomain
 local-zone: "socialfox.com.au" always_nxdomain
 local-zone: "socialsurf4u.com" always_nxdomain
 local-zone: "somoaudience.com" always_nxdomain
@@ -11965,6 +11966,7 @@ local-zone: "ad.planetizen.com" always_nxdomain
 local-zone: "ad.playamedia.com" always_nxdomain
 local-zone: "adplay-mobile.com" always_nxdomain
 local-zone: "adprimehealth.com" always_nxdomain
+local-zone: "adrielhampton.com" always_nxdomain
 local-zone: "ads.14news.com.br" always_nxdomain
 local-zone: "ads.1997media.com" always_nxdomain
 local-zone: "ads2.oldcabin.net" always_nxdomain
