@@ -1154,8 +1154,6 @@ voxus.tv CNAME .
 *.voxus.tv CNAME .
 vrvm.com CNAME .
 *.vrvm.com CNAME .
-vzck.net CNAME .
-*.vzck.net CNAME .
 w55c.net CNAME .
 *.w55c.net CNAME .
 webpu.sh CNAME .
@@ -1178,8 +1176,6 @@ wwads.cn CNAME .
 *.wwads.cn CNAME .
 wwfx.xyz CNAME .
 *.wwfx.xyz CNAME .
-xhuc.net CNAME .
-*.xhuc.net CNAME .
 yadro.ru CNAME .
 *.yadro.ru CNAME .
 yume.com CNAME .
@@ -3682,6 +3678,8 @@ adtrix.com CNAME .
 *.adtrix.com CNAME .
 adtrue.com CNAME .
 *.adtrue.com CNAME .
+adtrue.fun CNAME .
+*.adtrue.fun CNAME .
 adtype.com CNAME .
 *.adtype.com CNAME .
 adunion.de CNAME .
