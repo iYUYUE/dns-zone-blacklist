@@ -13380,6 +13380,7 @@ zone "newdreamglobal.com" { type master; notify no; file "null.zone.file"; };
 zone "newsharecounts.com" { type master; notify no; file "null.zone.file"; };
 zone "nicheadnetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "nikkoscreative.com" { type master; notify no; file "null.zone.file"; };
+zone "notads.1gi3rir.xyz" { type master; notify no; file "null.zone.file"; };
 zone "nsfw.army.delivery" { type master; notify no; file "null.zone.file"; };
 zone "oa.afishamedia.net" { type master; notify no; file "null.zone.file"; };
 zone "oakinteractive.com" { type master; notify no; file "null.zone.file"; };
