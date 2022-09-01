@@ -6486,6 +6486,7 @@ local-zone: "actionrtb.com" always_nxdomain
 local-zone: "actio.systems" always_nxdomain
 local-zone: "activeads.com" always_nxdomain
 local-zone: "acuityads.com" always_nxdomain
+local-zone: "ad.17link.com" always_nxdomain
 local-zone: "ad2iction.com" always_nxdomain
 local-zone: "ad4screen.com" always_nxdomain
 local-zone: "ad.abilm.info" always_nxdomain
@@ -11921,6 +11922,7 @@ local-zone: "ad.clicrbs.com.br" always_nxdomain
 local-zone: "adcombination.com" always_nxdomain
 local-zone: "ad.daaimobile.org" always_nxdomain
 local-zone: "ad.daves.business" always_nxdomain
+local-zone: "ad.deli-fuzoku.jp" always_nxdomain
 local-zone: "ad.diaosiquan.com" always_nxdomain
 local-zone: "ad.dl.mainpost.de" always_nxdomain
 local-zone: "ad.doganburda.com" always_nxdomain
@@ -15540,6 +15542,7 @@ local-zone: "ads.consentidocomun.mx" always_nxdomain
 local-zone: "ads.contralinea.com.mx" always_nxdomain
 local-zone: "ads.cordobadeporte.com" always_nxdomain
 local-zone: "ads.criptodinheiro.com" always_nxdomain
+local-zone: "ads-dev.sportradar.com" always_nxdomain
 local-zone: "ads.domodedovo-city.ru" always_nxdomain
 local-zone: "ads.elbalcondemateo.es" always_nxdomain
 local-zone: "ads.eltelegrafo.com.ec" always_nxdomain
