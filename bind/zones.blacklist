@@ -9584,6 +9584,7 @@ zone "yieldbuild.com" { type master; notify no; file "null.zone.file"; };
 zone "yieldmagic.com" { type master; notify no; file "null.zone.file"; };
 zone "yieldscale.com" { type master; notify no; file "null.zone.file"; };
 zone "yollamedia.com" { type master; notify no; file "null.zone.file"; };
+zone "yoshmarcom.com" { type master; notify no; file "null.zone.file"; };
 zone "youlead.agency" { type master; notify no; file "null.zone.file"; };
 zone "yso70kwbuo.com" { type master; notify no; file "null.zone.file"; };
 zone "yssads.ddc.com" { type master; notify no; file "null.zone.file"; };
