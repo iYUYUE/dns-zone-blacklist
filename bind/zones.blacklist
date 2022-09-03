@@ -11226,6 +11226,7 @@ zone "agencyguerra.com" { type master; notify no; file "null.zone.file"; };
 zone "agency-iklan.com" { type master; notify no; file "null.zone.file"; };
 zone "aggressivead.com" { type master; notify no; file "null.zone.file"; };
 zone "ahd.ruten.com.tw" { type master; notify no; file "null.zone.file"; };
+zone "a-iad2.1rxntv.io" { type master; notify no; file "null.zone.file"; };
 zone "akersdigital.com" { type master; notify no; file "null.zone.file"; };
 zone "alariedesign.com" { type master; notify no; file "null.zone.file"; };
 zone "allmediadesk.com" { type master; notify no; file "null.zone.file"; };
