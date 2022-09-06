@@ -98,6 +98,7 @@ local-zone: "s4m.io" always_nxdomain
 local-zone: "snd.tc" always_nxdomain
 local-zone: "sys.lv" always_nxdomain
 local-zone: "tbn.ru" always_nxdomain
+local-zone: "tvp.tv" always_nxdomain
 local-zone: "uaa.ug" always_nxdomain
 local-zone: "uni.cc" always_nxdomain
 local-zone: "vdo.ai" always_nxdomain
@@ -15671,6 +15672,7 @@ local-zone: "ads.pesmojprijatelj.si" always_nxdomain
 local-zone: "ads.petitesaffiches.fr" always_nxdomain
 local-zone: "ads.phunuonline.com.vn" always_nxdomain
 local-zone: "ads.placementskill.com" always_nxdomain
+local-zone: "ads.popularairsoft.com" always_nxdomain
 local-zone: "ads.private-cheats.com" always_nxdomain
 local-zone: "ads.repeater.directory" always_nxdomain
 local-zone: "ads-resources.waze.com" always_nxdomain
@@ -15852,6 +15854,7 @@ local-zone: "mathnixadvertising.com" always_nxdomain
 local-zone: "mblapi.ssl2.duapps.com" always_nxdomain
 local-zone: "mgcdn2.pconline.com.cn" always_nxdomain
 local-zone: "ministryofmarketing.in" always_nxdomain
+local-zone: "minutemedia-prebid.com" always_nxdomain
 local-zone: "money.pxt-networks.com" always_nxdomain
 local-zone: "multiconnexions.com.au" always_nxdomain
 local-zone: "mustardcreative.com.au" always_nxdomain

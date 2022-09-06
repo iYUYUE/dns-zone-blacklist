@@ -98,6 +98,7 @@ zone "s4m.io" { type master; notify no; file "null.zone.file"; };
 zone "snd.tc" { type master; notify no; file "null.zone.file"; };
 zone "sys.lv" { type master; notify no; file "null.zone.file"; };
 zone "tbn.ru" { type master; notify no; file "null.zone.file"; };
+zone "tvp.tv" { type master; notify no; file "null.zone.file"; };
 zone "uaa.ug" { type master; notify no; file "null.zone.file"; };
 zone "uni.cc" { type master; notify no; file "null.zone.file"; };
 zone "vdo.ai" { type master; notify no; file "null.zone.file"; };
@@ -15671,6 +15672,7 @@ zone "ads.pesmojprijatelj.si" { type master; notify no; file "null.zone.file"; }
 zone "ads.petitesaffiches.fr" { type master; notify no; file "null.zone.file"; };
 zone "ads.phunuonline.com.vn" { type master; notify no; file "null.zone.file"; };
 zone "ads.placementskill.com" { type master; notify no; file "null.zone.file"; };
+zone "ads.popularairsoft.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.private-cheats.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.repeater.directory" { type master; notify no; file "null.zone.file"; };
 zone "ads-resources.waze.com" { type master; notify no; file "null.zone.file"; };
@@ -15852,6 +15854,7 @@ zone "mathnixadvertising.com" { type master; notify no; file "null.zone.file"; }
 zone "mblapi.ssl2.duapps.com" { type master; notify no; file "null.zone.file"; };
 zone "mgcdn2.pconline.com.cn" { type master; notify no; file "null.zone.file"; };
 zone "ministryofmarketing.in" { type master; notify no; file "null.zone.file"; };
+zone "minutemedia-prebid.com" { type master; notify no; file "null.zone.file"; };
 zone "money.pxt-networks.com" { type master; notify no; file "null.zone.file"; };
 zone "multiconnexions.com.au" { type master; notify no; file "null.zone.file"; };
 zone "mustardcreative.com.au" { type master; notify no; file "null.zone.file"; };

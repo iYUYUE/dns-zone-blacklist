@@ -98,6 +98,7 @@ local-zone: "s4m.io" always_refuse
 local-zone: "snd.tc" always_refuse
 local-zone: "sys.lv" always_refuse
 local-zone: "tbn.ru" always_refuse
+local-zone: "tvp.tv" always_refuse
 local-zone: "uaa.ug" always_refuse
 local-zone: "uni.cc" always_refuse
 local-zone: "vdo.ai" always_refuse
@@ -15671,6 +15672,7 @@ local-zone: "ads.pesmojprijatelj.si" always_refuse
 local-zone: "ads.petitesaffiches.fr" always_refuse
 local-zone: "ads.phunuonline.com.vn" always_refuse
 local-zone: "ads.placementskill.com" always_refuse
+local-zone: "ads.popularairsoft.com" always_refuse
 local-zone: "ads.private-cheats.com" always_refuse
 local-zone: "ads.repeater.directory" always_refuse
 local-zone: "ads-resources.waze.com" always_refuse
@@ -15852,6 +15854,7 @@ local-zone: "mathnixadvertising.com" always_refuse
 local-zone: "mblapi.ssl2.duapps.com" always_refuse
 local-zone: "mgcdn2.pconline.com.cn" always_refuse
 local-zone: "ministryofmarketing.in" always_refuse
+local-zone: "minutemedia-prebid.com" always_refuse
 local-zone: "money.pxt-networks.com" always_refuse
 local-zone: "multiconnexions.com.au" always_refuse
 local-zone: "mustardcreative.com.au" always_refuse
