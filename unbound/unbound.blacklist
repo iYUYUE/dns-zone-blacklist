@@ -912,6 +912,7 @@ local-zone: "cauly.net" always_refuse
 local-zone: "cavai.com" always_refuse
 local-zone: "cbads.com" always_refuse
 local-zone: "cbbvi.com" always_refuse
+local-zone: "cc-ad.net" always_refuse
 local-zone: "cc-dt.com" always_refuse
 local-zone: "cci.co.jp" always_refuse
 local-zone: "c.dcdn.es" always_refuse
@@ -3239,6 +3240,7 @@ local-zone: "yoajqj.com" always_refuse
 local-zone: "yoggrt.com" always_refuse
 local-zone: "yomedia.vn" always_refuse
 local-zone: "yomzba.com" always_refuse
+local-zone: "yopard.com" always_refuse
 local-zone: "yottos.com" always_refuse
 local-zone: "yoxeqn.com" always_refuse
 local-zone: "yoyo.co.il" always_refuse
@@ -3937,6 +3939,7 @@ local-zone: "cityads.com" always_refuse
 local-zone: "citylife.sg" always_refuse
 local-zone: "cli2020.com" always_refuse
 local-zone: "click2m.org" always_refuse
+local-zone: "clickad.org" always_refuse
 local-zone: "clickbig.in" always_refuse
 local-zone: "clickio.com" always_refuse
 local-zone: "clickzs.com" always_refuse
@@ -5295,6 +5298,7 @@ local-zone: "armorads.com" always_refuse
 local-zone: "arpu-ads.com" always_refuse
 local-zone: "arrowmmc.com" always_refuse
 local-zone: "asg.aphex.me" always_refuse
+local-zone: "aspxpush.com" always_refuse
 local-zone: "astoecia.com" always_refuse
 local-zone: "audio-cc.com" always_refuse
 local-zone: "auditude.com" always_refuse
@@ -12316,6 +12320,7 @@ local-zone: "craftsmanplus.com" always_refuse
 local-zone: "cream.htvapps.com" always_refuse
 local-zone: "creativehighs.com" always_refuse
 local-zone: "creativekeedas.in" always_refuse
+local-zone: "creativesocean.in" always_refuse
 local-zone: "creatormail.co.uk" always_refuse
 local-zone: "cryptocoinsad.com" always_refuse
 local-zone: "customerlobby.com" always_refuse
@@ -14234,6 +14239,7 @@ local-zone: "popupdomination.com" always_refuse
 local-zone: "popup.netmarble.com" always_refuse
 local-zone: "popups.landingi.com" always_refuse
 local-zone: "pr-bh.ybp.yahoo.com" always_refuse
+local-zone: "primate-digital.com" always_refuse
 local-zone: "privacy.gomovix.com" always_refuse
 local-zone: "profitshare.emag.ro" always_refuse
 local-zone: "promo.adtconmigo.mx" always_refuse
