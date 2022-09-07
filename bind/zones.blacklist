@@ -10078,6 +10078,7 @@ zone "benchclient.com" { type master; notify no; file "null.zone.file"; };
 zone "bestadagency.in" { type master; notify no; file "null.zone.file"; };
 zone "best.s5live.com" { type master; notify no; file "null.zone.file"; };
 zone "betterclicks.io" { type master; notify no; file "null.zone.file"; };
+zone "biancaenero.com" { type master; notify no; file "null.zone.file"; };
 zone "bid-digital.com" { type master; notify no; file "null.zone.file"; };
 zone "bidsxchange.com" { type master; notify no; file "null.zone.file"; };
 zone "bidsxplayer.com" { type master; notify no; file "null.zone.file"; };
@@ -15760,6 +15761,7 @@ zone "ceosocialmarketing.com" { type master; notify no; file "null.zone.file"; }
 zone "circulars.foodcity.com" { type master; notify no; file "null.zone.file"; };
 zone "cj.thelastpicture.show" { type master; notify no; file "null.zone.file"; };
 zone "clarkeandkingmedia.com" { type master; notify no; file "null.zone.file"; };
+zone "click.couponfollow.com" { type master; notify no; file "null.zone.file"; };
 zone "clickpointsoftware.com" { type master; notify no; file "null.zone.file"; };
 zone "clicktime.symantec.com" { type master; notify no; file "null.zone.file"; };
 zone "client2009x25.xcdn.ovh" { type master; notify no; file "null.zone.file"; };

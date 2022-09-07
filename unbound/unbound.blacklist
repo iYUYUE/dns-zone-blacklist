@@ -10078,6 +10078,7 @@ local-zone: "benchclient.com" always_refuse
 local-zone: "bestadagency.in" always_refuse
 local-zone: "best.s5live.com" always_refuse
 local-zone: "betterclicks.io" always_refuse
+local-zone: "biancaenero.com" always_refuse
 local-zone: "bid-digital.com" always_refuse
 local-zone: "bidsxchange.com" always_refuse
 local-zone: "bidsxplayer.com" always_refuse
@@ -15760,6 +15761,7 @@ local-zone: "ceosocialmarketing.com" always_refuse
 local-zone: "circulars.foodcity.com" always_refuse
 local-zone: "cj.thelastpicture.show" always_refuse
 local-zone: "clarkeandkingmedia.com" always_refuse
+local-zone: "click.couponfollow.com" always_refuse
 local-zone: "clickpointsoftware.com" always_refuse
 local-zone: "clicktime.symantec.com" always_refuse
 local-zone: "client2009x25.xcdn.ovh" always_refuse
