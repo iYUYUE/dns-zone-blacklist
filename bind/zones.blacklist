@@ -6386,6 +6386,7 @@ zone "xebalovo.com" { type master; notify no; file "null.zone.file"; };
 zone "xewarycy.xyz" { type master; notify no; file "null.zone.file"; };
 zone "xlviirdr.com" { type master; notify no; file "null.zone.file"; };
 zone "xmllover.com" { type master; notify no; file "null.zone.file"; };
+zone "xpark360.com" { type master; notify no; file "null.zone.file"; };
 zone "xpartners.nl" { type master; notify no; file "null.zone.file"; };
 zone "x-power.info" { type master; notify no; file "null.zone.file"; };
 zone "xtrackme.com" { type master; notify no; file "null.zone.file"; };
