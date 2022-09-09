@@ -12508,6 +12508,7 @@ zone "kineticdigital.ca" { type master; notify no; file "null.zone.file"; };
 zone "knkqjmjyxzev.info" { type master; notify no; file "null.zone.file"; };
 zone "kta.etherscan.com" { type master; notify no; file "null.zone.file"; };
 zone "l7advertising.com" { type master; notify no; file "null.zone.file"; };
+zone "laurenlabeled.com" { type master; notify no; file "null.zone.file"; };
 zone "leadgenfinder.com" { type master; notify no; file "null.zone.file"; };
 zone "legolas-media.com" { type master; notify no; file "null.zone.file"; };
 zone "lightningcast.net" { type master; notify no; file "null.zone.file"; };
