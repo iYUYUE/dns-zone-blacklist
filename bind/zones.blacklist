@@ -13408,6 +13408,7 @@ zone "oa.afishamedia.net" { type master; notify no; file "null.zone.file"; };
 zone "oakinteractive.com" { type master; notify no; file "null.zone.file"; };
 zone "odatomarketing.com" { type master; notify no; file "null.zone.file"; };
 zone "omchimcharchan.com" { type master; notify no; file "null.zone.file"; };
+zone "ommadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "onecreative-mg.com" { type master; notify no; file "null.zone.file"; };
 zone "onthemarcmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "openadsnetwork.com" { type master; notify no; file "null.zone.file"; };
