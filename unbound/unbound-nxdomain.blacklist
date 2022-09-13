@@ -990,6 +990,7 @@ local-zone: "extend.tv" always_nxdomain
 local-zone: "ezadz.net" always_nxdomain
 local-zone: "ezmob.com" always_nxdomain
 local-zone: "ezoic.net" always_nxdomain
+local-zone: "faads.net" always_nxdomain
 local-zone: "fdsur.com" always_nxdomain
 local-zone: "fdzev.com" always_nxdomain
 local-zone: "feathr.co" always_nxdomain
@@ -1341,6 +1342,7 @@ local-zone: "tarad.com" always_nxdomain
 local-zone: "tatari.tv" always_nxdomain
 local-zone: "teads.com" always_nxdomain
 local-zone: "telegr.io" always_nxdomain
+local-zone: "telegr.us" always_nxdomain
 local-zone: "tenmax.io" always_nxdomain
 local-zone: "teser.net" always_nxdomain
 local-zone: "tgknt.com" always_nxdomain
@@ -1740,6 +1742,7 @@ local-zone: "adserv.com" always_nxdomain
 local-zone: "adserve.dk" always_nxdomain
 local-zone: "adserve.ph" always_nxdomain
 local-zone: "adserve.se" always_nxdomain
+local-zone: "adserve.tv" always_nxdomain
 local-zone: "adserv.net" always_nxdomain
 local-zone: "ads.f2d.gr" always_nxdomain
 local-zone: "adsfac.net" always_nxdomain
@@ -3000,6 +3003,7 @@ local-zone: "tcamav.com" always_nxdomain
 local-zone: "tcesqj.com" always_nxdomain
 local-zone: "tcrybv.com" always_nxdomain
 local-zone: "tdwang.com" always_nxdomain
+local-zone: "techdx.com" always_nxdomain
 local-zone: "tehitz.com" always_nxdomain
 local-zone: "tenjin.com" always_nxdomain
 local-zone: "textad.net" always_nxdomain
@@ -4326,6 +4330,7 @@ local-zone: "mobilead.vn" always_nxdomain
 local-zone: "mobilink.az" always_nxdomain
 local-zone: "moboage.com" always_nxdomain
 local-zone: "mobpals.com" always_nxdomain
+local-zone: "mobravo.net" always_nxdomain
 local-zone: "mobupps.com" always_nxdomain
 local-zone: "mobwolf.com" always_nxdomain
 local-zone: "mocean.mobi" always_nxdomain
@@ -4344,6 +4349,7 @@ local-zone: "mtd-cpm.com" always_nxdomain
 local-zone: "mtusrede.de" always_nxdomain
 local-zone: "mxpopad.com" always_nxdomain
 local-zone: "myadvert.in" always_nxdomain
+local-zone: "myarkay.com" always_nxdomain
 local-zone: "myfidevs.io" always_nxdomain
 local-zone: "mygpuid.com" always_nxdomain
 local-zone: "nabs.org.uk" always_nxdomain
@@ -4405,6 +4411,7 @@ local-zone: "opmnstr.com" always_nxdomain
 local-zone: "optad360.io" always_nxdomain
 local-zone: "optanon.com" always_nxdomain
 local-zone: "optiads.org" always_nxdomain
+local-zone: "opus.com.pk" always_nxdomain
 local-zone: "orangead.fi" always_nxdomain
 local-zone: "orrasis.com" always_nxdomain
 local-zone: "osbarter.in" always_nxdomain
@@ -6384,6 +6391,7 @@ local-zone: "xaxivaho.com" always_nxdomain
 local-zone: "xazapuga.com" always_nxdomain
 local-zone: "xcdmedia.com" always_nxdomain
 local-zone: "xclick24.com" always_nxdomain
+local-zone: "xcsghana.com" always_nxdomain
 local-zone: "xebalovo.com" always_nxdomain
 local-zone: "xewarycy.xyz" always_nxdomain
 local-zone: "xlviirdr.com" always_nxdomain
@@ -7962,6 +7970,7 @@ local-zone: "teosredic.com" always_nxdomain
 local-zone: "tevyshila.com" always_nxdomain
 local-zone: "tharbadir.com" always_nxdomain
 local-zone: "theadmoji.com" always_nxdomain
+local-zone: "theadninja.ca" always_nxdomain
 local-zone: "theadpros.com" always_nxdomain
 local-zone: "theagency.com" always_nxdomain
 local-zone: "thegotoguy.co" always_nxdomain
@@ -13206,6 +13215,7 @@ local-zone: "buchhandelswelt.de" always_nxdomain
 local-zone: "buddytraveller.com" always_nxdomain
 local-zone: "b.xfreeservice.com" always_nxdomain
 local-zone: "c3medianetwork.com" always_nxdomain
+local-zone: "cactusadagency.com" always_nxdomain
 local-zone: "campaign.adobe.com" always_nxdomain
 local-zone: "carnivalmobile.com" always_nxdomain
 local-zone: "cdn2.avanquest.com" always_nxdomain
@@ -15478,6 +15488,7 @@ local-zone: "t.email.archant.co.uk" always_nxdomain
 local-zone: "tempestadvertising.in" always_nxdomain
 local-zone: "thebloggernetwork.com" always_nxdomain
 local-zone: "thebutterflyeffect.co" always_nxdomain
+local-zone: "thefilewebcourage.com" always_nxdomain
 local-zone: "theoriginalfusion.com" always_nxdomain
 local-zone: "the-ozone-project.com" always_nxdomain
 local-zone: "thestudiolondon.co.uk" always_nxdomain

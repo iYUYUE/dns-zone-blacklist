@@ -990,6 +990,7 @@ local-zone: "extend.tv" always_refuse
 local-zone: "ezadz.net" always_refuse
 local-zone: "ezmob.com" always_refuse
 local-zone: "ezoic.net" always_refuse
+local-zone: "faads.net" always_refuse
 local-zone: "fdsur.com" always_refuse
 local-zone: "fdzev.com" always_refuse
 local-zone: "feathr.co" always_refuse
@@ -1341,6 +1342,7 @@ local-zone: "tarad.com" always_refuse
 local-zone: "tatari.tv" always_refuse
 local-zone: "teads.com" always_refuse
 local-zone: "telegr.io" always_refuse
+local-zone: "telegr.us" always_refuse
 local-zone: "tenmax.io" always_refuse
 local-zone: "teser.net" always_refuse
 local-zone: "tgknt.com" always_refuse
@@ -1740,6 +1742,7 @@ local-zone: "adserv.com" always_refuse
 local-zone: "adserve.dk" always_refuse
 local-zone: "adserve.ph" always_refuse
 local-zone: "adserve.se" always_refuse
+local-zone: "adserve.tv" always_refuse
 local-zone: "adserv.net" always_refuse
 local-zone: "ads.f2d.gr" always_refuse
 local-zone: "adsfac.net" always_refuse
@@ -3000,6 +3003,7 @@ local-zone: "tcamav.com" always_refuse
 local-zone: "tcesqj.com" always_refuse
 local-zone: "tcrybv.com" always_refuse
 local-zone: "tdwang.com" always_refuse
+local-zone: "techdx.com" always_refuse
 local-zone: "tehitz.com" always_refuse
 local-zone: "tenjin.com" always_refuse
 local-zone: "textad.net" always_refuse
@@ -4326,6 +4330,7 @@ local-zone: "mobilead.vn" always_refuse
 local-zone: "mobilink.az" always_refuse
 local-zone: "moboage.com" always_refuse
 local-zone: "mobpals.com" always_refuse
+local-zone: "mobravo.net" always_refuse
 local-zone: "mobupps.com" always_refuse
 local-zone: "mobwolf.com" always_refuse
 local-zone: "mocean.mobi" always_refuse
@@ -4344,6 +4349,7 @@ local-zone: "mtd-cpm.com" always_refuse
 local-zone: "mtusrede.de" always_refuse
 local-zone: "mxpopad.com" always_refuse
 local-zone: "myadvert.in" always_refuse
+local-zone: "myarkay.com" always_refuse
 local-zone: "myfidevs.io" always_refuse
 local-zone: "mygpuid.com" always_refuse
 local-zone: "nabs.org.uk" always_refuse
@@ -4405,6 +4411,7 @@ local-zone: "opmnstr.com" always_refuse
 local-zone: "optad360.io" always_refuse
 local-zone: "optanon.com" always_refuse
 local-zone: "optiads.org" always_refuse
+local-zone: "opus.com.pk" always_refuse
 local-zone: "orangead.fi" always_refuse
 local-zone: "orrasis.com" always_refuse
 local-zone: "osbarter.in" always_refuse
@@ -6384,6 +6391,7 @@ local-zone: "xaxivaho.com" always_refuse
 local-zone: "xazapuga.com" always_refuse
 local-zone: "xcdmedia.com" always_refuse
 local-zone: "xclick24.com" always_refuse
+local-zone: "xcsghana.com" always_refuse
 local-zone: "xebalovo.com" always_refuse
 local-zone: "xewarycy.xyz" always_refuse
 local-zone: "xlviirdr.com" always_refuse
@@ -7962,6 +7970,7 @@ local-zone: "teosredic.com" always_refuse
 local-zone: "tevyshila.com" always_refuse
 local-zone: "tharbadir.com" always_refuse
 local-zone: "theadmoji.com" always_refuse
+local-zone: "theadninja.ca" always_refuse
 local-zone: "theadpros.com" always_refuse
 local-zone: "theagency.com" always_refuse
 local-zone: "thegotoguy.co" always_refuse
@@ -13206,6 +13215,7 @@ local-zone: "buchhandelswelt.de" always_refuse
 local-zone: "buddytraveller.com" always_refuse
 local-zone: "b.xfreeservice.com" always_refuse
 local-zone: "c3medianetwork.com" always_refuse
+local-zone: "cactusadagency.com" always_refuse
 local-zone: "campaign.adobe.com" always_refuse
 local-zone: "carnivalmobile.com" always_refuse
 local-zone: "cdn2.avanquest.com" always_refuse
@@ -15478,6 +15488,7 @@ local-zone: "t.email.archant.co.uk" always_refuse
 local-zone: "tempestadvertising.in" always_refuse
 local-zone: "thebloggernetwork.com" always_refuse
 local-zone: "thebutterflyeffect.co" always_refuse
+local-zone: "thefilewebcourage.com" always_refuse
 local-zone: "theoriginalfusion.com" always_refuse
 local-zone: "the-ozone-project.com" always_refuse
 local-zone: "thestudiolondon.co.uk" always_refuse
