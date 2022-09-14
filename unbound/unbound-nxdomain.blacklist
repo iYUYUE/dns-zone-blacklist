@@ -6080,6 +6080,7 @@ local-zone: "pushmaze.com" always_nxdomain
 local-zone: "pushmeup.art" always_nxdomain
 local-zone: "pushnami.com" always_nxdomain
 local-zone: "pushnews.org" always_nxdomain
+local-zone: "pushnoti.com" always_nxdomain
 local-zone: "pushpanda.io" always_nxdomain
 local-zone: "pushpros.com" always_nxdomain
 local-zone: "pushtide.com" always_nxdomain

@@ -6080,6 +6080,7 @@ zone "pushmaze.com" { type master; notify no; file "null.zone.file"; };
 zone "pushmeup.art" { type master; notify no; file "null.zone.file"; };
 zone "pushnami.com" { type master; notify no; file "null.zone.file"; };
 zone "pushnews.org" { type master; notify no; file "null.zone.file"; };
+zone "pushnoti.com" { type master; notify no; file "null.zone.file"; };
 zone "pushpanda.io" { type master; notify no; file "null.zone.file"; };
 zone "pushpros.com" { type master; notify no; file "null.zone.file"; };
 zone "pushtide.com" { type master; notify no; file "null.zone.file"; };
