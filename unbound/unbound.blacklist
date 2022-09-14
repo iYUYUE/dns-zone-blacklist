@@ -828,6 +828,7 @@ local-zone: "af1.nh.ee" always_refuse
 local-zone: "afaqs.com" always_refuse
 local-zone: "affiz.com" always_refuse
 local-zone: "affiz.net" always_refuse
+local-zone: "affle.com" always_refuse
 local-zone: "affzen.ru" always_refuse
 local-zone: "afi-b.com" always_refuse
 local-zone: "aflink.rw" always_refuse
@@ -985,6 +986,7 @@ local-zone: "eqads.com" always_refuse
 local-zone: "eqdhp.com" always_refuse
 local-zone: "eqfgc.com" always_refuse
 local-zone: "ertya.com" always_refuse
+local-zone: "etoet.icu" always_refuse
 local-zone: "euqrj.com" always_refuse
 local-zone: "extend.tv" always_refuse
 local-zone: "ezadz.net" always_refuse

@@ -828,6 +828,7 @@ local-zone: "af1.nh.ee" always_nxdomain
 local-zone: "afaqs.com" always_nxdomain
 local-zone: "affiz.com" always_nxdomain
 local-zone: "affiz.net" always_nxdomain
+local-zone: "affle.com" always_nxdomain
 local-zone: "affzen.ru" always_nxdomain
 local-zone: "afi-b.com" always_nxdomain
 local-zone: "aflink.rw" always_nxdomain
@@ -985,6 +986,7 @@ local-zone: "eqads.com" always_nxdomain
 local-zone: "eqdhp.com" always_nxdomain
 local-zone: "eqfgc.com" always_nxdomain
 local-zone: "ertya.com" always_nxdomain
+local-zone: "etoet.icu" always_nxdomain
 local-zone: "euqrj.com" always_nxdomain
 local-zone: "extend.tv" always_nxdomain
 local-zone: "ezadz.net" always_nxdomain
