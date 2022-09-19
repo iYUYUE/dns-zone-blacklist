@@ -7967,6 +7967,7 @@ local-zone: "tarrobads.com" always_refuse
 local-zone: "tccbanner.com" always_refuse
 local-zone: "tcicanada.com" always_refuse
 local-zone: "tckn-code.com" always_refuse
+local-zone: "techniads.com" always_refuse
 local-zone: "tecnomaps.com" always_refuse
 local-zone: "telebijoux.be" always_refuse
 local-zone: "telebijoux.ca" always_refuse
@@ -17664,6 +17665,7 @@ local-zone: "a.2827e82ca6640ef29594fb288383c901159970954a6ca74d562cd3aa.com" alw
 local-zone: "a.296944ca2c266cf432c634fdf665d2ab30f502aea9972e996dfee25f.com" always_refuse
 local-zone: "a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com" always_refuse
 local-zone: "a.3261b6f1aadcad16eb6c015373786fd9ef0e4e2dd7b1ad544e17db83.com" always_refuse
+local-zone: "a.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com" always_refuse
 local-zone: "a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com" always_refuse
 local-zone: "a.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com" always_refuse
 local-zone: "a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com" always_refuse
