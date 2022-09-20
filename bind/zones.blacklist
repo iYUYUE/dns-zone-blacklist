@@ -13067,6 +13067,7 @@ zone "ads.meridianbet.ba" { type master; notify no; file "null.zone.file"; };
 zone "ads.ml-internet.de" { type master; notify no; file "null.zone.file"; };
 zone "ads.mncmedia.co.kr" { type master; notify no; file "null.zone.file"; };
 zone "ads.motorgraph.com" { type master; notify no; file "null.zone.file"; };
+zone "ads.motosiklet.net" { type master; notify no; file "null.zone.file"; };
 zone "ads.myhothobby.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.my-magazine.me" { type master; notify no; file "null.zone.file"; };
 zone "ads.nenovinite.com" { type master; notify no; file "null.zone.file"; };
