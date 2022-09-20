@@ -2364,6 +2364,7 @@ zone "hzucji.com" { type master; notify no; file "null.zone.file"; };
 zone "ibanner.de" { type master; notify no; file "null.zone.file"; };
 zone "ibo-ad.com" { type master; notify no; file "null.zone.file"; };
 zone "icilfj.com" { type master; notify no; file "null.zone.file"; };
+zone "icpadv.com" { type master; notify no; file "null.zone.file"; };
 zone "icqfsp.com" { type master; notify no; file "null.zone.file"; };
 zone "icvads.com" { type master; notify no; file "null.zone.file"; };
 zone "icyads.com" { type master; notify no; file "null.zone.file"; };
