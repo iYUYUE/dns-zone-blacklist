@@ -1812,6 +1812,7 @@ local-zone: "ads.tii.cc" always_nxdomain
 local-zone: "adstir.com" always_nxdomain
 local-zone: "ads-top.cn" always_nxdomain
 local-zone: "ads.tso.ch" always_nxdomain
+local-zone: "ads.tvp.pl" always_nxdomain
 local-zone: "ads.twn.ro" always_nxdomain
 local-zone: "adsuite.ie" always_nxdomain
 local-zone: "adsuite.io" always_nxdomain
@@ -9932,6 +9933,7 @@ local-zone: "ads.ramsalt.com" always_nxdomain
 local-zone: "ads.reevemc.com" always_nxdomain
 local-zone: "ads.renowne.com" always_nxdomain
 local-zone: "ads.rhinomg.com" always_nxdomain
+local-zone: "ads.romaniax.ro" always_nxdomain
 local-zone: "ads.salat.co.il" always_nxdomain
 local-zone: "ads.sasbn.co.za" always_nxdomain
 local-zone: "ads.sayfa16.com" always_nxdomain
@@ -16992,6 +16994,7 @@ local-zone: "adserver.marathisrushti.com" always_nxdomain
 local-zone: "adserver.matthaesmedien.net" always_nxdomain
 local-zone: "adserver.moneysavingmom.com" always_nxdomain
 local-zone: "adserver.oregonbusiness.com" always_nxdomain
+local-zone: "adserver.paywallproject.com" always_nxdomain
 local-zone: "adserver.privatehost-ch.com" always_nxdomain
 local-zone: "adserver.safechat-alpha.com" always_nxdomain
 local-zone: "adserver.trendymagazine.net" always_nxdomain
