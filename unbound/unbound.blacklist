@@ -10959,6 +10959,7 @@ local-zone: "ade.clmbtech.com" always_refuse
 local-zone: "adexservices.com" always_refuse
 local-zone: "adfilmmakers.com" always_refuse
 local-zone: "ad.filmpalota.hu" always_refuse
+local-zone: "adforecaster.com" always_refuse
 local-zone: "ad-generation.jp" always_refuse
 local-zone: "adgirl.yes24.com" always_refuse
 local-zone: "ad.gmeimedia.com" always_refuse
@@ -13603,6 +13604,7 @@ local-zone: "uniteldirect.co.uk" always_refuse
 local-zone: "unlimiteddreams.my" always_refuse
 local-zone: "up.piloteraser.com" always_refuse
 local-zone: "urbanconnection.co" always_refuse
+local-zone: "url.isimsepeti.net" always_refuse
 local-zone: "uze-mobility.group" always_refuse
 local-zone: "valerie.forbes.com" always_refuse
 local-zone: "vibrantideas.co.in" always_refuse
