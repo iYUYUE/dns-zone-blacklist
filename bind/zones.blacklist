@@ -4003,7 +4003,6 @@ zone "crimtan.com" { type master; notify no; file "null.zone.file"; };
 zone "crystall.io" { type master; notify no; file "null.zone.file"; };
 zone "ctalyst.com" { type master; notify no; file "null.zone.file"; };
 zone "ctasnet.com" { type master; notify no; file "null.zone.file"; };
-zone "customer.io" { type master; notify no; file "null.zone.file"; };
 zone "cyberads.io" { type master; notify no; file "null.zone.file"; };
 zone "dadofad.com" { type master; notify no; file "null.zone.file"; };
 zone "daiko.co.jp" { type master; notify no; file "null.zone.file"; };
