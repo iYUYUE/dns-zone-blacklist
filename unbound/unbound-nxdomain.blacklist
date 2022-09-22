@@ -243,7 +243,6 @@ local-zone: "tlpt.ru" always_nxdomain
 local-zone: "tsx.org" always_nxdomain
 local-zone: "tvty.tv" always_nxdomain
 local-zone: "twil.it" always_nxdomain
-local-zone: "uads.id" always_nxdomain
 local-zone: "utop.ir" always_nxdomain
 local-zone: "vads.vn" always_nxdomain
 local-zone: "vanm.io" always_nxdomain
@@ -3867,6 +3866,7 @@ local-zone: "balihoo.com" always_nxdomain
 local-zone: "bam-ads.com" always_nxdomain
 local-zone: "bandujo.com" always_nxdomain
 local-zone: "banners.com" always_nxdomain
+local-zone: "barf-ads.us" always_nxdomain
 local-zone: "basetts.com" always_nxdomain
 local-zone: "bashfoo.com" always_nxdomain
 local-zone: "bat-ads.com" always_nxdomain
@@ -3996,7 +3996,6 @@ local-zone: "cpagrip.com" always_nxdomain
 local-zone: "cpalead.com" always_nxdomain
 local-zone: "cpmatic.com" always_nxdomain
 local-zone: "cpmstar.com" always_nxdomain
-local-zone: "cpndz.space" always_nxdomain
 local-zone: "cpstatic.ch" always_nxdomain
 local-zone: "creoads.com" always_nxdomain
 local-zone: "crimtan.com" always_nxdomain

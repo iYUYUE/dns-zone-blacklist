@@ -243,7 +243,6 @@ local-zone: "tlpt.ru" always_refuse
 local-zone: "tsx.org" always_refuse
 local-zone: "tvty.tv" always_refuse
 local-zone: "twil.it" always_refuse
-local-zone: "uads.id" always_refuse
 local-zone: "utop.ir" always_refuse
 local-zone: "vads.vn" always_refuse
 local-zone: "vanm.io" always_refuse
@@ -3867,6 +3866,7 @@ local-zone: "balihoo.com" always_refuse
 local-zone: "bam-ads.com" always_refuse
 local-zone: "bandujo.com" always_refuse
 local-zone: "banners.com" always_refuse
+local-zone: "barf-ads.us" always_refuse
 local-zone: "basetts.com" always_refuse
 local-zone: "bashfoo.com" always_refuse
 local-zone: "bat-ads.com" always_refuse
@@ -3996,7 +3996,6 @@ local-zone: "cpagrip.com" always_refuse
 local-zone: "cpalead.com" always_refuse
 local-zone: "cpmatic.com" always_refuse
 local-zone: "cpmstar.com" always_refuse
-local-zone: "cpndz.space" always_refuse
 local-zone: "cpstatic.ch" always_refuse
 local-zone: "creoads.com" always_refuse
 local-zone: "crimtan.com" always_refuse
