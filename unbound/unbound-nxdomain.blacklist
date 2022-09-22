@@ -8129,6 +8129,7 @@ local-zone: "yap.yahoo.com" always_nxdomain
 local-zone: "ybbadvsrv.com" always_nxdomain
 local-zone: "ybej5ohp0x.ru" always_nxdomain
 local-zone: "ybotvisit.com" always_nxdomain
+local-zone: "ybp.yahoo.com" always_nxdomain
 local-zone: "yeah1media.vn" always_nxdomain
 local-zone: "yellowblue.io" always_nxdomain
 local-zone: "yeshwecan.com" always_nxdomain
@@ -11679,7 +11680,6 @@ local-zone: "propellerads.com" always_nxdomain
 local-zone: "propellerads.net" always_nxdomain
 local-zone: "propermessage.io" always_nxdomain
 local-zone: "proppellerads.ru" always_nxdomain
-local-zone: "pr.ybp.yahoo.com" always_nxdomain
 local-zone: "ptystuthyglo.com" always_nxdomain
 local-zone: "publicismedia.de" always_nxdomain
 local-zone: "pugna.mbiz.co.id" always_nxdomain
@@ -14284,7 +14284,6 @@ local-zone: "popundertraffic.com" always_nxdomain
 local-zone: "popupdomination.com" always_nxdomain
 local-zone: "popup.netmarble.com" always_nxdomain
 local-zone: "popups.landingi.com" always_nxdomain
-local-zone: "pr-bh.ybp.yahoo.com" always_nxdomain
 local-zone: "primate-digital.com" always_nxdomain
 local-zone: "privacy.gomovix.com" always_nxdomain
 local-zone: "profitshare.emag.ro" always_nxdomain
