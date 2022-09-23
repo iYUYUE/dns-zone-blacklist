@@ -10620,6 +10620,7 @@ local-zone: "publisher.house" always_nxdomain
 local-zone: "pubserver.xl.pt" always_nxdomain
 local-zone: "pureamplify.com" always_nxdomain
 local-zone: "pushcentric.com" always_nxdomain
+local-zone: "pushnetwork.com" always_nxdomain
 local-zone: "pushologies.com" always_nxdomain
 local-zone: "push.rollout.io" always_nxdomain
 local-zone: "q.azcentral.com" always_nxdomain

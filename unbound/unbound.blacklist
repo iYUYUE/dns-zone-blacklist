@@ -10620,6 +10620,7 @@ local-zone: "publisher.house" always_refuse
 local-zone: "pubserver.xl.pt" always_refuse
 local-zone: "pureamplify.com" always_refuse
 local-zone: "pushcentric.com" always_refuse
+local-zone: "pushnetwork.com" always_refuse
 local-zone: "pushologies.com" always_refuse
 local-zone: "push.rollout.io" always_refuse
 local-zone: "q.azcentral.com" always_refuse
