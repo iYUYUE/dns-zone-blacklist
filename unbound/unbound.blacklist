@@ -974,6 +974,7 @@ local-zone: "dynad.net" always_refuse
 local-zone: "dz4ad.com" always_refuse
 local-zone: "eacdn.com" always_refuse
 local-zone: "easy-m.de" always_refuse
+local-zone: "ebads.net" always_refuse
 local-zone: "ebdr3.com" always_refuse
 local-zone: "eclick.vn" always_refuse
 local-zone: "ecsdk.com" always_refuse
@@ -3879,6 +3880,7 @@ local-zone: "beefound.in" always_refuse
 local-zone: "beeswax.com" always_refuse
 local-zone: "beintoo.com" always_refuse
 local-zone: "bepolite.eu" always_refuse
+local-zone: "best2cu.xyz" always_refuse
 local-zone: "bestpush.io" always_refuse
 local-zone: "bhumido.com" always_refuse
 local-zone: "bibblio.org" always_refuse
@@ -3947,6 +3949,7 @@ local-zone: "cedexis.com" always_refuse
 local-zone: "cedexis.net" always_refuse
 local-zone: "cetoftit.ru" always_refuse
 local-zone: "checkm8.com" always_refuse
+local-zone: "chicipu.lol" always_refuse
 local-zone: "choozle.com" always_refuse
 local-zone: "cityads.com" always_refuse
 local-zone: "citylife.sg" always_refuse
@@ -4216,6 +4219,7 @@ local-zone: "juicyads.me" always_refuse
 local-zone: "jumpraw.com" always_refuse
 local-zone: "jumptap.com" always_refuse
 local-zone: "jurawelt.de" always_refuse
+local-zone: "kalavid.net" always_refuse
 local-zone: "kanmobi.net" always_refuse
 local-zone: "kantiwl.com" always_refuse
 local-zone: "kavanga.com" always_refuse
@@ -15855,8 +15859,6 @@ local-zone: "foxyadvertising.com.au" always_refuse
 local-zone: "freewheel-live.fuse.tv" always_refuse
 local-zone: "gaidefejceaifiijadi.ru" always_refuse
 local-zone: "gdggdceehihgbgigadj.ru" always_refuse
-local-zone: "gfchchajcjddcigfaea.ru" always_refuse
-local-zone: "gfddchebhejgghjgaea.ru" always_refuse
 local-zone: "ghtry.amateurswild.com" always_refuse
 local-zone: "giejbgdidaehfccaaec.ru" always_refuse
 local-zone: "globaladmanagement.com" always_refuse
