@@ -382,6 +382,7 @@ local-zone: "axept.io" always_nxdomain
 local-zone: "axf8.net" always_nxdomain
 local-zone: "axiv.com" always_nxdomain
 local-zone: "ayads.co" always_nxdomain
+local-zone: "a.zdg.de" always_nxdomain
 local-zone: "bebi.com" always_nxdomain
 local-zone: "begun.ru" always_nxdomain
 local-zone: "bizo.com" always_nxdomain
@@ -6301,6 +6302,7 @@ local-zone: "tresensa.com" always_nxdomain
 local-zone: "triadctv.com" always_nxdomain
 local-zone: "triptent.com" always_nxdomain
 local-zone: "trokemar.com" always_nxdomain
+local-zone: "trueberry.in" always_nxdomain
 local-zone: "truepush.com" always_nxdomain
 local-zone: "trustarc.com" always_nxdomain
 local-zone: "trybrick.com" always_nxdomain

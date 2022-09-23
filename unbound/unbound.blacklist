@@ -382,6 +382,7 @@ local-zone: "axept.io" always_refuse
 local-zone: "axf8.net" always_refuse
 local-zone: "axiv.com" always_refuse
 local-zone: "ayads.co" always_refuse
+local-zone: "a.zdg.de" always_refuse
 local-zone: "bebi.com" always_refuse
 local-zone: "begun.ru" always_refuse
 local-zone: "bizo.com" always_refuse
@@ -6301,6 +6302,7 @@ local-zone: "tresensa.com" always_refuse
 local-zone: "triadctv.com" always_refuse
 local-zone: "triptent.com" always_refuse
 local-zone: "trokemar.com" always_refuse
+local-zone: "trueberry.in" always_refuse
 local-zone: "truepush.com" always_refuse
 local-zone: "trustarc.com" always_refuse
 local-zone: "trybrick.com" always_refuse
