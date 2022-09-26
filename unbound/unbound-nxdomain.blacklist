@@ -9899,6 +9899,7 @@ local-zone: "ads.librebor.me" always_nxdomain
 local-zone: "ads.linkpro.net" always_nxdomain
 local-zone: "adslivecorp.com" always_nxdomain
 local-zone: "ads.lotlinx.com" always_nxdomain
+local-zone: "adsmagnetic.com" always_nxdomain
 local-zone: "ads.marketer.ge" always_nxdomain
 local-zone: "ads.masliri.com" always_nxdomain
 local-zone: "ads.mbegroup.pl" always_nxdomain
@@ -12722,6 +12723,7 @@ local-zone: "republicmedia.com" always_nxdomain
 local-zone: "responsiveads.com" always_nxdomain
 local-zone: "reve.leafmedia.io" always_nxdomain
 local-zone: "revenuemantra.com" always_nxdomain
+local-zone: "revive.atime.live" always_nxdomain
 local-zone: "revive.dubcnm.com" always_nxdomain
 local-zone: "revive.kamioni.bg" always_nxdomain
 local-zone: "reviveservers.com" always_nxdomain

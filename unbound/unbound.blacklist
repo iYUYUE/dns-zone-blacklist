@@ -9899,6 +9899,7 @@ local-zone: "ads.librebor.me" always_refuse
 local-zone: "ads.linkpro.net" always_refuse
 local-zone: "adslivecorp.com" always_refuse
 local-zone: "ads.lotlinx.com" always_refuse
+local-zone: "adsmagnetic.com" always_refuse
 local-zone: "ads.marketer.ge" always_refuse
 local-zone: "ads.masliri.com" always_refuse
 local-zone: "ads.mbegroup.pl" always_refuse
@@ -12722,6 +12723,7 @@ local-zone: "republicmedia.com" always_refuse
 local-zone: "responsiveads.com" always_refuse
 local-zone: "reve.leafmedia.io" always_refuse
 local-zone: "revenuemantra.com" always_refuse
+local-zone: "revive.atime.live" always_refuse
 local-zone: "revive.dubcnm.com" always_refuse
 local-zone: "revive.kamioni.bg" always_refuse
 local-zone: "reviveservers.com" always_refuse
