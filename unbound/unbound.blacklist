@@ -5826,6 +5826,7 @@ local-zone: "mailmunch.co" always_refuse
 local-zone: "mainroll.com" always_refuse
 local-zone: "makebank.com" always_refuse
 local-zone: "malafaat.com" always_refuse
+local-zone: "mambasms.com" always_refuse
 local-zone: "mangoadv.com" always_refuse
 local-zone: "manorcom.net" always_refuse
 local-zone: "mansfield.us" always_refuse
@@ -6325,6 +6326,7 @@ local-zone: "u.djicdn.com" always_refuse
 local-zone: "udookrou.com" always_refuse
 local-zone: "ulathana.com" always_refuse
 local-zone: "unoadsrv.com" always_refuse
+local-zone: "upsellit.com" always_refuse
 local-zone: "uqie4nzy.com" always_refuse
 local-zone: "urmavite.com" always_refuse
 local-zone: "userwave.com" always_refuse
@@ -10852,6 +10854,7 @@ local-zone: "vip-vip-vup.com" always_refuse
 local-zone: "viralnugget.com" always_refuse
 local-zone: "viralsparks.com" always_refuse
 local-zone: "virtualminds.de" always_refuse
+local-zone: "visitwidget.com" always_refuse
 local-zone: "vistarmedia.com" always_refuse
 local-zone: "vivalabrand.com" always_refuse
 local-zone: "volatintptr.com" always_refuse
@@ -14162,6 +14165,7 @@ local-zone: "elasticbeanstalk.co" always_refuse
 local-zone: "emailsubmitters.net" always_refuse
 local-zone: "emailsubmitters.xyz" always_refuse
 local-zone: "emarketingsuite.net" always_refuse
+local-zone: "engage.imds-cdn.com" always_refuse
 local-zone: "erf-mediaservice.de" always_refuse
 local-zone: "ero-advertising.com" always_refuse
 local-zone: "esurveyapi.asus.com" always_refuse

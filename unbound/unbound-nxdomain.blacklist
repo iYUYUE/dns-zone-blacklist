@@ -5826,6 +5826,7 @@ local-zone: "mailmunch.co" always_nxdomain
 local-zone: "mainroll.com" always_nxdomain
 local-zone: "makebank.com" always_nxdomain
 local-zone: "malafaat.com" always_nxdomain
+local-zone: "mambasms.com" always_nxdomain
 local-zone: "mangoadv.com" always_nxdomain
 local-zone: "manorcom.net" always_nxdomain
 local-zone: "mansfield.us" always_nxdomain
@@ -6325,6 +6326,7 @@ local-zone: "u.djicdn.com" always_nxdomain
 local-zone: "udookrou.com" always_nxdomain
 local-zone: "ulathana.com" always_nxdomain
 local-zone: "unoadsrv.com" always_nxdomain
+local-zone: "upsellit.com" always_nxdomain
 local-zone: "uqie4nzy.com" always_nxdomain
 local-zone: "urmavite.com" always_nxdomain
 local-zone: "userwave.com" always_nxdomain
@@ -10852,6 +10854,7 @@ local-zone: "vip-vip-vup.com" always_nxdomain
 local-zone: "viralnugget.com" always_nxdomain
 local-zone: "viralsparks.com" always_nxdomain
 local-zone: "virtualminds.de" always_nxdomain
+local-zone: "visitwidget.com" always_nxdomain
 local-zone: "vistarmedia.com" always_nxdomain
 local-zone: "vivalabrand.com" always_nxdomain
 local-zone: "volatintptr.com" always_nxdomain
@@ -14162,6 +14165,7 @@ local-zone: "elasticbeanstalk.co" always_nxdomain
 local-zone: "emailsubmitters.net" always_nxdomain
 local-zone: "emailsubmitters.xyz" always_nxdomain
 local-zone: "emarketingsuite.net" always_nxdomain
+local-zone: "engage.imds-cdn.com" always_nxdomain
 local-zone: "erf-mediaservice.de" always_nxdomain
 local-zone: "ero-advertising.com" always_nxdomain
 local-zone: "esurveyapi.asus.com" always_nxdomain
