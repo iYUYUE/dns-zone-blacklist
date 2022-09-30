@@ -12642,6 +12642,7 @@ zone "myalphaspace2.com" { type master; notify no; file "null.zone.file"; };
 zone "myalphaspace3.com" { type master; notify no; file "null.zone.file"; };
 zone "my-banner-ads.com" { type master; notify no; file "null.zone.file"; };
 zone "mycars.dealer.com" { type master; notify no; file "null.zone.file"; };
+zone "mylivesexshow.com" { type master; notify no; file "null.zone.file"; };
 zone "mymediashield.com" { type master; notify no; file "null.zone.file"; };
 zone "mywebsearcher.com" { type master; notify no; file "null.zone.file"; };
 zone "n91adshostnet.com" { type master; notify no; file "null.zone.file"; };

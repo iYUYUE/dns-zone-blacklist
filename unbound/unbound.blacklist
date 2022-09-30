@@ -12642,6 +12642,7 @@ local-zone: "myalphaspace2.com" always_refuse
 local-zone: "myalphaspace3.com" always_refuse
 local-zone: "my-banner-ads.com" always_refuse
 local-zone: "mycars.dealer.com" always_refuse
+local-zone: "mylivesexshow.com" always_refuse
 local-zone: "mymediashield.com" always_refuse
 local-zone: "mywebsearcher.com" always_refuse
 local-zone: "n91adshostnet.com" always_refuse
