@@ -5781,6 +5781,7 @@ zone "kuponacdn.de" { type master; notify no; file "null.zone.file"; };
 zone "kutuheca.com" { type master; notify no; file "null.zone.file"; };
 zone "kuzyvyni.pro" { type master; notify no; file "null.zone.file"; };
 zone "kwanza.co.tz" { type master; notify no; file "null.zone.file"; };
+zone "l1vec4ms.com" { type master; notify no; file "null.zone.file"; };
 zone "labmatik.com" { type master; notify no; file "null.zone.file"; };
 zone "la-la-sf.com" { type master; notify no; file "null.zone.file"; };
 zone "laughlin.com" { type master; notify no; file "null.zone.file"; };
