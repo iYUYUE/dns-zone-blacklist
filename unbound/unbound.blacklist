@@ -3920,6 +3920,7 @@ local-zone: "bludwan.com" always_refuse
 local-zone: "blueseed.tv" always_refuse
 local-zone: "blueseed.vn" always_refuse
 local-zone: "blurbiq.com" always_refuse
+local-zone: "bn.begin.ru" always_refuse
 local-zone: "bnrs.ilm.ee" always_refuse
 local-zone: "b.obiava.bg" always_refuse
 local-zone: "bodelen.com" always_refuse
@@ -5972,6 +5973,7 @@ local-zone: "ogercron.com" always_refuse
 local-zone: "ohmwrite.com" always_refuse
 local-zone: "okoclick.com" always_refuse
 local-zone: "olatumal.com" always_refuse
+local-zone: "old.trck.one" always_refuse
 local-zone: "omappapi.com" always_refuse
 local-zone: "omasatra.com" always_refuse
 local-zone: "omclacrv.com" always_refuse
@@ -10324,6 +10326,7 @@ local-zone: "explorads.media" always_refuse
 local-zone: "exponential.com" always_refuse
 local-zone: "extremereach.io" always_refuse
 local-zone: "factorybyks.com" always_refuse
+local-zone: "fadelchafai.com" always_refuse
 local-zone: "fallbackads.com" always_refuse
 local-zone: "fast-hunter.com" always_refuse
 local-zone: "fatchilli.media" always_refuse
@@ -11303,6 +11306,7 @@ local-zone: "agency-iklan.com" always_refuse
 local-zone: "aggressivead.com" always_refuse
 local-zone: "ahd.ruten.com.tw" always_refuse
 local-zone: "a-iad2.1rxntv.io" always_refuse
+local-zone: "ak-d.tripcdn.com" always_refuse
 local-zone: "akersdigital.com" always_refuse
 local-zone: "alariedesign.com" always_refuse
 local-zone: "allmediadesk.com" always_refuse
@@ -14987,6 +14991,7 @@ local-zone: "pubs2.latinspots.com" always_refuse
 local-zone: "push.esputnik.com.ua" always_refuse
 local-zone: "pushmonetization.com" always_refuse
 local-zone: "pushnotifications.io" always_refuse
+local-zone: "radio.amswebdispo.de" always_refuse
 local-zone: "rakutenmarketing.com" always_refuse
 local-zone: "reach.slowtwitch.com" always_refuse
 local-zone: "realm.hearst3pcc.com" always_refuse
