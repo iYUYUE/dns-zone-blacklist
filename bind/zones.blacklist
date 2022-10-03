@@ -12555,6 +12555,7 @@ zone "huddledmasses.com" { type master; notify no; file "null.zone.file"; };
 zone "huskydesigner.pro" { type master; notify no; file "null.zone.file"; };
 zone "hyperaudience.com" { type master; notify no; file "null.zone.file"; };
 zone "icenineonline.com" { type master; notify no; file "null.zone.file"; };
+zone "illusive-moose.ca" { type master; notify no; file "null.zone.file"; };
 zone "image-protect.com" { type master; notify no; file "null.zone.file"; };
 zone "impactserving.com" { type master; notify no; file "null.zone.file"; };
 zone "imp.assistdrv.com" { type master; notify no; file "null.zone.file"; };
