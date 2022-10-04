@@ -2552,6 +2552,7 @@ local-zone: "manage.com" always_refuse
 local-zone: "mars.media" always_refuse
 local-zone: "matomy.com" always_refuse
 local-zone: "maxads.com" always_refuse
+local-zone: "maxadvs.ru" always_refuse
 local-zone: "maxgid.com" always_refuse
 local-zone: "maxi-ad.de" always_refuse
 local-zone: "maxweb.com" always_refuse
@@ -12683,6 +12684,7 @@ local-zone: "nordicadmedia.com" always_refuse
 local-zone: "nsclick.baidu.com" always_refuse
 local-zone: "oas.uniontrib.com" always_refuse
 local-zone: "oathuklimited.com" always_refuse
+local-zone: "ocean.gigatron.rs" always_refuse
 local-zone: "oceanwebcraft.com" always_refuse
 local-zone: "oeopl2y96q.ru.com" always_refuse
 local-zone: "onclickgenius.com" always_refuse

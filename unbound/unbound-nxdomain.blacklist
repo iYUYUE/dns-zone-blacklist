@@ -2552,6 +2552,7 @@ local-zone: "manage.com" always_nxdomain
 local-zone: "mars.media" always_nxdomain
 local-zone: "matomy.com" always_nxdomain
 local-zone: "maxads.com" always_nxdomain
+local-zone: "maxadvs.ru" always_nxdomain
 local-zone: "maxgid.com" always_nxdomain
 local-zone: "maxi-ad.de" always_nxdomain
 local-zone: "maxweb.com" always_nxdomain
@@ -12683,6 +12684,7 @@ local-zone: "nordicadmedia.com" always_nxdomain
 local-zone: "nsclick.baidu.com" always_nxdomain
 local-zone: "oas.uniontrib.com" always_nxdomain
 local-zone: "oathuklimited.com" always_nxdomain
+local-zone: "ocean.gigatron.rs" always_nxdomain
 local-zone: "oceanwebcraft.com" always_nxdomain
 local-zone: "oeopl2y96q.ru.com" always_nxdomain
 local-zone: "onclickgenius.com" always_nxdomain
