@@ -2799,6 +2799,7 @@ local-zone: "p.qlogo.cn" always_nxdomain
 local-zone: "pqmkej.com" always_nxdomain
 local-zone: "prdlam.com" always_nxdomain
 local-zone: "prebid.org" always_nxdomain
+local-zone: "presage.io" always_nxdomain
 local-zone: "prezna.com" always_nxdomain
 local-zone: "primead.jp" always_nxdomain
 local-zone: "prompty.io" always_nxdomain

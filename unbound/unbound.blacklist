@@ -2799,6 +2799,7 @@ local-zone: "p.qlogo.cn" always_refuse
 local-zone: "pqmkej.com" always_refuse
 local-zone: "prdlam.com" always_refuse
 local-zone: "prebid.org" always_refuse
+local-zone: "presage.io" always_refuse
 local-zone: "prezna.com" always_refuse
 local-zone: "primead.jp" always_refuse
 local-zone: "prompty.io" always_refuse
