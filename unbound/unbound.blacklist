@@ -3546,6 +3546,7 @@ local-zone: "admarsh.com" always_refuse
 local-zone: "admaster.de" always_refuse
 local-zone: "admatiq.com" always_refuse
 local-zone: "admatrix.jp" always_refuse
+local-zone: "admatrix.vn" always_refuse
 local-zone: "admaxbd.com" always_refuse
 local-zone: "admaxim.com" always_refuse
 local-zone: "admax.space" always_refuse
@@ -9785,6 +9786,7 @@ local-zone: "ad.mojportal.hr" always_refuse
 local-zone: "ad.moneta.co.kr" always_refuse
 local-zone: "admozartppc.com" always_refuse
 local-zone: "admozartxml.com" always_refuse
+local-zone: "adnative.com.tr" always_refuse
 local-zone: "adnet-media.net" always_refuse
 local-zone: "adoftheyear.com" always_refuse
 local-zone: "adopt-media.com" always_refuse
@@ -16404,6 +16406,7 @@ local-zone: "popdom.s3.amazonaws.com" always_refuse
 local-zone: "pricespy-75b8.kxcdn.com" always_refuse
 local-zone: "primeclickmarketing.com" always_refuse
 local-zone: "proelementcreatives.com" always_refuse
+local-zone: "publicidade.sporting.pt" always_refuse
 local-zone: "pushmessage.samsung.com" always_refuse
 local-zone: "quantum-advertising.com" always_refuse
 local-zone: "r-ads.promo-visits.site" always_refuse

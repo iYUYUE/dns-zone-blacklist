@@ -3546,6 +3546,7 @@ local-zone: "admarsh.com" always_nxdomain
 local-zone: "admaster.de" always_nxdomain
 local-zone: "admatiq.com" always_nxdomain
 local-zone: "admatrix.jp" always_nxdomain
+local-zone: "admatrix.vn" always_nxdomain
 local-zone: "admaxbd.com" always_nxdomain
 local-zone: "admaxim.com" always_nxdomain
 local-zone: "admax.space" always_nxdomain
@@ -9785,6 +9786,7 @@ local-zone: "ad.mojportal.hr" always_nxdomain
 local-zone: "ad.moneta.co.kr" always_nxdomain
 local-zone: "admozartppc.com" always_nxdomain
 local-zone: "admozartxml.com" always_nxdomain
+local-zone: "adnative.com.tr" always_nxdomain
 local-zone: "adnet-media.net" always_nxdomain
 local-zone: "adoftheyear.com" always_nxdomain
 local-zone: "adopt-media.com" always_nxdomain
@@ -16404,6 +16406,7 @@ local-zone: "popdom.s3.amazonaws.com" always_nxdomain
 local-zone: "pricespy-75b8.kxcdn.com" always_nxdomain
 local-zone: "primeclickmarketing.com" always_nxdomain
 local-zone: "proelementcreatives.com" always_nxdomain
+local-zone: "publicidade.sporting.pt" always_nxdomain
 local-zone: "pushmessage.samsung.com" always_nxdomain
 local-zone: "quantum-advertising.com" always_nxdomain
 local-zone: "r-ads.promo-visits.site" always_nxdomain
