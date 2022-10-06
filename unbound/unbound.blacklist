@@ -77,6 +77,7 @@ local-zone: "ity.im" always_refuse
 local-zone: "ivo.io" always_refuse
 local-zone: "k1s.nl" always_refuse
 local-zone: "kiz.vn" always_refuse
+local-zone: "kod.io" always_refuse
 local-zone: "l4s.cc" always_refuse
 local-zone: "lqm.io" always_refuse
 local-zone: "m2c.rs" always_refuse
@@ -602,6 +603,7 @@ local-zone: "11.o7.net" always_refuse
 local-zone: "12had.com" always_refuse
 local-zone: "17ads.net" always_refuse
 local-zone: "1lead.xyz" always_refuse
+local-zone: "1rxntv.io" always_refuse
 local-zone: "1ts17.top" always_refuse
 local-zone: "1ts18.top" always_refuse
 local-zone: "1ts19.top" always_refuse
@@ -1171,6 +1173,7 @@ local-zone: "mediaz.vn" always_refuse
 local-zone: "megapu.sh" always_refuse
 local-zone: "mfotj.com" always_refuse
 local-zone: "mgbid.net" always_refuse
+local-zone: "midtc.com" always_refuse
 local-zone: "mixpo.com" always_refuse
 local-zone: "mjsqm.top" always_refuse
 local-zone: "mkhoj.com" always_refuse
@@ -6775,7 +6778,6 @@ local-zone: "ads.land24.de" always_refuse
 local-zone: "adslegend.com" always_refuse
 local-zone: "ads.makimo.pl" always_refuse
 local-zone: "adsmelody.com" always_refuse
-local-zone: "ads.midtc.com" always_refuse
 local-zone: "adsmobila.com" always_refuse
 local-zone: "adsmodern.com" always_refuse
 local-zone: "adsmoloco.com" always_refuse
@@ -8215,7 +8217,6 @@ local-zone: "9vzzijbj5f.com" always_refuse
 local-zone: "a7i02p23sj.xyz" always_refuse
 local-zone: "a.actualno.com" always_refuse
 local-zone: "aan.amazon.com" always_refuse
-local-zone: "a-ap.1rxntv.io" always_refuse
 local-zone: "abbeymecca.com" always_refuse
 local-zone: "abc.learnit.ir" always_refuse
 local-zone: "abdurantom.com" always_refuse
@@ -8617,7 +8618,6 @@ local-zone: "amolio.fubo.tv" always_refuse
 local-zone: "ampnetwork.net" always_refuse
 local-zone: "ampxchange.com" always_refuse
 local-zone: "ampxdirect.com" always_refuse
-local-zone: "a-nj.1rxntv.io" always_refuse
 local-zone: "antixantiy.com" always_refuse
 local-zone: "anymind360.com" always_refuse
 local-zone: "a.optmnstr.com" always_refuse
@@ -9693,7 +9693,6 @@ local-zone: "a0.raidrush.org" always_refuse
 local-zone: "a2j2digital.com" always_refuse
 local-zone: "a-affiliate.net" always_refuse
 local-zone: "aaf-houston.net" always_refuse
-local-zone: "a-ams.1rxntv.io" always_refuse
 local-zone: "a.artamkari.com" always_refuse
 local-zone: "aasthaad.com.np" always_refuse
 local-zone: "ab.78yvreh.site" always_refuse
@@ -10074,7 +10073,6 @@ local-zone: "affiliscout.com" always_refuse
 local-zone: "agency09.com.au" always_refuse
 local-zone: "agencysquid.com" always_refuse
 local-zone: "agentsofroi.com" always_refuse
-local-zone: "a-iad.1rxntv.io" always_refuse
 local-zone: "aimartlanka.com" always_refuse
 local-zone: "air.adliners.de" always_refuse
 local-zone: "airnowmedia.com" always_refuse
@@ -10115,10 +10113,8 @@ local-zone: "asg.catraff.com" always_refuse
 local-zone: "asg.sdtraff.com" always_refuse
 local-zone: "asg.somecdn.bid" always_refuse
 local-zone: "ashow.pcpop.com" always_refuse
-local-zone: "a-sjo.1rxntv.io" always_refuse
 local-zone: "a.skopjeinfo.mk" always_refuse
 local-zone: "audiencerun.com" always_refuse
-local-zone: "a-usw.1rxntv.io" always_refuse
 local-zone: "autopilothq.com" always_refuse
 local-zone: "av5.mofoshd.org" always_refuse
 local-zone: "aws.weather.com" always_refuse
@@ -10830,7 +10826,6 @@ local-zone: "tic-tic-bam.com" always_refuse
 local-zone: "tic-tic-toc.com" always_refuse
 local-zone: "tin-tin-win.com" always_refuse
 local-zone: "tithephustu.com" always_refuse
-local-zone: "tlads.midtc.com" always_refuse
 local-zone: "tm.hdmtools.com" always_refuse
 local-zone: "topadserver.com" always_refuse
 local-zone: "tracdelight.com" always_refuse
@@ -11315,7 +11310,6 @@ local-zone: "agencyguerra.com" always_refuse
 local-zone: "agency-iklan.com" always_refuse
 local-zone: "aggressivead.com" always_refuse
 local-zone: "ahd.ruten.com.tw" always_refuse
-local-zone: "a-iad2.1rxntv.io" always_refuse
 local-zone: "ak-d.tripcdn.com" always_refuse
 local-zone: "akersdigital.com" always_refuse
 local-zone: "alariedesign.com" always_refuse
@@ -12962,7 +12956,6 @@ local-zone: "ad.adventgroup.net" always_refuse
 local-zone: "adagencyonline.biz" always_refuse
 local-zone: "adagencyonline.net" always_refuse
 local-zone: "adamantstudios.com" always_refuse
-local-zone: "adamsads.midtc.com" always_refuse
 local-zone: "adasiaholdings.com" always_refuse
 local-zone: "ad.beautyofbbw.com" always_refuse
 local-zone: "adbeesolutions.com" always_refuse
@@ -13249,7 +13242,6 @@ local-zone: "areaofexpertise.co" always_refuse
 local-zone: "as2.autoforums.com" always_refuse
 local-zone: "asap.sindikata.org" always_refuse
 local-zone: "as.familiafacil.es" always_refuse
-local-zone: "asg2.admenhost.com" always_refuse
 local-zone: "asg.bhabhiporn.pro" always_refuse
 local-zone: "asg.makemewell.pro" always_refuse
 local-zone: "assets.livecall.io" always_refuse
@@ -14189,7 +14181,6 @@ local-zone: "digitalthrottle.com" always_refuse
 local-zone: "display.edarling.de" always_refuse
 local-zone: "distributoradvt.com" always_refuse
 local-zone: "dominatebanners.com" always_refuse
-local-zone: "dsfgp.admenhost.com" always_refuse
 local-zone: "dup.baidustatic.com" always_refuse
 local-zone: "dynamiclaunch.co.uk" always_refuse
 local-zone: "ebaniadvertising.in" always_refuse
@@ -15400,7 +15391,6 @@ local-zone: "c2shb.pubgw.yahoo.com" always_refuse
 local-zone: "cdn.ap.bittorrent.com" always_refuse
 local-zone: "cdn.userdatatrust.com" always_refuse
 local-zone: "chameleoncreation.com" always_refuse
-local-zone: "championads.midtc.com" always_refuse
 local-zone: "chocolateplatform.com" always_refuse
 local-zone: "clc.stackoverflow.com" always_refuse
 local-zone: "cleveradvertising.com" always_refuse
@@ -15490,7 +15480,6 @@ local-zone: "marvellousmachine.net" always_refuse
 local-zone: "marvelwebsolution.com" always_refuse
 local-zone: "meaningfulcontent.org" always_refuse
 local-zone: "media01.cgchannel.com" always_refuse
-local-zone: "media360ads.midtc.com" always_refuse
 local-zone: "meter-svc.nytimes.com" always_refuse
 local-zone: "metsearchengineok.com" always_refuse
 local-zone: "midvalleyadagency.com" always_refuse
