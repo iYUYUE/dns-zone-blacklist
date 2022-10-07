@@ -7092,6 +7092,7 @@ local-zone: "bewellads.com" always_nxdomain
 local-zone: "b.filexan.com" always_nxdomain
 local-zone: "bibagloty.com" always_nxdomain
 local-zone: "bibbmedia.com" always_nxdomain
+local-zone: "biddercore.io" always_nxdomain
 local-zone: "bidfilter.com" always_nxdomain
 local-zone: "bidiology.com" always_nxdomain
 local-zone: "bidmachine.io" always_nxdomain
@@ -16175,6 +16176,7 @@ local-zone: "reservoirmarketing.com" always_nxdomain
 local-zone: "revive.adriadigital.si" always_nxdomain
 local-zone: "revive.theaterkrant.nl" always_nxdomain
 local-zone: "rev.linuxquestions.org" always_nxdomain
+local-zone: "ringier-advertising.ch" always_nxdomain
 local-zone: "roigcommunications.com" always_nxdomain
 local-zone: "runative-syndicate.com" always_nxdomain
 local-zone: "s2.everydaygayporn.com" always_nxdomain

@@ -7092,6 +7092,7 @@ local-zone: "bewellads.com" always_refuse
 local-zone: "b.filexan.com" always_refuse
 local-zone: "bibagloty.com" always_refuse
 local-zone: "bibbmedia.com" always_refuse
+local-zone: "biddercore.io" always_refuse
 local-zone: "bidfilter.com" always_refuse
 local-zone: "bidiology.com" always_refuse
 local-zone: "bidmachine.io" always_refuse
@@ -16175,6 +16176,7 @@ local-zone: "reservoirmarketing.com" always_refuse
 local-zone: "revive.adriadigital.si" always_refuse
 local-zone: "revive.theaterkrant.nl" always_refuse
 local-zone: "rev.linuxquestions.org" always_refuse
+local-zone: "ringier-advertising.ch" always_refuse
 local-zone: "roigcommunications.com" always_refuse
 local-zone: "runative-syndicate.com" always_refuse
 local-zone: "s2.everydaygayporn.com" always_refuse

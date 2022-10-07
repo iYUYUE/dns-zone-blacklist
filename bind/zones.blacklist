@@ -7092,6 +7092,7 @@ zone "bewellads.com" { type master; notify no; file "null.zone.file"; };
 zone "b.filexan.com" { type master; notify no; file "null.zone.file"; };
 zone "bibagloty.com" { type master; notify no; file "null.zone.file"; };
 zone "bibbmedia.com" { type master; notify no; file "null.zone.file"; };
+zone "biddercore.io" { type master; notify no; file "null.zone.file"; };
 zone "bidfilter.com" { type master; notify no; file "null.zone.file"; };
 zone "bidiology.com" { type master; notify no; file "null.zone.file"; };
 zone "bidmachine.io" { type master; notify no; file "null.zone.file"; };
@@ -16175,6 +16176,7 @@ zone "reservoirmarketing.com" { type master; notify no; file "null.zone.file"; }
 zone "revive.adriadigital.si" { type master; notify no; file "null.zone.file"; };
 zone "revive.theaterkrant.nl" { type master; notify no; file "null.zone.file"; };
 zone "rev.linuxquestions.org" { type master; notify no; file "null.zone.file"; };
+zone "ringier-advertising.ch" { type master; notify no; file "null.zone.file"; };
 zone "roigcommunications.com" { type master; notify no; file "null.zone.file"; };
 zone "runative-syndicate.com" { type master; notify no; file "null.zone.file"; };
 zone "s2.everydaygayporn.com" { type master; notify no; file "null.zone.file"; };
