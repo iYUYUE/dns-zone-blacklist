@@ -416,6 +416,7 @@ zone "e-ads.io" { type master; notify no; file "null.zone.file"; };
 zone "ed10.net" { type master; notify no; file "null.zone.file"; };
 zone "eeco.xyz" { type master; notify no; file "null.zone.file"; };
 zone "ela1.com" { type master; notify no; file "null.zone.file"; };
+zone "elama.ru" { type master; notify no; file "null.zone.file"; };
 zone "epom.com" { type master; notify no; file "null.zone.file"; };
 zone "etarg.ru" { type master; notify no; file "null.zone.file"; };
 zone "evyy.net" { type master; notify no; file "null.zone.file"; };
@@ -17073,7 +17074,6 @@ zone "a.bettercontentservice.top" { type master; notify no; file "null.zone.file
 zone "activationsadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "ad4989-4in.img.daoucdn.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.eloan.co.jp.edgekey.net" { type master; notify no; file "null.zone.file"; };
-zone "ad.internet-e-business.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.kids-model-audition.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.magokoro-care-shoku.com" { type master; notify no; file "null.zone.file"; };
 zone "adpushsdk.goforandroid.com" { type master; notify no; file "null.zone.file"; };

@@ -416,6 +416,7 @@ local-zone: "e-ads.io" always_refuse
 local-zone: "ed10.net" always_refuse
 local-zone: "eeco.xyz" always_refuse
 local-zone: "ela1.com" always_refuse
+local-zone: "elama.ru" always_refuse
 local-zone: "epom.com" always_refuse
 local-zone: "etarg.ru" always_refuse
 local-zone: "evyy.net" always_refuse
@@ -17073,7 +17074,6 @@ local-zone: "a.bettercontentservice.top" always_refuse
 local-zone: "activationsadvertising.com" always_refuse
 local-zone: "ad4989-4in.img.daoucdn.com" always_refuse
 local-zone: "ad.eloan.co.jp.edgekey.net" always_refuse
-local-zone: "ad.internet-e-business.com" always_refuse
 local-zone: "ad.kids-model-audition.com" always_refuse
 local-zone: "ad.magokoro-care-shoku.com" always_refuse
 local-zone: "adpushsdk.goforandroid.com" always_refuse

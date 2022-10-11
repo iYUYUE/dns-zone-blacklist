@@ -416,6 +416,7 @@ local-zone: "e-ads.io" always_nxdomain
 local-zone: "ed10.net" always_nxdomain
 local-zone: "eeco.xyz" always_nxdomain
 local-zone: "ela1.com" always_nxdomain
+local-zone: "elama.ru" always_nxdomain
 local-zone: "epom.com" always_nxdomain
 local-zone: "etarg.ru" always_nxdomain
 local-zone: "evyy.net" always_nxdomain
@@ -17073,7 +17074,6 @@ local-zone: "a.bettercontentservice.top" always_nxdomain
 local-zone: "activationsadvertising.com" always_nxdomain
 local-zone: "ad4989-4in.img.daoucdn.com" always_nxdomain
 local-zone: "ad.eloan.co.jp.edgekey.net" always_nxdomain
-local-zone: "ad.internet-e-business.com" always_nxdomain
 local-zone: "ad.kids-model-audition.com" always_nxdomain
 local-zone: "ad.magokoro-care-shoku.com" always_nxdomain
 local-zone: "adpushsdk.goforandroid.com" always_nxdomain
