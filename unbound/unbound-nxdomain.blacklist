@@ -378,6 +378,7 @@ local-zone: "arlox.io" always_nxdomain
 local-zone: "artal.qa" always_nxdomain
 local-zone: "audio.ad" always_nxdomain
 local-zone: "augen.in" always_nxdomain
+local-zone: "avada.io" always_nxdomain
 local-zone: "avazu.cn" always_nxdomain
 local-zone: "awin.com" always_nxdomain
 local-zone: "axept.io" always_nxdomain
@@ -4732,6 +4733,7 @@ local-zone: "trivver.com" always_nxdomain
 local-zone: "trowmac.com" always_nxdomain
 local-zone: "truendo.com" always_nxdomain
 local-zone: "tubeadv.com" always_nxdomain
+local-zone: "tubepush.eu" always_nxdomain
 local-zone: "turboads.de" always_nxdomain
 local-zone: "twinplan.de" always_nxdomain
 local-zone: "twinred.com" always_nxdomain

@@ -378,6 +378,7 @@ local-zone: "arlox.io" always_refuse
 local-zone: "artal.qa" always_refuse
 local-zone: "audio.ad" always_refuse
 local-zone: "augen.in" always_refuse
+local-zone: "avada.io" always_refuse
 local-zone: "avazu.cn" always_refuse
 local-zone: "awin.com" always_refuse
 local-zone: "axept.io" always_refuse
@@ -4732,6 +4733,7 @@ local-zone: "trivver.com" always_refuse
 local-zone: "trowmac.com" always_refuse
 local-zone: "truendo.com" always_refuse
 local-zone: "tubeadv.com" always_refuse
+local-zone: "tubepush.eu" always_refuse
 local-zone: "turboads.de" always_refuse
 local-zone: "twinplan.de" always_refuse
 local-zone: "twinred.com" always_refuse
