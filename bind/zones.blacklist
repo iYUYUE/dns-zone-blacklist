@@ -590,6 +590,7 @@ zone "wurl.com" { type master; notify no; file "null.zone.file"; };
 zone "wuyou.ca" { type master; notify no; file "null.zone.file"; };
 zone "wwads.cn" { type master; notify no; file "null.zone.file"; };
 zone "wwfx.xyz" { type master; notify no; file "null.zone.file"; };
+zone "xads.one" { type master; notify no; file "null.zone.file"; };
 zone "yadro.ru" { type master; notify no; file "null.zone.file"; };
 zone "yume.com" { type master; notify no; file "null.zone.file"; };
 zone "yxad.com" { type master; notify no; file "null.zone.file"; };

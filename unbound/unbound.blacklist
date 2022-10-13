@@ -590,6 +590,7 @@ local-zone: "wurl.com" always_refuse
 local-zone: "wuyou.ca" always_refuse
 local-zone: "wwads.cn" always_refuse
 local-zone: "wwfx.xyz" always_refuse
+local-zone: "xads.one" always_refuse
 local-zone: "yadro.ru" always_refuse
 local-zone: "yume.com" always_refuse
 local-zone: "yxad.com" always_refuse

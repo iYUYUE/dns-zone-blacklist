@@ -590,6 +590,7 @@ local-zone: "wurl.com" always_nxdomain
 local-zone: "wuyou.ca" always_nxdomain
 local-zone: "wwads.cn" always_nxdomain
 local-zone: "wwfx.xyz" always_nxdomain
+local-zone: "xads.one" always_nxdomain
 local-zone: "yadro.ru" always_nxdomain
 local-zone: "yume.com" always_nxdomain
 local-zone: "yxad.com" always_nxdomain
