@@ -422,6 +422,7 @@ zone "epom.com" { type master; notify no; file "null.zone.file"; };
 zone "etarg.ru" { type master; notify no; file "null.zone.file"; };
 zone "evyy.net" { type master; notify no; file "null.zone.file"; };
 zone "exalt.pk" { type master; notify no; file "null.zone.file"; };
+zone "ezoic.ai" { type master; notify no; file "null.zone.file"; };
 zone "festi.io" { type master; notify no; file "null.zone.file"; };
 zone "finad.de" { type master; notify no; file "null.zone.file"; };
 zone "fixel.ai" { type master; notify no; file "null.zone.file"; };
