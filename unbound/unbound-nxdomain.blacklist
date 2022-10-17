@@ -1999,6 +1999,7 @@ local-zone: "avct.cloud" always_nxdomain
 local-zone: "awcrpu.com" always_nxdomain
 local-zone: "awejmp.com" always_nxdomain
 local-zone: "awesrv.com" always_nxdomain
+local-zone: "awmbed.com" always_nxdomain
 local-zone: "a.wp-e.net" always_nxdomain
 local-zone: "axeptio.eu" always_nxdomain
 local-zone: "axmltj.com" always_nxdomain

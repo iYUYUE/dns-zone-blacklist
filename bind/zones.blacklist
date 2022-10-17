@@ -1999,6 +1999,7 @@ zone "avct.cloud" { type master; notify no; file "null.zone.file"; };
 zone "awcrpu.com" { type master; notify no; file "null.zone.file"; };
 zone "awejmp.com" { type master; notify no; file "null.zone.file"; };
 zone "awesrv.com" { type master; notify no; file "null.zone.file"; };
+zone "awmbed.com" { type master; notify no; file "null.zone.file"; };
 zone "a.wp-e.net" { type master; notify no; file "null.zone.file"; };
 zone "axeptio.eu" { type master; notify no; file "null.zone.file"; };
 zone "axmltj.com" { type master; notify no; file "null.zone.file"; };

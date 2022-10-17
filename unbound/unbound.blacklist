@@ -1999,6 +1999,7 @@ local-zone: "avct.cloud" always_refuse
 local-zone: "awcrpu.com" always_refuse
 local-zone: "awejmp.com" always_refuse
 local-zone: "awesrv.com" always_refuse
+local-zone: "awmbed.com" always_refuse
 local-zone: "a.wp-e.net" always_refuse
 local-zone: "axeptio.eu" always_refuse
 local-zone: "axmltj.com" always_refuse
