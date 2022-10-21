@@ -5058,6 +5058,7 @@ local-zone: "admation.com" always_nxdomain
 local-zone: "admattic.com" always_nxdomain
 local-zone: "ad-maven.com" always_nxdomain
 local-zone: "admaxadv.com" always_nxdomain
+local-zone: "admaxium.com" always_nxdomain
 local-zone: "adme-net.com" always_nxdomain
 local-zone: "adminder.com" always_nxdomain
 local-zone: "adminima.com" always_nxdomain
@@ -9857,6 +9858,7 @@ local-zone: "admaster.com.cn" always_nxdomain
 local-zone: "admasters.media" always_nxdomain
 local-zone: "admediaking.com" always_nxdomain
 local-zone: "ad.mediaplus.sk" always_nxdomain
+local-zone: "admentor.com.br" always_nxdomain
 local-zone: "ad.mojportal.hr" always_nxdomain
 local-zone: "ad.moneta.co.kr" always_nxdomain
 local-zone: "admozartppc.com" always_nxdomain
