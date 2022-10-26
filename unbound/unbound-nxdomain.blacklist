@@ -2892,6 +2892,7 @@ local-zone: "reelnk.com" always_nxdomain
 local-zone: "reforge.in" always_nxdomain
 local-zone: "reimbi.com" always_nxdomain
 local-zone: "rekmob.com" always_nxdomain
+local-zone: "relap.info" always_nxdomain
 local-zone: "related.hu" always_nxdomain
 local-zone: "remixd.com" always_nxdomain
 local-zone: "reporo.net" always_nxdomain
@@ -3465,6 +3466,7 @@ local-zone: "adcaffe.com" always_nxdomain
 local-zone: "adcains.com" always_nxdomain
 local-zone: "adcaixa.com" always_nxdomain
 local-zone: "adcampo.com" always_nxdomain
+local-zone: "adcanny.com" always_nxdomain
 local-zone: "adcenix.com" always_nxdomain
 local-zone: "adcharge.eu" always_nxdomain
 local-zone: "adchemy.com" always_nxdomain
@@ -6706,6 +6708,7 @@ local-zone: "adnmore.co.kr" always_nxdomain
 local-zone: "adnordics.com" always_nxdomain
 local-zone: "adnuntius.com" always_nxdomain
 local-zone: "ad.ofweek.com" always_nxdomain
+local-zone: "adokutrtb.com" always_nxdomain
 local-zone: "ad.olympic.cz" always_nxdomain
 local-zone: "adomantra.com" always_nxdomain
 local-zone: "ad.onvista.de" always_nxdomain
@@ -8317,6 +8320,7 @@ local-zone: "adcaffeine.com" always_nxdomain
 local-zone: "adcanadian.com" always_nxdomain
 local-zone: "adcannyads.com" always_nxdomain
 local-zone: "adcannybid.com" always_nxdomain
+local-zone: "adcannyxml.com" always_nxdomain
 local-zone: "ad.carnews.com" always_nxdomain
 local-zone: "adcascade.tech" always_nxdomain
 local-zone: "ad.casduit.com" always_nxdomain
@@ -10176,6 +10180,7 @@ local-zone: "agencysquid.com" always_nxdomain
 local-zone: "agentsofroi.com" always_nxdomain
 local-zone: "aimartlanka.com" always_nxdomain
 local-zone: "air.adliners.de" always_nxdomain
+local-zone: "airddesigns.com" always_nxdomain
 local-zone: "airnowmedia.com" always_nxdomain
 local-zone: "ajansreklam.net" always_nxdomain
 local-zone: "ajpromotions.in" always_nxdomain
@@ -11501,6 +11506,7 @@ local-zone: "bidsimulator.com" always_nxdomain
 local-zone: "bigmobileads.com" always_nxdomain
 local-zone: "bioniccuddle.com" always_nxdomain
 local-zone: "biscuitridge.com" always_nxdomain
+local-zone: "blacklabfive.com" always_nxdomain
 local-zone: "blackstrap.media" always_nxdomain
 local-zone: "blanco-adv.co.il" always_nxdomain
 local-zone: "blockthrough.com" always_nxdomain
@@ -13415,6 +13421,7 @@ local-zone: "assets.livecall.io" always_nxdomain
 local-zone: "audience2media.com" always_nxdomain
 local-zone: "a.umpornozinho.com" always_nxdomain
 local-zone: "avazunativeads.com" always_nxdomain
+local-zone: "avgadvertising.com" always_nxdomain
 local-zone: "avsadvertising.com" always_nxdomain
 local-zone: "a.watchomovies.com" always_nxdomain
 local-zone: "b2cadvertisers.com" always_nxdomain
@@ -17977,6 +17984,7 @@ local-zone: "adserver-alb-v4-133711123.us-east-1.elb.amazonaws.com" always_nxdom
 local-zone: "adserver-alb-v4-988216261.us-west-2.elb.amazonaws.com" always_nxdomain
 local-zone: "adserver-alb-v6-266201713.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "adserver-clarium-446793891.us-east-1.elb.amazonaws.com" always_nxdomain
+local-zone: "adwombat-services-470191665.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "adserver-alb-v4-682158089.eu-central-1.elb.amazonaws.com" always_nxdomain
 local-zone: "adserver-vpc-alb-3-917510562.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "adserver-vpc-alb-0-2072243822.us-east-1.elb.amazonaws.com" always_nxdomain

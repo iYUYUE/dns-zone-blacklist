@@ -2892,6 +2892,7 @@ local-zone: "reelnk.com" always_refuse
 local-zone: "reforge.in" always_refuse
 local-zone: "reimbi.com" always_refuse
 local-zone: "rekmob.com" always_refuse
+local-zone: "relap.info" always_refuse
 local-zone: "related.hu" always_refuse
 local-zone: "remixd.com" always_refuse
 local-zone: "reporo.net" always_refuse
@@ -3465,6 +3466,7 @@ local-zone: "adcaffe.com" always_refuse
 local-zone: "adcains.com" always_refuse
 local-zone: "adcaixa.com" always_refuse
 local-zone: "adcampo.com" always_refuse
+local-zone: "adcanny.com" always_refuse
 local-zone: "adcenix.com" always_refuse
 local-zone: "adcharge.eu" always_refuse
 local-zone: "adchemy.com" always_refuse
@@ -6706,6 +6708,7 @@ local-zone: "adnmore.co.kr" always_refuse
 local-zone: "adnordics.com" always_refuse
 local-zone: "adnuntius.com" always_refuse
 local-zone: "ad.ofweek.com" always_refuse
+local-zone: "adokutrtb.com" always_refuse
 local-zone: "ad.olympic.cz" always_refuse
 local-zone: "adomantra.com" always_refuse
 local-zone: "ad.onvista.de" always_refuse
@@ -8317,6 +8320,7 @@ local-zone: "adcaffeine.com" always_refuse
 local-zone: "adcanadian.com" always_refuse
 local-zone: "adcannyads.com" always_refuse
 local-zone: "adcannybid.com" always_refuse
+local-zone: "adcannyxml.com" always_refuse
 local-zone: "ad.carnews.com" always_refuse
 local-zone: "adcascade.tech" always_refuse
 local-zone: "ad.casduit.com" always_refuse
@@ -10176,6 +10180,7 @@ local-zone: "agencysquid.com" always_refuse
 local-zone: "agentsofroi.com" always_refuse
 local-zone: "aimartlanka.com" always_refuse
 local-zone: "air.adliners.de" always_refuse
+local-zone: "airddesigns.com" always_refuse
 local-zone: "airnowmedia.com" always_refuse
 local-zone: "ajansreklam.net" always_refuse
 local-zone: "ajpromotions.in" always_refuse
@@ -11501,6 +11506,7 @@ local-zone: "bidsimulator.com" always_refuse
 local-zone: "bigmobileads.com" always_refuse
 local-zone: "bioniccuddle.com" always_refuse
 local-zone: "biscuitridge.com" always_refuse
+local-zone: "blacklabfive.com" always_refuse
 local-zone: "blackstrap.media" always_refuse
 local-zone: "blanco-adv.co.il" always_refuse
 local-zone: "blockthrough.com" always_refuse
@@ -13415,6 +13421,7 @@ local-zone: "assets.livecall.io" always_refuse
 local-zone: "audience2media.com" always_refuse
 local-zone: "a.umpornozinho.com" always_refuse
 local-zone: "avazunativeads.com" always_refuse
+local-zone: "avgadvertising.com" always_refuse
 local-zone: "avsadvertising.com" always_refuse
 local-zone: "a.watchomovies.com" always_refuse
 local-zone: "b2cadvertisers.com" always_refuse
@@ -17977,6 +17984,7 @@ local-zone: "adserver-alb-v4-133711123.us-east-1.elb.amazonaws.com" always_refus
 local-zone: "adserver-alb-v4-988216261.us-west-2.elb.amazonaws.com" always_refuse
 local-zone: "adserver-alb-v6-266201713.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "adserver-clarium-446793891.us-east-1.elb.amazonaws.com" always_refuse
+local-zone: "adwombat-services-470191665.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "adserver-alb-v4-682158089.eu-central-1.elb.amazonaws.com" always_refuse
 local-zone: "adserver-vpc-alb-3-917510562.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "adserver-vpc-alb-0-2072243822.us-east-1.elb.amazonaws.com" always_refuse
