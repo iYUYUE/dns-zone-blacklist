@@ -6555,6 +6555,7 @@ local-zone: "11-london.com" always_refuse
 local-zone: "123456img.com" always_refuse
 local-zone: "123biz.com.au" always_refuse
 local-zone: "1affmedia.com" always_refuse
+local-zone: "1clickcdn.com" always_refuse
 local-zone: "1p3opxwwet.ru" always_refuse
 local-zone: "2.dtxtck1.xyz" always_refuse
 local-zone: "2fk0iss45c.ru" always_refuse
@@ -15605,6 +15606,7 @@ local-zone: "bidbarrel.cbsnews.com" always_refuse
 local-zone: "bigtalkmediahouse.com" always_refuse
 local-zone: "bilder-a.akamaihd.net" always_refuse
 local-zone: "bingads.microsoft.com" always_refuse
+local-zone: "boilingpointmedia.com" always_refuse
 local-zone: "booyahadvertising.com" always_refuse
 local-zone: "brandvertisemedia.com" always_refuse
 local-zone: "buylevitra.3xforum.ro" always_refuse

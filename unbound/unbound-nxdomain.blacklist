@@ -6555,6 +6555,7 @@ local-zone: "11-london.com" always_nxdomain
 local-zone: "123456img.com" always_nxdomain
 local-zone: "123biz.com.au" always_nxdomain
 local-zone: "1affmedia.com" always_nxdomain
+local-zone: "1clickcdn.com" always_nxdomain
 local-zone: "1p3opxwwet.ru" always_nxdomain
 local-zone: "2.dtxtck1.xyz" always_nxdomain
 local-zone: "2fk0iss45c.ru" always_nxdomain
@@ -15605,6 +15606,7 @@ local-zone: "bidbarrel.cbsnews.com" always_nxdomain
 local-zone: "bigtalkmediahouse.com" always_nxdomain
 local-zone: "bilder-a.akamaihd.net" always_nxdomain
 local-zone: "bingads.microsoft.com" always_nxdomain
+local-zone: "boilingpointmedia.com" always_nxdomain
 local-zone: "booyahadvertising.com" always_nxdomain
 local-zone: "brandvertisemedia.com" always_nxdomain
 local-zone: "buylevitra.3xforum.ro" always_nxdomain
