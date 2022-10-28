@@ -2647,6 +2647,7 @@ local-zone: "netb11.com" always_refuse
 local-zone: "netexs.com" always_refuse
 local-zone: "netizen.co" always_refuse
 local-zone: "netmng.com" always_refuse
+local-zone: "netpeak.bg" always_refuse
 local-zone: "netpeak.us" always_refuse
 local-zone: "netrbx.com" always_refuse
 local-zone: "nevtkm.com" always_refuse
@@ -2693,6 +2694,7 @@ local-zone: "nytive.com" always_refuse
 local-zone: "nzbugd.com" always_refuse
 local-zone: "nzixhx.com" always_refuse
 local-zone: "nztago.com" always_refuse
+local-zone: "oaconf.com" always_refuse
 local-zone: "oaovcb.com" always_refuse
 local-zone: "obahet.com" always_refuse
 local-zone: "occash.com" always_refuse
@@ -4426,6 +4428,7 @@ local-zone: "netbina.com" always_refuse
 local-zone: "netdivo.com" always_refuse
 local-zone: "neterou.com" always_refuse
 local-zone: "netmera.com" always_refuse
+local-zone: "netpeak.net" always_refuse
 local-zone: "netstam.com" always_refuse
 local-zone: "newsroom.bi" always_refuse
 local-zone: "nextsale.io" always_refuse
@@ -11215,6 +11218,7 @@ local-zone: "ads.cineville.nl" always_refuse
 local-zone: "ads.clikcoin.com" always_refuse
 local-zone: "ads.clixbazar.ir" always_refuse
 local-zone: "ads.codafish.net" always_refuse
+local-zone: "ads.coingeek.com" always_refuse
 local-zone: "ads.consonews.ma" always_refuse
 local-zone: "ads.crnobelo.com" always_refuse
 local-zone: "ads.crozilla.com" always_refuse
@@ -13751,6 +13755,7 @@ local-zone: "rubiconproject.com" always_refuse
 local-zone: "rubiconproject.net" always_refuse
 local-zone: "rushadvertising.ae" always_refuse
 local-zone: "rvv3.pdnegocios.cl" always_refuse
+local-zone: "s3t3d2y8.afcdn.net" always_refuse
 local-zone: "salesforbrands.com" always_refuse
 local-zone: "sales-frontier.com" always_refuse
 local-zone: "samfilm.markend.is" always_refuse
@@ -15564,6 +15569,7 @@ local-zone: "alanwoodmarketing.com" always_refuse
 local-zone: "alldesignsolution.com" always_refuse
 local-zone: "allstarmediagroup.com" always_refuse
 local-zone: "amazonadvertising.com" always_refuse
+local-zone: "amperagemarketing.com" always_refuse
 local-zone: "andersonmarketing.com" always_refuse
 local-zone: "ap01.pub.funshion.com" always_refuse
 local-zone: "api.smartlauncher.net" always_refuse

@@ -2647,6 +2647,7 @@ local-zone: "netb11.com" always_nxdomain
 local-zone: "netexs.com" always_nxdomain
 local-zone: "netizen.co" always_nxdomain
 local-zone: "netmng.com" always_nxdomain
+local-zone: "netpeak.bg" always_nxdomain
 local-zone: "netpeak.us" always_nxdomain
 local-zone: "netrbx.com" always_nxdomain
 local-zone: "nevtkm.com" always_nxdomain
@@ -2693,6 +2694,7 @@ local-zone: "nytive.com" always_nxdomain
 local-zone: "nzbugd.com" always_nxdomain
 local-zone: "nzixhx.com" always_nxdomain
 local-zone: "nztago.com" always_nxdomain
+local-zone: "oaconf.com" always_nxdomain
 local-zone: "oaovcb.com" always_nxdomain
 local-zone: "obahet.com" always_nxdomain
 local-zone: "occash.com" always_nxdomain
@@ -4426,6 +4428,7 @@ local-zone: "netbina.com" always_nxdomain
 local-zone: "netdivo.com" always_nxdomain
 local-zone: "neterou.com" always_nxdomain
 local-zone: "netmera.com" always_nxdomain
+local-zone: "netpeak.net" always_nxdomain
 local-zone: "netstam.com" always_nxdomain
 local-zone: "newsroom.bi" always_nxdomain
 local-zone: "nextsale.io" always_nxdomain
@@ -11215,6 +11218,7 @@ local-zone: "ads.cineville.nl" always_nxdomain
 local-zone: "ads.clikcoin.com" always_nxdomain
 local-zone: "ads.clixbazar.ir" always_nxdomain
 local-zone: "ads.codafish.net" always_nxdomain
+local-zone: "ads.coingeek.com" always_nxdomain
 local-zone: "ads.consonews.ma" always_nxdomain
 local-zone: "ads.crnobelo.com" always_nxdomain
 local-zone: "ads.crozilla.com" always_nxdomain
@@ -13751,6 +13755,7 @@ local-zone: "rubiconproject.com" always_nxdomain
 local-zone: "rubiconproject.net" always_nxdomain
 local-zone: "rushadvertising.ae" always_nxdomain
 local-zone: "rvv3.pdnegocios.cl" always_nxdomain
+local-zone: "s3t3d2y8.afcdn.net" always_nxdomain
 local-zone: "salesforbrands.com" always_nxdomain
 local-zone: "sales-frontier.com" always_nxdomain
 local-zone: "samfilm.markend.is" always_nxdomain
@@ -15564,6 +15569,7 @@ local-zone: "alanwoodmarketing.com" always_nxdomain
 local-zone: "alldesignsolution.com" always_nxdomain
 local-zone: "allstarmediagroup.com" always_nxdomain
 local-zone: "amazonadvertising.com" always_nxdomain
+local-zone: "amperagemarketing.com" always_nxdomain
 local-zone: "andersonmarketing.com" always_nxdomain
 local-zone: "ap01.pub.funshion.com" always_nxdomain
 local-zone: "api.smartlauncher.net" always_nxdomain
