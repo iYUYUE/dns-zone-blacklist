@@ -4143,6 +4143,7 @@ local-zone: "faucet.plus" always_nxdomain
 local-zone: "feedify.net" always_nxdomain
 local-zone: "feedify.org" always_nxdomain
 local-zone: "feedmob.com" always_nxdomain
+local-zone: "feeldmc.com" always_nxdomain
 local-zone: "fibonad.com" always_nxdomain
 local-zone: "fiducia.eco" always_nxdomain
 local-zone: "finative.eu" always_nxdomain
@@ -13140,6 +13141,7 @@ local-zone: "adbutler-luxon.com" always_nxdomain
 local-zone: "adbutler-meson.com" always_nxdomain
 local-zone: "adbutler-tauon.com" always_nxdomain
 local-zone: "ad.datadeliver.net" always_nxdomain
+local-zone: "addb.interpark.com" always_nxdomain
 local-zone: "ad.debtbulldog.com" always_nxdomain
 local-zone: "ad.dxtdigital.site" always_nxdomain
 local-zone: "ad.e-disclosure.ru" always_nxdomain
@@ -14696,6 +14698,7 @@ local-zone: "uthbxvz.bestzba.com" always_nxdomain
 local-zone: "valassisdigital.com" always_nxdomain
 local-zone: "valueclickmedia.com" always_nxdomain
 local-zone: "valuecommerce.co.jp" always_nxdomain
+local-zone: "valuecommerce.ne.jp" always_nxdomain
 local-zone: "valueimpression.com" always_nxdomain
 local-zone: "vast.holmesmind.com" always_nxdomain
 local-zone: "videomediagroup.com" always_nxdomain

@@ -4143,6 +4143,7 @@ local-zone: "faucet.plus" always_refuse
 local-zone: "feedify.net" always_refuse
 local-zone: "feedify.org" always_refuse
 local-zone: "feedmob.com" always_refuse
+local-zone: "feeldmc.com" always_refuse
 local-zone: "fibonad.com" always_refuse
 local-zone: "fiducia.eco" always_refuse
 local-zone: "finative.eu" always_refuse
@@ -13140,6 +13141,7 @@ local-zone: "adbutler-luxon.com" always_refuse
 local-zone: "adbutler-meson.com" always_refuse
 local-zone: "adbutler-tauon.com" always_refuse
 local-zone: "ad.datadeliver.net" always_refuse
+local-zone: "addb.interpark.com" always_refuse
 local-zone: "ad.debtbulldog.com" always_refuse
 local-zone: "ad.dxtdigital.site" always_refuse
 local-zone: "ad.e-disclosure.ru" always_refuse
@@ -14696,6 +14698,7 @@ local-zone: "uthbxvz.bestzba.com" always_refuse
 local-zone: "valassisdigital.com" always_refuse
 local-zone: "valueclickmedia.com" always_refuse
 local-zone: "valuecommerce.co.jp" always_refuse
+local-zone: "valuecommerce.ne.jp" always_refuse
 local-zone: "valueimpression.com" always_refuse
 local-zone: "vast.holmesmind.com" always_refuse
 local-zone: "videomediagroup.com" always_refuse
