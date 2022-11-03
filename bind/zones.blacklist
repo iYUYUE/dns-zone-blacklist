@@ -12770,6 +12770,7 @@ zone "lockerdomecdn.com" { type master; notify no; file "null.zone.file"; };
 zone "look.kfiopkln.com" { type master; notify no; file "null.zone.file"; };
 zone "lookthinkmake.com" { type master; notify no; file "null.zone.file"; };
 zone "look.udncoeln.com" { type master; notify no; file "null.zone.file"; };
+zone "loopaautomate.com" { type master; notify no; file "null.zone.file"; };
 zone "lowgraveleron.com" { type master; notify no; file "null.zone.file"; };
 zone "luminous-iron.pro" { type master; notify no; file "null.zone.file"; };
 zone "maadvertisers.com" { type master; notify no; file "null.zone.file"; };
