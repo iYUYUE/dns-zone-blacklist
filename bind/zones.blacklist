@@ -7567,6 +7567,7 @@ zone "lepsogoso.com" { type master; notify no; file "null.zone.file"; };
 zone "letstry69.xyz" { type master; notify no; file "null.zone.file"; };
 zone "lfstmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "lgsmartad.com" { type master; notify no; file "null.zone.file"; };
+zone "lib.tashop.co" { type master; notify no; file "null.zone.file"; };
 zone "liftmyads.com" { type master; notify no; file "null.zone.file"; };
 zone "lightborg.com" { type master; notify no; file "null.zone.file"; };
 zone "linkbucks.com" { type master; notify no; file "null.zone.file"; };
