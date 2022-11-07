@@ -10433,6 +10433,7 @@ zone "doubleclick.com" { type master; notify no; file "null.zone.file"; };
 zone "doubleclick.net" { type master; notify no; file "null.zone.file"; };
 zone "doubleclick.pro" { type master; notify no; file "null.zone.file"; };
 zone "dpguystuff.mobi" { type master; notify no; file "null.zone.file"; };
+zone "drakecooper.com" { type master; notify no; file "null.zone.file"; };
 zone "drivealexus.com" { type master; notify no; file "null.zone.file"; };
 zone "dropout.company" { type master; notify no; file "null.zone.file"; };
 zone "dropthought.com" { type master; notify no; file "null.zone.file"; };
