@@ -3138,6 +3138,7 @@ local-zone: "uzkvpu.com" always_refuse
 local-zone: "uzmdfi.com" always_refuse
 local-zone: "uzttnr.com" always_refuse
 local-zone: "vajvgt.com" always_refuse
+local-zone: "vbutjg.com" always_refuse
 local-zone: "vbymag.com" always_refuse
 local-zone: "vcwzfn.com" always_refuse
 local-zone: "vdopia.com" always_refuse
@@ -6564,6 +6565,8 @@ local-zone: "123biz.com.au" always_refuse
 local-zone: "1affmedia.com" always_refuse
 local-zone: "1clickcdn.com" always_refuse
 local-zone: "1p3opxwwet.ru" always_refuse
+local-zone: "287335kmu.com" always_refuse
+local-zone: "297892531.com" always_refuse
 local-zone: "2.dtxtck1.xyz" always_refuse
 local-zone: "2fk0iss45c.ru" always_refuse
 local-zone: "2gwzdkjrtb.ru" always_refuse
@@ -6576,6 +6579,8 @@ local-zone: "3mfm7jef91.ru" always_refuse
 local-zone: "3xtraffic.com" always_refuse
 local-zone: "4chan-ads.org" always_refuse
 local-zone: "4wnetwork.com" always_refuse
+local-zone: "528791725.com" always_refuse
+local-zone: "592773xgg.com" always_refuse
 local-zone: "5mileslab.com" always_refuse
 local-zone: "5moxhf6z8c.ru" always_refuse
 local-zone: "5xanz2dxcn.ru" always_refuse
@@ -9783,7 +9788,9 @@ local-zone: "3wavesmedia.com" always_refuse
 local-zone: "4n1hqmcoms.rest" always_refuse
 local-zone: "5000banners.com" always_refuse
 local-zone: "59a8e0d6fa2.com" always_refuse
+local-zone: "68939975272.com" always_refuse
 local-zone: "71213zhazha.com" always_refuse
+local-zone: "75625358935.com" always_refuse
 local-zone: "79151879798.com" always_refuse
 local-zone: "87929881825.com" always_refuse
 local-zone: "88225233827.com" always_refuse
@@ -16901,6 +16908,7 @@ local-zone: "interactives.stuff.co.nz" always_refuse
 local-zone: "jarvis.republicworld.com" always_refuse
 local-zone: "kampane.virtualstudio.sk" always_refuse
 local-zone: "kreativeprofessional.com" always_refuse
+local-zone: "lcx-widgets.bambuser.com" always_refuse
 local-zone: "magneticaadvertising.com" always_refuse
 local-zone: "matthewjamescreative.com" always_refuse
 local-zone: "nancyrosenandcompany.com" always_refuse
@@ -17849,6 +17857,7 @@ local-zone: "smart-widget-assets.ekomiapps.de" always_refuse
 local-zone: "s-static.innovid.com.edgekey.net" always_refuse
 local-zone: "static.tabmo.io.s3.amazonaws.com" always_refuse
 local-zone: "video-premionmedia.akamaized.net" always_refuse
+local-zone: "widgets.stores-bloomingdales.com" always_refuse
 local-zone: "ad.partnerboersen-im-vergleich.de" always_refuse
 local-zone: "adserver2.workerscompensation.com" always_refuse
 local-zone: "adserver.breakthroughtraining.com" always_refuse
@@ -17958,6 +17967,7 @@ local-zone: "ccpa-no-script.psg.nexstardigital.net" always_refuse
 local-zone: "media-us-am-crackle-com.akamaized.net" always_refuse
 local-zone: "service-cookie-sync.clusters.pluto.tv" always_refuse
 local-zone: "softwaredefinedapplicationdelivery.us" always_refuse
+local-zone: "svc-prod-us.liveshopping.bambuser.com" always_refuse
 local-zone: "yaoji666.oss-cn-hongkong.aliyuncs.com" always_refuse
 local-zone: "200.94.201.35.bc.googleusercontent.com" always_refuse
 local-zone: "a.76674bdad304297eda3d325f449f6f49.com" always_refuse
