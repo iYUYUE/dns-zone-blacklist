@@ -12883,6 +12883,8 @@ zone "perfectmarket.com" { type master; notify no; file "null.zone.file"; };
 zone "phluantmobile.net" { type master; notify no; file "null.zone.file"; };
 zone "pic1.58cdn.com.cn" { type master; notify no; file "null.zone.file"; };
 zone "picassoclouds.com" { type master; notify no; file "null.zone.file"; };
+zone "picmeta202109.xyz" { type master; notify no; file "null.zone.file"; };
+zone "picmeta202112.xyz" { type master; notify no; file "null.zone.file"; };
 zone "pigment-adv.co.il" { type master; notify no; file "null.zone.file"; };
 zone "pipaffiliates.com" { type master; notify no; file "null.zone.file"; };
 zone "pipeschannels.com" { type master; notify no; file "null.zone.file"; };

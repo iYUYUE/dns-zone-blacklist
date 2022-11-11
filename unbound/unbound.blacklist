@@ -12883,6 +12883,8 @@ local-zone: "perfectmarket.com" always_refuse
 local-zone: "phluantmobile.net" always_refuse
 local-zone: "pic1.58cdn.com.cn" always_refuse
 local-zone: "picassoclouds.com" always_refuse
+local-zone: "picmeta202109.xyz" always_refuse
+local-zone: "picmeta202112.xyz" always_refuse
 local-zone: "pigment-adv.co.il" always_refuse
 local-zone: "pipaffiliates.com" always_refuse
 local-zone: "pipeschannels.com" always_refuse
