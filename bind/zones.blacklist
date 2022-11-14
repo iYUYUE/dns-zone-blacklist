@@ -8133,6 +8133,7 @@ zone "treepodia.com" { type master; notify no; file "null.zone.file"; };
 zone "tremorhub.com" { type master; notify no; file "null.zone.file"; };
 zone "trendqube.com" { type master; notify no; file "null.zone.file"; };
 zone "triadtrax.com" { type master; notify no; file "null.zone.file"; };
+zone "trifoilad.com" { type master; notify no; file "null.zone.file"; };
 zone "trisxisys.com" { type master; notify no; file "null.zone.file"; };
 zone "trueoptin.com" { type master; notify no; file "null.zone.file"; };
 zone "trunblock.com" { type master; notify no; file "null.zone.file"; };
