@@ -5640,6 +5640,7 @@ local-zone: "epomapps.com" always_refuse
 local-zone: "epp-push.com" always_refuse
 local-zone: "equityme.com" always_refuse
 local-zone: "erniphiq.com" always_refuse
+local-zone: "est-host.com" always_refuse
 local-zone: "eventige.com" always_refuse
 local-zone: "evewrite.net" always_refuse
 local-zone: "exdynsrv.com" always_refuse
@@ -11911,6 +11912,7 @@ local-zone: "quotientcomm.com" always_refuse
 local-zone: "rabmarketing.com" always_refuse
 local-zone: "radioamerica.org" always_refuse
 local-zone: "ramirocampos.pro" always_refuse
+local-zone: "rankmeglobal.com" always_refuse
 local-zone: "readmo.yahoo.com" always_refuse
 local-zone: "realityads.co.za" always_refuse
 local-zone: "realpush.digital" always_refuse
@@ -12981,6 +12983,7 @@ local-zone: "seal-swmo.bbb.org" always_refuse
 local-zone: "seal-utah.bbb.org" always_refuse
 local-zone: "secure.comodo.com" always_refuse
 local-zone: "selectmedia.co.in" always_refuse
+local-zone: "seosolution.co.in" always_refuse
 local-zone: "sequenceindia.com" always_refuse
 local-zone: "servedby.o2.co.uk" always_refuse
 local-zone: "servedbyopenx.com" always_refuse
