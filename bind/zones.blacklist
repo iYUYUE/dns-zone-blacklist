@@ -164,6 +164,7 @@ zone "bkv.com" { type master; notify no; file "null.zone.file"; };
 zone "blip.tv" { type master; notify no; file "null.zone.file"; };
 zone "brid.tv" { type master; notify no; file "null.zone.file"; };
 zone "bvk.com" { type master; notify no; file "null.zone.file"; };
+zone "b-y.net" { type master; notify no; file "null.zone.file"; };
 zone "c9w.net" { type master; notify no; file "null.zone.file"; };
 zone "catu.cc" { type master; notify no; file "null.zone.file"; };
 zone "c-k.com" { type master; notify no; file "null.zone.file"; };

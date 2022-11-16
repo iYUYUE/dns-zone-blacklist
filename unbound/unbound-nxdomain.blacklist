@@ -164,6 +164,7 @@ local-zone: "bkv.com" always_nxdomain
 local-zone: "blip.tv" always_nxdomain
 local-zone: "brid.tv" always_nxdomain
 local-zone: "bvk.com" always_nxdomain
+local-zone: "b-y.net" always_nxdomain
 local-zone: "c9w.net" always_nxdomain
 local-zone: "catu.cc" always_nxdomain
 local-zone: "c-k.com" always_nxdomain
