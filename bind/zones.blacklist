@@ -6664,6 +6664,7 @@ zone "addbanner.net" { type master; notify no; file "null.zone.file"; };
 zone "addesignz.com" { type master; notify no; file "null.zone.file"; };
 zone "addiliate.com" { type master; notify no; file "null.zone.file"; };
 zone "addotline.com" { type master; notify no; file "null.zone.file"; };
+zone "addrevenue.io" { type master; notify no; file "null.zone.file"; };
 zone "addroplet.com" { type master; notify no; file "null.zone.file"; };
 zone "adelement.com" { type master; notify no; file "null.zone.file"; };
 zone "adelicious.fm" { type master; notify no; file "null.zone.file"; };
