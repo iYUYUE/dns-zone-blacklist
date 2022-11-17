@@ -14780,6 +14780,7 @@ local-zone: "adcryptocoin.website" always_nxdomain
 local-zone: "ad.dlrwebservice.com" always_nxdomain
 local-zone: "ad.etnetchina.com.cn" always_nxdomain
 local-zone: "adformnet.akadns.net" always_nxdomain
+local-zone: "adg-data.kajicam.com" always_nxdomain
 local-zone: "ad.ichiban-boshi.com" always_nxdomain
 local-zone: "adilk.ilikecomix.com" always_nxdomain
 local-zone: "adimages.carsoup.com" always_nxdomain

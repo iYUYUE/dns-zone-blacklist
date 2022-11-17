@@ -14780,6 +14780,7 @@ zone "adcryptocoin.website" { type master; notify no; file "null.zone.file"; };
 zone "ad.dlrwebservice.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.etnetchina.com.cn" { type master; notify no; file "null.zone.file"; };
 zone "adformnet.akadns.net" { type master; notify no; file "null.zone.file"; };
+zone "adg-data.kajicam.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.ichiban-boshi.com" { type master; notify no; file "null.zone.file"; };
 zone "adilk.ilikecomix.com" { type master; notify no; file "null.zone.file"; };
 zone "adimages.carsoup.com" { type master; notify no; file "null.zone.file"; };
