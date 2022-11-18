@@ -1057,6 +1057,7 @@ zone "hb.20m.es" { type master; notify no; file "null.zone.file"; };
 zone "h-bid.com" { type master; notify no; file "null.zone.file"; };
 zone "hbuvh.com" { type master; notify no; file "null.zone.file"; };
 zone "he7ll.com" { type master; notify no; file "null.zone.file"; };
+zone "hexiim.de" { type master; notify no; file "null.zone.file"; };
 zone "heyad.xyz" { type master; notify no; file "null.zone.file"; };
 zone "highad.de" { type master; notify no; file "null.zone.file"; };
 zone "hpcyk.com" { type master; notify no; file "null.zone.file"; };
