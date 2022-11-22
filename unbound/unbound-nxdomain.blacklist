@@ -13846,6 +13846,7 @@ local-zone: "srv.realpython.net" always_nxdomain
 local-zone: "stag-core.tfla.xyz" always_nxdomain
 local-zone: "statesmanmedia.com" always_nxdomain
 local-zone: "static.barnebys.sh" always_nxdomain
+local-zone: "static.bs-dante.ru" always_nxdomain
 local-zone: "static.ctctcdn.com" always_nxdomain
 local-zone: "static.ettoday.net" always_nxdomain
 local-zone: "static.grupinis.lt" always_nxdomain

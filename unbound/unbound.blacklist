@@ -13846,6 +13846,7 @@ local-zone: "srv.realpython.net" always_refuse
 local-zone: "stag-core.tfla.xyz" always_refuse
 local-zone: "statesmanmedia.com" always_refuse
 local-zone: "static.barnebys.sh" always_refuse
+local-zone: "static.bs-dante.ru" always_refuse
 local-zone: "static.ctctcdn.com" always_refuse
 local-zone: "static.ettoday.net" always_refuse
 local-zone: "static.grupinis.lt" always_refuse

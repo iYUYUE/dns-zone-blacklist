@@ -13846,6 +13846,7 @@ zone "srv.realpython.net" { type master; notify no; file "null.zone.file"; };
 zone "stag-core.tfla.xyz" { type master; notify no; file "null.zone.file"; };
 zone "statesmanmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "static.barnebys.sh" { type master; notify no; file "null.zone.file"; };
+zone "static.bs-dante.ru" { type master; notify no; file "null.zone.file"; };
 zone "static.ctctcdn.com" { type master; notify no; file "null.zone.file"; };
 zone "static.ettoday.net" { type master; notify no; file "null.zone.file"; };
 zone "static.grupinis.lt" { type master; notify no; file "null.zone.file"; };
