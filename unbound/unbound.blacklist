@@ -3079,6 +3079,7 @@ local-zone: "tp.otto.de" always_refuse
 local-zone: "trafban.ru" always_refuse
 local-zone: "traffic.ru" always_refuse
 local-zone: "trendmd.co" always_refuse
+local-zone: "trex.media" always_refuse
 local-zone: "tripple.at" always_refuse
 local-zone: "trugaze.io" always_refuse
 local-zone: "truste.com" always_refuse

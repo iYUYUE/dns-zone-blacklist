@@ -3079,6 +3079,7 @@ local-zone: "tp.otto.de" always_nxdomain
 local-zone: "trafban.ru" always_nxdomain
 local-zone: "traffic.ru" always_nxdomain
 local-zone: "trendmd.co" always_nxdomain
+local-zone: "trex.media" always_nxdomain
 local-zone: "tripple.at" always_nxdomain
 local-zone: "trugaze.io" always_nxdomain
 local-zone: "truste.com" always_nxdomain

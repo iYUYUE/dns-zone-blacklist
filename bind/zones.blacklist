@@ -3079,6 +3079,7 @@ zone "tp.otto.de" { type master; notify no; file "null.zone.file"; };
 zone "trafban.ru" { type master; notify no; file "null.zone.file"; };
 zone "traffic.ru" { type master; notify no; file "null.zone.file"; };
 zone "trendmd.co" { type master; notify no; file "null.zone.file"; };
+zone "trex.media" { type master; notify no; file "null.zone.file"; };
 zone "tripple.at" { type master; notify no; file "null.zone.file"; };
 zone "trugaze.io" { type master; notify no; file "null.zone.file"; };
 zone "truste.com" { type master; notify no; file "null.zone.file"; };
