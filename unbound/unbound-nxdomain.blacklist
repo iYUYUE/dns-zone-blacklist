@@ -5940,6 +5940,7 @@ local-zone: "mcoreads.com" always_nxdomain
 local-zone: "meaclick.com" always_nxdomain
 local-zone: "meagplin.com" always_nxdomain
 local-zone: "medallia.com" always_nxdomain
+local-zone: "mediaedge.ae" always_nxdomain
 local-zone: "media.eso.tv" always_nxdomain
 local-zone: "medialead.de" always_nxdomain
 local-zone: "mediamond.it" always_nxdomain
@@ -13914,6 +13915,7 @@ local-zone: "webtradingspot.com" always_nxdomain
 local-zone: "welcomeadnepal.com" always_nxdomain
 local-zone: "werbung.leipzig.de" always_nxdomain
 local-zone: "whitebox.marketing" always_nxdomain
+local-zone: "whypeopleclick.com" always_nxdomain
 local-zone: "whytecreations.com" always_nxdomain
 local-zone: "widget.camshq.info" always_nxdomain
 local-zone: "widget.packeta.com" always_nxdomain

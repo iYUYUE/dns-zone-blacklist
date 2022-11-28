@@ -5940,6 +5940,7 @@ local-zone: "mcoreads.com" always_refuse
 local-zone: "meaclick.com" always_refuse
 local-zone: "meagplin.com" always_refuse
 local-zone: "medallia.com" always_refuse
+local-zone: "mediaedge.ae" always_refuse
 local-zone: "media.eso.tv" always_refuse
 local-zone: "medialead.de" always_refuse
 local-zone: "mediamond.it" always_refuse
@@ -13914,6 +13915,7 @@ local-zone: "webtradingspot.com" always_refuse
 local-zone: "welcomeadnepal.com" always_refuse
 local-zone: "werbung.leipzig.de" always_refuse
 local-zone: "whitebox.marketing" always_refuse
+local-zone: "whypeopleclick.com" always_refuse
 local-zone: "whytecreations.com" always_refuse
 local-zone: "widget.camshq.info" always_refuse
 local-zone: "widget.packeta.com" always_refuse
