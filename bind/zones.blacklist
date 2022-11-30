@@ -10988,6 +10988,7 @@ zone "tracksummer.com" { type master; notify no; file "null.zone.file"; };
 zone "tradetracker.nl" { type master; notify no; file "null.zone.file"; };
 zone "trafficadzy.com" { type master; notify no; file "null.zone.file"; };
 zone "trafficbass.com" { type master; notify no; file "null.zone.file"; };
+zone "trafficbets.com" { type master; notify no; file "null.zone.file"; };
 zone "trafficbull.com" { type master; notify no; file "null.zone.file"; };
 zone "trafficclub.com" { type master; notify no; file "null.zone.file"; };
 zone "trafficgate.net" { type master; notify no; file "null.zone.file"; };
