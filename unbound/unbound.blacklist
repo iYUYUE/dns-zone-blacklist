@@ -6176,6 +6176,7 @@ local-zone: "pushblog.com" always_refuse
 local-zone: "pushbots.com" always_refuse
 local-zone: "pushcrew.com" always_refuse
 local-zone: "pushever.app" always_refuse
+local-zone: "push.express" always_refuse
 local-zone: "pushflow.net" always_refuse
 local-zone: "pushflow.org" always_refuse
 local-zone: "pushible.com" always_refuse
@@ -10809,6 +10810,7 @@ local-zone: "pubexchange.com" always_refuse
 local-zone: "publisher.house" always_refuse
 local-zone: "pubserver.xl.pt" always_refuse
 local-zone: "pureamplify.com" always_refuse
+local-zone: "pushamplify.com" always_refuse
 local-zone: "pushcentric.com" always_refuse
 local-zone: "pushnetwork.com" always_refuse
 local-zone: "pushologies.com" always_refuse

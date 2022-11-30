@@ -6176,6 +6176,7 @@ local-zone: "pushblog.com" always_nxdomain
 local-zone: "pushbots.com" always_nxdomain
 local-zone: "pushcrew.com" always_nxdomain
 local-zone: "pushever.app" always_nxdomain
+local-zone: "push.express" always_nxdomain
 local-zone: "pushflow.net" always_nxdomain
 local-zone: "pushflow.org" always_nxdomain
 local-zone: "pushible.com" always_nxdomain
@@ -10809,6 +10810,7 @@ local-zone: "pubexchange.com" always_nxdomain
 local-zone: "publisher.house" always_nxdomain
 local-zone: "pubserver.xl.pt" always_nxdomain
 local-zone: "pureamplify.com" always_nxdomain
+local-zone: "pushamplify.com" always_nxdomain
 local-zone: "pushcentric.com" always_nxdomain
 local-zone: "pushnetwork.com" always_nxdomain
 local-zone: "pushologies.com" always_nxdomain
