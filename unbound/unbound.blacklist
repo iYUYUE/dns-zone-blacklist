@@ -628,6 +628,7 @@ local-zone: "4wnet.com" always_refuse
 local-zone: "5rocks.io" always_refuse
 local-zone: "6ea.co.za" always_refuse
 local-zone: "7xc4n.com" always_refuse
+local-zone: "86ads.org" always_refuse
 local-zone: "9h7n8.com" always_refuse
 local-zone: "9lt1f7.ru" always_refuse
 local-zone: "a2adv.com" always_refuse

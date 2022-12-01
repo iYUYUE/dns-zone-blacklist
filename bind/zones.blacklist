@@ -628,6 +628,7 @@ zone "4wnet.com" { type master; notify no; file "null.zone.file"; };
 zone "5rocks.io" { type master; notify no; file "null.zone.file"; };
 zone "6ea.co.za" { type master; notify no; file "null.zone.file"; };
 zone "7xc4n.com" { type master; notify no; file "null.zone.file"; };
+zone "86ads.org" { type master; notify no; file "null.zone.file"; };
 zone "9h7n8.com" { type master; notify no; file "null.zone.file"; };
 zone "9lt1f7.ru" { type master; notify no; file "null.zone.file"; };
 zone "a2adv.com" { type master; notify no; file "null.zone.file"; };
