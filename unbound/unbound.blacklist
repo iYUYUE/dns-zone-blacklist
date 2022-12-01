@@ -5348,6 +5348,7 @@ local-zone: "affilist.com" always_refuse
 local-zone: "affilixxl.de" always_refuse
 local-zone: "affilynx.com" always_refuse
 local-zone: "affinity.com" always_refuse
+local-zone: "affinity.net" always_refuse
 local-zone: "affsolve.com" always_refuse
 local-zone: "afftrack.pro" always_refuse
 local-zone: "agency66.com" always_refuse
@@ -8923,6 +8924,7 @@ local-zone: "couponsinc.com" always_refuse
 local-zone: "cpitraffic.com" always_refuse
 local-zone: "cqubemedia.com" always_refuse
 local-zone: "craftydish.com" always_refuse
+local-zone: "crazyrocket.io" always_refuse
 local-zone: "crealytics.com" always_refuse
 local-zone: "creativeads.ro" always_refuse
 local-zone: "cree8group.com" always_refuse
@@ -16178,6 +16180,7 @@ local-zone: "commissionjunction.net" always_refuse
 local-zone: "communicationcrafts.in" always_refuse
 local-zone: "consciousadnetwork.com" always_refuse
 local-zone: "consciousadnetwork.org" always_refuse
+local-zone: "consent.radiotimes.com" always_refuse
 local-zone: "consent.spieletipps.de" always_refuse
 local-zone: "constructionad.network" always_refuse
 local-zone: "contributor.google.com" always_refuse
