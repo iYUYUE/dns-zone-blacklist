@@ -6346,6 +6346,7 @@ zone "strossle.com" { type master; notify no; file "null.zone.file"; };
 zone "superbuzz.io" { type master; notify no; file "null.zone.file"; };
 zone "superclix.de" { type master; notify no; file "null.zone.file"; };
 zone "supership.jp" { type master; notify no; file "null.zone.file"; };
+zone "swap.qth.com" { type master; notify no; file "null.zone.file"; };
 zone "sxmmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "s.xnewsq.net" { type master; notify no; file "null.zone.file"; };
 zone "syjuyyfi.xyz" { type master; notify no; file "null.zone.file"; };
