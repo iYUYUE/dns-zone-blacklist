@@ -2020,6 +2020,7 @@ local-zone: "banerka.ml" always_refuse
 local-zone: "banner.com" always_refuse
 local-zone: "banner.net" always_refuse
 local-zone: "banners.ru" always_refuse
+local-zone: "b.big7.com" always_refuse
 local-zone: "bbmedia.cz" always_refuse
 local-zone: "bcnsrv.com" always_refuse
 local-zone: "bcwwxc.com" always_refuse
@@ -10721,6 +10722,7 @@ local-zone: "nuffnang.com.sg" always_refuse
 local-zone: "nuriclick.co.kr" always_refuse
 local-zone: "nutragalaxy.com" always_refuse
 local-zone: "nzafj0fqsy.rest" always_refuse
+local-zone: "oad-network.com" always_refuse
 local-zone: "oc734yaw3w.rest" always_refuse
 local-zone: "ocsrest.ebay.ca" always_refuse
 local-zone: "offermatica.com" always_refuse
@@ -11913,6 +11915,7 @@ local-zone: "propellerads.com" always_refuse
 local-zone: "propellerads.net" always_refuse
 local-zone: "propermessage.io" always_refuse
 local-zone: "proppellerads.ru" always_refuse
+local-zone: "protierlists.com" always_refuse
 local-zone: "ptystuthyglo.com" always_refuse
 local-zone: "publicismedia.de" always_refuse
 local-zone: "pugna.mbiz.co.id" always_refuse
@@ -13802,6 +13805,7 @@ local-zone: "rek5.ssyoutube.com" always_refuse
 local-zone: "reklama.flagman.bg" always_refuse
 local-zone: "reklam.turkmmo.com" always_refuse
 local-zone: "relateddigital.com" always_refuse
+local-zone: "remotemountain.com" always_refuse
 local-zone: "respondmedia.co.uk" always_refuse
 local-zone: "revenue-ads.online" always_refuse
 local-zone: "revenuenetwork.com" always_refuse
@@ -15350,6 +15354,7 @@ local-zone: "superflypartners.net" always_refuse
 local-zone: "swissfoodfestival.ch" always_refuse
 local-zone: "textads.sexmoney.com" always_refuse
 local-zone: "tg1.playstream.media" always_refuse
+local-zone: "thecreativebreed.com" always_refuse
 local-zone: "thegateworldwide.com" always_refuse
 local-zone: "thinkclevermedia.com" always_refuse
 local-zone: "tosearchenginego.com" always_refuse
