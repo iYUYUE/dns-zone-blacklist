@@ -18074,6 +18074,7 @@ local-zone: "uxt-special-teaser-prod.shpp.ext.zooplus.io" always_refuse
 local-zone: "ads-b-1941474562.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "android-tv.device-support.ad-tech.nbcuni.com" always_refuse
 local-zone: "uxt-magazine-teaser-prod.shpp.ext.zooplus.io" always_refuse
+local-zone: "2betadservice.s3.ap-northeast-1.amazonaws.com" always_refuse
 local-zone: "adv-pubmanager-dev.s3-sa-east-1.amazonaws.com" always_refuse
 local-zone: "seal-central-northern-western-arizona.bbb.org" always_refuse
 local-zone: "ams-ads-cornerstone-creatives.s3.amazonaws.com" always_refuse
