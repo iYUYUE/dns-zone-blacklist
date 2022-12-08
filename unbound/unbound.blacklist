@@ -1265,6 +1265,7 @@ local-zone: "openx.org" always_refuse
 local-zone: "optmd.com" always_refuse
 local-zone: "orjzy.com" always_refuse
 local-zone: "otm-r.com" always_refuse
+local-zone: "ottera.tv" always_refuse
 local-zone: "outfox.ai" always_refuse
 local-zone: "ovtrk.xyz" always_refuse
 local-zone: "oxado.com" always_refuse

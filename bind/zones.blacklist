@@ -1265,6 +1265,7 @@ zone "openx.org" { type master; notify no; file "null.zone.file"; };
 zone "optmd.com" { type master; notify no; file "null.zone.file"; };
 zone "orjzy.com" { type master; notify no; file "null.zone.file"; };
 zone "otm-r.com" { type master; notify no; file "null.zone.file"; };
+zone "ottera.tv" { type master; notify no; file "null.zone.file"; };
 zone "outfox.ai" { type master; notify no; file "null.zone.file"; };
 zone "ovtrk.xyz" { type master; notify no; file "null.zone.file"; };
 zone "oxado.com" { type master; notify no; file "null.zone.file"; };

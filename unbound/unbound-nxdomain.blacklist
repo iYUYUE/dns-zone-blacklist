@@ -1265,6 +1265,7 @@ local-zone: "openx.org" always_nxdomain
 local-zone: "optmd.com" always_nxdomain
 local-zone: "orjzy.com" always_nxdomain
 local-zone: "otm-r.com" always_nxdomain
+local-zone: "ottera.tv" always_nxdomain
 local-zone: "outfox.ai" always_nxdomain
 local-zone: "ovtrk.xyz" always_nxdomain
 local-zone: "oxado.com" always_nxdomain
