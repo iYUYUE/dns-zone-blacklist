@@ -15912,6 +15912,7 @@ zone "socialclimaxmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "socialmediatraffic.eu" { type master; notify no; file "null.zone.file"; };
 zone "softwaredefinedcdn.us" { type master; notify no; file "null.zone.file"; };
 zone "spon.ticketmaster.com" { type master; notify no; file "null.zone.file"; };
+zone "sprintmediadesign.com" { type master; notify no; file "null.zone.file"; };
 zone "spyglass.octanime.net" { type master; notify no; file "null.zone.file"; };
 zone "spyglass.reklamko.pro" { type master; notify no; file "null.zone.file"; };
 zone "staging10adsupply.com" { type master; notify no; file "null.zone.file"; };
