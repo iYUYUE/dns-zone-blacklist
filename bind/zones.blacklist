@@ -12108,6 +12108,7 @@ zone "thinknearhub.com" { type master; notify no; file "null.zone.file"; };
 zone "thinksuggest.org" { type master; notify no; file "null.zone.file"; };
 zone "thisisglobal.com" { type master; notify no; file "null.zone.file"; };
 zone "tok-dan-host.com" { type master; notify no; file "null.zone.file"; };
+zone "tools.vpscash.nl" { type master; notify no; file "null.zone.file"; };
 zone "top100.somee.com" { type master; notify no; file "null.zone.file"; };
 zone "top-content24.ru" { type master; notify no; file "null.zone.file"; };
 zone "totalmedia.co.il" { type master; notify no; file "null.zone.file"; };

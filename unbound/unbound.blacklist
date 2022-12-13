@@ -12108,6 +12108,7 @@ local-zone: "thinknearhub.com" always_refuse
 local-zone: "thinksuggest.org" always_refuse
 local-zone: "thisisglobal.com" always_refuse
 local-zone: "tok-dan-host.com" always_refuse
+local-zone: "tools.vpscash.nl" always_refuse
 local-zone: "top100.somee.com" always_refuse
 local-zone: "top-content24.ru" always_refuse
 local-zone: "totalmedia.co.il" always_refuse
