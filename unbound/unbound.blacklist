@@ -2412,6 +2412,7 @@ local-zone: "icpadv.com" always_refuse
 local-zone: "icqfsp.com" always_refuse
 local-zone: "icvads.com" always_refuse
 local-zone: "icyads.com" always_refuse
+local-zone: "ideadia.mx" always_refuse
 local-zone: "idfive.com" always_refuse
 local-zone: "iexqhm.com" always_refuse
 local-zone: "ieydkx.com" always_refuse
@@ -3914,6 +3915,7 @@ local-zone: "aroscop.com" always_refuse
 local-zone: "artkade.com" always_refuse
 local-zone: "arunsign.in" always_refuse
 local-zone: "as4zjsw7.ru" always_refuse
+local-zone: "asia-ad.com" always_refuse
 local-zone: "asiacpx.com" always_refuse
 local-zone: "as.meteo.sk" always_refuse
 local-zone: "asmrica.com" always_refuse
@@ -5684,6 +5686,7 @@ local-zone: "falconads.in" always_refuse
 local-zone: "faluhupo.xyz" always_refuse
 local-zone: "fancybar.net" always_refuse
 local-zone: "fasttony.com" always_refuse
+local-zone: "faunaads.com" always_refuse
 local-zone: "fc.yahoo.com" always_refuse
 local-zone: "feedify.info" always_refuse
 local-zone: "fidelitix.ca" always_refuse
@@ -8479,6 +8482,7 @@ local-zone: "admeridian.com" always_refuse
 local-zone: "ad.mrtnsvr.com" always_refuse
 local-zone: "adm.shinobi.jp" always_refuse
 local-zone: "admysports.com" always_refuse
+local-zone: "adndisplay.com" always_refuse
 local-zone: "ad.netmedia.hu" always_refuse
 local-zone: "ad.newfemme.co" always_refuse
 local-zone: "ad.newspim.com" always_refuse
@@ -11571,6 +11575,7 @@ local-zone: "asg.faperoni.com" always_refuse
 local-zone: "ashaaudiocom.com" always_refuse
 local-zone: "a.shukriya90.com" always_refuse
 local-zone: "asiantraffic.net" always_refuse
+local-zone: "as.otavamedia.fi" always_refuse
 local-zone: "aspireiq-dev.com" always_refuse
 local-zone: "assets.purch.com" always_refuse
 local-zone: "atanx.alicdn.com" always_refuse
@@ -17685,6 +17690,7 @@ local-zone: "ads-resources-legacy.waze.com" always_refuse
 local-zone: "ads.revistaconsultoria.com.mx" always_refuse
 local-zone: "ads.swimmingworldmagazine.com" always_refuse
 local-zone: "ads.warfarehistorynetwork.com" always_refuse
+local-zone: "advant-media.s3.amazonaws.com" always_refuse
 local-zone: "advertise.fairfaxmedia.com.au" always_refuse
 local-zone: "advertiseonbing.azureedge.net" always_refuse
 local-zone: "advertiser.authenticshows.com" always_refuse

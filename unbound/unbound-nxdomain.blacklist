@@ -2412,6 +2412,7 @@ local-zone: "icpadv.com" always_nxdomain
 local-zone: "icqfsp.com" always_nxdomain
 local-zone: "icvads.com" always_nxdomain
 local-zone: "icyads.com" always_nxdomain
+local-zone: "ideadia.mx" always_nxdomain
 local-zone: "idfive.com" always_nxdomain
 local-zone: "iexqhm.com" always_nxdomain
 local-zone: "ieydkx.com" always_nxdomain
@@ -3914,6 +3915,7 @@ local-zone: "aroscop.com" always_nxdomain
 local-zone: "artkade.com" always_nxdomain
 local-zone: "arunsign.in" always_nxdomain
 local-zone: "as4zjsw7.ru" always_nxdomain
+local-zone: "asia-ad.com" always_nxdomain
 local-zone: "asiacpx.com" always_nxdomain
 local-zone: "as.meteo.sk" always_nxdomain
 local-zone: "asmrica.com" always_nxdomain
@@ -5684,6 +5686,7 @@ local-zone: "falconads.in" always_nxdomain
 local-zone: "faluhupo.xyz" always_nxdomain
 local-zone: "fancybar.net" always_nxdomain
 local-zone: "fasttony.com" always_nxdomain
+local-zone: "faunaads.com" always_nxdomain
 local-zone: "fc.yahoo.com" always_nxdomain
 local-zone: "feedify.info" always_nxdomain
 local-zone: "fidelitix.ca" always_nxdomain
@@ -8479,6 +8482,7 @@ local-zone: "admeridian.com" always_nxdomain
 local-zone: "ad.mrtnsvr.com" always_nxdomain
 local-zone: "adm.shinobi.jp" always_nxdomain
 local-zone: "admysports.com" always_nxdomain
+local-zone: "adndisplay.com" always_nxdomain
 local-zone: "ad.netmedia.hu" always_nxdomain
 local-zone: "ad.newfemme.co" always_nxdomain
 local-zone: "ad.newspim.com" always_nxdomain
@@ -11571,6 +11575,7 @@ local-zone: "asg.faperoni.com" always_nxdomain
 local-zone: "ashaaudiocom.com" always_nxdomain
 local-zone: "a.shukriya90.com" always_nxdomain
 local-zone: "asiantraffic.net" always_nxdomain
+local-zone: "as.otavamedia.fi" always_nxdomain
 local-zone: "aspireiq-dev.com" always_nxdomain
 local-zone: "assets.purch.com" always_nxdomain
 local-zone: "atanx.alicdn.com" always_nxdomain
@@ -17685,6 +17690,7 @@ local-zone: "ads-resources-legacy.waze.com" always_nxdomain
 local-zone: "ads.revistaconsultoria.com.mx" always_nxdomain
 local-zone: "ads.swimmingworldmagazine.com" always_nxdomain
 local-zone: "ads.warfarehistorynetwork.com" always_nxdomain
+local-zone: "advant-media.s3.amazonaws.com" always_nxdomain
 local-zone: "advertise.fairfaxmedia.com.au" always_nxdomain
 local-zone: "advertiseonbing.azureedge.net" always_nxdomain
 local-zone: "advertiser.authenticshows.com" always_nxdomain
