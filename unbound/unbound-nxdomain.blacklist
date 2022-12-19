@@ -3123,6 +3123,7 @@ local-zone: "uckaht.com" always_nxdomain
 local-zone: "udkzpb.com" always_nxdomain
 local-zone: "ufwpwt.com" always_nxdomain
 local-zone: "ugyyod.com" always_nxdomain
+local-zone: "uidapi.com" always_nxdomain
 local-zone: "ujtjjj.com" always_nxdomain
 local-zone: "ukmpmm.com" always_nxdomain
 local-zone: "umault.com" always_nxdomain
@@ -11639,6 +11640,7 @@ local-zone: "bubbleads.com.au" always_nxdomain
 local-zone: "buildtraffic.com" always_nxdomain
 local-zone: "bulletprofit.com" always_nxdomain
 local-zone: "burda-forward.de" always_nxdomain
+local-zone: "buy.tinypass.com" always_nxdomain
 local-zone: "bwb101.goo.ne.jp" always_nxdomain
 local-zone: "cachegorilla.com" always_nxdomain
 local-zone: "cache.img.gmo.jp" always_nxdomain
@@ -17515,6 +17517,7 @@ local-zone: "c683207.ssl.cf2.rackcdn.com" always_nxdomain
 local-zone: "cf-trickplay.aux.pv-cdn.net" always_nxdomain
 local-zone: "code.adsales.snidigital.com" always_nxdomain
 local-zone: "commercial.daznservices.com" always_nxdomain
+local-zone: "dnderkfeab66.cloudfront.net" always_nxdomain
 local-zone: "expertinternetmarketing.com" always_nxdomain
 local-zone: "feeds-elections.foxnews.com" always_nxdomain
 local-zone: "fiercecougaradvertising.com" always_nxdomain
