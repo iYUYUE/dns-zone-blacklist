@@ -4907,6 +4907,7 @@ zone "10clicks.com" { type master; notify no; file "null.zone.file"; };
 zone "1234picz.com" { type master; notify no; file "null.zone.file"; };
 zone "13547873.com" { type master; notify no; file "null.zone.file"; };
 zone "140proof.com" { type master; notify no; file "null.zone.file"; };
+zone "14cpoff22.de" { type master; notify no; file "null.zone.file"; };
 zone "152media.com" { type master; notify no; file "null.zone.file"; };
 zone "18tlm4jee.de" { type master; notify no; file "null.zone.file"; };
 zone "1afqdhj0a.de" { type master; notify no; file "null.zone.file"; };
