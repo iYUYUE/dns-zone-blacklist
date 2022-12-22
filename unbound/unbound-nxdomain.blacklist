@@ -10355,6 +10355,7 @@ local-zone: "bestadagency.in" always_nxdomain
 local-zone: "best.s5live.com" always_nxdomain
 local-zone: "betterclicks.io" always_nxdomain
 local-zone: "biancaenero.com" always_nxdomain
+local-zone: "bidderstack.com" always_nxdomain
 local-zone: "bid-digital.com" always_nxdomain
 local-zone: "bidsxchange.com" always_nxdomain
 local-zone: "bidsxplayer.com" always_nxdomain
@@ -15986,6 +15987,7 @@ local-zone: "whistleradvantage.com" always_nxdomain
 local-zone: "whitestarmediainc.com" always_nxdomain
 local-zone: "widget.clips4sale.com" always_nxdomain
 local-zone: "widget.cloudinary.com" always_nxdomain
+local-zone: "widget.freshworks.com" always_nxdomain
 local-zone: "widget.info-static.ru" always_nxdomain
 local-zone: "widgets.getpocket.com" always_nxdomain
 local-zone: "widgets.pinterest.com" always_nxdomain

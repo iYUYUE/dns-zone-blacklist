@@ -10355,6 +10355,7 @@ local-zone: "bestadagency.in" always_refuse
 local-zone: "best.s5live.com" always_refuse
 local-zone: "betterclicks.io" always_refuse
 local-zone: "biancaenero.com" always_refuse
+local-zone: "bidderstack.com" always_refuse
 local-zone: "bid-digital.com" always_refuse
 local-zone: "bidsxchange.com" always_refuse
 local-zone: "bidsxplayer.com" always_refuse
@@ -15986,6 +15987,7 @@ local-zone: "whistleradvantage.com" always_refuse
 local-zone: "whitestarmediainc.com" always_refuse
 local-zone: "widget.clips4sale.com" always_refuse
 local-zone: "widget.cloudinary.com" always_refuse
+local-zone: "widget.freshworks.com" always_refuse
 local-zone: "widget.info-static.ru" always_refuse
 local-zone: "widgets.getpocket.com" always_refuse
 local-zone: "widgets.pinterest.com" always_refuse
