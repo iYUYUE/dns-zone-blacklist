@@ -9400,6 +9400,7 @@ local-zone: "nexus-soft.org" always_refuse
 local-zone: "nobbymedia.com" always_refuse
 local-zone: "nostruminc.com" always_refuse
 local-zone: "notif.9gag.com" always_refuse
+local-zone: "novobanner.com" always_refuse
 local-zone: "ntvpevents.com" always_refuse
 local-zone: "nuclearads.com" always_refuse
 local-zone: "nucleusads.com" always_refuse
@@ -12710,6 +12711,7 @@ local-zone: "dkmadsnetwork.com" always_refuse
 local-zone: "dkms.digikala.com" always_refuse
 local-zone: "dobermanmedia.com" always_refuse
 local-zone: "doblevialatam.com" always_refuse
+local-zone: "dolanadserver.com" always_refuse
 local-zone: "domainsponsor.com" always_refuse
 local-zone: "doubleadserve.com" always_refuse
 local-zone: "doubleclick.co.uk" always_refuse
@@ -17479,6 +17481,7 @@ local-zone: "adserver.lieblingsfotos.net" always_refuse
 local-zone: "adserver.marathisrushti.com" always_refuse
 local-zone: "adserver.matthaesmedien.net" always_refuse
 local-zone: "adserver.moneysavingmom.com" always_refuse
+local-zone: "adserver.musicpublishers.nl" always_refuse
 local-zone: "adserver.oregonbusiness.com" always_refuse
 local-zone: "adserver.paywallproject.com" always_refuse
 local-zone: "adserver.privatehost-ch.com" always_refuse
