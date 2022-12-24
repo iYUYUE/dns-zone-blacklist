@@ -5926,6 +5926,7 @@ zone "louchees.net" { type master; notify no; file "null.zone.file"; };
 zone "lovecash.com" { type master; notify no; file "null.zone.file"; };
 zone "lovemoney.vn" { type master; notify no; file "null.zone.file"; };
 zone "lovvisad.com" { type master; notify no; file "null.zone.file"; };
+zone "lporirxe.com" { type master; notify no; file "null.zone.file"; };
 zone "luckyads.pro" { type master; notify no; file "null.zone.file"; };
 zone "luisardo.com" { type master; notify no; file "null.zone.file"; };
 zone "lunagyja.xyz" { type master; notify no; file "null.zone.file"; };
