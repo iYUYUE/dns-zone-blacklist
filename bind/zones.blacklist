@@ -1866,6 +1866,7 @@ zone "ad-sys.com" { type master; notify no; file "null.zone.file"; };
 zone "adt511.net" { type master; notify no; file "null.zone.file"; };
 zone "adt532.com" { type master; notify no; file "null.zone.file"; };
 zone "adt567.net" { type master; notify no; file "null.zone.file"; };
+zone "ad-tag.biz" { type master; notify no; file "null.zone.file"; };
 zone "adtaily.pl" { type master; notify no; file "null.zone.file"; };
 zone "adtall.com" { type master; notify no; file "null.zone.file"; };
 zone "adtaxi.com" { type master; notify no; file "null.zone.file"; };

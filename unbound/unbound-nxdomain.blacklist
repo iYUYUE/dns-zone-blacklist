@@ -1866,6 +1866,7 @@ local-zone: "ad-sys.com" always_nxdomain
 local-zone: "adt511.net" always_nxdomain
 local-zone: "adt532.com" always_nxdomain
 local-zone: "adt567.net" always_nxdomain
+local-zone: "ad-tag.biz" always_nxdomain
 local-zone: "adtaily.pl" always_nxdomain
 local-zone: "adtall.com" always_nxdomain
 local-zone: "adtaxi.com" always_nxdomain

@@ -1866,6 +1866,7 @@ local-zone: "ad-sys.com" always_refuse
 local-zone: "adt511.net" always_refuse
 local-zone: "adt532.com" always_refuse
 local-zone: "adt567.net" always_refuse
+local-zone: "ad-tag.biz" always_refuse
 local-zone: "adtaily.pl" always_refuse
 local-zone: "adtall.com" always_refuse
 local-zone: "adtaxi.com" always_refuse
