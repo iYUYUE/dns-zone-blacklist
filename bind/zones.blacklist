@@ -5684,6 +5684,7 @@ zone "exoclick.com" { type master; notify no; file "null.zone.file"; };
 zone "exorigos.com" { type master; notify no; file "null.zone.file"; };
 zone "expo-max.com" { type master; notify no; file "null.zone.file"; };
 zone "exrtbsrv.com" { type master; notify no; file "null.zone.file"; };
+zone "extendad.com" { type master; notify no; file "null.zone.file"; };
 zone "eyenider.com" { type master; notify no; file "null.zone.file"; };
 zone "faestara.com" { type master; notify no; file "null.zone.file"; };
 zone "fagywalu.pro" { type master; notify no; file "null.zone.file"; };
