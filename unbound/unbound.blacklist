@@ -17550,6 +17550,7 @@ local-zone: "nsx-e.np.dl.playstation.net" always_refuse
 local-zone: "oathtechnologiesireland.com" always_refuse
 local-zone: "octopus-events.playtika.com" always_refuse
 local-zone: "p455208.mittwaldserver.info" always_refuse
+local-zone: "prebid-server.newsbreak.com" always_refuse
 local-zone: "programmaticadvertising.org" always_refuse
 local-zone: "promotion.polarisoffice.com" always_refuse
 local-zone: "pushnotificationpreview.com" always_refuse

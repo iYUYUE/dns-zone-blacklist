@@ -17550,6 +17550,7 @@ local-zone: "nsx-e.np.dl.playstation.net" always_nxdomain
 local-zone: "oathtechnologiesireland.com" always_nxdomain
 local-zone: "octopus-events.playtika.com" always_nxdomain
 local-zone: "p455208.mittwaldserver.info" always_nxdomain
+local-zone: "prebid-server.newsbreak.com" always_nxdomain
 local-zone: "programmaticadvertising.org" always_nxdomain
 local-zone: "promotion.polarisoffice.com" always_nxdomain
 local-zone: "pushnotificationpreview.com" always_nxdomain

@@ -17550,6 +17550,7 @@ zone "nsx-e.np.dl.playstation.net" { type master; notify no; file "null.zone.fil
 zone "oathtechnologiesireland.com" { type master; notify no; file "null.zone.file"; };
 zone "octopus-events.playtika.com" { type master; notify no; file "null.zone.file"; };
 zone "p455208.mittwaldserver.info" { type master; notify no; file "null.zone.file"; };
+zone "prebid-server.newsbreak.com" { type master; notify no; file "null.zone.file"; };
 zone "programmaticadvertising.org" { type master; notify no; file "null.zone.file"; };
 zone "promotion.polarisoffice.com" { type master; notify no; file "null.zone.file"; };
 zone "pushnotificationpreview.com" { type master; notify no; file "null.zone.file"; };
