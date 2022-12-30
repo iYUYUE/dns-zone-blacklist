@@ -1409,6 +1409,7 @@ local-zone: "u0056.com" always_refuse
 local-zone: "u0059.com" always_refuse
 local-zone: "u0063.com" always_refuse
 local-zone: "u0064.com" always_refuse
+local-zone: "u2267.com" always_refuse
 local-zone: "u808i.com" always_refuse
 local-zone: "ucast.xyz" always_refuse
 local-zone: "udbaa.com" always_refuse
@@ -1541,6 +1542,7 @@ local-zone: "405ads.com" always_refuse
 local-zone: "480app.com" always_refuse
 local-zone: "4dsply.com" always_refuse
 local-zone: "4-tell.net" always_refuse
+local-zone: "5593qq.com" always_refuse
 local-zone: "667.agency" always_refuse
 local-zone: "717trk.com" always_refuse
 local-zone: "7click.com" always_refuse
@@ -4935,6 +4937,7 @@ local-zone: "66667aaa.com" always_refuse
 local-zone: "7isu18su.org" always_refuse
 local-zone: "7media.co.ke" always_refuse
 local-zone: "81517801.com" always_refuse
+local-zone: "88669aaa.com" always_refuse
 local-zone: "99889aaa.com" always_refuse
 local-zone: "a4mtools.net" always_refuse
 local-zone: "a5.g--o.info" always_refuse
@@ -6633,6 +6636,7 @@ local-zone: "4wnetwork.com" always_refuse
 local-zone: "513575528.com" always_refuse
 local-zone: "528791725.com" always_refuse
 local-zone: "529723929.com" always_refuse
+local-zone: "573569djd.com" always_refuse
 local-zone: "592773xgg.com" always_refuse
 local-zone: "5mileslab.com" always_refuse
 local-zone: "5moxhf6z8c.ru" always_refuse
@@ -18085,6 +18089,7 @@ local-zone: "revboostprocdnadsprod.azureedge.net" always_refuse
 local-zone: "revive-adserver.world-diffusion.com" always_refuse
 local-zone: "separationofcorporationandstate.com" always_refuse
 local-zone: "smarteucookiebanner.upsell-apps.com" always_refuse
+local-zone: "sszhan.oss-cn-shenzhen.aliyuncs.com" always_refuse
 local-zone: "video-ads-module.ad-tech.nbcuni.com" always_refuse
 local-zone: "webapplicationstreamingnetwork.info" always_refuse
 local-zone: "xpjtu7.oss-cn-hangzhou.aliyuncs.com" always_refuse
