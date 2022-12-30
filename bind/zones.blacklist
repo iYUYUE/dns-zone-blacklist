@@ -13787,6 +13787,7 @@ zone "leadboltmobile.net" { type master; notify no; file "null.zone.file"; };
 zone "leadcapitalcrp.com" { type master; notify no; file "null.zone.file"; };
 zone "letsboldlygrow.com" { type master; notify no; file "null.zone.file"; };
 zone "libertystmedia.com" { type master; notify no; file "null.zone.file"; };
+zone "ligastavokinfo.com" { type master; notify no; file "null.zone.file"; };
 zone "lightdatahouse.com" { type master; notify no; file "null.zone.file"; };
 zone "litmusbranding.com" { type master; notify no; file "null.zone.file"; };
 zone "load.try-games.com" { type master; notify no; file "null.zone.file"; };
