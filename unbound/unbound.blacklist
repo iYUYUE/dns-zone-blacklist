@@ -9976,6 +9976,7 @@ local-zone: "ad.moneta.co.kr" always_refuse
 local-zone: "admozartppc.com" always_refuse
 local-zone: "admozartxml.com" always_refuse
 local-zone: "adnative.com.tr" always_refuse
+local-zone: "adnet.asahi.com" always_refuse
 local-zone: "adnet-media.net" always_refuse
 local-zone: "ad.oficynamm.pl" always_refuse
 local-zone: "adoftheyear.com" always_refuse

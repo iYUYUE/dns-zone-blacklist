@@ -9976,6 +9976,7 @@ local-zone: "ad.moneta.co.kr" always_nxdomain
 local-zone: "admozartppc.com" always_nxdomain
 local-zone: "admozartxml.com" always_nxdomain
 local-zone: "adnative.com.tr" always_nxdomain
+local-zone: "adnet.asahi.com" always_nxdomain
 local-zone: "adnet-media.net" always_nxdomain
 local-zone: "ad.oficynamm.pl" always_nxdomain
 local-zone: "adoftheyear.com" always_nxdomain
