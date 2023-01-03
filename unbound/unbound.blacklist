@@ -7778,6 +7778,7 @@ local-zone: "nanovisor.biz" always_refuse
 local-zone: "nanovisor.net" always_refuse
 local-zone: "nanovisor.org" always_refuse
 local-zone: "nano-visor.us" always_refuse
+local-zone: "native-ad.net" always_refuse
 local-zone: "nativeads.com" always_refuse
 local-zone: "nativemsg.com" always_refuse
 local-zone: "nativendo.com" always_refuse

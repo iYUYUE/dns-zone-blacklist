@@ -7778,6 +7778,7 @@ local-zone: "nanovisor.biz" always_nxdomain
 local-zone: "nanovisor.net" always_nxdomain
 local-zone: "nanovisor.org" always_nxdomain
 local-zone: "nano-visor.us" always_nxdomain
+local-zone: "native-ad.net" always_nxdomain
 local-zone: "nativeads.com" always_nxdomain
 local-zone: "nativemsg.com" always_nxdomain
 local-zone: "nativendo.com" always_nxdomain

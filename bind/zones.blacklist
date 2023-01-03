@@ -7778,6 +7778,7 @@ zone "nanovisor.biz" { type master; notify no; file "null.zone.file"; };
 zone "nanovisor.net" { type master; notify no; file "null.zone.file"; };
 zone "nanovisor.org" { type master; notify no; file "null.zone.file"; };
 zone "nano-visor.us" { type master; notify no; file "null.zone.file"; };
+zone "native-ad.net" { type master; notify no; file "null.zone.file"; };
 zone "nativeads.com" { type master; notify no; file "null.zone.file"; };
 zone "nativemsg.com" { type master; notify no; file "null.zone.file"; };
 zone "nativendo.com" { type master; notify no; file "null.zone.file"; };
