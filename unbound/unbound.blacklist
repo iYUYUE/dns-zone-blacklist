@@ -164,7 +164,6 @@ local-zone: "beop.io" always_refuse
 local-zone: "bksn.se" always_refuse
 local-zone: "bkv.com" always_refuse
 local-zone: "blip.tv" always_refuse
-local-zone: "brid.tv" always_refuse
 local-zone: "bvk.com" always_refuse
 local-zone: "b-y.net" always_refuse
 local-zone: "c9w.net" always_refuse
@@ -3094,7 +3093,6 @@ local-zone: "tnxptj.com" always_refuse
 local-zone: "tojinr.com" always_refuse
 local-zone: "topvid.com" always_refuse
 local-zone: "towrfd.com" always_refuse
-local-zone: "tpdads.com" always_refuse
 local-zone: "tp.otto.de" always_refuse
 local-zone: "trafban.ru" always_refuse
 local-zone: "traffic.ru" always_refuse
@@ -4512,6 +4510,7 @@ local-zone: "opmnstr.com" always_refuse
 local-zone: "optad360.io" always_refuse
 local-zone: "optanon.com" always_refuse
 local-zone: "optiads.org" always_refuse
+local-zone: "optmn.cloud" always_refuse
 local-zone: "opus.com.pk" always_refuse
 local-zone: "orangead.fi" always_refuse
 local-zone: "orquidea.ai" always_refuse
@@ -13033,6 +13032,7 @@ local-zone: "protectsubrev.com" always_refuse
 local-zone: "publicidade.jn.pt" always_refuse
 local-zone: "publicidadpro.com" always_refuse
 local-zone: "publicismedia.com" always_refuse
+local-zone: "publisherdesk.com" always_refuse
 local-zone: "pubtagmanager.com" always_refuse
 local-zone: "purelocalmedia.de" always_refuse
 local-zone: "pushadvantage.com" always_refuse
@@ -14688,6 +14688,7 @@ local-zone: "openx.masterhost.ru" always_refuse
 local-zone: "openx.specphone.com" always_refuse
 local-zone: "openx.watchmygf.net" always_refuse
 local-zone: "optimistixmedia.com" always_refuse
+local-zone: "optimon.appspot.com" always_refuse
 local-zone: "orderlyregister.pro" always_refuse
 local-zone: "pagead.l.google.com" always_refuse
 local-zone: "pantheranetwork.com" always_refuse

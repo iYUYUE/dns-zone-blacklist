@@ -164,7 +164,6 @@ local-zone: "beop.io" always_nxdomain
 local-zone: "bksn.se" always_nxdomain
 local-zone: "bkv.com" always_nxdomain
 local-zone: "blip.tv" always_nxdomain
-local-zone: "brid.tv" always_nxdomain
 local-zone: "bvk.com" always_nxdomain
 local-zone: "b-y.net" always_nxdomain
 local-zone: "c9w.net" always_nxdomain
@@ -3094,7 +3093,6 @@ local-zone: "tnxptj.com" always_nxdomain
 local-zone: "tojinr.com" always_nxdomain
 local-zone: "topvid.com" always_nxdomain
 local-zone: "towrfd.com" always_nxdomain
-local-zone: "tpdads.com" always_nxdomain
 local-zone: "tp.otto.de" always_nxdomain
 local-zone: "trafban.ru" always_nxdomain
 local-zone: "traffic.ru" always_nxdomain
@@ -4512,6 +4510,7 @@ local-zone: "opmnstr.com" always_nxdomain
 local-zone: "optad360.io" always_nxdomain
 local-zone: "optanon.com" always_nxdomain
 local-zone: "optiads.org" always_nxdomain
+local-zone: "optmn.cloud" always_nxdomain
 local-zone: "opus.com.pk" always_nxdomain
 local-zone: "orangead.fi" always_nxdomain
 local-zone: "orquidea.ai" always_nxdomain
@@ -13033,6 +13032,7 @@ local-zone: "protectsubrev.com" always_nxdomain
 local-zone: "publicidade.jn.pt" always_nxdomain
 local-zone: "publicidadpro.com" always_nxdomain
 local-zone: "publicismedia.com" always_nxdomain
+local-zone: "publisherdesk.com" always_nxdomain
 local-zone: "pubtagmanager.com" always_nxdomain
 local-zone: "purelocalmedia.de" always_nxdomain
 local-zone: "pushadvantage.com" always_nxdomain
@@ -14688,6 +14688,7 @@ local-zone: "openx.masterhost.ru" always_nxdomain
 local-zone: "openx.specphone.com" always_nxdomain
 local-zone: "openx.watchmygf.net" always_nxdomain
 local-zone: "optimistixmedia.com" always_nxdomain
+local-zone: "optimon.appspot.com" always_nxdomain
 local-zone: "orderlyregister.pro" always_nxdomain
 local-zone: "pagead.l.google.com" always_nxdomain
 local-zone: "pantheranetwork.com" always_nxdomain
