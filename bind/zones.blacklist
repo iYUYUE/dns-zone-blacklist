@@ -640,6 +640,7 @@ zone "9h7n8.com" { type master; notify no; file "null.zone.file"; };
 zone "9lt1f7.ru" { type master; notify no; file "null.zone.file"; };
 zone "a2adv.com" { type master; notify no; file "null.zone.file"; };
 zone "a2.zdg.de" { type master; notify no; file "null.zone.file"; };
+zone "a3.zdg.de" { type master; notify no; file "null.zone.file"; };
 zone "a4bbd.com" { type master; notify no; file "null.zone.file"; };
 zone "a8723.com" { type master; notify no; file "null.zone.file"; };
 zone "a-ads.com" { type master; notify no; file "null.zone.file"; };
