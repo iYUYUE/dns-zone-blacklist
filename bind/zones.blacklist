@@ -1949,6 +1949,7 @@ zone "adzymic.co" { type master; notify no; file "null.zone.file"; };
 zone "aebcyq.com" { type master; notify no; file "null.zone.file"; };
 zone "aeowrb.com" { type master; notify no; file "null.zone.file"; };
 zone "afcyhf.com" { type master; notify no; file "null.zone.file"; };
+zone "affied.com" { type master; notify no; file "null.zone.file"; };
 zone "affili.net" { type master; notify no; file "null.zone.file"; };
 zone "affise.com" { type master; notify no; file "null.zone.file"; };
 zone "afflow.com" { type master; notify no; file "null.zone.file"; };
