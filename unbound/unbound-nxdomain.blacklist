@@ -1568,6 +1568,7 @@ local-zone: "abgroup.gr" always_nxdomain
 local-zone: "ablida.net" always_nxdomain
 local-zone: "abn-ad.com" always_nxdomain
 local-zone: "acacdn.com" always_nxdomain
+local-zone: "acadot.com" always_nxdomain
 local-zone: "accmgr.com" always_nxdomain
 local-zone: "a.cdn1.pro" always_nxdomain
 local-zone: "acento.com" always_nxdomain
@@ -2249,6 +2250,7 @@ local-zone: "epmads.com" always_nxdomain
 local-zone: "eqfgrt.com" always_nxdomain
 local-zone: "eqolot.com" always_nxdomain
 local-zone: "ergadx.com" always_nxdomain
+local-zone: "erohub.com" always_nxdomain
 local-zone: "eroskop.ch" always_nxdomain
 local-zone: "erscdf.com" always_nxdomain
 local-zone: "ertise.com" always_nxdomain

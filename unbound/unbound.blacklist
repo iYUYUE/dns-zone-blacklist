@@ -1568,6 +1568,7 @@ local-zone: "abgroup.gr" always_refuse
 local-zone: "ablida.net" always_refuse
 local-zone: "abn-ad.com" always_refuse
 local-zone: "acacdn.com" always_refuse
+local-zone: "acadot.com" always_refuse
 local-zone: "accmgr.com" always_refuse
 local-zone: "a.cdn1.pro" always_refuse
 local-zone: "acento.com" always_refuse
@@ -2249,6 +2250,7 @@ local-zone: "epmads.com" always_refuse
 local-zone: "eqfgrt.com" always_refuse
 local-zone: "eqolot.com" always_refuse
 local-zone: "ergadx.com" always_refuse
+local-zone: "erohub.com" always_refuse
 local-zone: "eroskop.ch" always_refuse
 local-zone: "erscdf.com" always_refuse
 local-zone: "ertise.com" always_refuse
