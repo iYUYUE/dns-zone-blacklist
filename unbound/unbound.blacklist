@@ -8608,6 +8608,7 @@ local-zone: "adserver.today" always_refuse
 local-zone: "adservertq.com" always_refuse
 local-zone: "adserver.video" always_refuse
 local-zone: "adserverxxl.de" always_refuse
+local-zone: "adservices.com" always_refuse
 local-zone: "adservices.net" always_refuse
 local-zone: "adsettings.com" always_refuse
 local-zone: "ads.eurocom.bg" always_refuse
@@ -9892,7 +9893,9 @@ local-zone: "3wavesmedia.com" always_refuse
 local-zone: "4n1hqmcoms.rest" always_refuse
 local-zone: "5000banners.com" always_refuse
 local-zone: "59a8e0d6fa2.com" always_refuse
+local-zone: "5.ras.yahoo.com" always_refuse
 local-zone: "68939975272.com" always_refuse
+local-zone: "6.ras.yahoo.com" always_refuse
 local-zone: "71213zhazha.com" always_refuse
 local-zone: "75625358935.com" always_refuse
 local-zone: "79151879798.com" always_refuse

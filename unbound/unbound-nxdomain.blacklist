@@ -8608,6 +8608,7 @@ local-zone: "adserver.today" always_nxdomain
 local-zone: "adservertq.com" always_nxdomain
 local-zone: "adserver.video" always_nxdomain
 local-zone: "adserverxxl.de" always_nxdomain
+local-zone: "adservices.com" always_nxdomain
 local-zone: "adservices.net" always_nxdomain
 local-zone: "adsettings.com" always_nxdomain
 local-zone: "ads.eurocom.bg" always_nxdomain
@@ -9892,7 +9893,9 @@ local-zone: "3wavesmedia.com" always_nxdomain
 local-zone: "4n1hqmcoms.rest" always_nxdomain
 local-zone: "5000banners.com" always_nxdomain
 local-zone: "59a8e0d6fa2.com" always_nxdomain
+local-zone: "5.ras.yahoo.com" always_nxdomain
 local-zone: "68939975272.com" always_nxdomain
+local-zone: "6.ras.yahoo.com" always_nxdomain
 local-zone: "71213zhazha.com" always_nxdomain
 local-zone: "75625358935.com" always_nxdomain
 local-zone: "79151879798.com" always_nxdomain
