@@ -6243,6 +6243,7 @@ local-zone: "pushnoti.com" always_nxdomain
 local-zone: "pushpanda.io" always_nxdomain
 local-zone: "pushpros.com" always_nxdomain
 local-zone: "pushtide.com" always_nxdomain
+local-zone: "pushtorm.net" always_nxdomain
 local-zone: "pushtrack.co" always_nxdomain
 local-zone: "p.weebly.com" always_nxdomain
 local-zone: "pycizury.pro" always_nxdomain
@@ -8267,6 +8268,7 @@ local-zone: "velawcity.com" always_nxdomain
 local-zone: "vendemore.com" always_nxdomain
 local-zone: "veviopass.com" always_nxdomain
 local-zone: "viadata.store" always_nxdomain
+local-zone: "vidcrunch.com" always_nxdomain
 local-zone: "videoadex.com" always_nxdomain
 local-zone: "videobyte.com" always_nxdomain
 local-zone: "videocdn.name" always_nxdomain
@@ -12171,6 +12173,8 @@ local-zone: "thinknearhub.com" always_nxdomain
 local-zone: "thinksuggest.org" always_nxdomain
 local-zone: "thisisglobal.com" always_nxdomain
 local-zone: "tok-dan-host.com" always_nxdomain
+local-zone: "tools.glamour.pl" always_nxdomain
+local-zone: "tools.gotujmy.pl" always_nxdomain
 local-zone: "tools.vpscash.nl" always_nxdomain
 local-zone: "top100.somee.com" always_nxdomain
 local-zone: "top-content24.ru" always_nxdomain
@@ -13186,6 +13190,7 @@ local-zone: "thinklabcomms.com" always_nxdomain
 local-zone: "thirdpresence.com" always_nxdomain
 local-zone: "thoughtful.design" always_nxdomain
 local-zone: "timeforsocial.com" always_nxdomain
+local-zone: "tools.mamotoja.pl" always_nxdomain
 local-zone: "top-advertise.com" always_nxdomain
 local-zone: "traffbay-push.com" always_nxdomain
 local-zone: "traffic-buchen.de" always_nxdomain
@@ -16515,6 +16520,7 @@ local-zone: "takepointmarketing.com" always_nxdomain
 local-zone: "targetedwebtraffic.com" always_nxdomain
 local-zone: "theinternetworks.co.uk" always_nxdomain
 local-zone: "therelevancegraph.mobi" always_nxdomain
+local-zone: "tools.mojegotowanie.pl" always_nxdomain
 local-zone: "tradecraft.s.llnwi.net" always_nxdomain
 local-zone: "traffic-masters.online" always_nxdomain
 local-zone: "tritondigitalmedia.com" always_nxdomain
@@ -17153,6 +17159,7 @@ local-zone: "thechirocentre.lpages.co" always_nxdomain
 local-zone: "thedigitaladagency.co.za" always_nxdomain
 local-zone: "thesocialbrandagency.com" always_nxdomain
 local-zone: "tiramisu-advertising.com" always_nxdomain
+local-zone: "tools.przyslijprzepis.pl" always_nxdomain
 local-zone: "trendmd.s3.amazonaws.com" always_nxdomain
 local-zone: "videoads-cloud.rovio.com" always_nxdomain
 local-zone: "video-ak.cdn.spotify.com" always_nxdomain
@@ -17744,6 +17751,7 @@ local-zone: "sourcepointcmp.bloomberg.com" always_nxdomain
 local-zone: "sport-widgets.gedidigital.it" always_nxdomain
 local-zone: "subscribe.washingtonpost.com" always_nxdomain
 local-zone: "supersonicads-a.akamaihd.net" always_nxdomain
+local-zone: "tools.national-geographic.pl" always_nxdomain
 local-zone: "traffic-exchange-scripts.com" always_nxdomain
 local-zone: "upload-widget.cloudinary.com" always_nxdomain
 local-zone: "widget.customer-alliance.com" always_nxdomain
