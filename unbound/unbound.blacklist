@@ -2935,6 +2935,7 @@ local-zone: "reporo.net" always_refuse
 local-zone: "repuso.com" always_refuse
 local-zone: "retcyy.com" always_refuse
 local-zone: "retdaz.fun" always_refuse
+local-zone: "reteno.com" always_refuse
 local-zone: "revjet.com" always_refuse
 local-zone: "revmob.com" always_refuse
 local-zone: "revrtb.com" always_refuse
@@ -3769,6 +3770,7 @@ local-zone: "ads.muul.lt" always_refuse
 local-zone: "adsninja.ca" always_refuse
 local-zone: "adsniper.ru" always_refuse
 local-zone: "adsoft.name" always_refuse
+local-zone: "adsomia.com" always_refuse
 local-zone: "adsongo.com" always_refuse
 local-zone: "ads.orbi.kr" always_refuse
 local-zone: "adsovin.com" always_refuse
@@ -4675,6 +4677,7 @@ local-zone: "scaleout.jp" always_refuse
 local-zone: "schoene.net" always_refuse
 local-zone: "scibids.com" always_refuse
 local-zone: "searona.com" always_refuse
+local-zone: "seaxsrv.com" always_refuse
 local-zone: "seebait.com" always_refuse
 local-zone: "seedtag.com" always_refuse
 local-zone: "seenthis.co" always_refuse
@@ -5467,6 +5470,7 @@ local-zone: "avsquad1.com" always_refuse
 local-zone: "awempire.com" always_refuse
 local-zone: "awltovhc.com" always_refuse
 local-zone: "b1-media.com" always_refuse
+local-zone: "bablyoon.com" always_refuse
 local-zone: "baeredge.net" always_refuse
 local-zone: "ba.finote.ir" always_refuse
 local-zone: "banisoft.com" always_refuse
@@ -5965,6 +5969,7 @@ local-zone: "m5agency.com" always_refuse
 local-zone: "m8agency.com" always_refuse
 local-zone: "macadv.co.in" always_refuse
 local-zone: "macotuqa.xyz" always_refuse
+local-zone: "madservs.com" always_refuse
 local-zone: "mahimeta.com" always_refuse
 local-zone: "mailmunch.co" always_refuse
 local-zone: "mainroll.com" always_refuse
@@ -10309,6 +10314,7 @@ local-zone: "adx.panet.co.il" always_refuse
 local-zone: "adx.relaksit.ru" always_refuse
 local-zone: "adzjunction.com" always_refuse
 local-zone: "adz.wattpad.com" always_refuse
+local-zone: "adzworld.online" always_refuse
 local-zone: "aff-handler.com" always_refuse
 local-zone: "affiliate-b.com" always_refuse
 local-zone: "affiliscout.com" always_refuse
