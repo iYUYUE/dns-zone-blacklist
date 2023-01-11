@@ -1472,6 +1472,7 @@ zone "woobi.com" { type master; notify no; file "null.zone.file"; };
 zone "workey.se" { type master; notify no; file "null.zone.file"; };
 zone "wycji.top" { type master; notify no; file "null.zone.file"; };
 zone "wyuxy.com" { type master; notify no; file "null.zone.file"; };
+zone "x3x3x.xyz" { type master; notify no; file "null.zone.file"; };
 zone "xandr.com" { type master; notify no; file "null.zone.file"; };
 zone "xksqb.com" { type master; notify no; file "null.zone.file"; };
 zone "xlnuj.com" { type master; notify no; file "null.zone.file"; };
