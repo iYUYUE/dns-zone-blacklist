@@ -10708,6 +10708,7 @@ zone "ittorchicer.com" { type master; notify no; file "null.zone.file"; };
 zone "iw-adserver.com" { type master; notify no; file "null.zone.file"; };
 zone "jeinvegpool.com" { type master; notify no; file "null.zone.file"; };
 zone "jlonlineads.com" { type master; notify no; file "null.zone.file"; };
+zone "jottdigital.com" { type master; notify no; file "null.zone.file"; };
 zone "joyadagency.com" { type master; notify no; file "null.zone.file"; };
 zone "js.mangapro.top" { type master; notify no; file "null.zone.file"; };
 zone "juicemobile.com" { type master; notify no; file "null.zone.file"; };
@@ -18127,6 +18128,7 @@ zone "fundingchoicesmessages.google.com" { type master; notify no; file "null.zo
 zone "marketplace.digitalfirstmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "notifications.ennova-research.com" { type master; notify no; file "null.zone.file"; };
 zone "platform.shopmsg.me.herokudns.com" { type master; notify no; file "null.zone.file"; };
+zone "pokojepracownicze-augustow.online" { type master; notify no; file "null.zone.file"; };
 zone "servedby.jewishcontentnetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "sp-consent.schwarzwaelder-bote.de" { type master; notify no; file "null.zone.file"; };
 zone "sz88.oss-cn-shenzhen.aliyuncs.com" { type master; notify no; file "null.zone.file"; };
@@ -18157,6 +18159,7 @@ zone "heads-ak-spotify-com.akamaized.net" { type master; notify no; file "null.z
 zone "includemodal.global.ssl.fastly.net" { type master; notify no; file "null.zone.file"; };
 zone "japfg-trending-content.appspot.com" { type master; notify no; file "null.zone.file"; };
 zone "newfeatureview.perfectionholic.com" { type master; notify no; file "null.zone.file"; };
+zone "noclegipracownicze-augustow.online" { type master; notify no; file "null.zone.file"; };
 zone "notification-center.kdanmobile.com" { type master; notify no; file "null.zone.file"; };
 zone "onetrust.techservices.illinois.edu" { type master; notify no; file "null.zone.file"; };
 zone "paywall-ad-bucket.s3.amazonaws.com" { type master; notify no; file "null.zone.file"; };

@@ -10708,6 +10708,7 @@ local-zone: "ittorchicer.com" always_refuse
 local-zone: "iw-adserver.com" always_refuse
 local-zone: "jeinvegpool.com" always_refuse
 local-zone: "jlonlineads.com" always_refuse
+local-zone: "jottdigital.com" always_refuse
 local-zone: "joyadagency.com" always_refuse
 local-zone: "js.mangapro.top" always_refuse
 local-zone: "juicemobile.com" always_refuse
@@ -18127,6 +18128,7 @@ local-zone: "fundingchoicesmessages.google.com" always_refuse
 local-zone: "marketplace.digitalfirstmedia.com" always_refuse
 local-zone: "notifications.ennova-research.com" always_refuse
 local-zone: "platform.shopmsg.me.herokudns.com" always_refuse
+local-zone: "pokojepracownicze-augustow.online" always_refuse
 local-zone: "servedby.jewishcontentnetwork.com" always_refuse
 local-zone: "sp-consent.schwarzwaelder-bote.de" always_refuse
 local-zone: "sz88.oss-cn-shenzhen.aliyuncs.com" always_refuse
@@ -18157,6 +18159,7 @@ local-zone: "heads-ak-spotify-com.akamaized.net" always_refuse
 local-zone: "includemodal.global.ssl.fastly.net" always_refuse
 local-zone: "japfg-trending-content.appspot.com" always_refuse
 local-zone: "newfeatureview.perfectionholic.com" always_refuse
+local-zone: "noclegipracownicze-augustow.online" always_refuse
 local-zone: "notification-center.kdanmobile.com" always_refuse
 local-zone: "onetrust.techservices.illinois.edu" always_refuse
 local-zone: "paywall-ad-bucket.s3.amazonaws.com" always_refuse

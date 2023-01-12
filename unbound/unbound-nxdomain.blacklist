@@ -10708,6 +10708,7 @@ local-zone: "ittorchicer.com" always_nxdomain
 local-zone: "iw-adserver.com" always_nxdomain
 local-zone: "jeinvegpool.com" always_nxdomain
 local-zone: "jlonlineads.com" always_nxdomain
+local-zone: "jottdigital.com" always_nxdomain
 local-zone: "joyadagency.com" always_nxdomain
 local-zone: "js.mangapro.top" always_nxdomain
 local-zone: "juicemobile.com" always_nxdomain
@@ -18127,6 +18128,7 @@ local-zone: "fundingchoicesmessages.google.com" always_nxdomain
 local-zone: "marketplace.digitalfirstmedia.com" always_nxdomain
 local-zone: "notifications.ennova-research.com" always_nxdomain
 local-zone: "platform.shopmsg.me.herokudns.com" always_nxdomain
+local-zone: "pokojepracownicze-augustow.online" always_nxdomain
 local-zone: "servedby.jewishcontentnetwork.com" always_nxdomain
 local-zone: "sp-consent.schwarzwaelder-bote.de" always_nxdomain
 local-zone: "sz88.oss-cn-shenzhen.aliyuncs.com" always_nxdomain
@@ -18157,6 +18159,7 @@ local-zone: "heads-ak-spotify-com.akamaized.net" always_nxdomain
 local-zone: "includemodal.global.ssl.fastly.net" always_nxdomain
 local-zone: "japfg-trending-content.appspot.com" always_nxdomain
 local-zone: "newfeatureview.perfectionholic.com" always_nxdomain
+local-zone: "noclegipracownicze-augustow.online" always_nxdomain
 local-zone: "notification-center.kdanmobile.com" always_nxdomain
 local-zone: "onetrust.techservices.illinois.edu" always_nxdomain
 local-zone: "paywall-ad-bucket.s3.amazonaws.com" always_nxdomain
