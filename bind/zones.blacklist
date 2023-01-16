@@ -5187,6 +5187,7 @@ zone "ads4apps.net" { type master; notify no; file "null.zone.file"; };
 zone "ads4bits.net" { type master; notify no; file "null.zone.file"; };
 zone "ads4pics.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.54646.co" { type master; notify no; file "null.zone.file"; };
+zone "ads-6686.top" { type master; notify no; file "null.zone.file"; };
 zone "ads.aavv.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.accu.org" { type master; notify no; file "null.zone.file"; };
 zone "adsadept.com" { type master; notify no; file "null.zone.file"; };
@@ -18334,6 +18335,7 @@ zone "a.67cb35ea20e454fb33deb722c7691ebc76111616c2cee7c7dabf0a06.com" { type mas
 zone "a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com" { type master; notify no; file "null.zone.file"; };
 zone "a.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com" { type master; notify no; file "null.zone.file"; };
 zone "a.a99a6986ec21da4e788175eab688505c303b15e51653736d53df5d6c.com" { type master; notify no; file "null.zone.file"; };
+zone "a.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com" { type master; notify no; file "null.zone.file"; };
 zone "ad-interactions-prod-lb-1606894468.us-east-1.elb.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "a.e4ff72f227653aa61de23b2379df588c0a3d3298eed535339cadbdaa.com" { type master; notify no; file "null.zone.file"; };
 zone "a.e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f.com" { type master; notify no; file "null.zone.file"; };
