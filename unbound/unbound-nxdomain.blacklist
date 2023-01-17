@@ -5777,6 +5777,7 @@ local-zone: "getfluid.com" always_nxdomain
 local-zone: "gethatch.com" always_nxdomain
 local-zone: "getiluda.com" always_nxdomain
 local-zone: "getintent.ru" always_nxdomain
+local-zone: "getmo.com.br" always_nxdomain
 local-zone: "getproof.com" always_nxdomain
 local-zone: "geva-adv.com" always_nxdomain
 local-zone: "gigapromo.de" always_nxdomain
@@ -5973,6 +5974,7 @@ local-zone: "m21world.com" always_nxdomain
 local-zone: "m3diabuy.com" always_nxdomain
 local-zone: "m5agency.com" always_nxdomain
 local-zone: "m8agency.com" always_nxdomain
+local-zone: "maantech.com" always_nxdomain
 local-zone: "macadv.co.in" always_nxdomain
 local-zone: "macotuqa.xyz" always_nxdomain
 local-zone: "madservs.com" always_nxdomain

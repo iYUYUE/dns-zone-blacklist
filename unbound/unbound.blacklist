@@ -5777,6 +5777,7 @@ local-zone: "getfluid.com" always_refuse
 local-zone: "gethatch.com" always_refuse
 local-zone: "getiluda.com" always_refuse
 local-zone: "getintent.ru" always_refuse
+local-zone: "getmo.com.br" always_refuse
 local-zone: "getproof.com" always_refuse
 local-zone: "geva-adv.com" always_refuse
 local-zone: "gigapromo.de" always_refuse
@@ -5973,6 +5974,7 @@ local-zone: "m21world.com" always_refuse
 local-zone: "m3diabuy.com" always_refuse
 local-zone: "m5agency.com" always_refuse
 local-zone: "m8agency.com" always_refuse
+local-zone: "maantech.com" always_refuse
 local-zone: "macadv.co.in" always_refuse
 local-zone: "macotuqa.xyz" always_refuse
 local-zone: "madservs.com" always_refuse
