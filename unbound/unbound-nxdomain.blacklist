@@ -5244,6 +5244,7 @@ local-zone: "adserve.zone" always_nxdomain
 local-zone: "adservice.dk" always_nxdomain
 local-zone: "adservice.fi" always_nxdomain
 local-zone: "adservice.io" always_nxdomain
+local-zone: "adservice.jp" always_nxdomain
 local-zone: "adservice.no" always_nxdomain
 local-zone: "adservme.com" always_nxdomain
 local-zone: "adservrs.com" always_nxdomain

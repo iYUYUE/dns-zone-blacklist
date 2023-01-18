@@ -5244,6 +5244,7 @@ zone "adserve.zone" { type master; notify no; file "null.zone.file"; };
 zone "adservice.dk" { type master; notify no; file "null.zone.file"; };
 zone "adservice.fi" { type master; notify no; file "null.zone.file"; };
 zone "adservice.io" { type master; notify no; file "null.zone.file"; };
+zone "adservice.jp" { type master; notify no; file "null.zone.file"; };
 zone "adservice.no" { type master; notify no; file "null.zone.file"; };
 zone "adservme.com" { type master; notify no; file "null.zone.file"; };
 zone "adservrs.com" { type master; notify no; file "null.zone.file"; };

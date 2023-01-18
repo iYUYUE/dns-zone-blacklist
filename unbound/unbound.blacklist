@@ -5244,6 +5244,7 @@ local-zone: "adserve.zone" always_refuse
 local-zone: "adservice.dk" always_refuse
 local-zone: "adservice.fi" always_refuse
 local-zone: "adservice.io" always_refuse
+local-zone: "adservice.jp" always_refuse
 local-zone: "adservice.no" always_refuse
 local-zone: "adservme.com" always_refuse
 local-zone: "adservrs.com" always_refuse
