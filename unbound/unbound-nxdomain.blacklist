@@ -622,6 +622,7 @@ local-zone: "1ts18.top" always_nxdomain
 local-zone: "1ts19.top" always_nxdomain
 local-zone: "1ts20.top" always_nxdomain
 local-zone: "21sme.com" always_nxdomain
+local-zone: "2588u.com" always_nxdomain
 local-zone: "2b.com.au" always_nxdomain
 local-zone: "2trk.info" always_nxdomain
 local-zone: "302br.net" always_nxdomain
@@ -1416,6 +1417,8 @@ local-zone: "u0056.com" always_nxdomain
 local-zone: "u0059.com" always_nxdomain
 local-zone: "u0063.com" always_nxdomain
 local-zone: "u0064.com" always_nxdomain
+local-zone: "u1044.com" always_nxdomain
+local-zone: "u1102.com" always_nxdomain
 local-zone: "u2267.com" always_nxdomain
 local-zone: "u808i.com" always_nxdomain
 local-zone: "ucast.xyz" always_nxdomain
@@ -2092,6 +2095,7 @@ local-zone: "braish.com" always_nxdomain
 local-zone: "broimg.net" always_nxdomain
 local-zone: "bspdyp.com" always_nxdomain
 local-zone: "bstigg.com" always_nxdomain
+local-zone: "btc672.com" always_nxdomain
 local-zone: "btcvic.com" always_nxdomain
 local-zone: "buleor.com" always_nxdomain
 local-zone: "buriba.com" always_nxdomain
