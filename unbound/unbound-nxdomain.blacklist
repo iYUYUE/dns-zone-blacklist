@@ -12630,6 +12630,7 @@ local-zone: "advertica-cdn.com" always_nxdomain
 local-zone: "advertiserurl.com" always_nxdomain
 local-zone: "advertizely.co.uk" always_nxdomain
 local-zone: "adverts.3dput.com" always_nxdomain
+local-zone: "adviceonclick.com" always_nxdomain
 local-zone: "ad.videomaker.com" always_nxdomain
 local-zone: "adv.imadrep.co.kr" always_nxdomain
 local-zone: "advimg.khan.co.kr" always_nxdomain
@@ -14945,6 +14946,7 @@ local-zone: "widget.spreaker.com" always_nxdomain
 local-zone: "widget.stackbit.com" always_nxdomain
 local-zone: "widget.trustist.com" always_nxdomain
 local-zone: "wilafhhbdyewgbd.xyz" always_nxdomain
+local-zone: "wildgroei.amsterdam" always_nxdomain
 local-zone: "wingardcreative.com" always_nxdomain
 local-zone: "wiseadmarketing.com" always_nxdomain
 local-zone: "wizardclicks.com.au" always_nxdomain

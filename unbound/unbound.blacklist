@@ -12630,6 +12630,7 @@ local-zone: "advertica-cdn.com" always_refuse
 local-zone: "advertiserurl.com" always_refuse
 local-zone: "advertizely.co.uk" always_refuse
 local-zone: "adverts.3dput.com" always_refuse
+local-zone: "adviceonclick.com" always_refuse
 local-zone: "ad.videomaker.com" always_refuse
 local-zone: "adv.imadrep.co.kr" always_refuse
 local-zone: "advimg.khan.co.kr" always_refuse
@@ -14945,6 +14946,7 @@ local-zone: "widget.spreaker.com" always_refuse
 local-zone: "widget.stackbit.com" always_refuse
 local-zone: "widget.trustist.com" always_refuse
 local-zone: "wilafhhbdyewgbd.xyz" always_refuse
+local-zone: "wildgroei.amsterdam" always_refuse
 local-zone: "wingardcreative.com" always_refuse
 local-zone: "wiseadmarketing.com" always_refuse
 local-zone: "wizardclicks.com.au" always_refuse
