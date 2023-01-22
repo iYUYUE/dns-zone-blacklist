@@ -12310,6 +12310,7 @@ local-zone: "10feettall.com.au" always_refuse
 local-zone: "10goldenrules.com" always_refuse
 local-zone: "10.ram-server.com" always_refuse
 local-zone: "11streetmedia.com" always_refuse
+local-zone: "11twentythree.com" always_refuse
 local-zone: "123advertising.nl" always_refuse
 local-zone: "1827marketing.com" always_refuse
 local-zone: "1dscollective.com" always_refuse
@@ -17745,6 +17746,7 @@ local-zone: "ads.satellitenewsnetwork.com" always_refuse
 local-zone: "ads.skiphirecomparison.co.uk" always_refuse
 local-zone: "ads.southforestcostarica.com" always_refuse
 local-zone: "ads.studentenwerk-dresden.de" always_refuse
+local-zone: "adtechvideo.s3.amazonaws.com" always_refuse
 local-zone: "advertising.digitalpoint.com" always_refuse
 local-zone: "adv.messaggerosantantonio.it" always_refuse
 local-zone: "ae-136.global.ssl.fastly.net" always_refuse

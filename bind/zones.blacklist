@@ -12310,6 +12310,7 @@ zone "10feettall.com.au" { type master; notify no; file "null.zone.file"; };
 zone "10goldenrules.com" { type master; notify no; file "null.zone.file"; };
 zone "10.ram-server.com" { type master; notify no; file "null.zone.file"; };
 zone "11streetmedia.com" { type master; notify no; file "null.zone.file"; };
+zone "11twentythree.com" { type master; notify no; file "null.zone.file"; };
 zone "123advertising.nl" { type master; notify no; file "null.zone.file"; };
 zone "1827marketing.com" { type master; notify no; file "null.zone.file"; };
 zone "1dscollective.com" { type master; notify no; file "null.zone.file"; };
@@ -17745,6 +17746,7 @@ zone "ads.satellitenewsnetwork.com" { type master; notify no; file "null.zone.fi
 zone "ads.skiphirecomparison.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "ads.southforestcostarica.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.studentenwerk-dresden.de" { type master; notify no; file "null.zone.file"; };
+zone "adtechvideo.s3.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "advertising.digitalpoint.com" { type master; notify no; file "null.zone.file"; };
 zone "adv.messaggerosantantonio.it" { type master; notify no; file "null.zone.file"; };
 zone "ae-136.global.ssl.fastly.net" { type master; notify no; file "null.zone.file"; };
