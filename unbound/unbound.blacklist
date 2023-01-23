@@ -3870,6 +3870,7 @@ local-zone: "adv.mpvc.it" always_refuse
 local-zone: "adv.riza.it" always_refuse
 local-zone: "adwager.com" always_refuse
 local-zone: "adwerks.com" always_refuse
+local-zone: "adwetec.com" always_refuse
 local-zone: "adwhirl.com" always_refuse
 local-zone: "adwised.com" always_refuse
 local-zone: "adwonder.cn" always_refuse
@@ -9314,6 +9315,7 @@ local-zone: "leetilford.com" always_refuse
 local-zone: "legalads.co.uk" always_refuse
 local-zone: "legerikath.com" always_refuse
 local-zone: "legikqw6ps.com" always_refuse
+local-zone: "letsconnect.at" always_refuse
 local-zone: "licichoshy.com" always_refuse
 local-zone: "lifestreet.com" always_refuse
 local-zone: "linksvenue.com" always_refuse
