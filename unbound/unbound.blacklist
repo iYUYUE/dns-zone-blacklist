@@ -3313,6 +3313,7 @@ local-zone: "xxxjmp.com" always_refuse
 local-zone: "xxyolk.com" always_refuse
 local-zone: "yajani.com" always_refuse
 local-zone: "yamads.com" always_refuse
+local-zone: "yara.co.in" always_refuse
 local-zone: "yarlnk.com" always_refuse
 local-zone: "yaunel.com" always_refuse
 local-zone: "ybcrwm.com" always_refuse
@@ -6512,6 +6513,7 @@ local-zone: "valassis.com" always_refuse
 local-zone: "valuad.cloud" always_refuse
 local-zone: "vamyceka.com" always_refuse
 local-zone: "venkrana.com" always_refuse
+local-zone: "versadex.xyz" always_refuse
 local-zone: "vevumyra.com" always_refuse
 local-zone: "vexacion.com" always_refuse
 local-zone: "viadrift.com" always_refuse
@@ -9024,6 +9026,7 @@ local-zone: "contexthub.net" always_refuse
 local-zone: "contextual.com" always_refuse
 local-zone: "contextweb.com" always_refuse
 local-zone: "continular.com" always_refuse
+local-zone: "convertadv.com" always_refuse
 local-zone: "convertbox.com" always_refuse
 local-zone: "cookies.lmt.lv" always_refuse
 local-zone: "coupling.media" always_refuse
@@ -15487,6 +15490,7 @@ local-zone: "richperspectives.com" always_refuse
 local-zone: "rogersmediasales.com" always_refuse
 local-zone: "rosseladvertising.be" always_refuse
 local-zone: "rotterdamsdagblad.nl" always_refuse
+local-zone: "rtg-adroute.focas.jp" always_refuse
 local-zone: "s2.gamecopyworld.com" always_refuse
 local-zone: "satmon.neekstore.com" always_refuse
 local-zone: "scripts.bestprice.gr" always_refuse
@@ -16010,6 +16014,7 @@ local-zone: "podcastupfront.stream" always_refuse
 local-zone: "popup2.lifterapps.com" always_refuse
 local-zone: "project-limelight.com" always_refuse
 local-zone: "promos.wealthymen.com" always_refuse
+local-zone: "promotools.vpscash.nl" always_refuse
 local-zone: "pronetadvertising.com" always_refuse
 local-zone: "prywatnosc.interia.pl" always_refuse
 local-zone: "public.servenobid.com" always_refuse
