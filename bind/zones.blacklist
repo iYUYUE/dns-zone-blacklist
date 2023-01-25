@@ -1392,6 +1392,7 @@ zone "teser.net" { type master; notify no; file "null.zone.file"; };
 zone "tgknt.com" { type master; notify no; file "null.zone.file"; };
 zone "thiel.com" { type master; notify no; file "null.zone.file"; };
 zone "tiller.co" { type master; notify no; file "null.zone.file"; };
+zone "tk0x1.com" { type master; notify no; file "null.zone.file"; };
 zone "tmska.com" { type master; notify no; file "null.zone.file"; };
 zone "tncid.app" { type master; notify no; file "null.zone.file"; };
 zone "tnlnk.com" { type master; notify no; file "null.zone.file"; };
