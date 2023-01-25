@@ -10604,7 +10604,6 @@ zone "elementaltv.com" { type master; notify no; file "null.zone.file"; };
 zone "engagefront.com" { type master; notify no; file "null.zone.file"; };
 zone "e-omnibus.co.jp" { type master; notify no; file "null.zone.file"; };
 zone "epomstaging.com" { type master; notify no; file "null.zone.file"; };
-zone "escortspots.com" { type master; notify no; file "null.zone.file"; };
 zone "ethereumads.com" { type master; notify no; file "null.zone.file"; };
 zone "eurorevenue.com" { type master; notify no; file "null.zone.file"; };
 zone "everestcash.com" { type master; notify no; file "null.zone.file"; };
