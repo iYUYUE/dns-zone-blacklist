@@ -14063,6 +14063,7 @@ local-zone: "tespray-dicity.com" always_refuse
 local-zone: "thecircusworks.com" always_refuse
 local-zone: "theengineisred.com" always_refuse
 local-zone: "thegrey-matter.com" always_refuse
+local-zone: "theinternetads.com" always_refuse
 local-zone: "theinterwebs.space" always_refuse
 local-zone: "thejamesagency.com" always_refuse
 local-zone: "thewendtagency.com" always_refuse

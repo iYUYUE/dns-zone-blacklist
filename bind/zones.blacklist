@@ -14063,6 +14063,7 @@ zone "tespray-dicity.com" { type master; notify no; file "null.zone.file"; };
 zone "thecircusworks.com" { type master; notify no; file "null.zone.file"; };
 zone "theengineisred.com" { type master; notify no; file "null.zone.file"; };
 zone "thegrey-matter.com" { type master; notify no; file "null.zone.file"; };
+zone "theinternetads.com" { type master; notify no; file "null.zone.file"; };
 zone "theinterwebs.space" { type master; notify no; file "null.zone.file"; };
 zone "thejamesagency.com" { type master; notify no; file "null.zone.file"; };
 zone "thewendtagency.com" { type master; notify no; file "null.zone.file"; };
