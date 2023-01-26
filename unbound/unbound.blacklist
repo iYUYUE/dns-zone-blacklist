@@ -65,7 +65,6 @@ local-zone: "dao.ad" always_refuse
 local-zone: "deg.kr" always_refuse
 local-zone: "ds1.nl" always_refuse
 local-zone: "ebz.io" always_refuse
-local-zone: "ffm.to" always_refuse
 local-zone: "gab.ag" always_refuse
 local-zone: "gsh.io" always_refuse
 local-zone: "h5v.eu" always_refuse
@@ -2288,7 +2287,6 @@ local-zone: "fbcctf.com" always_refuse
 local-zone: "fcwuye.com" always_refuse
 local-zone: "fderty.com" always_refuse
 local-zone: "fdrhbw.com" always_refuse
-local-zone: "feature.fm" always_refuse
 local-zone: "feedad.com" always_refuse
 local-zone: "feetct.com" always_refuse
 local-zone: "felmat.net" always_refuse

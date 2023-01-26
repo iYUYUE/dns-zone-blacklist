@@ -65,7 +65,6 @@ local-zone: "dao.ad" always_nxdomain
 local-zone: "deg.kr" always_nxdomain
 local-zone: "ds1.nl" always_nxdomain
 local-zone: "ebz.io" always_nxdomain
-local-zone: "ffm.to" always_nxdomain
 local-zone: "gab.ag" always_nxdomain
 local-zone: "gsh.io" always_nxdomain
 local-zone: "h5v.eu" always_nxdomain
@@ -2288,7 +2287,6 @@ local-zone: "fbcctf.com" always_nxdomain
 local-zone: "fcwuye.com" always_nxdomain
 local-zone: "fderty.com" always_nxdomain
 local-zone: "fdrhbw.com" always_nxdomain
-local-zone: "feature.fm" always_nxdomain
 local-zone: "feedad.com" always_nxdomain
 local-zone: "feetct.com" always_nxdomain
 local-zone: "felmat.net" always_nxdomain
