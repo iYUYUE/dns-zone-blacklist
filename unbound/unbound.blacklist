@@ -5585,6 +5585,7 @@ local-zone: "centumad.com" always_refuse
 local-zone: "ceostars.com" always_refuse
 local-zone: "chameleon.ad" always_refuse
 local-zone: "chatintr.com" always_refuse
+local-zone: "chatlead.com" always_refuse
 local-zone: "chirello.com" always_refuse
 local-zone: "chsrkred.com" always_refuse
 local-zone: "ciamedia.com" always_refuse
@@ -7315,6 +7316,7 @@ local-zone: "cadreon.co.uk" always_refuse
 local-zone: "carbonads.com" always_refuse
 local-zone: "carbonads.net" always_refuse
 local-zone: "carbonpay.app" always_refuse
+local-zone: "carchat24.com" always_refuse
 local-zone: "cashdorado.de" always_refuse
 local-zone: "cash-duck.com" always_refuse
 local-zone: "catapultx.com" always_refuse
