@@ -4667,6 +4667,7 @@ local-zone: "riester.com" always_nxdomain
 local-zone: "rishaya.com" always_nxdomain
 local-zone: "rivcash.com" always_nxdomain
 local-zone: "rivet.works" always_nxdomain
+local-zone: "rmitltd.com" always_nxdomain
 local-zone: "roboads.net" always_nxdomain
 local-zone: "rockyou.com" always_nxdomain
 local-zone: "rocoads.com" always_nxdomain
@@ -11103,6 +11104,7 @@ local-zone: "tb.turbocap.net" always_nxdomain
 local-zone: "teamcornett.com" always_nxdomain
 local-zone: "teasermedia.net" always_nxdomain
 local-zone: "techcentrica.in" always_nxdomain
+local-zone: "techmistriz.com" always_nxdomain
 local-zone: "tecnocoches.com" always_nxdomain
 local-zone: "teenrevenue.com" always_nxdomain
 local-zone: "tektokmedia.com" always_nxdomain
@@ -15582,7 +15584,6 @@ local-zone: "unityads.unity3d.com" always_nxdomain
 local-zone: "unlimitedtextads.com" always_nxdomain
 local-zone: "upscaleworldwide.com" always_nxdomain
 local-zone: "vendiadvertising.com" always_nxdomain
-local-zone: "vendorlist.dmcdn.net" always_nxdomain
 local-zone: "videoads.hotstar.com" always_nxdomain
 local-zone: "vppgamingnetwork.com" always_nxdomain
 local-zone: "wbbanner.mrn-news.de" always_nxdomain

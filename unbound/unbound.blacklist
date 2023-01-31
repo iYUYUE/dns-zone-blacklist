@@ -4667,6 +4667,7 @@ local-zone: "riester.com" always_refuse
 local-zone: "rishaya.com" always_refuse
 local-zone: "rivcash.com" always_refuse
 local-zone: "rivet.works" always_refuse
+local-zone: "rmitltd.com" always_refuse
 local-zone: "roboads.net" always_refuse
 local-zone: "rockyou.com" always_refuse
 local-zone: "rocoads.com" always_refuse
@@ -11103,6 +11104,7 @@ local-zone: "tb.turbocap.net" always_refuse
 local-zone: "teamcornett.com" always_refuse
 local-zone: "teasermedia.net" always_refuse
 local-zone: "techcentrica.in" always_refuse
+local-zone: "techmistriz.com" always_refuse
 local-zone: "tecnocoches.com" always_refuse
 local-zone: "teenrevenue.com" always_refuse
 local-zone: "tektokmedia.com" always_refuse
@@ -15582,7 +15584,6 @@ local-zone: "unityads.unity3d.com" always_refuse
 local-zone: "unlimitedtextads.com" always_refuse
 local-zone: "upscaleworldwide.com" always_refuse
 local-zone: "vendiadvertising.com" always_refuse
-local-zone: "vendorlist.dmcdn.net" always_refuse
 local-zone: "videoads.hotstar.com" always_refuse
 local-zone: "vppgamingnetwork.com" always_refuse
 local-zone: "wbbanner.mrn-news.de" always_refuse
