@@ -1214,6 +1214,7 @@ local-zone: "moa.rocks" always_nxdomain
 local-zone: "moba8.net" always_nxdomain
 local-zone: "mobgc.com" always_nxdomain
 local-zone: "mobgi.com" always_nxdomain
+local-zone: "mobon.net" always_nxdomain
 local-zone: "moe.video" always_nxdomain
 local-zone: "mon.group" always_nxdomain
 local-zone: "monsy.com" always_nxdomain
@@ -2581,6 +2582,7 @@ local-zone: "linkad.com" always_nxdomain
 local-zone: "linkspy.cc" always_nxdomain
 local-zone: "liqwid.net" always_nxdomain
 local-zone: "liveads.jp" always_nxdomain
+local-zone: "livere.com" always_nxdomain
 local-zone: "ljecur.com" always_nxdomain
 local-zone: "ljknem.com" always_nxdomain
 local-zone: "lkguug.com" always_nxdomain
@@ -14961,6 +14963,7 @@ local-zone: "widget.eviesays.com" always_nxdomain
 local-zone: "widget.hippochat.io" always_nxdomain
 local-zone: "widget.mitegyek.com" always_nxdomain
 local-zone: "widget.niedziela.pl" always_nxdomain
+local-zone: "widget.publish.link" always_nxdomain
 local-zone: "widget.sellwild.com" always_nxdomain
 local-zone: "widget.spreaker.com" always_nxdomain
 local-zone: "widget.stackbit.com" always_nxdomain

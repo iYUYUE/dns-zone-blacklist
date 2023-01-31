@@ -1214,6 +1214,7 @@ local-zone: "moa.rocks" always_refuse
 local-zone: "moba8.net" always_refuse
 local-zone: "mobgc.com" always_refuse
 local-zone: "mobgi.com" always_refuse
+local-zone: "mobon.net" always_refuse
 local-zone: "moe.video" always_refuse
 local-zone: "mon.group" always_refuse
 local-zone: "monsy.com" always_refuse
@@ -2581,6 +2582,7 @@ local-zone: "linkad.com" always_refuse
 local-zone: "linkspy.cc" always_refuse
 local-zone: "liqwid.net" always_refuse
 local-zone: "liveads.jp" always_refuse
+local-zone: "livere.com" always_refuse
 local-zone: "ljecur.com" always_refuse
 local-zone: "ljknem.com" always_refuse
 local-zone: "lkguug.com" always_refuse
@@ -14961,6 +14963,7 @@ local-zone: "widget.eviesays.com" always_refuse
 local-zone: "widget.hippochat.io" always_refuse
 local-zone: "widget.mitegyek.com" always_refuse
 local-zone: "widget.niedziela.pl" always_refuse
+local-zone: "widget.publish.link" always_refuse
 local-zone: "widget.sellwild.com" always_refuse
 local-zone: "widget.spreaker.com" always_refuse
 local-zone: "widget.stackbit.com" always_refuse
