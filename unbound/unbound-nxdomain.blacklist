@@ -3294,6 +3294,7 @@ local-zone: "xkpbcd.com" always_nxdomain
 local-zone: "xktbdw.com" always_nxdomain
 local-zone: "xlfccb.com" always_nxdomain
 local-zone: "xlftcc.com" always_nxdomain
+local-zone: "xlirdr.com" always_nxdomain
 local-zone: "xmaebl.com" always_nxdomain
 local-zone: "xmeuho.com" always_nxdomain
 local-zone: "xmlads.bid" always_nxdomain
@@ -4829,6 +4830,7 @@ local-zone: "uimserv.net" always_nxdomain
 local-zone: "ultrads.net" always_nxdomain
 local-zone: "unative.com" always_nxdomain
 local-zone: "unicads.net" always_nxdomain
+local-zone: "union.media" always_nxdomain
 local-zone: "uniqush.org" always_nxdomain
 local-zone: "uppyads.com" always_nxdomain
 local-zone: "uprival.com" always_nxdomain

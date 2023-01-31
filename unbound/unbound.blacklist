@@ -3294,6 +3294,7 @@ local-zone: "xkpbcd.com" always_refuse
 local-zone: "xktbdw.com" always_refuse
 local-zone: "xlfccb.com" always_refuse
 local-zone: "xlftcc.com" always_refuse
+local-zone: "xlirdr.com" always_refuse
 local-zone: "xmaebl.com" always_refuse
 local-zone: "xmeuho.com" always_refuse
 local-zone: "xmlads.bid" always_refuse
@@ -4829,6 +4830,7 @@ local-zone: "uimserv.net" always_refuse
 local-zone: "ultrads.net" always_refuse
 local-zone: "unative.com" always_refuse
 local-zone: "unicads.net" always_refuse
+local-zone: "union.media" always_refuse
 local-zone: "uniqush.org" always_refuse
 local-zone: "uppyads.com" always_refuse
 local-zone: "uprival.com" always_refuse
