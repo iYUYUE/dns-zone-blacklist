@@ -4899,6 +4899,7 @@ local-zone: "wondoads.de" always_refuse
 local-zone: "wp-push.com" always_refuse
 local-zone: "wtg-ads.com" always_refuse
 local-zone: "x.amain.com" always_refuse
+local-zone: "xl-cash.com" always_refuse
 local-zone: "xmlking.com" always_refuse
 local-zone: "xoliter.com" always_refuse
 local-zone: "xtr2020.com" always_refuse
@@ -8041,6 +8042,7 @@ local-zone: "realmatch.com" always_refuse
 local-zone: "realmedia.com" always_refuse
 local-zone: "realpush.news" always_refuse
 local-zone: "realssp.co.kr" always_refuse
+local-zone: "realtyww.info" always_refuse
 local-zone: "recreativ.com" always_refuse
 local-zone: "reddot.com.kh" always_refuse
 local-zone: "reklama.wp.pl" always_refuse
@@ -8180,6 +8182,7 @@ local-zone: "stageflag.com" always_refuse
 local-zone: "stalihuwi.com" always_refuse
 local-zone: "static.adf.ly" always_refuse
 local-zone: "stcontent.net" always_refuse
+local-zone: "steeveads.com" always_refuse
 local-zone: "stenadewy.pro" always_refuse
 local-zone: "stepkeydo.com" always_refuse
 local-zone: "stezuzeje.com" always_refuse
@@ -9246,6 +9249,7 @@ local-zone: "icon-media.com" always_refuse
 local-zone: "igniterads.com" always_refuse
 local-zone: "i.hqvrporn.net" always_refuse
 local-zone: "ilikeclick.com" always_refuse
+local-zone: "img-ad-nex.com" always_refuse
 local-zone: "i-mobile.co.jp" always_refuse
 local-zone: "impactslam.com" always_refuse
 local-zone: "inawemedia.com" always_refuse
@@ -12249,6 +12253,7 @@ local-zone: "trafficwurkz.com" always_refuse
 local-zone: "triffidmedia.com" always_refuse
 local-zone: "troodonmedia.com" always_refuse
 local-zone: "truepushmail.com" always_refuse
+local-zone: "trumpyourads.com" always_refuse
 local-zone: "twentyoneton.com" always_refuse
 local-zone: "twinedigital.com" always_refuse
 local-zone: "ultramegaads.com" always_refuse
@@ -13248,6 +13253,7 @@ local-zone: "traffbay-push.com" always_refuse
 local-zone: "traffic-buchen.de" always_refuse
 local-zone: "trafficcenter.com" always_refuse
 local-zone: "trafficfabrik.com" always_refuse
+local-zone: "trafficleaders.nl" always_refuse
 local-zone: "traffic-lions.com" always_refuse
 local-zone: "trafficnomads.com" always_refuse
 local-zone: "traffpartners.com" always_refuse
@@ -17707,6 +17713,7 @@ local-zone: "softwaredefineddelivery.net" always_refuse
 local-zone: "softwaredefineddelivery.org" always_refuse
 local-zone: "sourcepoint.theguardian.com" always_refuse
 local-zone: "tempest.services.disqus.com" always_refuse
+local-zone: "thedesimarketingproject.com" always_refuse
 local-zone: "twcmediasales.akamaized.net" always_refuse
 local-zone: "voodoointernetmarketing.com" always_refuse
 local-zone: "webappstreamingnetwork.info" always_refuse
