@@ -615,6 +615,7 @@ local-zone: "zentr.cc" always_refuse
 local-zone: "zirca.in" always_refuse
 local-zone: "11.o7.net" always_refuse
 local-zone: "12had.com" always_refuse
+local-zone: "1611a.com" always_refuse
 local-zone: "17ads.net" always_refuse
 local-zone: "1lead.xyz" always_refuse
 local-zone: "1rxntv.io" always_refuse
@@ -624,6 +625,7 @@ local-zone: "1ts19.top" always_refuse
 local-zone: "1ts20.top" always_refuse
 local-zone: "21sme.com" always_refuse
 local-zone: "2588u.com" always_refuse
+local-zone: "2622u.com" always_refuse
 local-zone: "2b.com.au" always_refuse
 local-zone: "2trk.info" always_refuse
 local-zone: "302br.net" always_refuse
@@ -637,7 +639,10 @@ local-zone: "4wnet.com" always_refuse
 local-zone: "5rocks.io" always_refuse
 local-zone: "6ea.co.za" always_refuse
 local-zone: "7xc4n.com" always_refuse
+local-zone: "8125a.com" always_refuse
 local-zone: "86ads.org" always_refuse
+local-zone: "9167x.com" always_refuse
+local-zone: "9591x.com" always_refuse
 local-zone: "9h7n8.com" always_refuse
 local-zone: "9lt1f7.ru" always_refuse
 local-zone: "a2adv.com" always_refuse
@@ -1061,6 +1066,7 @@ local-zone: "glize.com" always_refuse
 local-zone: "gmads.net" always_refuse
 local-zone: "gmo-am.jp" always_refuse
 local-zone: "gnezdo.ru" always_refuse
+local-zone: "go2yd.com" always_refuse
 local-zone: "go-fet.ch" always_refuse
 local-zone: "gprhe.com" always_refuse
 local-zone: "greky.xyz" always_refuse
@@ -1232,6 +1238,7 @@ local-zone: "myadv.org" always_refuse
 local-zone: "n0244.com" always_refuse
 local-zone: "n0399.com" always_refuse
 local-zone: "n0404.com" always_refuse
+local-zone: "n0544.com" always_refuse
 local-zone: "n0611.com" always_refuse
 local-zone: "n2s.co.kr" always_refuse
 local-zone: "n5371.com" always_refuse
@@ -2280,6 +2287,7 @@ local-zone: "exodsp.com" always_refuse
 local-zone: "exosrv.com" always_refuse
 local-zone: "ezanga.com" always_refuse
 local-zone: "ezephyr.in" always_refuse
+local-zone: "ezfxpuo.cn" always_refuse
 local-zone: "f9tmep.net" always_refuse
 local-zone: "facmtf.com" always_refuse
 local-zone: "fagold.xyz" always_refuse
@@ -3142,6 +3150,7 @@ local-zone: "txtrek.net" always_refuse
 local-zone: "typwwg.com" always_refuse
 local-zone: "tyrads.com" always_refuse
 local-zone: "tznpxp.com" always_refuse
+local-zone: "u22055.com" always_refuse
 local-zone: "uaband.pro" always_refuse
 local-zone: "ublrfs.com" always_refuse
 local-zone: "uckaht.com" always_refuse
@@ -3395,6 +3404,7 @@ local-zone: "0y2im3ma.ru" always_refuse
 local-zone: "10xroas.com" always_refuse
 local-zone: "1129555.com" always_refuse
 local-zone: "1158555.com" always_refuse
+local-zone: "1190555.com" always_refuse
 local-zone: "123sudo.com" always_refuse
 local-zone: "139gphf8.de" always_refuse
 local-zone: "1.imimg.com" always_refuse
@@ -3423,6 +3433,12 @@ local-zone: "78tdd75.com" always_refuse
 local-zone: "7com.com.ua" always_refuse
 local-zone: "7ddesign.in" always_refuse
 local-zone: "7six.com.ng" always_refuse
+local-zone: "8499132.com" always_refuse
+local-zone: "8499159.com" always_refuse
+local-zone: "8499163.com" always_refuse
+local-zone: "8499258.com" always_refuse
+local-zone: "8499483.com" always_refuse
+local-zone: "8499583.com" always_refuse
 local-zone: "8499683.com" always_refuse
 local-zone: "8889921.com" always_refuse
 local-zone: "9omedia.com" always_refuse
@@ -4271,6 +4287,7 @@ local-zone: "hit-now.com" always_refuse
 local-zone: "hit.stat.pl" always_refuse
 local-zone: "h.itvnet.lv" always_refuse
 local-zone: "hlserve.com" always_refuse
+local-zone: "hongtta.com" always_refuse
 local-zone: "hookusa.com" always_refuse
 local-zone: "hostpph.com" always_refuse
 local-zone: "hot-mob.com" always_refuse
@@ -4972,11 +4989,17 @@ local-zone: "5ivempls.com" always_refuse
 local-zone: "5stonead.com" always_refuse
 local-zone: "5visions.com" always_refuse
 local-zone: "66667aaa.com" always_refuse
+local-zone: "66885aaa.com" always_refuse
 local-zone: "7isu18su.org" always_refuse
 local-zone: "7media.co.ke" always_refuse
 local-zone: "81517801.com" always_refuse
 local-zone: "88669aaa.com" always_refuse
+local-zone: "88885aaa.com" always_refuse
+local-zone: "88887aaa.com" always_refuse
 local-zone: "99889aaa.com" always_refuse
+local-zone: "99996aaa.com" always_refuse
+local-zone: "99997aaa.com" always_refuse
+local-zone: "99998aaa.com" always_refuse
 local-zone: "a4mtools.net" always_refuse
 local-zone: "a5.g--o.info" always_refuse
 local-zone: "a5g.oves.biz" always_refuse
@@ -5592,6 +5615,7 @@ local-zone: "centrocom.es" always_refuse
 local-zone: "centumad.com" always_refuse
 local-zone: "ceostars.com" always_refuse
 local-zone: "chameleon.ad" always_refuse
+local-zone: "chaojijs.xyz" always_refuse
 local-zone: "chatintr.com" always_refuse
 local-zone: "chatlead.com" always_refuse
 local-zone: "chirello.com" always_refuse
@@ -6701,6 +6725,7 @@ local-zone: "78madison.com" always_refuse
 local-zone: "7fvdh40aoz.ru" always_refuse
 local-zone: "7jzic2hylf.ru" always_refuse
 local-zone: "7nkbwdf1uq.ru" always_refuse
+local-zone: "832793jse.com" always_refuse
 local-zone: "841k8qv38d.ru" always_refuse
 local-zone: "93-octane.com" always_refuse
 local-zone: "954design.com" always_refuse
@@ -8322,6 +8347,7 @@ local-zone: "vividaweb.com" always_refuse
 local-zone: "vividcash.com" always_refuse
 local-zone: "vixnixxer.com" always_refuse
 local-zone: "voodoo-ads.io" always_refuse
+local-zone: "v.qisaoba.com" always_refuse
 local-zone: "vubihowhe.com" always_refuse
 local-zone: "vugnubier.com" always_refuse
 local-zone: "warpwrite.com" always_refuse
@@ -9941,6 +9967,7 @@ local-zone: "4n1hqmcoms.rest" always_refuse
 local-zone: "5000banners.com" always_refuse
 local-zone: "59a8e0d6fa2.com" always_refuse
 local-zone: "5.ras.yahoo.com" always_refuse
+local-zone: "683tuchuang.com" always_refuse
 local-zone: "68939975272.com" always_refuse
 local-zone: "6.ras.yahoo.com" always_refuse
 local-zone: "71213zhazha.com" always_refuse
@@ -9948,6 +9975,7 @@ local-zone: "75625358935.com" always_refuse
 local-zone: "79151879798.com" always_refuse
 local-zone: "87929881825.com" always_refuse
 local-zone: "88225233827.com" always_refuse
+local-zone: "89958716765.com" always_refuse
 local-zone: "91836731671.com" always_refuse
 local-zone: "93261587768.com" always_refuse
 local-zone: "a0.raidrush.org" always_refuse
