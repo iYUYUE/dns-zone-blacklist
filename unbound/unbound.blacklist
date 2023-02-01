@@ -13320,6 +13320,7 @@ local-zone: "webengagemail.com" always_refuse
 local-zone: "webmarketeruk.com" always_refuse
 local-zone: "web-searchers.com" always_refuse
 local-zone: "weinbachgroup.com" always_refuse
+local-zone: "whitelist-pro.com" always_refuse
 local-zone: "why360durango.com" always_refuse
 local-zone: "widget3.zacks.com" always_refuse
 local-zone: "widget.flowxo.com" always_refuse

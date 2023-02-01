@@ -13320,6 +13320,7 @@ local-zone: "webengagemail.com" always_nxdomain
 local-zone: "webmarketeruk.com" always_nxdomain
 local-zone: "web-searchers.com" always_nxdomain
 local-zone: "weinbachgroup.com" always_nxdomain
+local-zone: "whitelist-pro.com" always_nxdomain
 local-zone: "why360durango.com" always_nxdomain
 local-zone: "widget3.zacks.com" always_nxdomain
 local-zone: "widget.flowxo.com" always_nxdomain

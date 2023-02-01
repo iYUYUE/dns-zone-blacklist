@@ -13320,6 +13320,7 @@ zone "webengagemail.com" { type master; notify no; file "null.zone.file"; };
 zone "webmarketeruk.com" { type master; notify no; file "null.zone.file"; };
 zone "web-searchers.com" { type master; notify no; file "null.zone.file"; };
 zone "weinbachgroup.com" { type master; notify no; file "null.zone.file"; };
+zone "whitelist-pro.com" { type master; notify no; file "null.zone.file"; };
 zone "why360durango.com" { type master; notify no; file "null.zone.file"; };
 zone "widget3.zacks.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.flowxo.com" { type master; notify no; file "null.zone.file"; };
