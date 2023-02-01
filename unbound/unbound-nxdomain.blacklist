@@ -539,6 +539,7 @@ local-zone: "pxlad.io" always_nxdomain
 local-zone: "qksz.net" always_nxdomain
 local-zone: "qt.media" always_nxdomain
 local-zone: "rbnt.org" always_nxdomain
+local-zone: "rdai.com" always_nxdomain
 local-zone: "rdr9.xyz" always_nxdomain
 local-zone: "rebel.ai" always_nxdomain
 local-zone: "relap.io" always_nxdomain
@@ -4233,6 +4234,7 @@ local-zone: "gagacon.com" always_nxdomain
 local-zone: "gamoshi.com" always_nxdomain
 local-zone: "gasmobi.com" always_nxdomain
 local-zone: "gbwwh.co.il" always_nxdomain
+local-zone: "genmedia.in" always_nxdomain
 local-zone: "getback.app" always_nxdomain
 local-zone: "gethyped.io" always_nxdomain
 local-zone: "getleads.fr" always_nxdomain

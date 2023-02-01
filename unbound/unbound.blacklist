@@ -539,6 +539,7 @@ local-zone: "pxlad.io" always_refuse
 local-zone: "qksz.net" always_refuse
 local-zone: "qt.media" always_refuse
 local-zone: "rbnt.org" always_refuse
+local-zone: "rdai.com" always_refuse
 local-zone: "rdr9.xyz" always_refuse
 local-zone: "rebel.ai" always_refuse
 local-zone: "relap.io" always_refuse
@@ -4233,6 +4234,7 @@ local-zone: "gagacon.com" always_refuse
 local-zone: "gamoshi.com" always_refuse
 local-zone: "gasmobi.com" always_refuse
 local-zone: "gbwwh.co.il" always_refuse
+local-zone: "genmedia.in" always_refuse
 local-zone: "getback.app" always_refuse
 local-zone: "gethyped.io" always_refuse
 local-zone: "getleads.fr" always_refuse
