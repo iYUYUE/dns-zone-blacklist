@@ -4904,6 +4904,7 @@ zone "virleth.com" { type master; notify no; file "null.zone.file"; };
 zone "visitbox.de" { type master; notify no; file "null.zone.file"; };
 zone "vofzpwh.com" { type master; notify no; file "null.zone.file"; };
 zone "voiceads.cn" { type master; notify no; file "null.zone.file"; };
+zone "voranda.com" { type master; notify no; file "null.zone.file"; };
 zone "vrbcash.com" { type master; notify no; file "null.zone.file"; };
 zone "vrizead.com" { type master; notify no; file "null.zone.file"; };
 zone "vrporn.cash" { type master; notify no; file "null.zone.file"; };
