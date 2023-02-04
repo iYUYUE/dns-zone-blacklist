@@ -8359,6 +8359,7 @@ zone "videoplaza.tv" { type master; notify no; file "null.zone.file"; };
 zone "videoreach.de" { type master; notify no; file "null.zone.file"; };
 zone "vidillion.com" { type master; notify no; file "null.zone.file"; };
 zone "viewtraff.com" { type master; notify no; file "null.zone.file"; };
+zone "vimoshare.com" { type master; notify no; file "null.zone.file"; };
 zone "vividaweb.com" { type master; notify no; file "null.zone.file"; };
 zone "vividcash.com" { type master; notify no; file "null.zone.file"; };
 zone "vixnixxer.com" { type master; notify no; file "null.zone.file"; };
