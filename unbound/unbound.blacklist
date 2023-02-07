@@ -3194,6 +3194,7 @@ local-zone: "utarget.ru" always_refuse
 local-zone: "utmurl.com" always_refuse
 local-zone: "utraff.com" always_refuse
 local-zone: "uvpzll.com" always_refuse
+local-zone: "uvrifrd.cn" always_refuse
 local-zone: "uwamsfd.cc" always_refuse
 local-zone: "uwdvcn.com" always_refuse
 local-zone: "uwpblc.com" always_refuse
@@ -4466,6 +4467,7 @@ local-zone: "mirriad.com" always_refuse
 local-zone: "misgood.com" always_refuse
 local-zone: "misspkl.com" always_refuse
 local-zone: "mkazanc.com" always_refuse
+local-zone: "mkjmdsc.xyz" always_refuse
 local-zone: "mktossl.com" always_refuse
 local-zone: "mktoweb.com" always_refuse
 local-zone: "mmctsvc.com" always_refuse
@@ -7653,6 +7655,7 @@ local-zone: "iamniyati.com" always_refuse
 local-zone: "iclickcdn.com" always_refuse
 local-zone: "idolbucks.com" always_refuse
 local-zone: "ihhg3or2es.ru" always_refuse
+local-zone: "ikjwmfeds.xyz" always_refuse
 local-zone: "i.milimaj.com" always_refuse
 local-zone: "impact-ad.com" always_refuse
 local-zone: "improveads.fi" always_refuse
@@ -16044,6 +16047,7 @@ local-zone: "kunner.wiesentbote.de" always_refuse
 local-zone: "lasersightdigital.com" always_refuse
 local-zone: "lcfboq.carolgames.com" always_refuse
 local-zone: "leadgeneration.com.au" always_refuse
+local-zone: "leadsbrandconnect.com" always_refuse
 local-zone: "lemmatechnologies.com" always_refuse
 local-zone: "lemonde.assistpub.com" always_refuse
 local-zone: "localad.homedepot.com" always_refuse
