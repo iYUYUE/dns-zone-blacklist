@@ -3640,6 +3640,7 @@ local-zone: "adledge.com" always_refuse
 local-zone: "adlefee.com" always_refuse
 local-zone: "ad.legit.si" always_refuse
 local-zone: "adlesse.com" always_refuse
+local-zone: "ad-life.net" always_refuse
 local-zone: "ad.linux.pl" always_refuse
 local-zone: "ad-linx.com" always_refuse
 local-zone: "ad.lista.cz" always_refuse
@@ -11482,6 +11483,7 @@ local-zone: "ads.crozilla.com" always_refuse
 local-zone: "ads.cyberctm.com" always_refuse
 local-zone: "ads.damnn.com.au" always_refuse
 local-zone: "ads.dayahost.com" always_refuse
+local-zone: "ads.deeplush.com" always_refuse
 local-zone: "ads.devmates.com" always_refuse
 local-zone: "ads.diaperpin.me" always_refuse
 local-zone: "ads.diarisom.cat" always_refuse
@@ -13057,6 +13059,7 @@ local-zone: "mannmaterials.com" always_refuse
 local-zone: "marenastudios.com" always_refuse
 local-zone: "marinsoftware.com" always_refuse
 local-zone: "mariusleontiuc.ro" always_refuse
+local-zone: "marketingleap.net" always_refuse
 local-zone: "marketingoops.com" always_refuse
 local-zone: "markreptiloid.com" always_refuse
 local-zone: "mastersincash.com" always_refuse
@@ -14619,6 +14622,7 @@ local-zone: "banner.cinefilos.it" always_refuse
 local-zone: "banner.domainpt.com" always_refuse
 local-zone: "banner.freerice.com" always_refuse
 local-zone: "banner.gnjoy.com.tw" always_refuse
+local-zone: "banner.hana-mail.jp" always_refuse
 local-zone: "banner.shoozies.net" always_refuse
 local-zone: "banners.news1.co.il" always_refuse
 local-zone: "banner.solcieti.com" always_refuse
