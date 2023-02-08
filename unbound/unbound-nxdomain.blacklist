@@ -324,6 +324,7 @@ local-zone: "adinc.kr" always_nxdomain
 local-zone: "adk2.com" always_nxdomain
 local-zone: "adkit.in" always_nxdomain
 local-zone: "adman.gr" always_nxdomain
+local-zone: "adman.si" always_nxdomain
 local-zone: "admix.in" always_nxdomain
 local-zone: "admob.de" always_nxdomain
 local-zone: "admob.dk" always_nxdomain
@@ -1756,6 +1757,7 @@ local-zone: "adpays.net" always_nxdomain
 local-zone: "ad-pic.com" always_nxdomain
 local-zone: "adpies.com" always_nxdomain
 local-zone: "adpile.net" always_nxdomain
+local-zone: "adplex.net" always_nxdomain
 local-zone: "adplugg.io" always_nxdomain
 local-zone: "adpnut.com" always_nxdomain
 local-zone: "ad.poek.pw" always_nxdomain

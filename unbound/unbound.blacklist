@@ -324,6 +324,7 @@ local-zone: "adinc.kr" always_refuse
 local-zone: "adk2.com" always_refuse
 local-zone: "adkit.in" always_refuse
 local-zone: "adman.gr" always_refuse
+local-zone: "adman.si" always_refuse
 local-zone: "admix.in" always_refuse
 local-zone: "admob.de" always_refuse
 local-zone: "admob.dk" always_refuse
@@ -1756,6 +1757,7 @@ local-zone: "adpays.net" always_refuse
 local-zone: "ad-pic.com" always_refuse
 local-zone: "adpies.com" always_refuse
 local-zone: "adpile.net" always_refuse
+local-zone: "adplex.net" always_refuse
 local-zone: "adplugg.io" always_refuse
 local-zone: "adpnut.com" always_refuse
 local-zone: "ad.poek.pw" always_refuse
