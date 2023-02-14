@@ -11110,6 +11110,7 @@ zone "shophustivu.com" { type master; notify no; file "null.zone.file"; };
 zone "shoptylasty.pro" { type master; notify no; file "null.zone.file"; };
 zone "showcaseidx.com" { type master; notify no; file "null.zone.file"; };
 zone "shuptiwywhu.com" { type master; notify no; file "null.zone.file"; };
+zone "sinpartyapi.com" { type master; notify no; file "null.zone.file"; };
 zone "sixft-apart.com" { type master; notify no; file "null.zone.file"; };
 zone "skullrocket.com" { type master; notify no; file "null.zone.file"; };
 zone "smartadcheck.de" { type master; notify no; file "null.zone.file"; };
