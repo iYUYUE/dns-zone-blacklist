@@ -7320,6 +7320,7 @@ zone "blackarrow.tv" { type master; notify no; file "null.zone.file"; };
 zone "blacurlik.com" { type master; notify no; file "null.zone.file"; };
 zone "blastmobi.com" { type master; notify no; file "null.zone.file"; };
 zone "blkditsup.com" { type master; notify no; file "null.zone.file"; };
+zone "bloblohub.com" { type master; notify no; file "null.zone.file"; };
 zone "blu5fdclr.com" { type master; notify no; file "null.zone.file"; };
 zone "blue-shark.nl" { type master; notify no; file "null.zone.file"; };
 zone "bnservers.com" { type master; notify no; file "null.zone.file"; };
