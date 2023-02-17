@@ -16099,6 +16099,7 @@ zone "ox.ghanasoccernet.com" { type master; notify no; file "null.zone.file"; };
 zone "parking.parklogic.com" { type master; notify no; file "null.zone.file"; };
 zone "partenaire.palpix.com" { type master; notify no; file "null.zone.file"; };
 zone "performanceplay.co.kr" { type master; notify no; file "null.zone.file"; };
+zone "pioneeradvertiser.com" { type master; notify no; file "null.zone.file"; };
 zone "podcastupfront.stream" { type master; notify no; file "null.zone.file"; };
 zone "popup2.lifterapps.com" { type master; notify no; file "null.zone.file"; };
 zone "project-limelight.com" { type master; notify no; file "null.zone.file"; };
