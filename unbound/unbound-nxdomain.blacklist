@@ -9504,6 +9504,7 @@ local-zone: "myadvocado.com" always_nxdomain
 local-zone: "myemachine.com" always_nxdomain
 local-zone: "mypagerank.net" always_nxdomain
 local-zone: "mystiqueja.com" always_nxdomain
+local-zone: "mystrongad.com" always_nxdomain
 local-zone: "n100adserv.com" always_nxdomain
 local-zone: "n101adserv.com" always_nxdomain
 local-zone: "n102adserv.com" always_nxdomain

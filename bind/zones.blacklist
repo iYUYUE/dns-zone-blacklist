@@ -9504,6 +9504,7 @@ zone "myadvocado.com" { type master; notify no; file "null.zone.file"; };
 zone "myemachine.com" { type master; notify no; file "null.zone.file"; };
 zone "mypagerank.net" { type master; notify no; file "null.zone.file"; };
 zone "mystiqueja.com" { type master; notify no; file "null.zone.file"; };
+zone "mystrongad.com" { type master; notify no; file "null.zone.file"; };
 zone "n100adserv.com" { type master; notify no; file "null.zone.file"; };
 zone "n101adserv.com" { type master; notify no; file "null.zone.file"; };
 zone "n102adserv.com" { type master; notify no; file "null.zone.file"; };
