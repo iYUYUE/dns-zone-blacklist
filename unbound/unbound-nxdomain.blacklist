@@ -3850,6 +3850,7 @@ local-zone: "ads-srv.com" always_nxdomain
 local-zone: "ads-srv.net" always_nxdomain
 local-zone: "adstacks.in" always_nxdomain
 local-zone: "adstage.com" always_nxdomain
+local-zone: "adsteer.com" always_nxdomain
 local-zone: "adstime.org" always_nxdomain
 local-zone: "ad-stir.com" always_nxdomain
 local-zone: "adstock.pro" always_nxdomain
@@ -4465,6 +4466,7 @@ local-zone: "mdialog.com" always_nxdomain
 local-zone: "mdspinc.com" always_nxdomain
 local-zone: "medallia.eu" always_nxdomain
 local-zone: "mediaad.org" always_nxdomain
+local-zone: "mediaant.id" always_nxdomain
 local-zone: "mediacpm.pl" always_nxdomain
 local-zone: "medialab.la" always_nxdomain
 local-zone: "megartb.com" always_nxdomain
@@ -4664,6 +4666,7 @@ local-zone: "pushfan.com" always_nxdomain
 local-zone: "pushfire.de" always_nxdomain
 local-zone: "pushfire.io" always_nxdomain
 local-zone: "push.hoy.es" always_nxdomain
+local-zone: "pushify.com" always_nxdomain
 local-zone: "pushkit.com" always_nxdomain
 local-zone: "pushland.ru" always_nxdomain
 local-zone: "pushnews.eu" always_nxdomain
@@ -6153,6 +6156,7 @@ local-zone: "nativery.com" always_nxdomain
 local-zone: "nearbyad.com" always_nxdomain
 local-zone: "nefijapu.com" always_nxdomain
 local-zone: "nekycupi.xyz" always_nxdomain
+local-zone: "neofly.co.in" always_nxdomain
 local-zone: "nerdolac.com" always_nxdomain
 local-zone: "netfilia.com" always_nxdomain
 local-zone: "netolink.com" always_nxdomain
@@ -7883,6 +7887,7 @@ local-zone: "moneycult.com" always_nxdomain
 local-zone: "mopsilysa.com" always_nxdomain
 local-zone: "moshimoshi.in" always_nxdomain
 local-zone: "mostlyads.com" always_nxdomain
+local-zone: "mps-agency.de" always_nxdomain
 local-zone: "mqwcuesny6.ru" always_nxdomain
 local-zone: "mrndigital.in" always_nxdomain
 local-zone: "mr-popper.com" always_nxdomain
@@ -9247,6 +9252,7 @@ local-zone: "frinitewkn.com" always_nxdomain
 local-zone: "ft99.b-cdn.net" always_nxdomain
 local-zone: "fuelmarcom.com" always_nxdomain
 local-zone: "funnelenvy.com" always_nxdomain
+local-zone: "futureocto.com" always_nxdomain
 local-zone: "fyhishushe.com" always_nxdomain
 local-zone: "fythavoshu.com" always_nxdomain
 local-zone: "g52bxi1v1w.com" always_nxdomain
