@@ -15370,6 +15370,7 @@ zone "aimg.babytreeimg.com" { type master; notify no; file "null.zone.file"; };
 zone "akam.daps.nbcuni.com" { type master; notify no; file "null.zone.file"; };
 zone "allcreativeworld.com" { type master; notify no; file "null.zone.file"; };
 zone "alpha-affiliates.com" { type master; notify no; file "null.zone.file"; };
+zone "anandadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "anatomyintegrated.in" { type master; notify no; file "null.zone.file"; };
 zone "angular.athletic.net" { type master; notify no; file "null.zone.file"; };
 zone "annons.svenskjakt.se" { type master; notify no; file "null.zone.file"; };
