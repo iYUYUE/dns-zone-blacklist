@@ -12751,6 +12751,7 @@ zone "ads.unlockmen.com" { type master; notify no; file "null.zone.file"; };
 zone "adsupplymedia.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.urbanroll.net" { type master; notify no; file "null.zone.file"; };
 zone "ads.urgente24.com" { type master; notify no; file "null.zone.file"; };
+zone "ad.susukino-h.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.uwayapply.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.valuelabs.net" { type master; notify no; file "null.zone.file"; };
 zone "ads.vdv-online.de" { type master; notify no; file "null.zone.file"; };
