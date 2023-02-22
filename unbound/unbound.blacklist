@@ -5536,6 +5536,7 @@ local-zone: "apiads.gg.pl" always_refuse
 local-zone: "api-feed.com" always_refuse
 local-zone: "api-push.com" always_refuse
 local-zone: "appbrain.com" always_refuse
+local-zone: "appcdn01.xyz" always_refuse
 local-zone: "appendad.com" always_refuse
 local-zone: "appflood.com" always_refuse
 local-zone: "appintop.com" always_refuse
@@ -9467,6 +9468,7 @@ local-zone: "logsession.com" always_refuse
 local-zone: "longroadrm.com" always_refuse
 local-zone: "lorageiros.com" always_refuse
 local-zone: "lotusorbit.com" always_refuse
+local-zone: "loudchilli.com" always_refuse
 local-zone: "loud-tower.pro" always_refuse
 local-zone: "lucienmann.pro" always_refuse
 local-zone: "lux-medien.com" always_refuse
@@ -18088,6 +18090,7 @@ local-zone: "d2fucu4fhozx2v.cloudfront.net" always_refuse
 local-zone: "d2geju3h8qicv6.cloudfront.net" always_refuse
 local-zone: "d2h8zr0m6mus4x.cloudfront.net" always_refuse
 local-zone: "d2ip7iv1l4ergv.cloudfront.net" always_refuse
+local-zone: "d2j042cj1421wi.cloudfront.net" always_refuse
 local-zone: "d2klx87bgzngce.cloudfront.net" always_refuse
 local-zone: "d2odv8q3xfctb4.cloudfront.net" always_refuse
 local-zone: "d2qv82yc3u9tc7.cloudfront.net" always_refuse

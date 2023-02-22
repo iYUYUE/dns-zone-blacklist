@@ -5536,6 +5536,7 @@ local-zone: "apiads.gg.pl" always_nxdomain
 local-zone: "api-feed.com" always_nxdomain
 local-zone: "api-push.com" always_nxdomain
 local-zone: "appbrain.com" always_nxdomain
+local-zone: "appcdn01.xyz" always_nxdomain
 local-zone: "appendad.com" always_nxdomain
 local-zone: "appflood.com" always_nxdomain
 local-zone: "appintop.com" always_nxdomain
@@ -9467,6 +9468,7 @@ local-zone: "logsession.com" always_nxdomain
 local-zone: "longroadrm.com" always_nxdomain
 local-zone: "lorageiros.com" always_nxdomain
 local-zone: "lotusorbit.com" always_nxdomain
+local-zone: "loudchilli.com" always_nxdomain
 local-zone: "loud-tower.pro" always_nxdomain
 local-zone: "lucienmann.pro" always_nxdomain
 local-zone: "lux-medien.com" always_nxdomain
@@ -18088,6 +18090,7 @@ local-zone: "d2fucu4fhozx2v.cloudfront.net" always_nxdomain
 local-zone: "d2geju3h8qicv6.cloudfront.net" always_nxdomain
 local-zone: "d2h8zr0m6mus4x.cloudfront.net" always_nxdomain
 local-zone: "d2ip7iv1l4ergv.cloudfront.net" always_nxdomain
+local-zone: "d2j042cj1421wi.cloudfront.net" always_nxdomain
 local-zone: "d2klx87bgzngce.cloudfront.net" always_nxdomain
 local-zone: "d2odv8q3xfctb4.cloudfront.net" always_nxdomain
 local-zone: "d2qv82yc3u9tc7.cloudfront.net" always_nxdomain
