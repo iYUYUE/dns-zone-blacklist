@@ -7640,6 +7640,7 @@ local-zone: "godigipro.com" always_refuse
 local-zone: "goglaferst.ru" always_refuse
 local-zone: "goldadvert.cz" always_refuse
 local-zone: "goldclick.xyz" always_refuse
+local-zone: "go.metabet.io" always_refuse
 local-zone: "go.mhadsd.com" always_refuse
 local-zone: "go.mhadst.com" always_refuse
 local-zone: "go.mobdel.com" always_refuse
@@ -17694,6 +17695,7 @@ local-zone: "dawnnationaladvertiser.com" always_refuse
 local-zone: "de-advertising.weather.com" always_refuse
 local-zone: "delivered-by-madington.com" always_refuse
 local-zone: "druckundwerte-creatives.de" always_refuse
+local-zone: "emailinboundprocessing.com" always_refuse
 local-zone: "eubanner.honeywellhome.com" always_refuse
 local-zone: "fem.prod.postmedia.digital" always_refuse
 local-zone: "hardbeatcommunications.com" always_refuse

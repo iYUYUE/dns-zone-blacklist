@@ -7640,6 +7640,7 @@ zone "godigipro.com" { type master; notify no; file "null.zone.file"; };
 zone "goglaferst.ru" { type master; notify no; file "null.zone.file"; };
 zone "goldadvert.cz" { type master; notify no; file "null.zone.file"; };
 zone "goldclick.xyz" { type master; notify no; file "null.zone.file"; };
+zone "go.metabet.io" { type master; notify no; file "null.zone.file"; };
 zone "go.mhadsd.com" { type master; notify no; file "null.zone.file"; };
 zone "go.mhadst.com" { type master; notify no; file "null.zone.file"; };
 zone "go.mobdel.com" { type master; notify no; file "null.zone.file"; };
@@ -17694,6 +17695,7 @@ zone "dawnnationaladvertiser.com" { type master; notify no; file "null.zone.file
 zone "de-advertising.weather.com" { type master; notify no; file "null.zone.file"; };
 zone "delivered-by-madington.com" { type master; notify no; file "null.zone.file"; };
 zone "druckundwerte-creatives.de" { type master; notify no; file "null.zone.file"; };
+zone "emailinboundprocessing.com" { type master; notify no; file "null.zone.file"; };
 zone "eubanner.honeywellhome.com" { type master; notify no; file "null.zone.file"; };
 zone "fem.prod.postmedia.digital" { type master; notify no; file "null.zone.file"; };
 zone "hardbeatcommunications.com" { type master; notify no; file "null.zone.file"; };
