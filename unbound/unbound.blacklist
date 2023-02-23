@@ -12030,6 +12030,7 @@ local-zone: "ibautomotive.com" always_refuse
 local-zone: "ib-broker.global" always_refuse
 local-zone: "idealbranding.in" always_refuse
 local-zone: "ill-purchase.pro" always_refuse
+local-zone: "ilmfpartners.com" always_refuse
 local-zone: "imaginemedia.com" always_refuse
 local-zone: "impactingads.com" always_refuse
 local-zone: "impressionad.com" always_refuse
@@ -17870,6 +17871,7 @@ local-zone: "twcmediasales.akamaized.net" always_refuse
 local-zone: "voodoointernetmarketing.com" always_refuse
 local-zone: "webappstreamingnetwork.info" always_refuse
 local-zone: "werbung.dohrmann-projekt.de" always_refuse
+local-zone: "widgets.thereviewsplace.com" always_refuse
 local-zone: "zfa.ledrugstoreparisien.com" always_refuse
 local-zone: "590233ee4fbb3.cdn.sohucs.com" always_refuse
 local-zone: "ad-council.brightspotcdn.com" always_refuse
