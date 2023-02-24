@@ -8577,6 +8577,7 @@ zone "adassothai.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.autoviny.sk" { type master; notify no; file "null.zone.file"; };
 zone "ad-balancer.at" { type master; notify no; file "null.zone.file"; };
 zone "adbalancer.com" { type master; notify no; file "null.zone.file"; };
+zone "ad.bestcams.eu" { type master; notify no; file "null.zone.file"; };
 zone "ad.bidrich.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.bitelio.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.bkkmenu.com" { type master; notify no; file "null.zone.file"; };
