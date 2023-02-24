@@ -4375,6 +4375,7 @@ zone "iponweb.com" { type master; notify no; file "null.zone.file"; };
 zone "iqadnet.com" { type master; notify no; file "null.zone.file"; };
 zone "ironsrc.com" { type master; notify no; file "null.zone.file"; };
 zone "isocket.com" { type master; notify no; file "null.zone.file"; };
+zone "itmedia.xyz" { type master; notify no; file "null.zone.file"; };
 zone "ito-app.org" { type master; notify no; file "null.zone.file"; };
 zone "iubenda.com" { type master; notify no; file "null.zone.file"; };
 zone "i-vengo.com" { type master; notify no; file "null.zone.file"; };

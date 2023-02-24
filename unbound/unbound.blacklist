@@ -4375,6 +4375,7 @@ local-zone: "iponweb.com" always_refuse
 local-zone: "iqadnet.com" always_refuse
 local-zone: "ironsrc.com" always_refuse
 local-zone: "isocket.com" always_refuse
+local-zone: "itmedia.xyz" always_refuse
 local-zone: "ito-app.org" always_refuse
 local-zone: "iubenda.com" always_refuse
 local-zone: "i-vengo.com" always_refuse

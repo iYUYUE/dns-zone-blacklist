@@ -4375,6 +4375,7 @@ local-zone: "iponweb.com" always_nxdomain
 local-zone: "iqadnet.com" always_nxdomain
 local-zone: "ironsrc.com" always_nxdomain
 local-zone: "isocket.com" always_nxdomain
+local-zone: "itmedia.xyz" always_nxdomain
 local-zone: "ito-app.org" always_nxdomain
 local-zone: "iubenda.com" always_nxdomain
 local-zone: "i-vengo.com" always_nxdomain
