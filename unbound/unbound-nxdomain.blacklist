@@ -15743,6 +15743,7 @@ local-zone: "wepayyoulongtime.com" always_nxdomain
 local-zone: "wesearchengineok.com" always_nxdomain
 local-zone: "widget.alireviews.io" always_nxdomain
 local-zone: "widget.altrulabs.com" always_nxdomain
+local-zone: "widget-api.one.store" always_nxdomain
 local-zone: "widget.justwatch.com" always_nxdomain
 local-zone: "widget.reviews.co.uk" always_nxdomain
 local-zone: "widgets.business.com" always_nxdomain
