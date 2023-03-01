@@ -983,7 +983,6 @@ local-zone: "crm4d.com" always_nxdomain
 local-zone: "crpoy.com" always_nxdomain
 local-zone: "csjuq.com" always_nxdomain
 local-zone: "cxepp.com" always_nxdomain
-local-zone: "cybba.com" always_nxdomain
 local-zone: "d2ads.com" always_nxdomain
 local-zone: "d2c.co.jp" always_nxdomain
 local-zone: "dac.co.jp" always_nxdomain
@@ -4723,6 +4722,7 @@ local-zone: "reformal.ru" always_nxdomain
 local-zone: "regie-sc.ch" always_nxdomain
 local-zone: "reklamka.ru" always_nxdomain
 local-zone: "relario.com" always_nxdomain
+local-zone: "reputon.com" always_nxdomain
 local-zone: "resonate.cx" always_nxdomain
 local-zone: "retail9.com" always_nxdomain
 local-zone: "revenue.net" always_nxdomain
@@ -16582,6 +16582,7 @@ local-zone: "consent.radiotimes.com" always_nxdomain
 local-zone: "consent.spieletipps.de" always_nxdomain
 local-zone: "constructionad.network" always_nxdomain
 local-zone: "contributor.google.com" always_nxdomain
+local-zone: "cookiebar.hulkapps.com" always_nxdomain
 local-zone: "counciladvertising.net" always_nxdomain
 local-zone: "creativedimensions.com" always_nxdomain
 local-zone: "creativeparamedics.com" always_nxdomain
