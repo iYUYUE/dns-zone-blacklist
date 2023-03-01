@@ -95,6 +95,7 @@ local-zone: "oms.eu" always_nxdomain
 local-zone: "pmg.co" always_nxdomain
 local-zone: "p-n.io" always_nxdomain
 local-zone: "pxf.io" always_nxdomain
+local-zone: "pzm.me" always_nxdomain
 local-zone: "rbl.ms" always_nxdomain
 local-zone: "rtk.io" always_nxdomain
 local-zone: "s4m.io" always_nxdomain
@@ -2892,6 +2893,7 @@ local-zone: "prebid.org" always_nxdomain
 local-zone: "presage.io" always_nxdomain
 local-zone: "prezna.com" always_nxdomain
 local-zone: "primead.jp" always_nxdomain
+local-zone: "prizmm.com" always_nxdomain
 local-zone: "prompty.io" always_nxdomain
 local-zone: "provely.io" always_nxdomain
 local-zone: "prsaln.com" always_nxdomain
@@ -6178,6 +6180,7 @@ local-zone: "nefijapu.com" always_nxdomain
 local-zone: "nekycupi.xyz" always_nxdomain
 local-zone: "neofly.co.in" always_nxdomain
 local-zone: "nerdolac.com" always_nxdomain
+local-zone: "netage.co.za" always_nxdomain
 local-zone: "netfilia.com" always_nxdomain
 local-zone: "netolink.com" always_nxdomain
 local-zone: "netpatas.com" always_nxdomain
@@ -8063,6 +8066,7 @@ local-zone: "ppctraffic.co" always_nxdomain
 local-zone: "prelinker.com" always_nxdomain
 local-zone: "preludeadv.it" always_nxdomain
 local-zone: "prestoris.com" always_nxdomain
+local-zone: "primemedia.pk" always_nxdomain
 local-zone: "prismcash.com" always_nxdomain
 local-zone: "prizm.digital" always_nxdomain
 local-zone: "proadscdn.com" always_nxdomain
@@ -8336,6 +8340,7 @@ local-zone: "the3rdeye.com" always_nxdomain
 local-zone: "theadmoji.com" always_nxdomain
 local-zone: "theadninja.ca" always_nxdomain
 local-zone: "theadpros.com" always_nxdomain
+local-zone: "theadside.com" always_nxdomain
 local-zone: "theagency.com" always_nxdomain
 local-zone: "thegotoguy.co" always_nxdomain
 local-zone: "thenextad.com" always_nxdomain
