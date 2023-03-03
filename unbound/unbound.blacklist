@@ -17607,6 +17607,7 @@ local-zone: "push.asahiinteractive.com" always_refuse
 local-zone: "push.dijitalvarliklar.com" always_refuse
 local-zone: "push.services.mozilla.com" always_refuse
 local-zone: "rebelinteractivegroup.com" always_refuse
+local-zone: "recommender.peasisoft.com" always_refuse
 local-zone: "recontent.services.tvn.pl" always_refuse
 local-zone: "referral.game-insight.com" always_refuse
 local-zone: "reklammen.spellchecker.lu" always_refuse

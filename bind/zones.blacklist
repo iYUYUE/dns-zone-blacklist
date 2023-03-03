@@ -17607,6 +17607,7 @@ zone "push.asahiinteractive.com" { type master; notify no; file "null.zone.file"
 zone "push.dijitalvarliklar.com" { type master; notify no; file "null.zone.file"; };
 zone "push.services.mozilla.com" { type master; notify no; file "null.zone.file"; };
 zone "rebelinteractivegroup.com" { type master; notify no; file "null.zone.file"; };
+zone "recommender.peasisoft.com" { type master; notify no; file "null.zone.file"; };
 zone "recontent.services.tvn.pl" { type master; notify no; file "null.zone.file"; };
 zone "referral.game-insight.com" { type master; notify no; file "null.zone.file"; };
 zone "reklammen.spellchecker.lu" { type master; notify no; file "null.zone.file"; };
