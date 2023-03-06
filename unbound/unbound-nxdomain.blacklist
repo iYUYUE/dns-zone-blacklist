@@ -11104,6 +11104,7 @@ local-zone: "pubserver.xl.pt" always_nxdomain
 local-zone: "pureamplify.com" always_nxdomain
 local-zone: "pushamplify.com" always_nxdomain
 local-zone: "pushcentric.com" always_nxdomain
+local-zone: "pushenhance.com" always_nxdomain
 local-zone: "pushnetwork.com" always_nxdomain
 local-zone: "pushologies.com" always_nxdomain
 local-zone: "push.rollout.io" always_nxdomain
@@ -11320,6 +11321,7 @@ local-zone: "uel-uel-fie.com" always_nxdomain
 local-zone: "under2given.com" always_nxdomain
 local-zone: "unrulymedia.com" always_nxdomain
 local-zone: "upscalemena.com" always_nxdomain
+local-zone: "upscalicads.com" always_nxdomain
 local-zone: "upstreamads.com" always_nxdomain
 local-zone: "valueadvert.com" always_nxdomain
 local-zone: "valuepotion.com" always_nxdomain
@@ -14979,6 +14981,7 @@ local-zone: "popup.netmarble.com" always_nxdomain
 local-zone: "popups.landingi.com" always_nxdomain
 local-zone: "primate-digital.com" always_nxdomain
 local-zone: "privacy.gomovix.com" always_nxdomain
+local-zone: "privateadserver.com" always_nxdomain
 local-zone: "profitshare.emag.ro" always_nxdomain
 local-zone: "promo.adtconmigo.mx" always_nxdomain
 local-zone: "promos.gpniches.com" always_nxdomain

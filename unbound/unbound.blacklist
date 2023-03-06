@@ -11104,6 +11104,7 @@ local-zone: "pubserver.xl.pt" always_refuse
 local-zone: "pureamplify.com" always_refuse
 local-zone: "pushamplify.com" always_refuse
 local-zone: "pushcentric.com" always_refuse
+local-zone: "pushenhance.com" always_refuse
 local-zone: "pushnetwork.com" always_refuse
 local-zone: "pushologies.com" always_refuse
 local-zone: "push.rollout.io" always_refuse
@@ -11320,6 +11321,7 @@ local-zone: "uel-uel-fie.com" always_refuse
 local-zone: "under2given.com" always_refuse
 local-zone: "unrulymedia.com" always_refuse
 local-zone: "upscalemena.com" always_refuse
+local-zone: "upscalicads.com" always_refuse
 local-zone: "upstreamads.com" always_refuse
 local-zone: "valueadvert.com" always_refuse
 local-zone: "valuepotion.com" always_refuse
@@ -14979,6 +14981,7 @@ local-zone: "popup.netmarble.com" always_refuse
 local-zone: "popups.landingi.com" always_refuse
 local-zone: "primate-digital.com" always_refuse
 local-zone: "privacy.gomovix.com" always_refuse
+local-zone: "privateadserver.com" always_refuse
 local-zone: "profitshare.emag.ro" always_refuse
 local-zone: "promo.adtconmigo.mx" always_refuse
 local-zone: "promos.gpniches.com" always_refuse
