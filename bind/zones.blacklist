@@ -5523,6 +5523,7 @@ zone "akane-ad.com" { type master; notify no; file "null.zone.file"; };
 zone "akara.agency" { type master; notify no; file "null.zone.file"; };
 zone "alfadart.com" { type master; notify no; file "null.zone.file"; };
 zone "aliadvert.ru" { type master; notify no; file "null.zone.file"; };
+zone "alltom8d.com" { type master; notify no; file "null.zone.file"; };
 zone "alphafrau.de" { type master; notify no; file "null.zone.file"; };
 zone "altkraft.com" { type master; notify no; file "null.zone.file"; };
 zone "altpubli.com" { type master; notify no; file "null.zone.file"; };
