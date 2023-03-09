@@ -3407,7 +3407,6 @@ local-zone: "zdivai.com" always_nxdomain
 local-zone: "zeddit.com" always_nxdomain
 local-zone: "zen.agency" always_nxdomain
 local-zone: "zenaps.com" always_nxdomain
-local-zone: "zenfone.ru" always_nxdomain
 local-zone: "zeppos.com" always_nxdomain
 local-zone: "zerads.com" always_nxdomain
 local-zone: "zesdmn.com" always_nxdomain
@@ -6049,6 +6048,7 @@ local-zone: "lead.network" always_nxdomain
 local-zone: "leadsier.com" always_nxdomain
 local-zone: "leadzupc.com" always_nxdomain
 local-zone: "leanplum.com" always_nxdomain
+local-zone: "ledgesrv.com" always_nxdomain
 local-zone: "leereedy.com" always_nxdomain
 local-zone: "lekkerads.nl" always_nxdomain
 local-zone: "lemonads.com" always_nxdomain
@@ -6368,6 +6368,7 @@ local-zone: "pushnews.org" always_nxdomain
 local-zone: "pushnoti.com" always_nxdomain
 local-zone: "pushpanda.io" always_nxdomain
 local-zone: "pushpros.com" always_nxdomain
+local-zone: "push-sdk.net" always_nxdomain
 local-zone: "pushtide.com" always_nxdomain
 local-zone: "pushtorm.net" always_nxdomain
 local-zone: "pushtrack.co" always_nxdomain
@@ -13226,6 +13227,7 @@ local-zone: "mkto-ab350123.com" always_nxdomain
 local-zone: "mobileads.digital" always_nxdomain
 local-zone: "mobileads.msn.com" always_nxdomain
 local-zone: "mobutrafsrcms.com" always_nxdomain
+local-zone: "monetizeflips.com" always_nxdomain
 local-zone: "monsieurdrive.com" always_nxdomain
 local-zone: "moonicorn.network" always_nxdomain
 local-zone: "morehitserver.com" always_nxdomain

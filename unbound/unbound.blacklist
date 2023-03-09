@@ -3407,7 +3407,6 @@ local-zone: "zdivai.com" always_refuse
 local-zone: "zeddit.com" always_refuse
 local-zone: "zen.agency" always_refuse
 local-zone: "zenaps.com" always_refuse
-local-zone: "zenfone.ru" always_refuse
 local-zone: "zeppos.com" always_refuse
 local-zone: "zerads.com" always_refuse
 local-zone: "zesdmn.com" always_refuse
@@ -6049,6 +6048,7 @@ local-zone: "lead.network" always_refuse
 local-zone: "leadsier.com" always_refuse
 local-zone: "leadzupc.com" always_refuse
 local-zone: "leanplum.com" always_refuse
+local-zone: "ledgesrv.com" always_refuse
 local-zone: "leereedy.com" always_refuse
 local-zone: "lekkerads.nl" always_refuse
 local-zone: "lemonads.com" always_refuse
@@ -6368,6 +6368,7 @@ local-zone: "pushnews.org" always_refuse
 local-zone: "pushnoti.com" always_refuse
 local-zone: "pushpanda.io" always_refuse
 local-zone: "pushpros.com" always_refuse
+local-zone: "push-sdk.net" always_refuse
 local-zone: "pushtide.com" always_refuse
 local-zone: "pushtorm.net" always_refuse
 local-zone: "pushtrack.co" always_refuse
@@ -13226,6 +13227,7 @@ local-zone: "mkto-ab350123.com" always_refuse
 local-zone: "mobileads.digital" always_refuse
 local-zone: "mobileads.msn.com" always_refuse
 local-zone: "mobutrafsrcms.com" always_refuse
+local-zone: "monetizeflips.com" always_refuse
 local-zone: "monsieurdrive.com" always_refuse
 local-zone: "moonicorn.network" always_refuse
 local-zone: "morehitserver.com" always_refuse
