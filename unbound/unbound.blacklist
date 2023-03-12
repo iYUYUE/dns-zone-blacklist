@@ -491,7 +491,6 @@ local-zone: "ncw6.net" always_refuse
 local-zone: "ndt5.net" always_refuse
 local-zone: "nend.net" always_refuse
 local-zone: "nenrk.us" always_refuse
-local-zone: "newat.ru" always_refuse
 local-zone: "nexd.com" always_refuse
 local-zone: "nexta.io" always_refuse
 local-zone: "nl01.net" always_refuse
@@ -7923,7 +7922,6 @@ local-zone: "mobpushup.com" always_refuse
 local-zone: "mobstarry.com" always_refuse
 local-zone: "mobwonder.com" always_refuse
 local-zone: "mogybapty.pro" always_refuse
-local-zone: "moi-univer.ru" always_refuse
 local-zone: "molocoads.com" always_refuse
 local-zone: "monetizer.com" always_refuse
 local-zone: "moneycult.com" always_refuse
