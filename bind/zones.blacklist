@@ -10435,6 +10435,7 @@ zone "ads.romaniax.ro" { type master; notify no; file "null.zone.file"; };
 zone "ads.salat.co.il" { type master; notify no; file "null.zone.file"; };
 zone "ads.sasbn.co.za" { type master; notify no; file "null.zone.file"; };
 zone "ads.sayfa16.com" { type master; notify no; file "null.zone.file"; };
+zone "ads.seducio.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.sexydev.dev" { type master; notify no; file "null.zone.file"; };
 zone "ads.sexyland.vn" { type master; notify no; file "null.zone.file"; };
 zone "ads.simpweb.com" { type master; notify no; file "null.zone.file"; };
