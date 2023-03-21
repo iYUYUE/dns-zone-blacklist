@@ -3496,6 +3496,7 @@ zone "aarmusa.com" { type master; notify no; file "null.zone.file"; };
 zone "aavalue.com" { type master; notify no; file "null.zone.file"; };
 zone "aa.zerg.pro" { type master; notify no; file "null.zone.file"; };
 zone "abbakin.com" { type master; notify no; file "null.zone.file"; };
+zone "abbyads.com" { type master; notify no; file "null.zone.file"; };
 zone "abc-ads.com" { type master; notify no; file "null.zone.file"; };
 zone "abovead.com" { type master; notify no; file "null.zone.file"; };
 zone "aca.network" { type master; notify no; file "null.zone.file"; };
