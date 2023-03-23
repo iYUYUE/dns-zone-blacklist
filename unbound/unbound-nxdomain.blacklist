@@ -513,6 +513,7 @@ local-zone: "o-oo.ooo" always_nxdomain
 local-zone: "orci.com" always_nxdomain
 local-zone: "oriel.io" always_nxdomain
 local-zone: "ortb.net" always_nxdomain
+local-zone: "osn2.com" always_nxdomain
 local-zone: "outd.org" always_nxdomain
 local-zone: "ow5a.net" always_nxdomain
 local-zone: "ox.24.kg" always_nxdomain
@@ -11355,6 +11356,7 @@ local-zone: "trickidesign.in" always_nxdomain
 local-zone: "trndsttrs.media" always_nxdomain
 local-zone: "trombocrack.com" always_nxdomain
 local-zone: "truaudience.com" always_nxdomain
+local-zone: "tryinteract.com" always_nxdomain
 local-zone: "turbobanner.com" always_nxdomain
 local-zone: "tur-tur-key.com" always_nxdomain
 local-zone: "tvtelemetrie.de" always_nxdomain
@@ -13900,6 +13902,7 @@ local-zone: "anscreation.com.np" always_nxdomain
 local-zone: "antiqueswebads.com" always_nxdomain
 local-zone: "anytheengmedia.com" always_nxdomain
 local-zone: "a.pornomixfree.com" always_nxdomain
+local-zone: "app30.flosports.tv" always_nxdomain
 local-zone: "appwikinetwork.com" always_nxdomain
 local-zone: "areaofexpertise.co" always_nxdomain
 local-zone: "as1.iwgc-media.net" always_nxdomain
@@ -18604,6 +18607,7 @@ local-zone: "adserver.auditorioteatrolaspalmasgc.es" always_nxdomain
 local-zone: "audit-tcfv2.quantcast.mgr.consensu.org" always_nxdomain
 local-zone: "biddr.brealtime.com.cdn.cloudflare.net" always_nxdomain
 local-zone: "flashbanners.static.ard.sexplaycam.com" always_nxdomain
+local-zone: "interact-quiz-public-api.herokuapp.com" always_nxdomain
 local-zone: "kytupian1.oss-cn-hongkong.aliyuncs.com" always_nxdomain
 local-zone: "mediatradecraft-com.videoplayerhub.com" always_nxdomain
 local-zone: "push-notification-aca6f.firebaseio.com" always_nxdomain

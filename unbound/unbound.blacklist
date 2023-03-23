@@ -513,6 +513,7 @@ local-zone: "o-oo.ooo" always_refuse
 local-zone: "orci.com" always_refuse
 local-zone: "oriel.io" always_refuse
 local-zone: "ortb.net" always_refuse
+local-zone: "osn2.com" always_refuse
 local-zone: "outd.org" always_refuse
 local-zone: "ow5a.net" always_refuse
 local-zone: "ox.24.kg" always_refuse
@@ -11355,6 +11356,7 @@ local-zone: "trickidesign.in" always_refuse
 local-zone: "trndsttrs.media" always_refuse
 local-zone: "trombocrack.com" always_refuse
 local-zone: "truaudience.com" always_refuse
+local-zone: "tryinteract.com" always_refuse
 local-zone: "turbobanner.com" always_refuse
 local-zone: "tur-tur-key.com" always_refuse
 local-zone: "tvtelemetrie.de" always_refuse
@@ -13900,6 +13902,7 @@ local-zone: "anscreation.com.np" always_refuse
 local-zone: "antiqueswebads.com" always_refuse
 local-zone: "anytheengmedia.com" always_refuse
 local-zone: "a.pornomixfree.com" always_refuse
+local-zone: "app30.flosports.tv" always_refuse
 local-zone: "appwikinetwork.com" always_refuse
 local-zone: "areaofexpertise.co" always_refuse
 local-zone: "as1.iwgc-media.net" always_refuse
@@ -18604,6 +18607,7 @@ local-zone: "adserver.auditorioteatrolaspalmasgc.es" always_refuse
 local-zone: "audit-tcfv2.quantcast.mgr.consensu.org" always_refuse
 local-zone: "biddr.brealtime.com.cdn.cloudflare.net" always_refuse
 local-zone: "flashbanners.static.ard.sexplaycam.com" always_refuse
+local-zone: "interact-quiz-public-api.herokuapp.com" always_refuse
 local-zone: "kytupian1.oss-cn-hongkong.aliyuncs.com" always_refuse
 local-zone: "mediatradecraft-com.videoplayerhub.com" always_refuse
 local-zone: "push-notification-aca6f.firebaseio.com" always_refuse
