@@ -11422,7 +11422,6 @@ local-zone: "wisernotify.com" always_nxdomain
 local-zone: "wns.windows.com" always_nxdomain
 local-zone: "woxcreative.com" always_nxdomain
 local-zone: "ww2.clkmein.com" always_nxdomain
-local-zone: "ww2.corneey.com" always_nxdomain
 local-zone: "ww2.imgtaxi.com" always_nxdomain
 local-zone: "wwwpromoter.com" always_nxdomain
 local-zone: "xel-xel-fie.com" always_nxdomain
@@ -17299,6 +17298,7 @@ local-zone: "valiumvalium.3xforum.ro" always_nxdomain
 local-zone: "viagraviagra.3xforum.ro" always_nxdomain
 local-zone: "voluumtlkrnarketing.com" always_nxdomain
 local-zone: "watercreativestudio.com" always_nxdomain
+local-zone: "wcpstatic.microsoft.com" always_nxdomain
 local-zone: "webpushr-3744.kxcdn.com" always_nxdomain
 local-zone: "whatismyipaddress.co.il" always_nxdomain
 local-zone: "whatsnew.teamviewer.com" always_nxdomain

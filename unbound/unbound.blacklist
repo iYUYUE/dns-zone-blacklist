@@ -11422,7 +11422,6 @@ local-zone: "wisernotify.com" always_refuse
 local-zone: "wns.windows.com" always_refuse
 local-zone: "woxcreative.com" always_refuse
 local-zone: "ww2.clkmein.com" always_refuse
-local-zone: "ww2.corneey.com" always_refuse
 local-zone: "ww2.imgtaxi.com" always_refuse
 local-zone: "wwwpromoter.com" always_refuse
 local-zone: "xel-xel-fie.com" always_refuse
@@ -17299,6 +17298,7 @@ local-zone: "valiumvalium.3xforum.ro" always_refuse
 local-zone: "viagraviagra.3xforum.ro" always_refuse
 local-zone: "voluumtlkrnarketing.com" always_refuse
 local-zone: "watercreativestudio.com" always_refuse
+local-zone: "wcpstatic.microsoft.com" always_refuse
 local-zone: "webpushr-3744.kxcdn.com" always_refuse
 local-zone: "whatismyipaddress.co.il" always_refuse
 local-zone: "whatsnew.teamviewer.com" always_refuse
