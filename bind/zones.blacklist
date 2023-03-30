@@ -5690,6 +5690,7 @@ zone "cemawaka.xyz" { type master; notify no; file "null.zone.file"; };
 zone "centrocom.es" { type master; notify no; file "null.zone.file"; };
 zone "centumad.com" { type master; notify no; file "null.zone.file"; };
 zone "ceostars.com" { type master; notify no; file "null.zone.file"; };
+zone "cf2.vuze.com" { type master; notify no; file "null.zone.file"; };
 zone "chameleon.ad" { type master; notify no; file "null.zone.file"; };
 zone "chaojijs.xyz" { type master; notify no; file "null.zone.file"; };
 zone "chatintr.com" { type master; notify no; file "null.zone.file"; };
