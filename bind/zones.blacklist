@@ -2807,6 +2807,7 @@ zone "oownik.com" { type master; notify no; file "null.zone.file"; };
 zone "openad.pro" { type master; notify no; file "null.zone.file"; };
 zone "openads.hu" { type master; notify no; file "null.zone.file"; };
 zone "openvv.org" { type master; notify no; file "null.zone.file"; };
+zone "optable.co" { type master; notify no; file "null.zone.file"; };
 zone "optaim.com" { type master; notify no; file "null.zone.file"; };
 zone "opuscom.ca" { type master; notify no; file "null.zone.file"; };
 zone "oqbqwz.com" { type master; notify no; file "null.zone.file"; };
@@ -18686,6 +18687,7 @@ zone "adserver-1277986481.ap-northeast-1.elb.amazonaws.com" { type master; notif
 zone "adserver-alb-v4-133711123.us-east-1.elb.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "adserver-alb-v4-988216261.us-west-2.elb.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "adserver-alb-v6-266201713.us-east-1.elb.amazonaws.com" { type master; notify no; file "null.zone.file"; };
+zone "forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "prebid-config-open-data.s3.eu-central-1.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "adserver-clarium-446793891.us-east-1.elb.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "adwombat-services-470191665.us-east-1.elb.amazonaws.com" { type master; notify no; file "null.zone.file"; };

@@ -2807,6 +2807,7 @@ local-zone: "oownik.com" always_nxdomain
 local-zone: "openad.pro" always_nxdomain
 local-zone: "openads.hu" always_nxdomain
 local-zone: "openvv.org" always_nxdomain
+local-zone: "optable.co" always_nxdomain
 local-zone: "optaim.com" always_nxdomain
 local-zone: "opuscom.ca" always_nxdomain
 local-zone: "oqbqwz.com" always_nxdomain
@@ -18686,6 +18687,7 @@ local-zone: "adserver-1277986481.ap-northeast-1.elb.amazonaws.com" always_nxdoma
 local-zone: "adserver-alb-v4-133711123.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "adserver-alb-v4-988216261.us-west-2.elb.amazonaws.com" always_nxdomain
 local-zone: "adserver-alb-v6-266201713.us-east-1.elb.amazonaws.com" always_nxdomain
+local-zone: "forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com" always_nxdomain
 local-zone: "prebid-config-open-data.s3.eu-central-1.amazonaws.com" always_nxdomain
 local-zone: "adserver-clarium-446793891.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "adwombat-services-470191665.us-east-1.elb.amazonaws.com" always_nxdomain

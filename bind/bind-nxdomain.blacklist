@@ -5620,6 +5620,8 @@ openads.hu CNAME .
 *.openads.hu CNAME .
 openvv.org CNAME .
 *.openvv.org CNAME .
+optable.co CNAME .
+*.optable.co CNAME .
 optaim.com CNAME .
 *.optaim.com CNAME .
 opuscom.ca CNAME .
@@ -37378,6 +37380,8 @@ adserver-alb-v4-988216261.us-west-2.elb.amazonaws.com CNAME .
 *.adserver-alb-v4-988216261.us-west-2.elb.amazonaws.com CNAME .
 adserver-alb-v6-266201713.us-east-1.elb.amazonaws.com CNAME .
 *.adserver-alb-v6-266201713.us-east-1.elb.amazonaws.com CNAME .
+forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com CNAME .
+*.forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com CNAME .
 prebid-config-open-data.s3.eu-central-1.amazonaws.com CNAME .
 *.prebid-config-open-data.s3.eu-central-1.amazonaws.com CNAME .
 adserver-clarium-446793891.us-east-1.elb.amazonaws.com CNAME .
