@@ -798,10 +798,12 @@ local-zone: "ad.sbb.bg" always_refuse
 local-zone: "adsbid.ru" always_refuse
 local-zone: "a--ds.com" always_refuse
 local-zone: "adsdms.mk" always_refuse
+local-zone: "adserv.ai" always_refuse
 local-zone: "adset.com" always_refuse
 local-zone: "adsfac.eu" always_refuse
 local-zone: "adsfac.us" always_refuse
 local-zone: "adshot.de" always_refuse
+local-zone: "adshot.io" always_refuse
 local-zone: "ads.mp.pl" always_refuse
 local-zone: "adsmt.top" always_refuse
 local-zone: "adsor.com" always_refuse
@@ -5380,6 +5382,7 @@ local-zone: "ads.meni.com" always_refuse
 local-zone: "adsmogo.mobi" always_refuse
 local-zone: "adsmovil.com" always_refuse
 local-zone: "ads.mreza.mk" always_refuse
+local-zone: "adsmurai.com" always_refuse
 local-zone: "ads.nmma.org" always_refuse
 local-zone: "ads.nubea.me" always_refuse
 local-zone: "adsofads.com" always_refuse
@@ -7106,6 +7109,7 @@ local-zone: "adsposure.com" always_refuse
 local-zone: "adspremium.it" always_refuse
 local-zone: "ads.psend.net" always_refuse
 local-zone: "ads.qiita.com" always_refuse
+local-zone: "adsquirrel.ai" always_refuse
 local-zone: "ads.radio1.lv" always_refuse
 local-zone: "ads.redrc.net" always_refuse
 local-zone: "ads.rekini.lv" always_refuse
@@ -12642,6 +12646,7 @@ local-zone: "adprimehealth.com" always_refuse
 local-zone: "adrielhampton.com" always_refuse
 local-zone: "ads.14news.com.br" always_refuse
 local-zone: "ads.1997media.com" always_refuse
+local-zone: "ads1.itpartner.no" always_refuse
 local-zone: "ads2.oldcabin.net" always_refuse
 local-zone: "ads2.techads.info" always_refuse
 local-zone: "ads.360stepeni.mk" always_refuse
@@ -14116,6 +14121,7 @@ local-zone: "info.stockstar.com" always_refuse
 local-zone: "insidemarketing.de" always_refuse
 local-zone: "insightexpress.com" always_refuse
 local-zone: "instinctiveads.com" always_refuse
+local-zone: "intellectads.co.in" always_refuse
 local-zone: "intellibanners.com" always_refuse
 local-zone: "intellicontact.com" always_refuse
 local-zone: "internal-heart.pro" always_refuse
