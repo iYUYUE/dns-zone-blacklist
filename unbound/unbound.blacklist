@@ -4482,8 +4482,6 @@ local-zone: "mantis.link" always_refuse
 local-zone: "mantraad.in" always_refuse
 local-zone: "mantrin.com" always_refuse
 local-zone: "marfeel.com" always_refuse
-local-zone: "marketo.com" always_refuse
-local-zone: "marketo.net" always_refuse
 local-zone: "marsads.com" always_refuse
 local-zone: "mathads.com" always_refuse
 local-zone: "maventm.com" always_refuse
@@ -7877,7 +7875,6 @@ local-zone: "mammal.net.au" always_refuse
 local-zone: "mangos.agency" always_refuse
 local-zone: "marcusdevs.ru" always_refuse
 local-zone: "marketgid.com" always_refuse
-local-zone: "marketo.co.uk" always_refuse
 local-zone: "marketron.com" always_refuse
 local-zone: "mastertms.com" always_refuse
 local-zone: "match2one.com" always_refuse

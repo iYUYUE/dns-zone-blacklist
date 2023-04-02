@@ -4482,8 +4482,6 @@ local-zone: "mantis.link" always_nxdomain
 local-zone: "mantraad.in" always_nxdomain
 local-zone: "mantrin.com" always_nxdomain
 local-zone: "marfeel.com" always_nxdomain
-local-zone: "marketo.com" always_nxdomain
-local-zone: "marketo.net" always_nxdomain
 local-zone: "marsads.com" always_nxdomain
 local-zone: "mathads.com" always_nxdomain
 local-zone: "maventm.com" always_nxdomain
@@ -7877,7 +7875,6 @@ local-zone: "mammal.net.au" always_nxdomain
 local-zone: "mangos.agency" always_nxdomain
 local-zone: "marcusdevs.ru" always_nxdomain
 local-zone: "marketgid.com" always_nxdomain
-local-zone: "marketo.co.uk" always_nxdomain
 local-zone: "marketron.com" always_nxdomain
 local-zone: "mastertms.com" always_nxdomain
 local-zone: "match2one.com" always_nxdomain
