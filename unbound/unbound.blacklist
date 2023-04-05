@@ -1065,6 +1065,7 @@ local-zone: "fyber.com" always_refuse
 local-zone: "fytch.com" always_refuse
 local-zone: "fznpq.com" always_refuse
 local-zone: "g8ads.com" always_refuse
+local-zone: "gad-s.com" always_refuse
 local-zone: "geiey.com" always_refuse
 local-zone: "geozo.com" always_refuse
 local-zone: "getads.co" always_refuse
@@ -16242,6 +16243,7 @@ local-zone: "commissionfactory.com" always_refuse
 local-zone: "connected-stories.com" always_refuse
 local-zone: "consent.gameforge.com" always_refuse
 local-zone: "consent.liberation.fr" always_refuse
+local-zone: "conversiongorilla.com" always_refuse
 local-zone: "cookieinformation.com" always_refuse
 local-zone: "creative.elliemae.com" always_refuse
 local-zone: "creativity-online.com" always_refuse
@@ -18435,6 +18437,7 @@ local-zone: "nativeadvertisinginstitute.com" always_refuse
 local-zone: "onlineadvertisingagency.com.ph" always_refuse
 local-zone: "onlineadvertisingmaterials.com" always_refuse
 local-zone: "peakperformanceadvertising.com" always_refuse
+local-zone: "postbox-video.s3.amazonaws.com" always_refuse
 local-zone: "push-content.springernature.io" always_refuse
 local-zone: "pushmaster.bundesliga-appr.com" always_refuse
 local-zone: "qbdtipd.qbinproduct.intuit.com" always_refuse
@@ -18487,6 +18490,7 @@ local-zone: "gdpr-legal-cookie.beeclever.app" always_refuse
 local-zone: "mads.backend-us.pinenutsdev.net" always_refuse
 local-zone: "notifications-pa.googleapis.com" always_refuse
 local-zone: "offers-api.fungames-forfree.com" always_refuse
+local-zone: "postbox-images.s3.amazonaws.com" always_refuse
 local-zone: "progressivebusinessservices.com" always_refuse
 local-zone: "query.prod.cms.rt.microsoft.com" always_refuse
 local-zone: "recommendations.data.tm-awx.com" always_refuse

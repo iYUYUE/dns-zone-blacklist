@@ -1065,6 +1065,7 @@ local-zone: "fyber.com" always_nxdomain
 local-zone: "fytch.com" always_nxdomain
 local-zone: "fznpq.com" always_nxdomain
 local-zone: "g8ads.com" always_nxdomain
+local-zone: "gad-s.com" always_nxdomain
 local-zone: "geiey.com" always_nxdomain
 local-zone: "geozo.com" always_nxdomain
 local-zone: "getads.co" always_nxdomain
@@ -16242,6 +16243,7 @@ local-zone: "commissionfactory.com" always_nxdomain
 local-zone: "connected-stories.com" always_nxdomain
 local-zone: "consent.gameforge.com" always_nxdomain
 local-zone: "consent.liberation.fr" always_nxdomain
+local-zone: "conversiongorilla.com" always_nxdomain
 local-zone: "cookieinformation.com" always_nxdomain
 local-zone: "creative.elliemae.com" always_nxdomain
 local-zone: "creativity-online.com" always_nxdomain
@@ -18435,6 +18437,7 @@ local-zone: "nativeadvertisinginstitute.com" always_nxdomain
 local-zone: "onlineadvertisingagency.com.ph" always_nxdomain
 local-zone: "onlineadvertisingmaterials.com" always_nxdomain
 local-zone: "peakperformanceadvertising.com" always_nxdomain
+local-zone: "postbox-video.s3.amazonaws.com" always_nxdomain
 local-zone: "push-content.springernature.io" always_nxdomain
 local-zone: "pushmaster.bundesliga-appr.com" always_nxdomain
 local-zone: "qbdtipd.qbinproduct.intuit.com" always_nxdomain
@@ -18487,6 +18490,7 @@ local-zone: "gdpr-legal-cookie.beeclever.app" always_nxdomain
 local-zone: "mads.backend-us.pinenutsdev.net" always_nxdomain
 local-zone: "notifications-pa.googleapis.com" always_nxdomain
 local-zone: "offers-api.fungames-forfree.com" always_nxdomain
+local-zone: "postbox-images.s3.amazonaws.com" always_nxdomain
 local-zone: "progressivebusinessservices.com" always_nxdomain
 local-zone: "query.prod.cms.rt.microsoft.com" always_nxdomain
 local-zone: "recommendations.data.tm-awx.com" always_nxdomain
