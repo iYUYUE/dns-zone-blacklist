@@ -4415,6 +4415,7 @@ local-zone: "juicyads.me" always_nxdomain
 local-zone: "jumpraw.com" always_nxdomain
 local-zone: "jumptap.com" always_nxdomain
 local-zone: "jurawelt.de" always_nxdomain
+local-zone: "kajicam.com" always_nxdomain
 local-zone: "kalavid.net" always_nxdomain
 local-zone: "kanmobi.net" always_nxdomain
 local-zone: "kantiwl.com" always_nxdomain
@@ -15305,7 +15306,6 @@ local-zone: "adcryptocoin.website" always_nxdomain
 local-zone: "ad.dlrwebservice.com" always_nxdomain
 local-zone: "ad.etnetchina.com.cn" always_nxdomain
 local-zone: "adformnet.akadns.net" always_nxdomain
-local-zone: "adg-data.kajicam.com" always_nxdomain
 local-zone: "ad.ichiban-boshi.com" always_nxdomain
 local-zone: "adilk.ilikecomix.com" always_nxdomain
 local-zone: "adimages.carsoup.com" always_nxdomain

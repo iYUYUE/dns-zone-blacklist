@@ -4415,6 +4415,7 @@ local-zone: "juicyads.me" always_refuse
 local-zone: "jumpraw.com" always_refuse
 local-zone: "jumptap.com" always_refuse
 local-zone: "jurawelt.de" always_refuse
+local-zone: "kajicam.com" always_refuse
 local-zone: "kalavid.net" always_refuse
 local-zone: "kanmobi.net" always_refuse
 local-zone: "kantiwl.com" always_refuse
@@ -15305,7 +15306,6 @@ local-zone: "adcryptocoin.website" always_refuse
 local-zone: "ad.dlrwebservice.com" always_refuse
 local-zone: "ad.etnetchina.com.cn" always_refuse
 local-zone: "adformnet.akadns.net" always_refuse
-local-zone: "adg-data.kajicam.com" always_refuse
 local-zone: "ad.ichiban-boshi.com" always_refuse
 local-zone: "adilk.ilikecomix.com" always_refuse
 local-zone: "adimages.carsoup.com" always_refuse
