@@ -17355,6 +17355,7 @@ zone "widgethost.barnebys.com" { type master; notify no; file "null.zone.file"; 
 zone "widget.reviewforest.org" { type master; notify no; file "null.zone.file"; };
 zone "widgets.ap1.500apps.com" { type master; notify no; file "null.zone.file"; };
 zone "widgets.nbcolympics.com" { type master; notify no; file "null.zone.file"; };
+zone "widgets.rewardstyle.com" { type master; notify no; file "null.zone.file"; };
 zone "widgets.shopifyapps.com" { type master; notify no; file "null.zone.file"; };
 zone "widgets.zohosalesiq.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.universe-soft.ru" { type master; notify no; file "null.zone.file"; };
