@@ -16396,6 +16396,7 @@ zone "pronetadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "prywatnosc.interia.pl" { type master; notify no; file "null.zone.file"; };
 zone "public.servenobid.com" { type master; notify no; file "null.zone.file"; };
 zone "punchdrunkdigital.com" { type master; notify no; file "null.zone.file"; };
+zone "purevpnaffiliates.com" { type master; notify no; file "null.zone.file"; };
 zone "push.aws.kambicdn.com" { type master; notify no; file "null.zone.file"; };
 zone "push.cnnindonesia.com" { type master; notify no; file "null.zone.file"; };
 zone "radialcreative.com.au" { type master; notify no; file "null.zone.file"; };
