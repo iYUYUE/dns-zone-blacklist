@@ -538,6 +538,7 @@ local-zone: "push7.jp" always_refuse
 local-zone: "pushe.co" always_refuse
 local-zone: "pushe.ir" always_refuse
 local-zone: "push.net" always_refuse
+local-zone: "push.org" always_refuse
 local-zone: "pushy.ai" always_refuse
 local-zone: "pushy.io" always_refuse
 local-zone: "pushy.me" always_refuse
@@ -7347,6 +7348,7 @@ local-zone: "atozadvert.ae" always_refuse
 local-zone: "audiencex.com" always_refuse
 local-zone: "audiohook.com" always_refuse
 local-zone: "auditorius.ru" always_refuse
+local-zone: "augustads.com" always_refuse
 local-zone: "auraads.co.uk" always_refuse
 local-zone: "auto-dash.com" always_refuse
 local-zone: "automatad.com" always_refuse
@@ -17864,6 +17866,7 @@ local-zone: "widget.shoptelligence.com" always_refuse
 local-zone: "widgets.stackcommerce.com" always_refuse
 local-zone: "widgets.stagingjobshq.com" always_refuse
 local-zone: "xml-eu-v4.xonedart-2.live" always_refuse
+local-zone: "y8h3n6c8.stackpathcdn.com" always_refuse
 local-zone: "0914.global.ssl.fastly.net" always_refuse
 local-zone: "a.bettercontentservice.top" always_refuse
 local-zone: "activationsadvertising.com" always_refuse

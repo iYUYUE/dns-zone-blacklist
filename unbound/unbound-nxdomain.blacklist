@@ -538,6 +538,7 @@ local-zone: "push7.jp" always_nxdomain
 local-zone: "pushe.co" always_nxdomain
 local-zone: "pushe.ir" always_nxdomain
 local-zone: "push.net" always_nxdomain
+local-zone: "push.org" always_nxdomain
 local-zone: "pushy.ai" always_nxdomain
 local-zone: "pushy.io" always_nxdomain
 local-zone: "pushy.me" always_nxdomain
@@ -7347,6 +7348,7 @@ local-zone: "atozadvert.ae" always_nxdomain
 local-zone: "audiencex.com" always_nxdomain
 local-zone: "audiohook.com" always_nxdomain
 local-zone: "auditorius.ru" always_nxdomain
+local-zone: "augustads.com" always_nxdomain
 local-zone: "auraads.co.uk" always_nxdomain
 local-zone: "auto-dash.com" always_nxdomain
 local-zone: "automatad.com" always_nxdomain
@@ -17864,6 +17866,7 @@ local-zone: "widget.shoptelligence.com" always_nxdomain
 local-zone: "widgets.stackcommerce.com" always_nxdomain
 local-zone: "widgets.stagingjobshq.com" always_nxdomain
 local-zone: "xml-eu-v4.xonedart-2.live" always_nxdomain
+local-zone: "y8h3n6c8.stackpathcdn.com" always_nxdomain
 local-zone: "0914.global.ssl.fastly.net" always_nxdomain
 local-zone: "a.bettercontentservice.top" always_nxdomain
 local-zone: "activationsadvertising.com" always_nxdomain
