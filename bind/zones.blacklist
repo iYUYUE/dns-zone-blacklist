@@ -16370,6 +16370,7 @@ zone "nativeadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "news.cryptoapexes.com" { type master; notify no; file "null.zone.file"; };
 zone "news.infogalactic.com" { type master; notify no; file "null.zone.file"; };
 zone "news.sportevents.news" { type master; notify no; file "null.zone.file"; };
+zone "nielsen-admosphere.bg" { type master; notify no; file "null.zone.file"; };
 zone "northlittlerockap.org" { type master; notify no; file "null.zone.file"; };
 zone "nortonadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "notads.111javguru.xyz" { type master; notify no; file "null.zone.file"; };
