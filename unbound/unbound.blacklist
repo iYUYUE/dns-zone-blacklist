@@ -2220,6 +2220,8 @@ local-zone: "cyjpfn.com" always_refuse
 local-zone: "cyzyyv.com" always_refuse
 local-zone: "dagnar.com" always_refuse
 local-zone: "dahxwf.com" always_refuse
+local-zone: "dalysb.com" always_refuse
+local-zone: "dalysh.com" always_refuse
 local-zone: "danadm.com" always_refuse
 local-zone: "daotag.com" always_refuse
 local-zone: "dataxu.com" always_refuse
@@ -15973,6 +15975,7 @@ local-zone: "ad.ihpartsamerica.com" always_refuse
 local-zone: "ad.ilikesponsorad.com" always_refuse
 local-zone: "adimages.footymad.net" always_refuse
 local-zone: "adimages.sniffies.com" always_refuse
+local-zone: "adman.fotopatracka.cz" always_refuse
 local-zone: "admeridianopenrtb.com" always_refuse
 local-zone: "admin.giaminhmedia.vn" always_refuse
 local-zone: "ad.openmultimedia.biz" always_refuse
