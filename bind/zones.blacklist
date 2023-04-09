@@ -10947,6 +10947,7 @@ zone "income.partners" { type master; notify no; file "null.zone.file"; };
 zone "increaserev.com" { type master; notify no; file "null.zone.file"; };
 zone "indidigital.com" { type master; notify no; file "null.zone.file"; };
 zone "infinityads.com" { type master; notify no; file "null.zone.file"; };
+zone "inline.cnet.com" { type master; notify no; file "null.zone.file"; };
 zone "inlocomedia.com" { type master; notify no; file "null.zone.file"; };
 zone "inskinmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "installfarm.com" { type master; notify no; file "null.zone.file"; };

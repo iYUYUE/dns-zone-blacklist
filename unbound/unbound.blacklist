@@ -10947,6 +10947,7 @@ local-zone: "income.partners" always_refuse
 local-zone: "increaserev.com" always_refuse
 local-zone: "indidigital.com" always_refuse
 local-zone: "infinityads.com" always_refuse
+local-zone: "inline.cnet.com" always_refuse
 local-zone: "inlocomedia.com" always_refuse
 local-zone: "inskinmedia.com" always_refuse
 local-zone: "installfarm.com" always_refuse
