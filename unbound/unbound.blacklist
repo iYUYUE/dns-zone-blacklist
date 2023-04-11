@@ -3678,6 +3678,7 @@ local-zone: "adlane.info" always_refuse
 local-zone: "adlantic.nl" always_refuse
 local-zone: "adlantis.jp" always_refuse
 local-zone: "adlayer.net" always_refuse
+local-zone: "ad.leap.app" always_refuse
 local-zone: "adleave.com" always_refuse
 local-zone: "adledge.com" always_refuse
 local-zone: "adlefee.com" always_refuse
@@ -15286,6 +15287,7 @@ local-zone: "welcometosister.com" always_refuse
 local-zone: "werbemanager.w24.at" always_refuse
 local-zone: "westadvertising.com" always_refuse
 local-zone: "w.hypercomments.com" always_refuse
+local-zone: "widget.carstory.com" always_refuse
 local-zone: "widget.custhelp.com" always_refuse
 local-zone: "widget.donatepay.ru" always_refuse
 local-zone: "widget.eviesays.com" always_refuse

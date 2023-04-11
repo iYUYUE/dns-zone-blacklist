@@ -3678,6 +3678,7 @@ local-zone: "adlane.info" always_nxdomain
 local-zone: "adlantic.nl" always_nxdomain
 local-zone: "adlantis.jp" always_nxdomain
 local-zone: "adlayer.net" always_nxdomain
+local-zone: "ad.leap.app" always_nxdomain
 local-zone: "adleave.com" always_nxdomain
 local-zone: "adledge.com" always_nxdomain
 local-zone: "adlefee.com" always_nxdomain
@@ -15286,6 +15287,7 @@ local-zone: "welcometosister.com" always_nxdomain
 local-zone: "werbemanager.w24.at" always_nxdomain
 local-zone: "westadvertising.com" always_nxdomain
 local-zone: "w.hypercomments.com" always_nxdomain
+local-zone: "widget.carstory.com" always_nxdomain
 local-zone: "widget.custhelp.com" always_nxdomain
 local-zone: "widget.donatepay.ru" always_nxdomain
 local-zone: "widget.eviesays.com" always_nxdomain
