@@ -6559,6 +6559,7 @@ zone "swap.qth.com" { type master; notify no; file "null.zone.file"; };
 zone "swickads.com" { type master; notify no; file "null.zone.file"; };
 zone "sxmmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "s.xnewsq.net" { type master; notify no; file "null.zone.file"; };
+zone "sydesigns.tv" { type master; notify no; file "null.zone.file"; };
 zone "syjuyyfi.xyz" { type master; notify no; file "null.zone.file"; };
 zone "sylotepu.xyz" { type master; notify no; file "null.zone.file"; };
 zone "taboola.blog" { type master; notify no; file "null.zone.file"; };
