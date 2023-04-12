@@ -17824,6 +17824,7 @@ zone "popup.yourpractice.online" { type master; notify no; file "null.zone.file"
 zone "pragatimediasolutions.com" { type master; notify no; file "null.zone.file"; };
 zone "primary.bannerwerbung.net" { type master; notify no; file "null.zone.file"; };
 zone "promo.worldofwarships.com" { type master; notify no; file "null.zone.file"; };
+zone "prop.faroutmagazine.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "pub2.webmanagercenter.com" { type master; notify no; file "null.zone.file"; };
 zone "pubblicita.animeitaly.org" { type master; notify no; file "null.zone.file"; };
 zone "pubs.ecranfantastique.com" { type master; notify no; file "null.zone.file"; };
@@ -17971,6 +17972,7 @@ zone "bucketworksadvertising.com" { type master; notify no; file "null.zone.file
 zone "carsongroupadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "cdn-ketchapp.akamaized.net" { type master; notify no; file "null.zone.file"; };
 zone "clipcentric-a.akamaihd.net" { type master; notify no; file "null.zone.file"; };
+zone "cmpv2.faroutmagazine.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "dawnnationaladvertiser.com" { type master; notify no; file "null.zone.file"; };
 zone "de-advertising.weather.com" { type master; notify no; file "null.zone.file"; };
 zone "delivered-by-madington.com" { type master; notify no; file "null.zone.file"; };
