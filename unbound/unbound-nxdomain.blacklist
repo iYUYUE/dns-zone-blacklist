@@ -1481,6 +1481,7 @@ local-zone: "vidads.in" always_nxdomain
 local-zone: "vimmy.com" always_nxdomain
 local-zone: "vjcbm.com" always_nxdomain
 local-zone: "vlyby.com" always_nxdomain
+local-zone: "vmedia.fr" always_nxdomain
 local-zone: "vntsm.com" always_nxdomain
 local-zone: "voxco.com" always_nxdomain
 local-zone: "vptbn.com" always_nxdomain
@@ -2835,6 +2836,7 @@ local-zone: "pacvue.com" always_nxdomain
 local-zone: "pad.agency" always_nxdomain
 local-zone: "padv.co.il" always_nxdomain
 local-zone: "paedae.com" always_nxdomain
+local-zone: "pakley.com" always_nxdomain
 local-zone: "pandect.es" always_nxdomain
 local-zone: "panoll.com" always_nxdomain
 local-zone: "paperg.com" always_nxdomain
@@ -3451,6 +3453,7 @@ local-zone: "0y2im3ma.ru" always_nxdomain
 local-zone: "10xroas.com" always_nxdomain
 local-zone: "1128999.com" always_nxdomain
 local-zone: "1129555.com" always_nxdomain
+local-zone: "1137555.com" always_nxdomain
 local-zone: "1153555.com" always_nxdomain
 local-zone: "1158555.com" always_nxdomain
 local-zone: "1190555.com" always_nxdomain
@@ -5081,6 +5084,8 @@ local-zone: "99998aaa.com" always_nxdomain
 local-zone: "a4mtools.net" always_nxdomain
 local-zone: "a5.g--o.info" always_nxdomain
 local-zone: "a5g.oves.biz" always_nxdomain
+local-zone: "aaaaa266.com" always_nxdomain
+local-zone: "aaaaa855.com" always_nxdomain
 local-zone: "aafakron.com" always_nxdomain
 local-zone: "a.aniplay.it" always_nxdomain
 local-zone: "aapliweb.com" always_nxdomain
