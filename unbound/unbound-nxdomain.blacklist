@@ -11167,6 +11167,7 @@ local-zone: "podvertizer.com" always_nxdomain
 local-zone: "po.funshion.com" always_nxdomain
 local-zone: "pointamedia.com" always_nxdomain
 local-zone: "polarmobile.com" always_nxdomain
+local-zone: "pop-convert.com" always_nxdomain
 local-zone: "pop.dtoo1.space" always_nxdomain
 local-zone: "popmonetize.com" always_nxdomain
 local-zone: "pornvideos.casa" always_nxdomain
@@ -18859,4 +18860,5 @@ local-zone: "adserver-elasticl-13l7vy6y7z148-30609925.us-east-1.elb.amazonaws.co
 local-zone: "ad2fa947ed15011e8bb8b02d1070e819-87904156.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "global-wildcard.insightexpressai.com.edgekey.net.globalredir.akadns.net" always_nxdomain
 local-zone: "39788f3ee241c9c77fa5-5f3f962c17f4c19066268fe915d96f9f.ssl.cf1.rackcdn.com" always_nxdomain
+local-zone: "517144eec2f5c89bd8f6-a079a5fb528b2ce366edd77d796ba7e0.ssl.cf2.rackcdn.com" always_nxdomain
 local-zone: "86b541515e8fd82cbfbb-d93e4837fafc2fbc08e0b8cb1f23e9ee.ssl.cf1.rackcdn.com" always_nxdomain
