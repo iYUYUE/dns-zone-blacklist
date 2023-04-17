@@ -6682,6 +6682,7 @@ zone "vivaclix.com" { type master; notify no; file "null.zone.file"; };
 zone "vivapays.com" { type master; notify no; file "null.zone.file"; };
 zone "vmgroupe.com" { type master; notify no; file "null.zone.file"; };
 zone "vodobyve.pro" { type master; notify no; file "null.zone.file"; };
+zone "voltaxam.com" { type master; notify no; file "null.zone.file"; };
 zone "vowifeba.xyz" { type master; notify no; file "null.zone.file"; };
 zone "voxpopme.com" { type master; notify no; file "null.zone.file"; };
 zone "voxus.com.br" { type master; notify no; file "null.zone.file"; };
