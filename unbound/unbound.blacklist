@@ -10728,7 +10728,6 @@ local-zone: "casalemedia.com" always_refuse
 local-zone: "catchthatad.com" always_refuse
 local-zone: "cba-fed-igh.com" always_refuse
 local-zone: "cbccreative.com" always_refuse
-local-zone: "cdn1.stamped.io" always_refuse
 local-zone: "cdn-server.info" always_refuse
 local-zone: "cdn.tech426.com" always_refuse
 local-zone: "cdn.thehinh.com" always_refuse
@@ -18601,6 +18600,7 @@ local-zone: "mobileandinternetadvertising.com" always_refuse
 local-zone: "nacosonlinesupplierdirectory.com" always_refuse
 local-zone: "pagead-googlehosted.l.google.com" always_refuse
 local-zone: "partner.elektrykapradnietyka.com" always_refuse
+local-zone: "pp-prod-ads.ue2.breadgateway.net" always_refuse
 local-zone: "prod.contextweb.map.fastlylb.net" always_refuse
 local-zone: "seal-westernpennsylvania.bbb.org" always_refuse
 local-zone: "smart-widget-assets.ekomiapps.de" always_refuse

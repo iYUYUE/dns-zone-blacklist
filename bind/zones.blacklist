@@ -10728,7 +10728,6 @@ zone "casalemedia.com" { type master; notify no; file "null.zone.file"; };
 zone "catchthatad.com" { type master; notify no; file "null.zone.file"; };
 zone "cba-fed-igh.com" { type master; notify no; file "null.zone.file"; };
 zone "cbccreative.com" { type master; notify no; file "null.zone.file"; };
-zone "cdn1.stamped.io" { type master; notify no; file "null.zone.file"; };
 zone "cdn-server.info" { type master; notify no; file "null.zone.file"; };
 zone "cdn.tech426.com" { type master; notify no; file "null.zone.file"; };
 zone "cdn.thehinh.com" { type master; notify no; file "null.zone.file"; };
@@ -18601,6 +18600,7 @@ zone "mobileandinternetadvertising.com" { type master; notify no; file "null.zon
 zone "nacosonlinesupplierdirectory.com" { type master; notify no; file "null.zone.file"; };
 zone "pagead-googlehosted.l.google.com" { type master; notify no; file "null.zone.file"; };
 zone "partner.elektrykapradnietyka.com" { type master; notify no; file "null.zone.file"; };
+zone "pp-prod-ads.ue2.breadgateway.net" { type master; notify no; file "null.zone.file"; };
 zone "prod.contextweb.map.fastlylb.net" { type master; notify no; file "null.zone.file"; };
 zone "seal-westernpennsylvania.bbb.org" { type master; notify no; file "null.zone.file"; };
 zone "smart-widget-assets.ekomiapps.de" { type master; notify no; file "null.zone.file"; };

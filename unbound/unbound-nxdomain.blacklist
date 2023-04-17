@@ -10728,7 +10728,6 @@ local-zone: "casalemedia.com" always_nxdomain
 local-zone: "catchthatad.com" always_nxdomain
 local-zone: "cba-fed-igh.com" always_nxdomain
 local-zone: "cbccreative.com" always_nxdomain
-local-zone: "cdn1.stamped.io" always_nxdomain
 local-zone: "cdn-server.info" always_nxdomain
 local-zone: "cdn.tech426.com" always_nxdomain
 local-zone: "cdn.thehinh.com" always_nxdomain
@@ -18601,6 +18600,7 @@ local-zone: "mobileandinternetadvertising.com" always_nxdomain
 local-zone: "nacosonlinesupplierdirectory.com" always_nxdomain
 local-zone: "pagead-googlehosted.l.google.com" always_nxdomain
 local-zone: "partner.elektrykapradnietyka.com" always_nxdomain
+local-zone: "pp-prod-ads.ue2.breadgateway.net" always_nxdomain
 local-zone: "prod.contextweb.map.fastlylb.net" always_nxdomain
 local-zone: "seal-westernpennsylvania.bbb.org" always_nxdomain
 local-zone: "smart-widget-assets.ekomiapps.de" always_nxdomain
