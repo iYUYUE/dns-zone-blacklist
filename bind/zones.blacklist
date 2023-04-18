@@ -15304,6 +15304,7 @@ zone "w.hypercomments.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.carstory.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.custhelp.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.donatepay.ru" { type master; notify no; file "null.zone.file"; };
+zone "widget.dovetale.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.eviesays.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.hippochat.io" { type master; notify no; file "null.zone.file"; };
 zone "widget.mitegyek.com" { type master; notify no; file "null.zone.file"; };
