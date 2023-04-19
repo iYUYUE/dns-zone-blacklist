@@ -16835,6 +16835,7 @@ zone "counciladvertising.net" { type master; notify no; file "null.zone.file"; }
 zone "creativedimensions.com" { type master; notify no; file "null.zone.file"; };
 zone "creativeparamedics.com" { type master; notify no; file "null.zone.file"; };
 zone "crucialinteractive.com" { type master; notify no; file "null.zone.file"; };
+zone "custom1.shorterall.com" { type master; notify no; file "null.zone.file"; };
 zone "cybershop-affiliate.jp" { type master; notify no; file "null.zone.file"; };
 zone "ddownload.simplaza.org" { type master; notify no; file "null.zone.file"; };
 zone "deepseaadvertising.com" { type master; notify no; file "null.zone.file"; };
