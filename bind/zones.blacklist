@@ -14201,6 +14201,7 @@ zone "internal-heart.pro" { type master; notify no; file "null.zone.file"; };
 zone "ipgmediabrands.com" { type master; notify no; file "null.zone.file"; };
 zone "iw-advertising.com" { type master; notify no; file "null.zone.file"; };
 zone "iwanttodeliver.com" { type master; notify no; file "null.zone.file"; };
+zone "jam.hearstapps.com" { type master; notify no; file "null.zone.file"; };
 zone "jenniferspivak.com" { type master; notify no; file "null.zone.file"; };
 zone "jetandroidapps.com" { type master; notify no; file "null.zone.file"; };
 zone "jrmadvertising.com" { type master; notify no; file "null.zone.file"; };

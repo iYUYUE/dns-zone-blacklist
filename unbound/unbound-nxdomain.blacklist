@@ -14201,6 +14201,7 @@ local-zone: "internal-heart.pro" always_nxdomain
 local-zone: "ipgmediabrands.com" always_nxdomain
 local-zone: "iw-advertising.com" always_nxdomain
 local-zone: "iwanttodeliver.com" always_nxdomain
+local-zone: "jam.hearstapps.com" always_nxdomain
 local-zone: "jenniferspivak.com" always_nxdomain
 local-zone: "jetandroidapps.com" always_nxdomain
 local-zone: "jrmadvertising.com" always_nxdomain

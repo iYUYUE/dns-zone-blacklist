@@ -14201,6 +14201,7 @@ local-zone: "internal-heart.pro" always_refuse
 local-zone: "ipgmediabrands.com" always_refuse
 local-zone: "iw-advertising.com" always_refuse
 local-zone: "iwanttodeliver.com" always_refuse
+local-zone: "jam.hearstapps.com" always_refuse
 local-zone: "jenniferspivak.com" always_refuse
 local-zone: "jetandroidapps.com" always_refuse
 local-zone: "jrmadvertising.com" always_refuse
