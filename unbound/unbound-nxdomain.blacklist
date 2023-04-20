@@ -7714,6 +7714,7 @@ local-zone: "go.metabet.io" always_nxdomain
 local-zone: "go.mhadsd.com" always_nxdomain
 local-zone: "go.mhadst.com" always_nxdomain
 local-zone: "go.mobdel.com" always_nxdomain
+local-zone: "gonet-ads.com" always_nxdomain
 local-zone: "gonewland.com" always_nxdomain
 local-zone: "good-loop.com" always_nxdomain
 local-zone: "go.padstm.com" always_nxdomain

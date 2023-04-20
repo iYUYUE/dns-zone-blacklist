@@ -7714,6 +7714,7 @@ zone "go.metabet.io" { type master; notify no; file "null.zone.file"; };
 zone "go.mhadsd.com" { type master; notify no; file "null.zone.file"; };
 zone "go.mhadst.com" { type master; notify no; file "null.zone.file"; };
 zone "go.mobdel.com" { type master; notify no; file "null.zone.file"; };
+zone "gonet-ads.com" { type master; notify no; file "null.zone.file"; };
 zone "gonewland.com" { type master; notify no; file "null.zone.file"; };
 zone "good-loop.com" { type master; notify no; file "null.zone.file"; };
 zone "go.padstm.com" { type master; notify no; file "null.zone.file"; };

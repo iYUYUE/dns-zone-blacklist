@@ -7714,6 +7714,7 @@ local-zone: "go.metabet.io" always_refuse
 local-zone: "go.mhadsd.com" always_refuse
 local-zone: "go.mhadst.com" always_refuse
 local-zone: "go.mobdel.com" always_refuse
+local-zone: "gonet-ads.com" always_refuse
 local-zone: "gonewland.com" always_refuse
 local-zone: "good-loop.com" always_refuse
 local-zone: "go.padstm.com" always_refuse
