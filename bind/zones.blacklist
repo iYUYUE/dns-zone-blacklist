@@ -17326,6 +17326,7 @@ zone "indelible-awareness.pro" { type master; notify no; file "null.zone.file"; 
 zone "ingameads2.gameloft.com" { type master; notify no; file "null.zone.file"; };
 zone "ingamesads.gameloft.com" { type master; notify no; file "null.zone.file"; };
 zone "interadsadvertising.com" { type master; notify no; file "null.zone.file"; };
+zone "invitejs.trustpilot.com" { type master; notify no; file "null.zone.file"; };
 zone "irritating-standard.pro" { type master; notify no; file "null.zone.file"; };
 zone "jlonlineadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "kampanjat.sharewood.org" { type master; notify no; file "null.zone.file"; };
@@ -18291,6 +18292,7 @@ zone "seal-northernindiana.bbb.org" { type master; notify no; file "null.zone.fi
 zone "seal-westernmichigan.bbb.org" { type master; notify no; file "null.zone.file"; };
 zone "secure.widget.cloud.opta.net" { type master; notify no; file "null.zone.file"; };
 zone "servedby.atlantamagazine.com" { type master; notify no; file "null.zone.file"; };
+zone "shopify-chat.shopifyapps.com" { type master; notify no; file "null.zone.file"; };
 zone "smart.corusinternational.org" { type master; notify no; file "null.zone.file"; };
 zone "softwaredefineddelivery.info" { type master; notify no; file "null.zone.file"; };
 zone "solutions.interactiveone.com" { type master; notify no; file "null.zone.file"; };
@@ -18698,6 +18700,7 @@ zone "advertisingdistributionsupplies.com" { type master; notify no; file "null.
 zone "androidtvwatsonfe-pa.googleapis.com" { type master; notify no; file "null.zone.file"; };
 zone "banners-wxu.weather-perf.akadns.net" { type master; notify no; file "null.zone.file"; };
 zone "broadstreet-common.s3.amazonaws.com" { type master; notify no; file "null.zone.file"; };
+zone "ecommplugins-scripts.trustpilot.com" { type master; notify no; file "null.zone.file"; };
 zone "ggt999.oss-cn-hangzhou.aliyuncs.com" { type master; notify no; file "null.zone.file"; };
 zone "js.brealtime.com.cdn.cloudflare.net" { type master; notify no; file "null.zone.file"; };
 zone "mxvp-ad-config-prod-1.zenmxapps.com" { type master; notify no; file "null.zone.file"; };
@@ -18807,6 +18810,7 @@ zone "uxt-brand-carousel-prod.shpp.ext.zooplus.io" { type master; notify no; fil
 zone "uxt-special-teaser-prod.shpp.ext.zooplus.io" { type master; notify no; file "null.zone.file"; };
 zone "ads-b-1941474562.us-east-1.elb.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "android-tv.device-support.ad-tech.nbcuni.com" { type master; notify no; file "null.zone.file"; };
+zone "ecommplugins-trustboxsettings.trustpilot.com" { type master; notify no; file "null.zone.file"; };
 zone "uxt-magazine-teaser-prod.shpp.ext.zooplus.io" { type master; notify no; file "null.zone.file"; };
 zone "2betadservice.s3.ap-northeast-1.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "adv-pubmanager-dev.s3-sa-east-1.amazonaws.com" { type master; notify no; file "null.zone.file"; };

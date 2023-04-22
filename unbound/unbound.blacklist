@@ -17326,6 +17326,7 @@ local-zone: "indelible-awareness.pro" always_refuse
 local-zone: "ingameads2.gameloft.com" always_refuse
 local-zone: "ingamesads.gameloft.com" always_refuse
 local-zone: "interadsadvertising.com" always_refuse
+local-zone: "invitejs.trustpilot.com" always_refuse
 local-zone: "irritating-standard.pro" always_refuse
 local-zone: "jlonlineadvertising.com" always_refuse
 local-zone: "kampanjat.sharewood.org" always_refuse
@@ -18291,6 +18292,7 @@ local-zone: "seal-northernindiana.bbb.org" always_refuse
 local-zone: "seal-westernmichigan.bbb.org" always_refuse
 local-zone: "secure.widget.cloud.opta.net" always_refuse
 local-zone: "servedby.atlantamagazine.com" always_refuse
+local-zone: "shopify-chat.shopifyapps.com" always_refuse
 local-zone: "smart.corusinternational.org" always_refuse
 local-zone: "softwaredefineddelivery.info" always_refuse
 local-zone: "solutions.interactiveone.com" always_refuse
@@ -18698,6 +18700,7 @@ local-zone: "advertisingdistributionsupplies.com" always_refuse
 local-zone: "androidtvwatsonfe-pa.googleapis.com" always_refuse
 local-zone: "banners-wxu.weather-perf.akadns.net" always_refuse
 local-zone: "broadstreet-common.s3.amazonaws.com" always_refuse
+local-zone: "ecommplugins-scripts.trustpilot.com" always_refuse
 local-zone: "ggt999.oss-cn-hangzhou.aliyuncs.com" always_refuse
 local-zone: "js.brealtime.com.cdn.cloudflare.net" always_refuse
 local-zone: "mxvp-ad-config-prod-1.zenmxapps.com" always_refuse
@@ -18807,6 +18810,7 @@ local-zone: "uxt-brand-carousel-prod.shpp.ext.zooplus.io" always_refuse
 local-zone: "uxt-special-teaser-prod.shpp.ext.zooplus.io" always_refuse
 local-zone: "ads-b-1941474562.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "android-tv.device-support.ad-tech.nbcuni.com" always_refuse
+local-zone: "ecommplugins-trustboxsettings.trustpilot.com" always_refuse
 local-zone: "uxt-magazine-teaser-prod.shpp.ext.zooplus.io" always_refuse
 local-zone: "2betadservice.s3.ap-northeast-1.amazonaws.com" always_refuse
 local-zone: "adv-pubmanager-dev.s3-sa-east-1.amazonaws.com" always_refuse

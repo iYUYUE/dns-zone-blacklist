@@ -17326,6 +17326,7 @@ local-zone: "indelible-awareness.pro" always_nxdomain
 local-zone: "ingameads2.gameloft.com" always_nxdomain
 local-zone: "ingamesads.gameloft.com" always_nxdomain
 local-zone: "interadsadvertising.com" always_nxdomain
+local-zone: "invitejs.trustpilot.com" always_nxdomain
 local-zone: "irritating-standard.pro" always_nxdomain
 local-zone: "jlonlineadvertising.com" always_nxdomain
 local-zone: "kampanjat.sharewood.org" always_nxdomain
@@ -18291,6 +18292,7 @@ local-zone: "seal-northernindiana.bbb.org" always_nxdomain
 local-zone: "seal-westernmichigan.bbb.org" always_nxdomain
 local-zone: "secure.widget.cloud.opta.net" always_nxdomain
 local-zone: "servedby.atlantamagazine.com" always_nxdomain
+local-zone: "shopify-chat.shopifyapps.com" always_nxdomain
 local-zone: "smart.corusinternational.org" always_nxdomain
 local-zone: "softwaredefineddelivery.info" always_nxdomain
 local-zone: "solutions.interactiveone.com" always_nxdomain
@@ -18698,6 +18700,7 @@ local-zone: "advertisingdistributionsupplies.com" always_nxdomain
 local-zone: "androidtvwatsonfe-pa.googleapis.com" always_nxdomain
 local-zone: "banners-wxu.weather-perf.akadns.net" always_nxdomain
 local-zone: "broadstreet-common.s3.amazonaws.com" always_nxdomain
+local-zone: "ecommplugins-scripts.trustpilot.com" always_nxdomain
 local-zone: "ggt999.oss-cn-hangzhou.aliyuncs.com" always_nxdomain
 local-zone: "js.brealtime.com.cdn.cloudflare.net" always_nxdomain
 local-zone: "mxvp-ad-config-prod-1.zenmxapps.com" always_nxdomain
@@ -18807,6 +18810,7 @@ local-zone: "uxt-brand-carousel-prod.shpp.ext.zooplus.io" always_nxdomain
 local-zone: "uxt-special-teaser-prod.shpp.ext.zooplus.io" always_nxdomain
 local-zone: "ads-b-1941474562.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "android-tv.device-support.ad-tech.nbcuni.com" always_nxdomain
+local-zone: "ecommplugins-trustboxsettings.trustpilot.com" always_nxdomain
 local-zone: "uxt-magazine-teaser-prod.shpp.ext.zooplus.io" always_nxdomain
 local-zone: "2betadservice.s3.ap-northeast-1.amazonaws.com" always_nxdomain
 local-zone: "adv-pubmanager-dev.s3-sa-east-1.amazonaws.com" always_nxdomain
