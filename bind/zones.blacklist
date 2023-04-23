@@ -16912,7 +16912,6 @@ zone "krayonscreativehub.com" { type master; notify no; file "null.zone.file"; }
 zone "layermedia-adserver.de" { type master; notify no; file "null.zone.file"; };
 zone "lifestyleadnetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "liondigitalserving.com" { type master; notify no; file "null.zone.file"; };
-zone "livechat.cyberfolks.pl" { type master; notify no; file "null.zone.file"; };
 zone "looney-advertising.com" { type master; notify no; file "null.zone.file"; };
 zone "mailing.checkpoint.com" { type master; notify no; file "null.zone.file"; };
 zone "mansfieldmarketing.com" { type master; notify no; file "null.zone.file"; };
@@ -18292,7 +18291,6 @@ zone "seal-northernindiana.bbb.org" { type master; notify no; file "null.zone.fi
 zone "seal-westernmichigan.bbb.org" { type master; notify no; file "null.zone.file"; };
 zone "secure.widget.cloud.opta.net" { type master; notify no; file "null.zone.file"; };
 zone "servedby.atlantamagazine.com" { type master; notify no; file "null.zone.file"; };
-zone "shopify-chat.shopifyapps.com" { type master; notify no; file "null.zone.file"; };
 zone "smart.corusinternational.org" { type master; notify no; file "null.zone.file"; };
 zone "softwaredefineddelivery.info" { type master; notify no; file "null.zone.file"; };
 zone "solutions.interactiveone.com" { type master; notify no; file "null.zone.file"; };
