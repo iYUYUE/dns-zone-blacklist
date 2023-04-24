@@ -10744,6 +10744,7 @@ zone "casalemedia.com" { type master; notify no; file "null.zone.file"; };
 zone "catchthatad.com" { type master; notify no; file "null.zone.file"; };
 zone "cba-fed-igh.com" { type master; notify no; file "null.zone.file"; };
 zone "cbccreative.com" { type master; notify no; file "null.zone.file"; };
+zone "c.cgmission.com" { type master; notify no; file "null.zone.file"; };
 zone "cdn-server.info" { type master; notify no; file "null.zone.file"; };
 zone "cdn.tech426.com" { type master; notify no; file "null.zone.file"; };
 zone "cdn.thehinh.com" { type master; notify no; file "null.zone.file"; };

@@ -10744,6 +10744,7 @@ local-zone: "casalemedia.com" always_nxdomain
 local-zone: "catchthatad.com" always_nxdomain
 local-zone: "cba-fed-igh.com" always_nxdomain
 local-zone: "cbccreative.com" always_nxdomain
+local-zone: "c.cgmission.com" always_nxdomain
 local-zone: "cdn-server.info" always_nxdomain
 local-zone: "cdn.tech426.com" always_nxdomain
 local-zone: "cdn.thehinh.com" always_nxdomain

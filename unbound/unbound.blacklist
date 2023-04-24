@@ -10744,6 +10744,7 @@ local-zone: "casalemedia.com" always_refuse
 local-zone: "catchthatad.com" always_refuse
 local-zone: "cba-fed-igh.com" always_refuse
 local-zone: "cbccreative.com" always_refuse
+local-zone: "c.cgmission.com" always_refuse
 local-zone: "cdn-server.info" always_refuse
 local-zone: "cdn.tech426.com" always_refuse
 local-zone: "cdn.thehinh.com" always_refuse
