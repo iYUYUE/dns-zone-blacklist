@@ -4362,6 +4362,7 @@ zone "hedseted.ru" { type master; notify no; file "null.zone.file"; };
 zone "hermitz.com" { type master; notify no; file "null.zone.file"; };
 zone "hit2hit.com" { type master; notify no; file "null.zone.file"; };
 zone "hit4hit.org" { type master; notify no; file "null.zone.file"; };
+zone "hitfuck.icu" { type master; notify no; file "null.zone.file"; };
 zone "hit-now.com" { type master; notify no; file "null.zone.file"; };
 zone "hit.stat.pl" { type master; notify no; file "null.zone.file"; };
 zone "h.itvnet.lv" { type master; notify no; file "null.zone.file"; };

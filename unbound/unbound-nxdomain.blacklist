@@ -4362,6 +4362,7 @@ local-zone: "hedseted.ru" always_nxdomain
 local-zone: "hermitz.com" always_nxdomain
 local-zone: "hit2hit.com" always_nxdomain
 local-zone: "hit4hit.org" always_nxdomain
+local-zone: "hitfuck.icu" always_nxdomain
 local-zone: "hit-now.com" always_nxdomain
 local-zone: "hit.stat.pl" always_nxdomain
 local-zone: "h.itvnet.lv" always_nxdomain

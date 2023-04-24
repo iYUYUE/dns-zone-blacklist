@@ -4362,6 +4362,7 @@ local-zone: "hedseted.ru" always_refuse
 local-zone: "hermitz.com" always_refuse
 local-zone: "hit2hit.com" always_refuse
 local-zone: "hit4hit.org" always_refuse
+local-zone: "hitfuck.icu" always_refuse
 local-zone: "hit-now.com" always_refuse
 local-zone: "hit.stat.pl" always_refuse
 local-zone: "h.itvnet.lv" always_refuse
