@@ -1258,6 +1258,7 @@ local-zone: "n0244.com" always_refuse
 local-zone: "n0399.com" always_refuse
 local-zone: "n0404.com" always_refuse
 local-zone: "n0544.com" always_refuse
+local-zone: "n0566.com" always_refuse
 local-zone: "n0600.com" always_refuse
 local-zone: "n0611.com" always_refuse
 local-zone: "n2s.co.kr" always_refuse
@@ -1448,7 +1449,9 @@ local-zone: "u0056.com" always_refuse
 local-zone: "u0059.com" always_refuse
 local-zone: "u0063.com" always_refuse
 local-zone: "u0064.com" always_refuse
+local-zone: "u1011.com" always_refuse
 local-zone: "u1044.com" always_refuse
+local-zone: "u1077.com" always_refuse
 local-zone: "u1102.com" always_refuse
 local-zone: "u1669.com" always_refuse
 local-zone: "u2267.com" always_refuse
@@ -2481,6 +2484,7 @@ local-zone: "icvads.com" always_refuse
 local-zone: "icyads.com" always_refuse
 local-zone: "ideadia.mx" always_refuse
 local-zone: "idfive.com" always_refuse
+local-zone: "idvert.com" always_refuse
 local-zone: "iexqhm.com" always_refuse
 local-zone: "ieydkx.com" always_refuse
 local-zone: "iframes.us" always_refuse
@@ -4526,6 +4530,7 @@ local-zone: "mibmcbm.com" always_refuse
 local-zone: "microad.net" always_refuse
 local-zone: "midas-i.com" always_refuse
 local-zone: "midroll.com" always_refuse
+local-zone: "milo.agency" always_refuse
 local-zone: "minimob.com" always_refuse
 local-zone: "mirriad.com" always_refuse
 local-zone: "misgood.com" always_refuse
@@ -6299,6 +6304,7 @@ local-zone: "oqamicab.xyz" always_refuse
 local-zone: "oralfish.com" always_refuse
 local-zone: "orangeads.fr" always_refuse
 local-zone: "orangeadv.gr" always_refuse
+local-zone: "orawmstc.com" always_refuse
 local-zone: "o.socoms.net" always_refuse
 local-zone: "otrwaram.com" always_refuse
 local-zone: "otyxyyat.xyz" always_refuse
@@ -6361,6 +6367,7 @@ local-zone: "popupplus.ir" always_refuse
 local-zone: "pornaffs.com" always_refuse
 local-zone: "porovname.cz" always_refuse
 local-zone: "posakevy.com" always_refuse
+local-zone: "potwmora.com" always_refuse
 local-zone: "povapeba.xyz" always_refuse
 local-zone: "pozekate.com" always_refuse
 local-zone: "prelinker.lu" always_refuse

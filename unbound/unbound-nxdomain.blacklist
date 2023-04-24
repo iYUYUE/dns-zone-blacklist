@@ -1258,6 +1258,7 @@ local-zone: "n0244.com" always_nxdomain
 local-zone: "n0399.com" always_nxdomain
 local-zone: "n0404.com" always_nxdomain
 local-zone: "n0544.com" always_nxdomain
+local-zone: "n0566.com" always_nxdomain
 local-zone: "n0600.com" always_nxdomain
 local-zone: "n0611.com" always_nxdomain
 local-zone: "n2s.co.kr" always_nxdomain
@@ -1448,7 +1449,9 @@ local-zone: "u0056.com" always_nxdomain
 local-zone: "u0059.com" always_nxdomain
 local-zone: "u0063.com" always_nxdomain
 local-zone: "u0064.com" always_nxdomain
+local-zone: "u1011.com" always_nxdomain
 local-zone: "u1044.com" always_nxdomain
+local-zone: "u1077.com" always_nxdomain
 local-zone: "u1102.com" always_nxdomain
 local-zone: "u1669.com" always_nxdomain
 local-zone: "u2267.com" always_nxdomain
@@ -2481,6 +2484,7 @@ local-zone: "icvads.com" always_nxdomain
 local-zone: "icyads.com" always_nxdomain
 local-zone: "ideadia.mx" always_nxdomain
 local-zone: "idfive.com" always_nxdomain
+local-zone: "idvert.com" always_nxdomain
 local-zone: "iexqhm.com" always_nxdomain
 local-zone: "ieydkx.com" always_nxdomain
 local-zone: "iframes.us" always_nxdomain
@@ -4526,6 +4530,7 @@ local-zone: "mibmcbm.com" always_nxdomain
 local-zone: "microad.net" always_nxdomain
 local-zone: "midas-i.com" always_nxdomain
 local-zone: "midroll.com" always_nxdomain
+local-zone: "milo.agency" always_nxdomain
 local-zone: "minimob.com" always_nxdomain
 local-zone: "mirriad.com" always_nxdomain
 local-zone: "misgood.com" always_nxdomain
@@ -6299,6 +6304,7 @@ local-zone: "oqamicab.xyz" always_nxdomain
 local-zone: "oralfish.com" always_nxdomain
 local-zone: "orangeads.fr" always_nxdomain
 local-zone: "orangeadv.gr" always_nxdomain
+local-zone: "orawmstc.com" always_nxdomain
 local-zone: "o.socoms.net" always_nxdomain
 local-zone: "otrwaram.com" always_nxdomain
 local-zone: "otyxyyat.xyz" always_nxdomain
@@ -6361,6 +6367,7 @@ local-zone: "popupplus.ir" always_nxdomain
 local-zone: "pornaffs.com" always_nxdomain
 local-zone: "porovname.cz" always_nxdomain
 local-zone: "posakevy.com" always_nxdomain
+local-zone: "potwmora.com" always_nxdomain
 local-zone: "povapeba.xyz" always_nxdomain
 local-zone: "pozekate.com" always_nxdomain
 local-zone: "prelinker.lu" always_nxdomain
