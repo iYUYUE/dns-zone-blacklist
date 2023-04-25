@@ -819,6 +819,7 @@ local-zone: "adspot.ng" always_nxdomain
 local-zone: "adspro.it" always_nxdomain
 local-zone: "adspt.com" always_nxdomain
 local-zone: "ad-srv.co" always_nxdomain
+local-zone: "adsrvr.me" always_nxdomain
 local-zone: "adsrv.wtf" always_nxdomain
 local-zone: "ads.style" always_nxdomain
 local-zone: "adstk.net" always_nxdomain

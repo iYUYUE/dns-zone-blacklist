@@ -819,6 +819,7 @@ local-zone: "adspot.ng" always_refuse
 local-zone: "adspro.it" always_refuse
 local-zone: "adspt.com" always_refuse
 local-zone: "ad-srv.co" always_refuse
+local-zone: "adsrvr.me" always_refuse
 local-zone: "adsrv.wtf" always_refuse
 local-zone: "ads.style" always_refuse
 local-zone: "adstk.net" always_refuse

@@ -819,6 +819,7 @@ zone "adspot.ng" { type master; notify no; file "null.zone.file"; };
 zone "adspro.it" { type master; notify no; file "null.zone.file"; };
 zone "adspt.com" { type master; notify no; file "null.zone.file"; };
 zone "ad-srv.co" { type master; notify no; file "null.zone.file"; };
+zone "adsrvr.me" { type master; notify no; file "null.zone.file"; };
 zone "adsrv.wtf" { type master; notify no; file "null.zone.file"; };
 zone "ads.style" { type master; notify no; file "null.zone.file"; };
 zone "adstk.net" { type master; notify no; file "null.zone.file"; };
