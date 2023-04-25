@@ -1298,6 +1298,7 @@ local-zone: "oezkf.com" always_refuse
 local-zone: "ogury.com" always_refuse
 local-zone: "oixlg.com" always_refuse
 local-zone: "ojpem.com" always_refuse
+local-zone: "one.store" always_refuse
 local-zone: "openap.tv" always_refuse
 local-zone: "openx.com" always_refuse
 local-zone: "openx.net" always_refuse
@@ -3439,6 +3440,7 @@ local-zone: "zezvty.com" always_refuse
 local-zone: "zfoffp.com" always_refuse
 local-zone: "zfsfkp.com" always_refuse
 local-zone: "zgxrht.com" always_refuse
+local-zone: "zipify.com" always_refuse
 local-zone: "zkbkat.com" always_refuse
 local-zone: "zmedia.com" always_refuse
 local-zone: "zmpush.com" always_refuse
@@ -5941,6 +5943,7 @@ local-zone: "gingardo.com" always_refuse
 local-zone: "givemyadd.in" always_refuse
 local-zone: "giwefepy.xyz" always_refuse
 local-zone: "glxmedia.com" always_refuse
+local-zone: "goaffpro.com" always_refuse
 local-zone: "go.cmrdr.com" always_refuse
 local-zone: "gokaarts.com" always_refuse
 local-zone: "goldbach.com" always_refuse
@@ -15978,7 +15981,6 @@ local-zone: "wepayyoulongtime.com" always_refuse
 local-zone: "wesearchengineok.com" always_refuse
 local-zone: "widget.alireviews.io" always_refuse
 local-zone: "widget.altrulabs.com" always_refuse
-local-zone: "widget-api.one.store" always_refuse
 local-zone: "widget.justwatch.com" always_refuse
 local-zone: "widget.reviews.co.uk" always_refuse
 local-zone: "widgets.business.com" always_refuse
@@ -18389,6 +18391,7 @@ local-zone: "d1iasaj5bwktyw.cloudfront.net" always_refuse
 local-zone: "d1je72vo6cxqo9.cloudfront.net" always_refuse
 local-zone: "d1kcs7xqcuzm6v.cloudfront.net" always_refuse
 local-zone: "d1lxz4vuik53pc.cloudfront.net" always_refuse
+local-zone: "d1npnstlfekkfz.cloudfront.net" always_refuse
 local-zone: "d1nruqhae353qc.cloudfront.net" always_refuse
 local-zone: "d1otoma47x30pg.cloudfront.net" always_refuse
 local-zone: "d1pr3sk5xr0dce.cloudfront.net" always_refuse

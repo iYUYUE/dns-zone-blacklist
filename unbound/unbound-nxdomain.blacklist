@@ -1298,6 +1298,7 @@ local-zone: "oezkf.com" always_nxdomain
 local-zone: "ogury.com" always_nxdomain
 local-zone: "oixlg.com" always_nxdomain
 local-zone: "ojpem.com" always_nxdomain
+local-zone: "one.store" always_nxdomain
 local-zone: "openap.tv" always_nxdomain
 local-zone: "openx.com" always_nxdomain
 local-zone: "openx.net" always_nxdomain
@@ -3439,6 +3440,7 @@ local-zone: "zezvty.com" always_nxdomain
 local-zone: "zfoffp.com" always_nxdomain
 local-zone: "zfsfkp.com" always_nxdomain
 local-zone: "zgxrht.com" always_nxdomain
+local-zone: "zipify.com" always_nxdomain
 local-zone: "zkbkat.com" always_nxdomain
 local-zone: "zmedia.com" always_nxdomain
 local-zone: "zmpush.com" always_nxdomain
@@ -5941,6 +5943,7 @@ local-zone: "gingardo.com" always_nxdomain
 local-zone: "givemyadd.in" always_nxdomain
 local-zone: "giwefepy.xyz" always_nxdomain
 local-zone: "glxmedia.com" always_nxdomain
+local-zone: "goaffpro.com" always_nxdomain
 local-zone: "go.cmrdr.com" always_nxdomain
 local-zone: "gokaarts.com" always_nxdomain
 local-zone: "goldbach.com" always_nxdomain
@@ -15978,7 +15981,6 @@ local-zone: "wepayyoulongtime.com" always_nxdomain
 local-zone: "wesearchengineok.com" always_nxdomain
 local-zone: "widget.alireviews.io" always_nxdomain
 local-zone: "widget.altrulabs.com" always_nxdomain
-local-zone: "widget-api.one.store" always_nxdomain
 local-zone: "widget.justwatch.com" always_nxdomain
 local-zone: "widget.reviews.co.uk" always_nxdomain
 local-zone: "widgets.business.com" always_nxdomain
@@ -18389,6 +18391,7 @@ local-zone: "d1iasaj5bwktyw.cloudfront.net" always_nxdomain
 local-zone: "d1je72vo6cxqo9.cloudfront.net" always_nxdomain
 local-zone: "d1kcs7xqcuzm6v.cloudfront.net" always_nxdomain
 local-zone: "d1lxz4vuik53pc.cloudfront.net" always_nxdomain
+local-zone: "d1npnstlfekkfz.cloudfront.net" always_nxdomain
 local-zone: "d1nruqhae353qc.cloudfront.net" always_nxdomain
 local-zone: "d1otoma47x30pg.cloudfront.net" always_nxdomain
 local-zone: "d1pr3sk5xr0dce.cloudfront.net" always_nxdomain
