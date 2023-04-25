@@ -905,7 +905,6 @@ zone "avazu.com" { type master; notify no; file "null.zone.file"; };
 zone "avazu.net" { type master; notify no; file "null.zone.file"; };
 zone "avocet.io" { type master; notify no; file "null.zone.file"; };
 zone "avrdi.com" { type master; notify no; file "null.zone.file"; };
-zone "awin1.com" { type master; notify no; file "null.zone.file"; };
 zone "awin.team" { type master; notify no; file "null.zone.file"; };
 zone "awprt.com" { type master; notify no; file "null.zone.file"; };
 zone "azskk.com" { type master; notify no; file "null.zone.file"; };

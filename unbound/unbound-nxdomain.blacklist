@@ -905,7 +905,6 @@ local-zone: "avazu.com" always_nxdomain
 local-zone: "avazu.net" always_nxdomain
 local-zone: "avocet.io" always_nxdomain
 local-zone: "avrdi.com" always_nxdomain
-local-zone: "awin1.com" always_nxdomain
 local-zone: "awin.team" always_nxdomain
 local-zone: "awprt.com" always_nxdomain
 local-zone: "azskk.com" always_nxdomain
