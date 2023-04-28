@@ -7608,6 +7608,7 @@ local-zone: "down1depo.com" always_refuse
 local-zone: "dreamajax.com" always_refuse
 local-zone: "dreamstore.ch" always_refuse
 local-zone: "drtuproft.com" always_refuse
+local-zone: "dr.yandex.net" always_refuse
 local-zone: "ds.11st.co.kr" always_refuse
 local-zone: "dsiofhdoj.com" always_refuse
 local-zone: "dsp5stero.com" always_refuse
@@ -9317,6 +9318,7 @@ local-zone: "doublepimp.com" always_refuse
 local-zone: "dozethiwho.com" always_refuse
 local-zone: "doznavatel.com" always_refuse
 local-zone: "dpinspire.mobi" always_refuse
+local-zone: "dr2.yandex.net" always_refuse
 local-zone: "dream-cash.com" always_refuse
 local-zone: "dreamentia.com" always_refuse
 local-zone: "dukagrygro.com" always_refuse
@@ -15525,6 +15527,7 @@ local-zone: "ads.fcdigital.com.mx" always_refuse
 local-zone: "ads.ferienknaller.de" always_refuse
 local-zone: "ads.flamencocool.com" always_refuse
 local-zone: "ads.frank-hoefer.com" always_refuse
+local-zone: "adsfs.oppomobile.com" always_refuse
 local-zone: "ads.funkkombiwest.de" always_refuse
 local-zone: "ads.govoritmoskva.ru" always_refuse
 local-zone: "ads.hausbau-forum.de" always_refuse
@@ -18361,6 +18364,7 @@ local-zone: "advant-media.s3.amazonaws.com" always_refuse
 local-zone: "advertise.fairfaxmedia.com.au" always_refuse
 local-zone: "advertiseonbing.azureedge.net" always_refuse
 local-zone: "advertiser.authenticshows.com" always_refuse
+local-zone: "advertising-api-eu.amazon.com" always_refuse
 local-zone: "advertising.avangardstudio.bg" always_refuse
 local-zone: "advertising.conexion3dcad.com" always_refuse
 local-zone: "advertpro.investorvillage.com" always_refuse

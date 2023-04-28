@@ -7608,6 +7608,7 @@ local-zone: "down1depo.com" always_nxdomain
 local-zone: "dreamajax.com" always_nxdomain
 local-zone: "dreamstore.ch" always_nxdomain
 local-zone: "drtuproft.com" always_nxdomain
+local-zone: "dr.yandex.net" always_nxdomain
 local-zone: "ds.11st.co.kr" always_nxdomain
 local-zone: "dsiofhdoj.com" always_nxdomain
 local-zone: "dsp5stero.com" always_nxdomain
@@ -9317,6 +9318,7 @@ local-zone: "doublepimp.com" always_nxdomain
 local-zone: "dozethiwho.com" always_nxdomain
 local-zone: "doznavatel.com" always_nxdomain
 local-zone: "dpinspire.mobi" always_nxdomain
+local-zone: "dr2.yandex.net" always_nxdomain
 local-zone: "dream-cash.com" always_nxdomain
 local-zone: "dreamentia.com" always_nxdomain
 local-zone: "dukagrygro.com" always_nxdomain
@@ -15525,6 +15527,7 @@ local-zone: "ads.fcdigital.com.mx" always_nxdomain
 local-zone: "ads.ferienknaller.de" always_nxdomain
 local-zone: "ads.flamencocool.com" always_nxdomain
 local-zone: "ads.frank-hoefer.com" always_nxdomain
+local-zone: "adsfs.oppomobile.com" always_nxdomain
 local-zone: "ads.funkkombiwest.de" always_nxdomain
 local-zone: "ads.govoritmoskva.ru" always_nxdomain
 local-zone: "ads.hausbau-forum.de" always_nxdomain
@@ -18361,6 +18364,7 @@ local-zone: "advant-media.s3.amazonaws.com" always_nxdomain
 local-zone: "advertise.fairfaxmedia.com.au" always_nxdomain
 local-zone: "advertiseonbing.azureedge.net" always_nxdomain
 local-zone: "advertiser.authenticshows.com" always_nxdomain
+local-zone: "advertising-api-eu.amazon.com" always_nxdomain
 local-zone: "advertising.avangardstudio.bg" always_nxdomain
 local-zone: "advertising.conexion3dcad.com" always_nxdomain
 local-zone: "advertpro.investorvillage.com" always_nxdomain
