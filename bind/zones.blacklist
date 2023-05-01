@@ -1599,6 +1599,7 @@ zone "7click.com" { type master; notify no; file "null.zone.file"; };
 zone "7pisem.com" { type master; notify no; file "null.zone.file"; };
 zone "8-digi.com" { type master; notify no; file "null.zone.file"; };
 zone "8le8le.com" { type master; notify no; file "null.zone.file"; };
+zone "905trk.com" { type master; notify no; file "null.zone.file"; };
 zone "9tnine.net" { type master; notify no; file "null.zone.file"; };
 zone "a2m.agency" { type master; notify no; file "null.zone.file"; };
 zone "a2.news.cn" { type master; notify no; file "null.zone.file"; };

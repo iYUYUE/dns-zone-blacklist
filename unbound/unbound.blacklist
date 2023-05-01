@@ -1599,6 +1599,7 @@ local-zone: "7click.com" always_refuse
 local-zone: "7pisem.com" always_refuse
 local-zone: "8-digi.com" always_refuse
 local-zone: "8le8le.com" always_refuse
+local-zone: "905trk.com" always_refuse
 local-zone: "9tnine.net" always_refuse
 local-zone: "a2m.agency" always_refuse
 local-zone: "a2.news.cn" always_refuse
