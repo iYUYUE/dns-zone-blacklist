@@ -450,6 +450,7 @@ local-zone: "hq3x.com" always_nxdomain
 local-zone: "hsux.com" always_nxdomain
 local-zone: "i1ii.xyz" always_nxdomain
 local-zone: "id29.com" always_nxdomain
+local-zone: "inflx.io" always_nxdomain
 local-zone: "iolam.it" always_nxdomain
 local-zone: "iprom.eu" always_nxdomain
 local-zone: "iprom.si" always_nxdomain
@@ -1410,6 +1411,7 @@ local-zone: "sterta.pl" always_nxdomain
 local-zone: "stw.co.in" always_nxdomain
 local-zone: "sulvo.com" always_nxdomain
 local-zone: "surfe.pro" always_nxdomain
+local-zone: "symplr.de" always_nxdomain
 local-zone: "szimh.com" always_nxdomain
 local-zone: "tagtoo.co" always_nxdomain
 local-zone: "tapad.app" always_nxdomain
@@ -5871,6 +5873,7 @@ local-zone: "equityme.com" always_nxdomain
 local-zone: "erniphiq.com" always_nxdomain
 local-zone: "est-host.com" always_nxdomain
 local-zone: "eventige.com" always_nxdomain
+local-zone: "everestop.io" always_nxdomain
 local-zone: "evewrite.net" always_nxdomain
 local-zone: "exdynsrv.com" always_nxdomain
 local-zone: "exoclick.com" always_nxdomain
@@ -5998,6 +6001,7 @@ local-zone: "iabeurope.eu" always_nxdomain
 local-zone: "ib-broker.co" always_nxdomain
 local-zone: "ibeamads.net" always_nxdomain
 local-zone: "i-clicks.net" always_nxdomain
+local-zone: "iconnode.com" always_nxdomain
 local-zone: "iconpeak.com" always_nxdomain
 local-zone: "id5-sync.com" always_nxdomain
 local-zone: "idealads.net" always_nxdomain
@@ -7561,6 +7565,7 @@ local-zone: "cosmosads.com" always_nxdomain
 local-zone: "couponplus.ch" always_nxdomain
 local-zone: "cowleyweb.com" always_nxdomain
 local-zone: "cozysense.com" always_nxdomain
+local-zone: "cp.filext.com" always_nxdomain
 local-zone: "cpmleader.com" always_nxdomain
 local-zone: "crakmedia.com" always_nxdomain
 local-zone: "crentgate.com" always_nxdomain
@@ -18722,6 +18727,7 @@ local-zone: "friends2follow-us.s3.amazonaws.com" always_nxdomain
 local-zone: "hb-obv2.s3.us-east-2.amazonaws.com" always_nxdomain
 local-zone: "heads-ak-spotify-com.akamaized.net" always_nxdomain
 local-zone: "includemodal.global.ssl.fastly.net" always_nxdomain
+local-zone: "inflxio.s3-us-west-1.amazonaws.com" always_nxdomain
 local-zone: "japfg-trending-content.appspot.com" always_nxdomain
 local-zone: "newfeatureview.perfectionholic.com" always_nxdomain
 local-zone: "noclegipracownicze-augustow.online" always_nxdomain
