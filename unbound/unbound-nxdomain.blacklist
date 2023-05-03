@@ -4,6 +4,7 @@ local-zone: "ad.mg" always_nxdomain
 local-zone: "ad.nl" always_nxdomain
 local-zone: "ad.nu" always_nxdomain
 local-zone: "ad.vu" always_nxdomain
+local-zone: "at.nu" always_nxdomain
 local-zone: "bn.co" always_nxdomain
 local-zone: "iz.do" always_nxdomain
 local-zone: "m2.ai" always_nxdomain
@@ -2437,6 +2438,7 @@ local-zone: "gzqiki.com" always_nxdomain
 local-zone: "h6.msn.com" always_nxdomain
 local-zone: "hapyak.com" always_nxdomain
 local-zone: "hatch.cafe" always_nxdomain
+local-zone: "hawkad.com" always_nxdomain
 local-zone: "hbawqr.com" always_nxdomain
 local-zone: "hbfqcy.com" always_nxdomain
 local-zone: "hbzoom.com" always_nxdomain
