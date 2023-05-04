@@ -8715,6 +8715,7 @@ zone "ad.derulis.com" { type master; notify no; file "null.zone.file"; };
 zone "addesigner.com" { type master; notify no; file "null.zone.file"; };
 zone "addrawtech.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.ebitdit.com" { type master; notify no; file "null.zone.file"; };
+zone "ad.eepw.com.cn" { type master; notify no; file "null.zone.file"; };
 zone "adeimptrck.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.eloan.co.jp" { type master; notify no; file "null.zone.file"; };
 zone "adenza.network" { type master; notify no; file "null.zone.file"; };
