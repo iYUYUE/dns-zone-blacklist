@@ -13535,6 +13535,7 @@ local-zone: "seal-swmo.bbb.org" always_refuse
 local-zone: "seal-utah.bbb.org" always_refuse
 local-zone: "secure.comodo.com" always_refuse
 local-zone: "selectmedia.co.in" always_refuse
+local-zone: "selfserveplus.com" always_refuse
 local-zone: "seosolution.co.in" always_refuse
 local-zone: "sequenceindia.com" always_refuse
 local-zone: "servedby.o2.co.uk" always_refuse
