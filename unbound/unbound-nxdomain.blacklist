@@ -14516,6 +14516,7 @@ local-zone: "xml-eu.fastdxr.com" always_nxdomain
 local-zone: "xml-eu-v4.qksrv.cc" always_nxdomain
 local-zone: "xml.gipostart-2.co" always_nxdomain
 local-zone: "xml-v4.fstsrv1.com" always_nxdomain
+local-zone: "yahooadblaster.com" always_nxdomain
 local-zone: "yesadvertising.com" always_nxdomain
 local-zone: "zanox-affiliate.de" always_nxdomain
 local-zone: "zestymarketing.com" always_nxdomain

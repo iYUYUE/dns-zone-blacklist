@@ -14516,6 +14516,7 @@ zone "xml-eu.fastdxr.com" { type master; notify no; file "null.zone.file"; };
 zone "xml-eu-v4.qksrv.cc" { type master; notify no; file "null.zone.file"; };
 zone "xml.gipostart-2.co" { type master; notify no; file "null.zone.file"; };
 zone "xml-v4.fstsrv1.com" { type master; notify no; file "null.zone.file"; };
+zone "yahooadblaster.com" { type master; notify no; file "null.zone.file"; };
 zone "yesadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "zanox-affiliate.de" { type master; notify no; file "null.zone.file"; };
 zone "zestymarketing.com" { type master; notify no; file "null.zone.file"; };

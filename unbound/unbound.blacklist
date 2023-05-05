@@ -14516,6 +14516,7 @@ local-zone: "xml-eu.fastdxr.com" always_refuse
 local-zone: "xml-eu-v4.qksrv.cc" always_refuse
 local-zone: "xml.gipostart-2.co" always_refuse
 local-zone: "xml-v4.fstsrv1.com" always_refuse
+local-zone: "yahooadblaster.com" always_refuse
 local-zone: "yesadvertising.com" always_refuse
 local-zone: "zanox-affiliate.de" always_refuse
 local-zone: "zestymarketing.com" always_refuse
