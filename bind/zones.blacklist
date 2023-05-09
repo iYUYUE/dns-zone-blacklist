@@ -4457,7 +4457,6 @@ zone "kenshoo.com" { type master; notify no; file "null.zone.file"; };
 zone "kerumal.com" { type master; notify no; file "null.zone.file"; };
 zone "keywords.az" { type master; notify no; file "null.zone.file"; };
 zone "kiosked.com" { type master; notify no; file "null.zone.file"; };
-zone "klclick.com" { type master; notify no; file "null.zone.file"; };
 zone "kmrcum2.com" { type master; notify no; file "null.zone.file"; };
 zone "knowmad.com" { type master; notify no; file "null.zone.file"; };
 zone "kobeden.com" { type master; notify no; file "null.zone.file"; };
