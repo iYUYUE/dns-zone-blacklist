@@ -18791,6 +18791,7 @@ zone "adserver.associationheadquarters.com" { type master; notify no; file "null
 zone "adserver.multimediapublishing.com.au" { type master; notify no; file "null.zone.file"; };
 zone "adserver.quintessence-publishing.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.randomexp.net.cdn.cloudflare.net" { type master; notify no; file "null.zone.file"; };
+zone "api-notification-service.inpixio.com" { type master; notify no; file "null.zone.file"; };
 zone "digitalmarketingagencyinpakistan.com" { type master; notify no; file "null.zone.file"; };
 zone "notification-prod.svc.gearsofwar.net" { type master; notify no; file "null.zone.file"; };
 zone "params.prod.mwx.ext.mobilityware.com" { type master; notify no; file "null.zone.file"; };

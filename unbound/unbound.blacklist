@@ -18791,6 +18791,7 @@ local-zone: "adserver.associationheadquarters.com" always_refuse
 local-zone: "adserver.multimediapublishing.com.au" always_refuse
 local-zone: "adserver.quintessence-publishing.com" always_refuse
 local-zone: "ads.randomexp.net.cdn.cloudflare.net" always_refuse
+local-zone: "api-notification-service.inpixio.com" always_refuse
 local-zone: "digitalmarketingagencyinpakistan.com" always_refuse
 local-zone: "notification-prod.svc.gearsofwar.net" always_refuse
 local-zone: "params.prod.mwx.ext.mobilityware.com" always_refuse

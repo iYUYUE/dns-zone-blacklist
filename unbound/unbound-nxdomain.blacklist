@@ -18791,6 +18791,7 @@ local-zone: "adserver.associationheadquarters.com" always_nxdomain
 local-zone: "adserver.multimediapublishing.com.au" always_nxdomain
 local-zone: "adserver.quintessence-publishing.com" always_nxdomain
 local-zone: "ads.randomexp.net.cdn.cloudflare.net" always_nxdomain
+local-zone: "api-notification-service.inpixio.com" always_nxdomain
 local-zone: "digitalmarketingagencyinpakistan.com" always_nxdomain
 local-zone: "notification-prod.svc.gearsofwar.net" always_nxdomain
 local-zone: "params.prod.mwx.ext.mobilityware.com" always_nxdomain
