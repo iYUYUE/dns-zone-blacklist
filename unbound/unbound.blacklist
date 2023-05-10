@@ -5438,6 +5438,7 @@ local-zone: "adspirit.net" always_refuse
 local-zone: "adsplash.com" always_refuse
 local-zone: "adspleen.com" always_refuse
 local-zone: "ads-plus.com" always_refuse
+local-zone: "adspostx.com" always_refuse
 local-zone: "ads.prolo.hu" always_refuse
 local-zone: "adspruce.com" always_refuse
 local-zone: "adsraves.com" always_refuse
@@ -11759,6 +11760,7 @@ local-zone: "adserver.fait.gl" always_refuse
 local-zone: "adserver.gpas.co" always_refuse
 local-zone: "adserver.html.it" always_refuse
 local-zone: "adserver.ligy.sk" always_refuse
+local-zone: "adserver.long.tv" always_refuse
 local-zone: "adservermods.com" always_refuse
 local-zone: "adserver.neop.es" always_refuse
 local-zone: "ad-server.nmm.de" always_refuse
@@ -18220,6 +18222,7 @@ local-zone: "promotions.themeateater.com" always_refuse
 local-zone: "pushnotificationpreview.com" always_refuse
 local-zone: "regulationprivilegescan.top" always_refuse
 local-zone: "reklama.warszawawpigulce.pl" always_refuse
+local-zone: "revive.portosenavios.com.br" always_refuse
 local-zone: "salesgenerationservices.com" always_refuse
 local-zone: "sandnesdigitalmarketing.com" always_refuse
 local-zone: "seal-centralalabama.bbb.org" always_refuse
