@@ -7826,6 +7826,7 @@ local-zone: "invocacdn.com" always_refuse
 local-zone: "invoke.vision" always_refuse
 local-zone: "ioadserve.com" always_refuse
 local-zone: "ip-casual.com" always_refuse
+local-zone: "iprospect.com" always_refuse
 local-zone: "ipsowrite.com" always_refuse
 local-zone: "isboost.co.jp" always_refuse
 local-zone: "itpatratr.com" always_refuse
@@ -15109,6 +15110,7 @@ local-zone: "inclickadserver.com" always_refuse
 local-zone: "infectiousmedia.com" always_refuse
 local-zone: "infinizostudios.com" always_refuse
 local-zone: "influencevision.com" always_refuse
+local-zone: "info-widget.onet.pl" always_refuse
 local-zone: "infrontmarketing.ca" always_refuse
 local-zone: "insightcreative.com" always_refuse
 local-zone: "inspiremarketing.co" always_refuse

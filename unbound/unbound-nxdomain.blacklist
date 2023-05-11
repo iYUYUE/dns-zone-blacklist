@@ -7826,6 +7826,7 @@ local-zone: "invocacdn.com" always_nxdomain
 local-zone: "invoke.vision" always_nxdomain
 local-zone: "ioadserve.com" always_nxdomain
 local-zone: "ip-casual.com" always_nxdomain
+local-zone: "iprospect.com" always_nxdomain
 local-zone: "ipsowrite.com" always_nxdomain
 local-zone: "isboost.co.jp" always_nxdomain
 local-zone: "itpatratr.com" always_nxdomain
@@ -15109,6 +15110,7 @@ local-zone: "inclickadserver.com" always_nxdomain
 local-zone: "infectiousmedia.com" always_nxdomain
 local-zone: "infinizostudios.com" always_nxdomain
 local-zone: "influencevision.com" always_nxdomain
+local-zone: "info-widget.onet.pl" always_nxdomain
 local-zone: "infrontmarketing.ca" always_nxdomain
 local-zone: "insightcreative.com" always_nxdomain
 local-zone: "inspiremarketing.co" always_nxdomain
