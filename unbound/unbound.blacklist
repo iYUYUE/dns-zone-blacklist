@@ -14947,6 +14947,7 @@ local-zone: "aquasitionmedia.com" always_refuse
 local-zone: "around-the-money.de" always_refuse
 local-zone: "aryuadvertising.com" always_refuse
 local-zone: "a.slashdotmedia.com" always_refuse
+local-zone: "assets.capterra.com" always_refuse
 local-zone: "atozadvertising.com" always_refuse
 local-zone: "attendthinktank.com" always_refuse
 local-zone: "authoradnetwork.com" always_refuse
@@ -15383,6 +15384,7 @@ local-zone: "widget.publish.link" always_refuse
 local-zone: "widget.sellwild.com" always_refuse
 local-zone: "widget.spreaker.com" always_refuse
 local-zone: "widget.stackbit.com" always_refuse
+local-zone: "widgets.xsellco.com" always_refuse
 local-zone: "widget.trustist.com" always_refuse
 local-zone: "wilafhhbdyewgbd.xyz" always_refuse
 local-zone: "wildgroei.amsterdam" always_refuse
@@ -16332,6 +16334,7 @@ local-zone: "aw01.pub.funshion.com" always_refuse
 local-zone: "axiabanners.exodus.gr" always_refuse
 local-zone: "bahfhgfdibgbcegbgg.ru" always_refuse
 local-zone: "baibiigcfdjgdgacig.ru" always_refuse
+local-zone: "bam.actionnetwork.com" always_refuse
 local-zone: "banner.campingland.dk" always_refuse
 local-zone: "banner.companywall.hr" always_refuse
 local-zone: "banner.companywall.me" always_refuse
