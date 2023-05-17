@@ -14076,6 +14076,7 @@ local-zone: "biz-classified.com" always_nxdomain
 local-zone: "blockboardtech.com" always_nxdomain
 local-zone: "blockchain-ads.com" always_nxdomain
 local-zone: "blogadvertising.me" always_nxdomain
+local-zone: "blog.zimaboard.com" always_nxdomain
 local-zone: "bloomforbrands.com" always_nxdomain
 local-zone: "bluetrackmedia.com" always_nxdomain
 local-zone: "bonertraffic12.pro" always_nxdomain
@@ -17975,7 +17976,6 @@ local-zone: "widgets.stackcommerce.com" always_nxdomain
 local-zone: "widgets.stagingjobshq.com" always_nxdomain
 local-zone: "xml-eu-v4.xonedart-2.live" always_nxdomain
 local-zone: "y8h3n6c8.stackpathcdn.com" always_nxdomain
-local-zone: "0914.global.ssl.fastly.net" always_nxdomain
 local-zone: "a.bettercontentservice.top" always_nxdomain
 local-zone: "activationsadvertising.com" always_nxdomain
 local-zone: "ad4989-4in.img.daoucdn.com" always_nxdomain
@@ -18200,6 +18200,7 @@ local-zone: "banners.atlantamagazine.com" always_nxdomain
 local-zone: "banner.w1.offroadmaster.com" always_nxdomain
 local-zone: "boomcommunicationsgroup.com" always_nxdomain
 local-zone: "buyersguideforeducators.com" always_nxdomain
+local-zone: "c0914.global.ssl.fastly.net" always_nxdomain
 local-zone: "c683207.ssl.cf2.rackcdn.com" always_nxdomain
 local-zone: "cf-trickplay.aux.pv-cdn.net" always_nxdomain
 local-zone: "code.adsales.snidigital.com" always_nxdomain

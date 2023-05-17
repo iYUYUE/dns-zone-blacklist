@@ -14076,6 +14076,7 @@ zone "biz-classified.com" { type master; notify no; file "null.zone.file"; };
 zone "blockboardtech.com" { type master; notify no; file "null.zone.file"; };
 zone "blockchain-ads.com" { type master; notify no; file "null.zone.file"; };
 zone "blogadvertising.me" { type master; notify no; file "null.zone.file"; };
+zone "blog.zimaboard.com" { type master; notify no; file "null.zone.file"; };
 zone "bloomforbrands.com" { type master; notify no; file "null.zone.file"; };
 zone "bluetrackmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "bonertraffic12.pro" { type master; notify no; file "null.zone.file"; };
@@ -17975,7 +17976,6 @@ zone "widgets.stackcommerce.com" { type master; notify no; file "null.zone.file"
 zone "widgets.stagingjobshq.com" { type master; notify no; file "null.zone.file"; };
 zone "xml-eu-v4.xonedart-2.live" { type master; notify no; file "null.zone.file"; };
 zone "y8h3n6c8.stackpathcdn.com" { type master; notify no; file "null.zone.file"; };
-zone "0914.global.ssl.fastly.net" { type master; notify no; file "null.zone.file"; };
 zone "a.bettercontentservice.top" { type master; notify no; file "null.zone.file"; };
 zone "activationsadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "ad4989-4in.img.daoucdn.com" { type master; notify no; file "null.zone.file"; };
@@ -18200,6 +18200,7 @@ zone "banners.atlantamagazine.com" { type master; notify no; file "null.zone.fil
 zone "banner.w1.offroadmaster.com" { type master; notify no; file "null.zone.file"; };
 zone "boomcommunicationsgroup.com" { type master; notify no; file "null.zone.file"; };
 zone "buyersguideforeducators.com" { type master; notify no; file "null.zone.file"; };
+zone "c0914.global.ssl.fastly.net" { type master; notify no; file "null.zone.file"; };
 zone "c683207.ssl.cf2.rackcdn.com" { type master; notify no; file "null.zone.file"; };
 zone "cf-trickplay.aux.pv-cdn.net" { type master; notify no; file "null.zone.file"; };
 zone "code.adsales.snidigital.com" { type master; notify no; file "null.zone.file"; };

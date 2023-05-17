@@ -14076,6 +14076,7 @@ local-zone: "biz-classified.com" always_refuse
 local-zone: "blockboardtech.com" always_refuse
 local-zone: "blockchain-ads.com" always_refuse
 local-zone: "blogadvertising.me" always_refuse
+local-zone: "blog.zimaboard.com" always_refuse
 local-zone: "bloomforbrands.com" always_refuse
 local-zone: "bluetrackmedia.com" always_refuse
 local-zone: "bonertraffic12.pro" always_refuse
@@ -17975,7 +17976,6 @@ local-zone: "widgets.stackcommerce.com" always_refuse
 local-zone: "widgets.stagingjobshq.com" always_refuse
 local-zone: "xml-eu-v4.xonedart-2.live" always_refuse
 local-zone: "y8h3n6c8.stackpathcdn.com" always_refuse
-local-zone: "0914.global.ssl.fastly.net" always_refuse
 local-zone: "a.bettercontentservice.top" always_refuse
 local-zone: "activationsadvertising.com" always_refuse
 local-zone: "ad4989-4in.img.daoucdn.com" always_refuse
@@ -18200,6 +18200,7 @@ local-zone: "banners.atlantamagazine.com" always_refuse
 local-zone: "banner.w1.offroadmaster.com" always_refuse
 local-zone: "boomcommunicationsgroup.com" always_refuse
 local-zone: "buyersguideforeducators.com" always_refuse
+local-zone: "c0914.global.ssl.fastly.net" always_refuse
 local-zone: "c683207.ssl.cf2.rackcdn.com" always_refuse
 local-zone: "cf-trickplay.aux.pv-cdn.net" always_refuse
 local-zone: "code.adsales.snidigital.com" always_refuse
