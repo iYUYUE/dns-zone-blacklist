@@ -2211,6 +2211,7 @@ local-zone: "content.ad" always_nxdomain
 local-zone: "context.ly" always_nxdomain
 local-zone: "cordial.io" always_nxdomain
 local-zone: "cos-rd.com" always_nxdomain
+local-zone: "covatic.io" always_nxdomain
 local-zone: "cplone.com" always_nxdomain
 local-zone: "cplusl.com" always_nxdomain
 local-zone: "cpm-ad.com" always_nxdomain
@@ -4210,6 +4211,7 @@ local-zone: "coolad9.com" always_nxdomain
 local-zone: "cordial.com" always_nxdomain
 local-zone: "cotabim.xyz" always_nxdomain
 local-zone: "courier.com" always_nxdomain
+local-zone: "covatic.com" always_nxdomain
 local-zone: "cpabone.com" always_nxdomain
 local-zone: "cpagrip.com" always_nxdomain
 local-zone: "cpalead.com" always_nxdomain

@@ -2211,6 +2211,7 @@ local-zone: "content.ad" always_refuse
 local-zone: "context.ly" always_refuse
 local-zone: "cordial.io" always_refuse
 local-zone: "cos-rd.com" always_refuse
+local-zone: "covatic.io" always_refuse
 local-zone: "cplone.com" always_refuse
 local-zone: "cplusl.com" always_refuse
 local-zone: "cpm-ad.com" always_refuse
@@ -4210,6 +4211,7 @@ local-zone: "coolad9.com" always_refuse
 local-zone: "cordial.com" always_refuse
 local-zone: "cotabim.xyz" always_refuse
 local-zone: "courier.com" always_refuse
+local-zone: "covatic.com" always_refuse
 local-zone: "cpabone.com" always_refuse
 local-zone: "cpagrip.com" always_refuse
 local-zone: "cpalead.com" always_refuse
