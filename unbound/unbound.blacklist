@@ -3071,6 +3071,7 @@ local-zone: "seopack.jp" always_refuse
 local-zone: "sfguiv.com" always_refuse
 local-zone: "sghmho.com" always_refuse
 local-zone: "sgirqr.com" always_refuse
+local-zone: "shokme.com" always_refuse
 local-zone: "shoofle.tv" always_refuse
 local-zone: "shopmsg.me" always_refuse
 local-zone: "sift.co.uk" always_refuse
@@ -4413,6 +4414,7 @@ local-zone: "inclick.net" always_refuse
 local-zone: "indexww.com" always_refuse
 local-zone: "indiads.com" always_refuse
 local-zone: "innovid.com" always_refuse
+local-zone: "instinct.az" always_refuse
 local-zone: "intango.com" always_refuse
 local-zone: "intergi.com" always_refuse
 local-zone: "intowow.com" always_refuse
@@ -4996,6 +4998,7 @@ local-zone: "virleth.com" always_refuse
 local-zone: "visitbox.de" always_refuse
 local-zone: "vofzpwh.com" always_refuse
 local-zone: "voiceads.cn" always_refuse
+local-zone: "volt.africa" always_refuse
 local-zone: "voranda.com" always_refuse
 local-zone: "vrbcash.com" always_refuse
 local-zone: "vrizead.com" always_refuse
@@ -7765,6 +7768,7 @@ local-zone: "grazajoba.com" always_refuse
 local-zone: "greenhaus.com" always_refuse
 local-zone: "greenlight.ie" always_refuse
 local-zone: "green-red.com" always_refuse
+local-zone: "greenstick.io" always_refuse
 local-zone: "grilydivy.com" always_refuse
 local-zone: "growebads.com" always_refuse
 local-zone: "growemail.com" always_refuse
@@ -18902,6 +18906,7 @@ local-zone: "ads-b-1941474562.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "android-tv.device-support.ad-tech.nbcuni.com" always_refuse
 local-zone: "ecommplugins-trustboxsettings.trustpilot.com" always_refuse
 local-zone: "uxt-magazine-teaser-prod.shpp.ext.zooplus.io" always_refuse
+local-zone: "2betadservice.s3-ap-northeast-1.amazonaws.com" always_refuse
 local-zone: "2betadservice.s3.ap-northeast-1.amazonaws.com" always_refuse
 local-zone: "adv-pubmanager-dev.s3-sa-east-1.amazonaws.com" always_refuse
 local-zone: "seal-central-northern-western-arizona.bbb.org" always_refuse

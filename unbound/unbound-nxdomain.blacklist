@@ -3071,6 +3071,7 @@ local-zone: "seopack.jp" always_nxdomain
 local-zone: "sfguiv.com" always_nxdomain
 local-zone: "sghmho.com" always_nxdomain
 local-zone: "sgirqr.com" always_nxdomain
+local-zone: "shokme.com" always_nxdomain
 local-zone: "shoofle.tv" always_nxdomain
 local-zone: "shopmsg.me" always_nxdomain
 local-zone: "sift.co.uk" always_nxdomain
@@ -4413,6 +4414,7 @@ local-zone: "inclick.net" always_nxdomain
 local-zone: "indexww.com" always_nxdomain
 local-zone: "indiads.com" always_nxdomain
 local-zone: "innovid.com" always_nxdomain
+local-zone: "instinct.az" always_nxdomain
 local-zone: "intango.com" always_nxdomain
 local-zone: "intergi.com" always_nxdomain
 local-zone: "intowow.com" always_nxdomain
@@ -4996,6 +4998,7 @@ local-zone: "virleth.com" always_nxdomain
 local-zone: "visitbox.de" always_nxdomain
 local-zone: "vofzpwh.com" always_nxdomain
 local-zone: "voiceads.cn" always_nxdomain
+local-zone: "volt.africa" always_nxdomain
 local-zone: "voranda.com" always_nxdomain
 local-zone: "vrbcash.com" always_nxdomain
 local-zone: "vrizead.com" always_nxdomain
@@ -7765,6 +7768,7 @@ local-zone: "grazajoba.com" always_nxdomain
 local-zone: "greenhaus.com" always_nxdomain
 local-zone: "greenlight.ie" always_nxdomain
 local-zone: "green-red.com" always_nxdomain
+local-zone: "greenstick.io" always_nxdomain
 local-zone: "grilydivy.com" always_nxdomain
 local-zone: "growebads.com" always_nxdomain
 local-zone: "growemail.com" always_nxdomain
@@ -18902,6 +18906,7 @@ local-zone: "ads-b-1941474562.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "android-tv.device-support.ad-tech.nbcuni.com" always_nxdomain
 local-zone: "ecommplugins-trustboxsettings.trustpilot.com" always_nxdomain
 local-zone: "uxt-magazine-teaser-prod.shpp.ext.zooplus.io" always_nxdomain
+local-zone: "2betadservice.s3-ap-northeast-1.amazonaws.com" always_nxdomain
 local-zone: "2betadservice.s3.ap-northeast-1.amazonaws.com" always_nxdomain
 local-zone: "adv-pubmanager-dev.s3-sa-east-1.amazonaws.com" always_nxdomain
 local-zone: "seal-central-northern-western-arizona.bbb.org" always_nxdomain
