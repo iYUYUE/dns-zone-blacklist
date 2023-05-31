@@ -6616,6 +6616,7 @@ local-zone: "takerate.com" always_refuse
 local-zone: "talkmego.com" always_refuse
 local-zone: "targetan.com" always_refuse
 local-zone: "targetix.net" always_refuse
+local-zone: "tataritv.com" always_refuse
 local-zone: "tautcare.pro" always_refuse
 local-zone: "tc.ci123.com" always_refuse
 local-zone: "tdwandco.com" always_refuse
@@ -17441,7 +17442,6 @@ local-zone: "olivethedesignplace.com" always_refuse
 local-zone: "onlinebanneradverts.com" always_refuse
 local-zone: "openx.ennaharonline.com" always_refuse
 local-zone: "openx.mercatormedia.com" always_refuse
-local-zone: "oup.silverchair-cdn.com" always_refuse
 local-zone: "outthereadvertising.com" always_refuse
 local-zone: "overcooked-addition.pro" always_refuse
 local-zone: "pagead2.syndication.com" always_refuse

@@ -6616,6 +6616,7 @@ local-zone: "takerate.com" always_nxdomain
 local-zone: "talkmego.com" always_nxdomain
 local-zone: "targetan.com" always_nxdomain
 local-zone: "targetix.net" always_nxdomain
+local-zone: "tataritv.com" always_nxdomain
 local-zone: "tautcare.pro" always_nxdomain
 local-zone: "tc.ci123.com" always_nxdomain
 local-zone: "tdwandco.com" always_nxdomain
@@ -17441,7 +17442,6 @@ local-zone: "olivethedesignplace.com" always_nxdomain
 local-zone: "onlinebanneradverts.com" always_nxdomain
 local-zone: "openx.ennaharonline.com" always_nxdomain
 local-zone: "openx.mercatormedia.com" always_nxdomain
-local-zone: "oup.silverchair-cdn.com" always_nxdomain
 local-zone: "outthereadvertising.com" always_nxdomain
 local-zone: "overcooked-addition.pro" always_nxdomain
 local-zone: "pagead2.syndication.com" always_nxdomain
