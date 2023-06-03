@@ -4282,7 +4282,6 @@ zone "emediate.dk" { type master; notify no; file "null.zone.file"; };
 zone "emediate.eu" { type master; notify no; file "null.zone.file"; };
 zone "emeryad.com" { type master; notify no; file "null.zone.file"; };
 zone "emrgods.com" { type master; notify no; file "null.zone.file"; };
-zone "e-peddler.c" { type master; notify no; file "null.zone.file"; };
 zone "eppmedia.si" { type master; notify no; file "null.zone.file"; };
 zone "epp-pay.com" { type master; notify no; file "null.zone.file"; };
 zone "erandex.com" { type master; notify no; file "null.zone.file"; };
