@@ -7504,6 +7504,7 @@ zone "bulbadvert.in" { type master; notify no; file "null.zone.file"; };
 zone "bullion.media" { type master; notify no; file "null.zone.file"; };
 zone "bumads.com.tr" { type master; notify no; file "null.zone.file"; };
 zone "bunchlead.com" { type master; notify no; file "null.zone.file"; };
+zone "buyer.dspx.tv" { type master; notify no; file "null.zone.file"; };
 zone "buyerlink.com" { type master; notify no; file "null.zone.file"; };
 zone "buzzclick.com" { type master; notify no; file "null.zone.file"; };
 zone "bvl5bziz9d.ru" { type master; notify no; file "null.zone.file"; };
