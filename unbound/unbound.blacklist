@@ -1702,6 +1702,7 @@ local-zone: "adform.net" always_refuse
 local-zone: "adfuel.com" always_refuse
 local-zone: "adgear.com" always_refuse
 local-zone: "adgebra.in" always_refuse
+local-zone: "adgeek.net" always_refuse
 local-zone: "adgila.com" always_refuse
 local-zone: "adgoal.net" always_refuse
 local-zone: "adgoto.com" always_refuse
@@ -2241,6 +2242,7 @@ local-zone: "dahxwf.com" always_refuse
 local-zone: "dalyio.com" always_refuse
 local-zone: "dalysb.com" always_refuse
 local-zone: "dalysh.com" always_refuse
+local-zone: "dalysv.com" always_refuse
 local-zone: "danadm.com" always_refuse
 local-zone: "daotag.com" always_refuse
 local-zone: "dataxu.com" always_refuse
@@ -4336,6 +4338,7 @@ local-zone: "foxpush.net" always_refuse
 local-zone: "freestar.io" always_refuse
 local-zone: "frizbit.com" always_refuse
 local-zone: "frmsafe.com" always_refuse
+local-zone: "fstsrv2.com" always_refuse
 local-zone: "ftadsrv.com" always_refuse
 local-zone: "funhell.com" always_refuse
 local-zone: "fuse-ad.com" always_refuse
@@ -4375,6 +4378,7 @@ local-zone: "greysell.in" always_refuse
 local-zone: "grmtech.net" always_refuse
 local-zone: "growider.co" always_refuse
 local-zone: "gsdsinc.com" always_refuse
+local-zone: "hakuna.mobi" always_refuse
 local-zone: "hbtronix.de" always_refuse
 local-zone: "hclicks.com" always_refuse
 local-zone: "hedseted.ru" always_refuse
@@ -4577,6 +4581,7 @@ local-zone: "mobilda.com" always_refuse
 local-zone: "mobilead.vn" always_refuse
 local-zone: "mobilink.az" always_refuse
 local-zone: "moboage.com" always_refuse
+local-zone: "mobotino.ir" always_refuse
 local-zone: "mobpals.com" always_refuse
 local-zone: "mobravo.net" always_refuse
 local-zone: "mobupps.com" always_refuse
@@ -6397,6 +6402,7 @@ local-zone: "posakevy.com" always_refuse
 local-zone: "potwmora.com" always_refuse
 local-zone: "povapeba.xyz" always_refuse
 local-zone: "pozekate.com" always_refuse
+local-zone: "pr3sence.xyz" always_refuse
 local-zone: "prelinker.lu" always_refuse
 local-zone: "premaads.net" always_refuse
 local-zone: "primo.design" always_refuse
@@ -8485,6 +8491,7 @@ local-zone: "totifiquo.com" always_refuse
 local-zone: "tradblock.com" always_refuse
 local-zone: "tradeleads.su" always_refuse
 local-zone: "trafficox.com" always_refuse
+local-zone: "trafflife.com" always_refuse
 local-zone: "transmit.live" always_refuse
 local-zone: "trc.lhmos.com" always_refuse
 local-zone: "trecurlik.com" always_refuse
@@ -9580,6 +9587,7 @@ local-zone: "lawclick.co.uk" always_refuse
 local-zone: "lcxdigital.com" always_refuse
 local-zone: "ldt1duixoe.com" always_refuse
 local-zone: "leadexperts.in" always_refuse
+local-zone: "leadgenads.net" always_refuse
 local-zone: "leadnomics.com" always_refuse
 local-zone: "leadpillar.com" always_refuse
 local-zone: "leadsbridge.io" always_refuse
@@ -9744,6 +9752,7 @@ local-zone: "ntvpevents.com" always_refuse
 local-zone: "nuclearads.com" always_refuse
 local-zone: "nucleusads.com" always_refuse
 local-zone: "nuttyanger.pro" always_refuse
+local-zone: "nxthost-1.info" always_refuse
 local-zone: "nyetm2mkch.com" always_refuse
 local-zone: "nyphuboshu.com" always_refuse
 local-zone: "nyptistaha.com" always_refuse
