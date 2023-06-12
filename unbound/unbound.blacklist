@@ -18460,6 +18460,7 @@ local-zone: "adsever.adultfriendfinder.com" always_refuse
 local-zone: "ads-jurua.juruaemtempo.com.br" always_refuse
 local-zone: "ads.nocutnews.co.kr.cdngc.net" always_refuse
 local-zone: "ads.panteaosportsmansclub.com" always_refuse
+local-zone: "ads.production-public.tubi.io" always_refuse
 local-zone: "ads-resources-legacy.waze.com" always_refuse
 local-zone: "ads.revistaconsultoria.com.mx" always_refuse
 local-zone: "ads.swimmingworldmagazine.com" always_refuse

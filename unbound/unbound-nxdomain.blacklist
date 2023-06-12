@@ -18460,6 +18460,7 @@ local-zone: "adsever.adultfriendfinder.com" always_nxdomain
 local-zone: "ads-jurua.juruaemtempo.com.br" always_nxdomain
 local-zone: "ads.nocutnews.co.kr.cdngc.net" always_nxdomain
 local-zone: "ads.panteaosportsmansclub.com" always_nxdomain
+local-zone: "ads.production-public.tubi.io" always_nxdomain
 local-zone: "ads-resources-legacy.waze.com" always_nxdomain
 local-zone: "ads.revistaconsultoria.com.mx" always_nxdomain
 local-zone: "ads.swimmingworldmagazine.com" always_nxdomain

@@ -18460,6 +18460,7 @@ zone "adsever.adultfriendfinder.com" { type master; notify no; file "null.zone.f
 zone "ads-jurua.juruaemtempo.com.br" { type master; notify no; file "null.zone.file"; };
 zone "ads.nocutnews.co.kr.cdngc.net" { type master; notify no; file "null.zone.file"; };
 zone "ads.panteaosportsmansclub.com" { type master; notify no; file "null.zone.file"; };
+zone "ads.production-public.tubi.io" { type master; notify no; file "null.zone.file"; };
 zone "ads-resources-legacy.waze.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.revistaconsultoria.com.mx" { type master; notify no; file "null.zone.file"; };
 zone "ads.swimmingworldmagazine.com" { type master; notify no; file "null.zone.file"; };
