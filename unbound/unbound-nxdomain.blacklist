@@ -18908,6 +18908,7 @@ local-zone: "softwaredefinedapplicationdelivery.info" always_nxdomain
 local-zone: "vupulse-api-production.s3.amazonaws.com" always_nxdomain
 local-zone: "yield-op-idsync.live.streamtheworld.com" always_nxdomain
 local-zone: "383guanggao.oss-cn-shenzhen.aliyuncs.com" always_nxdomain
+local-zone: "ads-image-service.staging-public.tubi.io" always_nxdomain
 local-zone: "chrome-loading.car-insurance-reviews.com" always_nxdomain
 local-zone: "confiant-integrations.freetls.fastly.net" always_nxdomain
 local-zone: "flashbanners.static.ard.xxxblackbook.com" always_nxdomain

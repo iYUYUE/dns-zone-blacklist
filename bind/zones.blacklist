@@ -18908,6 +18908,7 @@ zone "softwaredefinedapplicationdelivery.info" { type master; notify no; file "n
 zone "vupulse-api-production.s3.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "yield-op-idsync.live.streamtheworld.com" { type master; notify no; file "null.zone.file"; };
 zone "383guanggao.oss-cn-shenzhen.aliyuncs.com" { type master; notify no; file "null.zone.file"; };
+zone "ads-image-service.staging-public.tubi.io" { type master; notify no; file "null.zone.file"; };
 zone "chrome-loading.car-insurance-reviews.com" { type master; notify no; file "null.zone.file"; };
 zone "confiant-integrations.freetls.fastly.net" { type master; notify no; file "null.zone.file"; };
 zone "flashbanners.static.ard.xxxblackbook.com" { type master; notify no; file "null.zone.file"; };
