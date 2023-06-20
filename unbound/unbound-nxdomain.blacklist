@@ -559,6 +559,7 @@ local-zone: "r.muu.ee" always_nxdomain
 local-zone: "ropx.xyz" always_nxdomain
 local-zone: "rubid.su" always_nxdomain
 local-zone: "sdad.biz" always_nxdomain
+local-zone: "senja.io" always_nxdomain
 local-zone: "shara.li" always_nxdomain
 local-zone: "sided.co" always_nxdomain
 local-zone: "sift.com" always_nxdomain
@@ -1556,7 +1557,6 @@ local-zone: "zewkj.com" always_nxdomain
 local-zone: "zfish.com" always_nxdomain
 local-zone: "zgvvx.com" always_nxdomain
 local-zone: "zlkbo.com" always_nxdomain
-local-zone: "zmags.com" always_nxdomain
 local-zone: "zmeda.com" always_nxdomain
 local-zone: "zoomd.com" always_nxdomain
 local-zone: "zopim.com" always_nxdomain
@@ -14982,6 +14982,7 @@ local-zone: "amoeba.web.roku.com" always_nxdomain
 local-zone: "andersondesigns.com" always_nxdomain
 local-zone: "api.gannett-cdn.com" always_nxdomain
 local-zone: "api.lentainform.com" always_nxdomain
+local-zone: "api.producthunt.com" always_nxdomain
 local-zone: "apollo.miniclip.com" always_nxdomain
 local-zone: "appad.cyberlink.com" always_nxdomain
 local-zone: "apple.analnoe24.com" always_nxdomain
@@ -18708,6 +18709,7 @@ local-zone: "notifications-pa.googleapis.com" always_nxdomain
 local-zone: "offers-api.fungames-forfree.com" always_nxdomain
 local-zone: "postbox-images.s3.amazonaws.com" always_nxdomain
 local-zone: "progressivebusinessservices.com" always_nxdomain
+local-zone: "pub-admin-elections.foxnews.com" always_nxdomain
 local-zone: "query.prod.cms.rt.microsoft.com" always_nxdomain
 local-zone: "recommendations.data.tm-awx.com" always_nxdomain
 local-zone: "serving.roimediaconsultants.com" always_nxdomain
