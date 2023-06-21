@@ -1806,6 +1806,7 @@ local-zone: "adrite.com" always_refuse
 local-zone: "adriver.ru" always_refuse
 local-zone: "adrivo.com" always_refuse
 local-zone: "ad.rmix.cz" always_refuse
+local-zone: "adroll.app" always_refuse
 local-zone: "adroll.com" always_refuse
 local-zone: "adrule.net" always_refuse
 local-zone: "ads.021.rs" always_refuse

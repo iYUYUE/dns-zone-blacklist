@@ -1806,6 +1806,7 @@ zone "adrite.com" { type master; notify no; file "null.zone.file"; };
 zone "adriver.ru" { type master; notify no; file "null.zone.file"; };
 zone "adrivo.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.rmix.cz" { type master; notify no; file "null.zone.file"; };
+zone "adroll.app" { type master; notify no; file "null.zone.file"; };
 zone "adroll.com" { type master; notify no; file "null.zone.file"; };
 zone "adrule.net" { type master; notify no; file "null.zone.file"; };
 zone "ads.021.rs" { type master; notify no; file "null.zone.file"; };
