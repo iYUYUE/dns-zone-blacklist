@@ -6380,6 +6380,7 @@ local-zone: "pixalate.com" always_nxdomain
 local-zone: "pixelpie.com" always_nxdomain
 local-zone: "pixelupp.com" always_nxdomain
 local-zone: "piximedia.fr" always_nxdomain
+local-zone: "pixwalla.com" always_nxdomain
 local-zone: "planet49.com" always_nxdomain
 local-zone: "planvivo.org" always_nxdomain
 local-zone: "playbuzz.com" always_nxdomain
@@ -15127,7 +15128,6 @@ local-zone: "flameadvertising.in" always_nxdomain
 local-zone: "flysearchengine.com" always_nxdomain
 local-zone: "fractionalmedia.com" always_nxdomain
 local-zone: "gamesfromheaven.com" always_nxdomain
-local-zone: "games.h5h5games.com" always_nxdomain
 local-zone: "gateway.gumtree.com" always_nxdomain
 local-zone: "gaurangmarulkar.com" always_nxdomain
 local-zone: "geniusdexchange.com" always_nxdomain
@@ -16901,6 +16901,7 @@ local-zone: "aragon-advertising.com" always_nxdomain
 local-zone: "asg1.xueserverhost.com" always_nxdomain
 local-zone: "asg2.xueserverhost.com" always_nxdomain
 local-zone: "assets.gunwarranty.com" always_nxdomain
+local-zone: "assets.smoothradio.com" always_nxdomain
 local-zone: "assets.snapfinance.com" always_nxdomain
 local-zone: "assurance.sysnetgs.com" always_nxdomain
 local-zone: "baneri.24fudbal.com.mk" always_nxdomain
@@ -18266,6 +18267,7 @@ local-zone: "c683207.ssl.cf2.rackcdn.com" always_nxdomain
 local-zone: "cf-trickplay.aux.pv-cdn.net" always_nxdomain
 local-zone: "code.adsales.snidigital.com" always_nxdomain
 local-zone: "commercial.daznservices.com" always_nxdomain
+local-zone: "dealswidget.bestreviews.com" always_nxdomain
 local-zone: "dnderkfeab66.cloudfront.net" always_nxdomain
 local-zone: "expertinternetmarketing.com" always_nxdomain
 local-zone: "feeds-elections.foxnews.com" always_nxdomain

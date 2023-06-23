@@ -6380,6 +6380,7 @@ local-zone: "pixalate.com" always_refuse
 local-zone: "pixelpie.com" always_refuse
 local-zone: "pixelupp.com" always_refuse
 local-zone: "piximedia.fr" always_refuse
+local-zone: "pixwalla.com" always_refuse
 local-zone: "planet49.com" always_refuse
 local-zone: "planvivo.org" always_refuse
 local-zone: "playbuzz.com" always_refuse
@@ -15127,7 +15128,6 @@ local-zone: "flameadvertising.in" always_refuse
 local-zone: "flysearchengine.com" always_refuse
 local-zone: "fractionalmedia.com" always_refuse
 local-zone: "gamesfromheaven.com" always_refuse
-local-zone: "games.h5h5games.com" always_refuse
 local-zone: "gateway.gumtree.com" always_refuse
 local-zone: "gaurangmarulkar.com" always_refuse
 local-zone: "geniusdexchange.com" always_refuse
@@ -16901,6 +16901,7 @@ local-zone: "aragon-advertising.com" always_refuse
 local-zone: "asg1.xueserverhost.com" always_refuse
 local-zone: "asg2.xueserverhost.com" always_refuse
 local-zone: "assets.gunwarranty.com" always_refuse
+local-zone: "assets.smoothradio.com" always_refuse
 local-zone: "assets.snapfinance.com" always_refuse
 local-zone: "assurance.sysnetgs.com" always_refuse
 local-zone: "baneri.24fudbal.com.mk" always_refuse
@@ -18266,6 +18267,7 @@ local-zone: "c683207.ssl.cf2.rackcdn.com" always_refuse
 local-zone: "cf-trickplay.aux.pv-cdn.net" always_refuse
 local-zone: "code.adsales.snidigital.com" always_refuse
 local-zone: "commercial.daznservices.com" always_refuse
+local-zone: "dealswidget.bestreviews.com" always_refuse
 local-zone: "dnderkfeab66.cloudfront.net" always_refuse
 local-zone: "expertinternetmarketing.com" always_refuse
 local-zone: "feeds-elections.foxnews.com" always_refuse
