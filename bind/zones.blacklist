@@ -6333,6 +6333,7 @@ zone "ohmwrite.com" { type master; notify no; file "null.zone.file"; };
 zone "okoclick.com" { type master; notify no; file "null.zone.file"; };
 zone "olatumal.com" { type master; notify no; file "null.zone.file"; };
 zone "old.trck.one" { type master; notify no; file "null.zone.file"; };
+zone "olimptds.com" { type master; notify no; file "null.zone.file"; };
 zone "omappapi.com" { type master; notify no; file "null.zone.file"; };
 zone "omasatra.com" { type master; notify no; file "null.zone.file"; };
 zone "omclacrv.com" { type master; notify no; file "null.zone.file"; };
