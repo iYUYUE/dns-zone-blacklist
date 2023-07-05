@@ -3714,6 +3714,7 @@ zone "adition.net" { type master; notify no; file "null.zone.file"; };
 zone "aditize.com" { type master; notify no; file "null.zone.file"; };
 zone "adivery.com" { type master; notify no; file "null.zone.file"; };
 zone "adjesty.com" { type master; notify no; file "null.zone.file"; };
+zone "adjsimg.xyz" { type master; notify no; file "null.zone.file"; };
 zone "ad.jxzyz.cn" { type master; notify no; file "null.zone.file"; };
 zone "ad.kanbu.cn" { type master; notify no; file "null.zone.file"; };
 zone "adklick.net" { type master; notify no; file "null.zone.file"; };
