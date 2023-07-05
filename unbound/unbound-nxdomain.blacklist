@@ -3664,6 +3664,7 @@ local-zone: "ad.daum.net" always_nxdomain
 local-zone: "addeluxe.jp" always_nxdomain
 local-zone: "ad.docer.pl" always_nxdomain
 local-zone: "addroid.com" always_nxdomain
+local-zone: "addthis.com" always_nxdomain
 local-zone: "ad.eamc.org" always_nxdomain
 local-zone: "adeclik.com" always_nxdomain
 local-zone: "adether.com" always_nxdomain
@@ -8352,6 +8353,7 @@ local-zone: "sajagosta.pro" always_nxdomain
 local-zone: "salesmedia.pl" always_nxdomain
 local-zone: "salesmist.com" always_nxdomain
 local-zone: "salmonads.com" always_nxdomain
+local-zone: "samsungrs.com" always_nxdomain
 local-zone: "sapphirum.com" always_nxdomain
 local-zone: "saturnads.com" always_nxdomain
 local-zone: "sawmedia.mobi" always_nxdomain
@@ -8771,6 +8773,7 @@ local-zone: "ad.czechia.com" always_nxdomain
 local-zone: "ad.derulis.com" always_nxdomain
 local-zone: "addesigner.com" always_nxdomain
 local-zone: "addrawtech.com" always_nxdomain
+local-zone: "addthiscdn.com" always_nxdomain
 local-zone: "ad.ebitdit.com" always_nxdomain
 local-zone: "ad.eepw.com.cn" always_nxdomain
 local-zone: "adeimptrck.com" always_nxdomain
@@ -10329,6 +10332,7 @@ local-zone: "ad-delivery.net" always_nxdomain
 local-zone: "addesignz.co.za" always_nxdomain
 local-zone: "ad.dnoticias.pt" always_nxdomain
 local-zone: "ad.doubanio.com" always_nxdomain
+local-zone: "addthisedge.com" always_nxdomain
 local-zone: "ad.eko-7.com.pl" always_nxdomain
 local-zone: "ad.eoborniki.pl" always_nxdomain
 local-zone: "ad.eposavje.com" always_nxdomain
@@ -17833,7 +17837,6 @@ local-zone: "servedby.pinktriangle.ca" always_nxdomain
 local-zone: "smart.steamlogistics.com" always_nxdomain
 local-zone: "spmonlineadvertising.com" always_nxdomain
 local-zone: "ssltest.soundrussian.com" always_nxdomain
-local-zone: "sspapi-prd.samsungrs.com" always_nxdomain
 local-zone: "static.ap.bittorrent.com" always_nxdomain
 local-zone: "stevensonadvertising.com" always_nxdomain
 local-zone: "tekirdagagirnakliyat.com" always_nxdomain

@@ -7334,6 +7334,8 @@ ad.docer.pl CNAME .
 *.ad.docer.pl CNAME .
 addroid.com CNAME .
 *.addroid.com CNAME .
+addthis.com CNAME .
+*.addthis.com CNAME .
 ad.eamc.org CNAME .
 *.ad.eamc.org CNAME .
 adeclik.com CNAME .
@@ -16710,6 +16712,8 @@ salesmist.com CNAME .
 *.salesmist.com CNAME .
 salmonads.com CNAME .
 *.salmonads.com CNAME .
+samsungrs.com CNAME .
+*.samsungrs.com CNAME .
 sapphirum.com CNAME .
 *.sapphirum.com CNAME .
 saturnads.com CNAME .
@@ -17548,6 +17552,8 @@ addesigner.com CNAME .
 *.addesigner.com CNAME .
 addrawtech.com CNAME .
 *.addrawtech.com CNAME .
+addthiscdn.com CNAME .
+*.addthiscdn.com CNAME .
 ad.ebitdit.com CNAME .
 *.ad.ebitdit.com CNAME .
 ad.eepw.com.cn CNAME .
@@ -20664,6 +20670,8 @@ ad.dnoticias.pt CNAME .
 *.ad.dnoticias.pt CNAME .
 ad.doubanio.com CNAME .
 *.ad.doubanio.com CNAME .
+addthisedge.com CNAME .
+*.addthisedge.com CNAME .
 ad.eko-7.com.pl CNAME .
 *.ad.eko-7.com.pl CNAME .
 ad.eoborniki.pl CNAME .
@@ -35672,8 +35680,6 @@ spmonlineadvertising.com CNAME .
 *.spmonlineadvertising.com CNAME .
 ssltest.soundrussian.com CNAME .
 *.ssltest.soundrussian.com CNAME .
-sspapi-prd.samsungrs.com CNAME .
-*.sspapi-prd.samsungrs.com CNAME .
 static.ap.bittorrent.com CNAME .
 *.static.ap.bittorrent.com CNAME .
 stevensonadvertising.com CNAME .

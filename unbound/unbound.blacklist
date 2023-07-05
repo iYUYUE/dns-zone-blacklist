@@ -3664,6 +3664,7 @@ local-zone: "ad.daum.net" always_refuse
 local-zone: "addeluxe.jp" always_refuse
 local-zone: "ad.docer.pl" always_refuse
 local-zone: "addroid.com" always_refuse
+local-zone: "addthis.com" always_refuse
 local-zone: "ad.eamc.org" always_refuse
 local-zone: "adeclik.com" always_refuse
 local-zone: "adether.com" always_refuse
@@ -8352,6 +8353,7 @@ local-zone: "sajagosta.pro" always_refuse
 local-zone: "salesmedia.pl" always_refuse
 local-zone: "salesmist.com" always_refuse
 local-zone: "salmonads.com" always_refuse
+local-zone: "samsungrs.com" always_refuse
 local-zone: "sapphirum.com" always_refuse
 local-zone: "saturnads.com" always_refuse
 local-zone: "sawmedia.mobi" always_refuse
@@ -8771,6 +8773,7 @@ local-zone: "ad.czechia.com" always_refuse
 local-zone: "ad.derulis.com" always_refuse
 local-zone: "addesigner.com" always_refuse
 local-zone: "addrawtech.com" always_refuse
+local-zone: "addthiscdn.com" always_refuse
 local-zone: "ad.ebitdit.com" always_refuse
 local-zone: "ad.eepw.com.cn" always_refuse
 local-zone: "adeimptrck.com" always_refuse
@@ -10329,6 +10332,7 @@ local-zone: "ad-delivery.net" always_refuse
 local-zone: "addesignz.co.za" always_refuse
 local-zone: "ad.dnoticias.pt" always_refuse
 local-zone: "ad.doubanio.com" always_refuse
+local-zone: "addthisedge.com" always_refuse
 local-zone: "ad.eko-7.com.pl" always_refuse
 local-zone: "ad.eoborniki.pl" always_refuse
 local-zone: "ad.eposavje.com" always_refuse
@@ -17833,7 +17837,6 @@ local-zone: "servedby.pinktriangle.ca" always_refuse
 local-zone: "smart.steamlogistics.com" always_refuse
 local-zone: "spmonlineadvertising.com" always_refuse
 local-zone: "ssltest.soundrussian.com" always_refuse
-local-zone: "sspapi-prd.samsungrs.com" always_refuse
 local-zone: "static.ap.bittorrent.com" always_refuse
 local-zone: "stevensonadvertising.com" always_refuse
 local-zone: "tekirdagagirnakliyat.com" always_refuse
