@@ -4582,6 +4582,7 @@ local-zone: "mkazanc.com" always_nxdomain
 local-zone: "mkjmdsc.xyz" always_nxdomain
 local-zone: "mktossl.com" always_nxdomain
 local-zone: "mktoweb.com" always_nxdomain
+local-zone: "mmapiws.com" always_nxdomain
 local-zone: "mmctsvc.com" always_nxdomain
 local-zone: "mme-365.com" always_nxdomain
 local-zone: "mmi-net.com" always_nxdomain
@@ -6706,6 +6707,7 @@ local-zone: "tubehits.com" always_nxdomain
 local-zone: "tujuvyfu.xyz" always_nxdomain
 local-zone: "turboadv.com" always_nxdomain
 local-zone: "tuwuzaci.xyz" always_nxdomain
+local-zone: "tv33whpr.com" always_nxdomain
 local-zone: "tvadsync.com" always_nxdomain
 local-zone: "t.winpbn.com" always_nxdomain
 local-zone: "twinplan.com" always_nxdomain
@@ -16606,6 +16608,7 @@ local-zone: "punchdrunkdigital.com" always_nxdomain
 local-zone: "purevpnaffiliates.com" always_nxdomain
 local-zone: "push.aws.kambicdn.com" always_nxdomain
 local-zone: "push.cnnindonesia.com" always_nxdomain
+local-zone: "pusherw.tunegenie.com" always_nxdomain
 local-zone: "radialcreative.com.au" always_nxdomain
 local-zone: "radiantmediatechs.com" always_nxdomain
 local-zone: "rainydaymarketing.com" always_nxdomain
@@ -18023,6 +18026,7 @@ local-zone: "partner.jewelsfoundry.com" always_nxdomain
 local-zone: "popup.yourpractice.online" always_nxdomain
 local-zone: "pragatimediasolutions.com" always_nxdomain
 local-zone: "primary.bannerwerbung.net" always_nxdomain
+local-zone: "promoted.ticketmaster.com" always_nxdomain
 local-zone: "promo.worldofwarships.com" always_nxdomain
 local-zone: "prop.faroutmagazine.co.uk" always_nxdomain
 local-zone: "pub2.webmanagercenter.com" always_nxdomain
@@ -18753,6 +18757,7 @@ local-zone: "a-us-west.rfihub.com.akadns.net" always_nxdomain
 local-zone: "banner.freshgrassfoundation.org" always_nxdomain
 local-zone: "banner.historiadealagoas.com.br" always_nxdomain
 local-zone: "bannershotlink.perfectgonzo.com" always_nxdomain
+local-zone: "cmod452.live.streamtheworld.com" always_nxdomain
 local-zone: "contactus.blob.core.windows.net" always_nxdomain
 local-zone: "fare-adserver.resourcestack.com" always_nxdomain
 local-zone: "gdpr-legal-cookie.beeclever.app" always_nxdomain
@@ -18804,6 +18809,7 @@ local-zone: "partner.elektrykapradnietyka.com" always_nxdomain
 local-zone: "pp-prod-ads.ue2.breadgateway.net" always_nxdomain
 local-zone: "prod.contextweb.map.fastlylb.net" always_nxdomain
 local-zone: "seal-westernpennsylvania.bbb.org" always_nxdomain
+local-zone: "service-ad-image-ga.prd.pluto.tv" always_nxdomain
 local-zone: "smart-widget-assets.ekomiapps.de" always_nxdomain
 local-zone: "s-static.innovid.com.edgekey.net" always_nxdomain
 local-zone: "static.tabmo.io.s3.amazonaws.com" always_nxdomain

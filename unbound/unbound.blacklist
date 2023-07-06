@@ -4582,6 +4582,7 @@ local-zone: "mkazanc.com" always_refuse
 local-zone: "mkjmdsc.xyz" always_refuse
 local-zone: "mktossl.com" always_refuse
 local-zone: "mktoweb.com" always_refuse
+local-zone: "mmapiws.com" always_refuse
 local-zone: "mmctsvc.com" always_refuse
 local-zone: "mme-365.com" always_refuse
 local-zone: "mmi-net.com" always_refuse
@@ -6706,6 +6707,7 @@ local-zone: "tubehits.com" always_refuse
 local-zone: "tujuvyfu.xyz" always_refuse
 local-zone: "turboadv.com" always_refuse
 local-zone: "tuwuzaci.xyz" always_refuse
+local-zone: "tv33whpr.com" always_refuse
 local-zone: "tvadsync.com" always_refuse
 local-zone: "t.winpbn.com" always_refuse
 local-zone: "twinplan.com" always_refuse
@@ -16606,6 +16608,7 @@ local-zone: "punchdrunkdigital.com" always_refuse
 local-zone: "purevpnaffiliates.com" always_refuse
 local-zone: "push.aws.kambicdn.com" always_refuse
 local-zone: "push.cnnindonesia.com" always_refuse
+local-zone: "pusherw.tunegenie.com" always_refuse
 local-zone: "radialcreative.com.au" always_refuse
 local-zone: "radiantmediatechs.com" always_refuse
 local-zone: "rainydaymarketing.com" always_refuse
@@ -18023,6 +18026,7 @@ local-zone: "partner.jewelsfoundry.com" always_refuse
 local-zone: "popup.yourpractice.online" always_refuse
 local-zone: "pragatimediasolutions.com" always_refuse
 local-zone: "primary.bannerwerbung.net" always_refuse
+local-zone: "promoted.ticketmaster.com" always_refuse
 local-zone: "promo.worldofwarships.com" always_refuse
 local-zone: "prop.faroutmagazine.co.uk" always_refuse
 local-zone: "pub2.webmanagercenter.com" always_refuse
@@ -18753,6 +18757,7 @@ local-zone: "a-us-west.rfihub.com.akadns.net" always_refuse
 local-zone: "banner.freshgrassfoundation.org" always_refuse
 local-zone: "banner.historiadealagoas.com.br" always_refuse
 local-zone: "bannershotlink.perfectgonzo.com" always_refuse
+local-zone: "cmod452.live.streamtheworld.com" always_refuse
 local-zone: "contactus.blob.core.windows.net" always_refuse
 local-zone: "fare-adserver.resourcestack.com" always_refuse
 local-zone: "gdpr-legal-cookie.beeclever.app" always_refuse
@@ -18804,6 +18809,7 @@ local-zone: "partner.elektrykapradnietyka.com" always_refuse
 local-zone: "pp-prod-ads.ue2.breadgateway.net" always_refuse
 local-zone: "prod.contextweb.map.fastlylb.net" always_refuse
 local-zone: "seal-westernpennsylvania.bbb.org" always_refuse
+local-zone: "service-ad-image-ga.prd.pluto.tv" always_refuse
 local-zone: "smart-widget-assets.ekomiapps.de" always_refuse
 local-zone: "s-static.innovid.com.edgekey.net" always_refuse
 local-zone: "static.tabmo.io.s3.amazonaws.com" always_refuse
