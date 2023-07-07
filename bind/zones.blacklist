@@ -8517,6 +8517,7 @@ zone "titanads5.com" { type master; notify no; file "null.zone.file"; };
 zone "tizerclik.com" { type master; notify no; file "null.zone.file"; };
 zone "tldagency.com" { type master; notify no; file "null.zone.file"; };
 zone "tlmstudios.in" { type master; notify no; file "null.zone.file"; };
+zone "todayoman.com" { type master; notify no; file "null.zone.file"; };
 zone "ton.twimg.com" { type master; notify no; file "null.zone.file"; };
 zone "tools.viva.pl" { type master; notify no; file "null.zone.file"; };
 zone "tororango.com" { type master; notify no; file "null.zone.file"; };
