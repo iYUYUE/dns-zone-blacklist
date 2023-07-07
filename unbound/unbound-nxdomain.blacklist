@@ -976,6 +976,7 @@ local-zone: "cdnpv.com" always_nxdomain
 local-zone: "celtra.io" always_nxdomain
 local-zone: "cfset.com" always_nxdomain
 local-zone: "ck-ie.com" always_nxdomain
+local-zone: "claspo.io" always_nxdomain
 local-zone: "clinch.co" always_nxdomain
 local-zone: "cluep.com" always_nxdomain
 local-zone: "clypd.com" always_nxdomain
@@ -1396,6 +1397,7 @@ local-zone: "semilo.nl" always_nxdomain
 local-zone: "seynd.com" always_nxdomain
 local-zone: "signal.co" always_nxdomain
 local-zone: "simpli.fi" always_nxdomain
+local-zone: "sjsjs.xyz" always_nxdomain
 local-zone: "slido.com" always_nxdomain
 local-zone: "slitm.net" always_nxdomain
 local-zone: "slsv1.com" always_nxdomain
@@ -9057,6 +9059,7 @@ local-zone: "ads.zegrir.com" always_nxdomain
 local-zone: "adtechserv.com" always_nxdomain
 local-zone: "adtechworld.in" always_nxdomain
 local-zone: "adtheorent.com" always_nxdomain
+local-zone: "adtrace.online" always_nxdomain
 local-zone: "adtraction.com" always_nxdomain
 local-zone: "ad.truerun.com" always_nxdomain
 local-zone: "ad.ulanding.io" always_nxdomain
@@ -11916,6 +11919,7 @@ local-zone: "ads.macmillan.me" always_nxdomain
 local-zone: "ads.makfudbal.mk" always_nxdomain
 local-zone: "ads.makhsoft.com" always_nxdomain
 local-zone: "ads.malisheva.tv" always_nxdomain
+local-zone: "adsmatemedia.com" always_nxdomain
 local-zone: "ads.matrixads.in" always_nxdomain
 local-zone: "ads.metrike.link" always_nxdomain
 local-zone: "ads.metronome.ge" always_nxdomain
@@ -13498,6 +13502,7 @@ local-zone: "new-new-years.com" always_nxdomain
 local-zone: "newsletterhut.com" always_nxdomain
 local-zone: "nextdigital.co.id" always_nxdomain
 local-zone: "nextmillennium.io" always_nxdomain
+local-zone: "nextmillmedia.com" always_nxdomain
 local-zone: "nice.tryboobs.com" always_nxdomain
 local-zone: "niceworkagency.be" always_nxdomain
 local-zone: "nkispa.nikkei.com" always_nxdomain
@@ -15068,6 +15073,7 @@ local-zone: "beachfrontreach.com" always_nxdomain
 local-zone: "beaconadnetwork.com" always_nxdomain
 local-zone: "bestcontenthost.com" always_nxdomain
 local-zone: "besttextservice.top" always_nxdomain
+local-zone: "bff-scms.cupshe.com" always_nxdomain
 local-zone: "bidstreamserver.com" always_nxdomain
 local-zone: "birthmarkagency.com" always_nxdomain
 local-zone: "bitmedianetwork.com" always_nxdomain
@@ -16541,6 +16547,8 @@ local-zone: "inmarcadvertising.com" always_nxdomain
 local-zone: "interworksmedia.co.kr" always_nxdomain
 local-zone: "intotheblueagency.com" always_nxdomain
 local-zone: "ip219083135.ahcdn.com" always_nxdomain
+local-zone: "ip266637217.ahcdn.com" always_nxdomain
+local-zone: "ip284921632.ahcdn.com" always_nxdomain
 local-zone: "itouchadvertising.com" always_nxdomain
 local-zone: "iwantrdftodeliver.com" always_nxdomain
 local-zone: "iwanttoiiideliver.com" always_nxdomain

@@ -976,6 +976,7 @@ local-zone: "cdnpv.com" always_refuse
 local-zone: "celtra.io" always_refuse
 local-zone: "cfset.com" always_refuse
 local-zone: "ck-ie.com" always_refuse
+local-zone: "claspo.io" always_refuse
 local-zone: "clinch.co" always_refuse
 local-zone: "cluep.com" always_refuse
 local-zone: "clypd.com" always_refuse
@@ -1396,6 +1397,7 @@ local-zone: "semilo.nl" always_refuse
 local-zone: "seynd.com" always_refuse
 local-zone: "signal.co" always_refuse
 local-zone: "simpli.fi" always_refuse
+local-zone: "sjsjs.xyz" always_refuse
 local-zone: "slido.com" always_refuse
 local-zone: "slitm.net" always_refuse
 local-zone: "slsv1.com" always_refuse
@@ -9057,6 +9059,7 @@ local-zone: "ads.zegrir.com" always_refuse
 local-zone: "adtechserv.com" always_refuse
 local-zone: "adtechworld.in" always_refuse
 local-zone: "adtheorent.com" always_refuse
+local-zone: "adtrace.online" always_refuse
 local-zone: "adtraction.com" always_refuse
 local-zone: "ad.truerun.com" always_refuse
 local-zone: "ad.ulanding.io" always_refuse
@@ -11916,6 +11919,7 @@ local-zone: "ads.macmillan.me" always_refuse
 local-zone: "ads.makfudbal.mk" always_refuse
 local-zone: "ads.makhsoft.com" always_refuse
 local-zone: "ads.malisheva.tv" always_refuse
+local-zone: "adsmatemedia.com" always_refuse
 local-zone: "ads.matrixads.in" always_refuse
 local-zone: "ads.metrike.link" always_refuse
 local-zone: "ads.metronome.ge" always_refuse
@@ -13498,6 +13502,7 @@ local-zone: "new-new-years.com" always_refuse
 local-zone: "newsletterhut.com" always_refuse
 local-zone: "nextdigital.co.id" always_refuse
 local-zone: "nextmillennium.io" always_refuse
+local-zone: "nextmillmedia.com" always_refuse
 local-zone: "nice.tryboobs.com" always_refuse
 local-zone: "niceworkagency.be" always_refuse
 local-zone: "nkispa.nikkei.com" always_refuse
@@ -15068,6 +15073,7 @@ local-zone: "beachfrontreach.com" always_refuse
 local-zone: "beaconadnetwork.com" always_refuse
 local-zone: "bestcontenthost.com" always_refuse
 local-zone: "besttextservice.top" always_refuse
+local-zone: "bff-scms.cupshe.com" always_refuse
 local-zone: "bidstreamserver.com" always_refuse
 local-zone: "birthmarkagency.com" always_refuse
 local-zone: "bitmedianetwork.com" always_refuse
@@ -16541,6 +16547,8 @@ local-zone: "inmarcadvertising.com" always_refuse
 local-zone: "interworksmedia.co.kr" always_refuse
 local-zone: "intotheblueagency.com" always_refuse
 local-zone: "ip219083135.ahcdn.com" always_refuse
+local-zone: "ip266637217.ahcdn.com" always_refuse
+local-zone: "ip284921632.ahcdn.com" always_refuse
 local-zone: "itouchadvertising.com" always_refuse
 local-zone: "iwantrdftodeliver.com" always_refuse
 local-zone: "iwanttoiiideliver.com" always_refuse
