@@ -2845,6 +2845,7 @@ local-zone: "okoads.com" always_nxdomain
 local-zone: "old-go.pro" always_nxdomain
 local-zone: "olvdxl.com" always_nxdomain
 local-zone: "omelet.com" always_nxdomain
+local-zone: "oneflit.in" always_nxdomain
 local-zone: "onetad.com" always_nxdomain
 local-zone: "onladv.com" always_nxdomain
 local-zone: "onvoir.com" always_nxdomain
@@ -18841,6 +18842,7 @@ local-zone: "courier-push-apple.com.akadns.net" always_nxdomain
 local-zone: "doubleclick.thirdparty.ooyala.com" always_nxdomain
 local-zone: "eurocookie.galilcloud.wixapps.net" always_nxdomain
 local-zone: "fundingchoicesmessages.google.com" always_nxdomain
+local-zone: "libs.platform.californiatimes.com" always_nxdomain
 local-zone: "marketplace.digitalfirstmedia.com" always_nxdomain
 local-zone: "notifications.ennova-research.com" always_nxdomain
 local-zone: "platform.shopmsg.me.herokudns.com" always_nxdomain

@@ -2845,6 +2845,7 @@ zone "okoads.com" { type master; notify no; file "null.zone.file"; };
 zone "old-go.pro" { type master; notify no; file "null.zone.file"; };
 zone "olvdxl.com" { type master; notify no; file "null.zone.file"; };
 zone "omelet.com" { type master; notify no; file "null.zone.file"; };
+zone "oneflit.in" { type master; notify no; file "null.zone.file"; };
 zone "onetad.com" { type master; notify no; file "null.zone.file"; };
 zone "onladv.com" { type master; notify no; file "null.zone.file"; };
 zone "onvoir.com" { type master; notify no; file "null.zone.file"; };
@@ -18841,6 +18842,7 @@ zone "courier-push-apple.com.akadns.net" { type master; notify no; file "null.zo
 zone "doubleclick.thirdparty.ooyala.com" { type master; notify no; file "null.zone.file"; };
 zone "eurocookie.galilcloud.wixapps.net" { type master; notify no; file "null.zone.file"; };
 zone "fundingchoicesmessages.google.com" { type master; notify no; file "null.zone.file"; };
+zone "libs.platform.californiatimes.com" { type master; notify no; file "null.zone.file"; };
 zone "marketplace.digitalfirstmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "notifications.ennova-research.com" { type master; notify no; file "null.zone.file"; };
 zone "platform.shopmsg.me.herokudns.com" { type master; notify no; file "null.zone.file"; };

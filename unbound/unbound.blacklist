@@ -2845,6 +2845,7 @@ local-zone: "okoads.com" always_refuse
 local-zone: "old-go.pro" always_refuse
 local-zone: "olvdxl.com" always_refuse
 local-zone: "omelet.com" always_refuse
+local-zone: "oneflit.in" always_refuse
 local-zone: "onetad.com" always_refuse
 local-zone: "onladv.com" always_refuse
 local-zone: "onvoir.com" always_refuse
@@ -18841,6 +18842,7 @@ local-zone: "courier-push-apple.com.akadns.net" always_refuse
 local-zone: "doubleclick.thirdparty.ooyala.com" always_refuse
 local-zone: "eurocookie.galilcloud.wixapps.net" always_refuse
 local-zone: "fundingchoicesmessages.google.com" always_refuse
+local-zone: "libs.platform.californiatimes.com" always_refuse
 local-zone: "marketplace.digitalfirstmedia.com" always_refuse
 local-zone: "notifications.ennova-research.com" always_refuse
 local-zone: "platform.shopmsg.me.herokudns.com" always_refuse
