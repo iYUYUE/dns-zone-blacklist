@@ -3218,7 +3218,6 @@ zone "ttvnps.com" { type master; notify no; file "null.zone.file"; };
 zone "tu.jjxx.me" { type master; notify no; file "null.zone.file"; };
 zone "tutoads.tv" { type master; notify no; file "null.zone.file"; };
 zone "tv2h87.net" { type master; notify no; file "null.zone.file"; };
-zone "tvpage.com" { type master; notify no; file "null.zone.file"; };
 zone "twiago.com" { type master; notify no; file "null.zone.file"; };
 zone "twipel.com" { type master; notify no; file "null.zone.file"; };
 zone "twotdw.com" { type master; notify no; file "null.zone.file"; };
