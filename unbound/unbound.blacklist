@@ -912,6 +912,7 @@ local-zone: "avazu.com" always_refuse
 local-zone: "avazu.net" always_refuse
 local-zone: "avocet.io" always_refuse
 local-zone: "avrdi.com" always_refuse
+local-zone: "awin1.com" always_refuse
 local-zone: "awin.team" always_refuse
 local-zone: "awprt.com" always_refuse
 local-zone: "azskk.com" always_refuse
