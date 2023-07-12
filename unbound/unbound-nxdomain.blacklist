@@ -12176,6 +12176,7 @@ local-zone: "confiant.msn.com" always_nxdomain
 local-zone: "connecthedot.com" always_nxdomain
 local-zone: "contactimpact.de" always_nxdomain
 local-zone: "contentsfeed.com" always_nxdomain
+local-zone: "contentstream.pl" always_nxdomain
 local-zone: "continentads.com" always_nxdomain
 local-zone: "controlgroup.com" always_nxdomain
 local-zone: "convertifier.com" always_nxdomain
@@ -17828,6 +17829,7 @@ local-zone: "partnerads.ysm.yahoo.com" always_nxdomain
 local-zone: "paywall-prod.appspot.com" always_nxdomain
 local-zone: "pebbleterrain.consulting" always_nxdomain
 local-zone: "pinnacle-advertising.com" always_nxdomain
+local-zone: "poweredbyliquidfire.mobi" always_nxdomain
 local-zone: "prajapatiadvertising.com" always_nxdomain
 local-zone: "projectagoraservices.com" always_nxdomain
 local-zone: "promotion.bookmyshow.com" always_nxdomain

@@ -12176,6 +12176,7 @@ local-zone: "confiant.msn.com" always_refuse
 local-zone: "connecthedot.com" always_refuse
 local-zone: "contactimpact.de" always_refuse
 local-zone: "contentsfeed.com" always_refuse
+local-zone: "contentstream.pl" always_refuse
 local-zone: "continentads.com" always_refuse
 local-zone: "controlgroup.com" always_refuse
 local-zone: "convertifier.com" always_refuse
@@ -17828,6 +17829,7 @@ local-zone: "partnerads.ysm.yahoo.com" always_refuse
 local-zone: "paywall-prod.appspot.com" always_refuse
 local-zone: "pebbleterrain.consulting" always_refuse
 local-zone: "pinnacle-advertising.com" always_refuse
+local-zone: "poweredbyliquidfire.mobi" always_refuse
 local-zone: "prajapatiadvertising.com" always_refuse
 local-zone: "projectagoraservices.com" always_refuse
 local-zone: "promotion.bookmyshow.com" always_refuse
