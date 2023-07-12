@@ -12123,7 +12123,6 @@ local-zone: "blanco-adv.co.il" always_refuse
 local-zone: "blockthrough.com" always_refuse
 local-zone: "bluebillywig.com" always_refuse
 local-zone: "blueparrot.media" always_refuse
-local-zone: "bobitstudios.com" always_refuse
 local-zone: "bolderlouder.com" always_refuse
 local-zone: "bolt.dropbox.com" always_refuse
 local-zone: "bonertraffic.pro" always_refuse
@@ -17815,6 +17814,7 @@ local-zone: "kreativeprofessional.com" always_refuse
 local-zone: "lcx-widgets.bambuser.com" always_refuse
 local-zone: "magneticaadvertising.com" always_refuse
 local-zone: "matthewjamescreative.com" always_refuse
+local-zone: "msadsscale.azureedge.net" always_refuse
 local-zone: "nancyrosenandcompany.com" always_refuse
 local-zone: "newopenx.simplethings.de" always_refuse
 local-zone: "newsletter.linuxbabe.com" always_refuse

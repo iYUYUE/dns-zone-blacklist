@@ -12123,7 +12123,6 @@ local-zone: "blanco-adv.co.il" always_nxdomain
 local-zone: "blockthrough.com" always_nxdomain
 local-zone: "bluebillywig.com" always_nxdomain
 local-zone: "blueparrot.media" always_nxdomain
-local-zone: "bobitstudios.com" always_nxdomain
 local-zone: "bolderlouder.com" always_nxdomain
 local-zone: "bolt.dropbox.com" always_nxdomain
 local-zone: "bonertraffic.pro" always_nxdomain
@@ -17815,6 +17814,7 @@ local-zone: "kreativeprofessional.com" always_nxdomain
 local-zone: "lcx-widgets.bambuser.com" always_nxdomain
 local-zone: "magneticaadvertising.com" always_nxdomain
 local-zone: "matthewjamescreative.com" always_nxdomain
+local-zone: "msadsscale.azureedge.net" always_nxdomain
 local-zone: "nancyrosenandcompany.com" always_nxdomain
 local-zone: "newopenx.simplethings.de" always_nxdomain
 local-zone: "newsletter.linuxbabe.com" always_nxdomain
