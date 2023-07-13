@@ -800,6 +800,7 @@ local-zone: "adqva.com" always_refuse
 local-zone: "adrino.pl" always_refuse
 local-zone: "adrock.tv" always_refuse
 local-zone: "adrtx.net" always_refuse
+local-zone: "ads24.net" always_refuse
 local-zone: "ads.a1.bg" always_refuse
 local-zone: "adsage.cn" always_refuse
 local-zone: "adsage.us" always_refuse
@@ -17280,6 +17281,7 @@ local-zone: "ads.converticomedia.com" always_refuse
 local-zone: "ads.costadelsollife.com" always_refuse
 local-zone: "ads.culturadoria.com.br" always_refuse
 local-zone: "ads.diarioprovincial.cl" always_refuse
+local-zone: "ads.digitalmedianet.com" always_refuse
 local-zone: "ads-east.bilinmedia.net" always_refuse
 local-zone: "ads.elnuevosiglo.com.co" always_refuse
 local-zone: "ads.erotik-webspace.net" always_refuse
@@ -18871,7 +18873,6 @@ local-zone: "adserver.theassociationpartner.net" always_refuse
 local-zone: "adserver.turksandcaicostourism.com" always_refuse
 local-zone: "adsmediationqa.sta.midasplayer.com" always_refuse
 local-zone: "advertiseonbing-blob.azureedge.net" always_refuse
-local-zone: "audio-ak-spotify-com.akamaized.net" always_refuse
 local-zone: "ccpa-script.psg.nexstardigital.net" always_refuse
 local-zone: "cdn.production.townsquareblogs.com" always_refuse
 local-zone: "citi.bridgetrack.com.edgesuite.net" always_refuse

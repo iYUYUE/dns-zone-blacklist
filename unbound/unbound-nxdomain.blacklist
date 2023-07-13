@@ -800,6 +800,7 @@ local-zone: "adqva.com" always_nxdomain
 local-zone: "adrino.pl" always_nxdomain
 local-zone: "adrock.tv" always_nxdomain
 local-zone: "adrtx.net" always_nxdomain
+local-zone: "ads24.net" always_nxdomain
 local-zone: "ads.a1.bg" always_nxdomain
 local-zone: "adsage.cn" always_nxdomain
 local-zone: "adsage.us" always_nxdomain
@@ -17280,6 +17281,7 @@ local-zone: "ads.converticomedia.com" always_nxdomain
 local-zone: "ads.costadelsollife.com" always_nxdomain
 local-zone: "ads.culturadoria.com.br" always_nxdomain
 local-zone: "ads.diarioprovincial.cl" always_nxdomain
+local-zone: "ads.digitalmedianet.com" always_nxdomain
 local-zone: "ads-east.bilinmedia.net" always_nxdomain
 local-zone: "ads.elnuevosiglo.com.co" always_nxdomain
 local-zone: "ads.erotik-webspace.net" always_nxdomain
@@ -18871,7 +18873,6 @@ local-zone: "adserver.theassociationpartner.net" always_nxdomain
 local-zone: "adserver.turksandcaicostourism.com" always_nxdomain
 local-zone: "adsmediationqa.sta.midasplayer.com" always_nxdomain
 local-zone: "advertiseonbing-blob.azureedge.net" always_nxdomain
-local-zone: "audio-ak-spotify-com.akamaized.net" always_nxdomain
 local-zone: "ccpa-script.psg.nexstardigital.net" always_nxdomain
 local-zone: "cdn.production.townsquareblogs.com" always_nxdomain
 local-zone: "citi.bridgetrack.com.edgesuite.net" always_nxdomain
