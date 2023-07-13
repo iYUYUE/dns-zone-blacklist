@@ -2351,6 +2351,7 @@ zone "e-v-e-n.me" { type master; notify no; file "null.zone.file"; };
 zone "evghwr.com" { type master; notify no; file "null.zone.file"; };
 zone "evokad.com" { type master; notify no; file "null.zone.file"; };
 zone "evolok.net" { type master; notify no; file "null.zone.file"; };
+zone "exieur.xyz" { type master; notify no; file "null.zone.file"; };
 zone "exodsp.com" { type master; notify no; file "null.zone.file"; };
 zone "exosrv.com" { type master; notify no; file "null.zone.file"; };
 zone "ezanga.com" { type master; notify no; file "null.zone.file"; };
