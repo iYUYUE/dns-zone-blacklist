@@ -474,6 +474,7 @@ local-zone: "lodeo.io" always_refuse
 local-zone: "loris.ai" always_refuse
 local-zone: "loved.by" always_refuse
 local-zone: "lrxd.com" always_refuse
+local-zone: "lunio.ai" always_refuse
 local-zone: "luxup.ru" always_refuse
 local-zone: "madg.com" always_refuse
 local-zone: "maker.tv" always_refuse
@@ -1361,6 +1362,7 @@ local-zone: "qiota.com" always_refuse
 local-zone: "qirnz.com" always_refuse
 local-zone: "qjjto.com" always_refuse
 local-zone: "qksrv.biz" always_refuse
+local-zone: "qksrv.com" always_refuse
 local-zone: "qksrv.net" always_refuse
 local-zone: "qmuli.com" always_refuse
 local-zone: "questa.uz" always_refuse
@@ -5080,6 +5082,7 @@ local-zone: "yospace.com" always_refuse
 local-zone: "yospace.net" always_refuse
 local-zone: "yottabz.com" always_refuse
 local-zone: "youappi.com" always_refuse
+local-zone: "yourbow.com" always_refuse
 local-zone: "yovoads.com" always_refuse
 local-zone: "yudexjr.com" always_refuse
 local-zone: "yx-ads6.com" always_refuse
