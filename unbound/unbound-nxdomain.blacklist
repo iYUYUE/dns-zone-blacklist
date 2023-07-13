@@ -4065,6 +4065,7 @@ local-zone: "ampsinc.net" always_nxdomain
 local-zone: "anetwork.ir" always_nxdomain
 local-zone: "aniview.com" always_nxdomain
 local-zone: "annabac.com" always_nxdomain
+local-zone: "anstrex.com" always_nxdomain
 local-zone: "apbbjmp.com" always_nxdomain
 local-zone: "apcl360.com" always_nxdomain
 local-zone: "a.pixiv.org" always_nxdomain
@@ -9439,6 +9440,7 @@ local-zone: "eumaxindia.com" always_nxdomain
 local-zone: "europacash.com" always_nxdomain
 local-zone: "everestads.net" always_nxdomain
 local-zone: "exactdrive.com" always_nxdomain
+local-zone: "exchangead.com" always_nxdomain
 local-zone: "expertcity.com" always_nxdomain
 local-zone: "eyeviewads.com" always_nxdomain
 local-zone: "ezadsystem.com" always_nxdomain
@@ -9664,6 +9666,7 @@ local-zone: "lotusorbit.com" always_nxdomain
 local-zone: "loudchilli.com" always_nxdomain
 local-zone: "loudmemory.pro" always_nxdomain
 local-zone: "loud-tower.pro" always_nxdomain
+local-zone: "lucidmedia.com" always_nxdomain
 local-zone: "lucienmann.pro" always_nxdomain
 local-zone: "lux-medien.com" always_nxdomain
 local-zone: "luyten-98c.com" always_nxdomain
@@ -15364,6 +15367,7 @@ local-zone: "revive.bdnews24.com" always_nxdomain
 local-zone: "revive.tidssonen.no" always_nxdomain
 local-zone: "revive.workmedia.pt" always_nxdomain
 local-zone: "ricasmediagroup.com" always_nxdomain
+local-zone: "ringtonematcher.com" always_nxdomain
 local-zone: "roxmedianetwork.com" always_nxdomain
 local-zone: "r.skimresources.com" always_nxdomain
 local-zone: "rubiconproject.mobi" always_nxdomain

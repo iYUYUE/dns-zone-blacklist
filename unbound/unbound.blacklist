@@ -4065,6 +4065,7 @@ local-zone: "ampsinc.net" always_refuse
 local-zone: "anetwork.ir" always_refuse
 local-zone: "aniview.com" always_refuse
 local-zone: "annabac.com" always_refuse
+local-zone: "anstrex.com" always_refuse
 local-zone: "apbbjmp.com" always_refuse
 local-zone: "apcl360.com" always_refuse
 local-zone: "a.pixiv.org" always_refuse
@@ -9439,6 +9440,7 @@ local-zone: "eumaxindia.com" always_refuse
 local-zone: "europacash.com" always_refuse
 local-zone: "everestads.net" always_refuse
 local-zone: "exactdrive.com" always_refuse
+local-zone: "exchangead.com" always_refuse
 local-zone: "expertcity.com" always_refuse
 local-zone: "eyeviewads.com" always_refuse
 local-zone: "ezadsystem.com" always_refuse
@@ -9664,6 +9666,7 @@ local-zone: "lotusorbit.com" always_refuse
 local-zone: "loudchilli.com" always_refuse
 local-zone: "loudmemory.pro" always_refuse
 local-zone: "loud-tower.pro" always_refuse
+local-zone: "lucidmedia.com" always_refuse
 local-zone: "lucienmann.pro" always_refuse
 local-zone: "lux-medien.com" always_refuse
 local-zone: "luyten-98c.com" always_refuse
@@ -15364,6 +15367,7 @@ local-zone: "revive.bdnews24.com" always_refuse
 local-zone: "revive.tidssonen.no" always_refuse
 local-zone: "revive.workmedia.pt" always_refuse
 local-zone: "ricasmediagroup.com" always_refuse
+local-zone: "ringtonematcher.com" always_refuse
 local-zone: "roxmedianetwork.com" always_refuse
 local-zone: "r.skimresources.com" always_refuse
 local-zone: "rubiconproject.mobi" always_refuse
