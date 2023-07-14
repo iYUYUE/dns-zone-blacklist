@@ -3510,12 +3510,10 @@ local-zone: "1256999.com" always_nxdomain
 local-zone: "1257999.com" always_nxdomain
 local-zone: "139gphf8.de" always_nxdomain
 local-zone: "1537999.com" always_nxdomain
-local-zone: "1.imimg.com" always_nxdomain
 local-zone: "1redirb.com" always_nxdomain
 local-zone: "1second.com" always_nxdomain
 local-zone: "29rhino.com" always_nxdomain
 local-zone: "2beon.co.kr" always_nxdomain
-local-zone: "2.imimg.com" always_nxdomain
 local-zone: "2-story.com" always_nxdomain
 local-zone: "31000ft.com" always_nxdomain
 local-zone: "31000ft.net" always_nxdomain
@@ -3525,13 +3523,10 @@ local-zone: "3336896.com" always_nxdomain
 local-zone: "3338635.com" always_nxdomain
 local-zone: "3338653.com" always_nxdomain
 local-zone: "3338656.com" always_nxdomain
-local-zone: "3.imimg.com" always_nxdomain
 local-zone: "3mnhfoqm.ru" always_nxdomain
 local-zone: "45tu1c0.com" always_nxdomain
-local-zone: "4.imimg.com" always_nxdomain
 local-zone: "51north.com" always_nxdomain
 local-zone: "5fet4fni.de" always_nxdomain
-local-zone: "5.imimg.com" always_nxdomain
 local-zone: "78tdd75.com" always_nxdomain
 local-zone: "7com.com.ua" always_nxdomain
 local-zone: "7ddesign.in" always_nxdomain
@@ -12288,6 +12283,7 @@ local-zone: "greenhaus.agency" always_nxdomain
 local-zone: "growthspin.co.uk" always_nxdomain
 local-zone: "harbingerbay.com" always_nxdomain
 local-zone: "hawk.pcgamer.com" always_nxdomain
+local-zone: "heads-fa.scdn.co" always_nxdomain
 local-zone: "healmsuoguurd.eu" always_nxdomain
 local-zone: "heaticemedia.xyz" always_nxdomain
 local-zone: "heykickstand.com" always_nxdomain
@@ -13468,6 +13464,7 @@ local-zone: "mediasoftcorp.com" always_nxdomain
 local-zone: "mediaspectrum.net" always_nxdomain
 local-zone: "medicineteaser.ru" always_nxdomain
 local-zone: "meetaffiliate.com" always_nxdomain
+local-zone: "merch-img.scdn.co" always_nxdomain
 local-zone: "mertzrentacar.com" always_nxdomain
 local-zone: "meta.miraheze.org" always_nxdomain
 local-zone: "midas-network.com" always_nxdomain
@@ -14220,6 +14217,7 @@ local-zone: "cm.lentainform.com" always_nxdomain
 local-zone: "colombiaonline.com" always_nxdomain
 local-zone: "commissionkings.ag" always_nxdomain
 local-zone: "conforama-push.com" always_nxdomain
+local-zone: "consent.bumble.com" always_nxdomain
 local-zone: "consentmanager.net" always_nxdomain
 local-zone: "content1.pcmweb.nl" always_nxdomain
 local-zone: "content2.pcmweb.nl" always_nxdomain
@@ -14617,6 +14615,7 @@ local-zone: "whitebox.marketing" always_nxdomain
 local-zone: "whypeopleclick.com" always_nxdomain
 local-zone: "whytecreations.com" always_nxdomain
 local-zone: "widget.camshq.info" always_nxdomain
+local-zone: "widget.intercom.io" always_nxdomain
 local-zone: "widget.packeta.com" always_nxdomain
 local-zone: "widget.sender.mobi" always_nxdomain
 local-zone: "widgets.guppy.live" always_nxdomain

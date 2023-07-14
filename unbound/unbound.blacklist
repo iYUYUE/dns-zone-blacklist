@@ -3510,12 +3510,10 @@ local-zone: "1256999.com" always_refuse
 local-zone: "1257999.com" always_refuse
 local-zone: "139gphf8.de" always_refuse
 local-zone: "1537999.com" always_refuse
-local-zone: "1.imimg.com" always_refuse
 local-zone: "1redirb.com" always_refuse
 local-zone: "1second.com" always_refuse
 local-zone: "29rhino.com" always_refuse
 local-zone: "2beon.co.kr" always_refuse
-local-zone: "2.imimg.com" always_refuse
 local-zone: "2-story.com" always_refuse
 local-zone: "31000ft.com" always_refuse
 local-zone: "31000ft.net" always_refuse
@@ -3525,13 +3523,10 @@ local-zone: "3336896.com" always_refuse
 local-zone: "3338635.com" always_refuse
 local-zone: "3338653.com" always_refuse
 local-zone: "3338656.com" always_refuse
-local-zone: "3.imimg.com" always_refuse
 local-zone: "3mnhfoqm.ru" always_refuse
 local-zone: "45tu1c0.com" always_refuse
-local-zone: "4.imimg.com" always_refuse
 local-zone: "51north.com" always_refuse
 local-zone: "5fet4fni.de" always_refuse
-local-zone: "5.imimg.com" always_refuse
 local-zone: "78tdd75.com" always_refuse
 local-zone: "7com.com.ua" always_refuse
 local-zone: "7ddesign.in" always_refuse
@@ -12288,6 +12283,7 @@ local-zone: "greenhaus.agency" always_refuse
 local-zone: "growthspin.co.uk" always_refuse
 local-zone: "harbingerbay.com" always_refuse
 local-zone: "hawk.pcgamer.com" always_refuse
+local-zone: "heads-fa.scdn.co" always_refuse
 local-zone: "healmsuoguurd.eu" always_refuse
 local-zone: "heaticemedia.xyz" always_refuse
 local-zone: "heykickstand.com" always_refuse
@@ -13468,6 +13464,7 @@ local-zone: "mediasoftcorp.com" always_refuse
 local-zone: "mediaspectrum.net" always_refuse
 local-zone: "medicineteaser.ru" always_refuse
 local-zone: "meetaffiliate.com" always_refuse
+local-zone: "merch-img.scdn.co" always_refuse
 local-zone: "mertzrentacar.com" always_refuse
 local-zone: "meta.miraheze.org" always_refuse
 local-zone: "midas-network.com" always_refuse
@@ -14220,6 +14217,7 @@ local-zone: "cm.lentainform.com" always_refuse
 local-zone: "colombiaonline.com" always_refuse
 local-zone: "commissionkings.ag" always_refuse
 local-zone: "conforama-push.com" always_refuse
+local-zone: "consent.bumble.com" always_refuse
 local-zone: "consentmanager.net" always_refuse
 local-zone: "content1.pcmweb.nl" always_refuse
 local-zone: "content2.pcmweb.nl" always_refuse
@@ -14617,6 +14615,7 @@ local-zone: "whitebox.marketing" always_refuse
 local-zone: "whypeopleclick.com" always_refuse
 local-zone: "whytecreations.com" always_refuse
 local-zone: "widget.camshq.info" always_refuse
+local-zone: "widget.intercom.io" always_refuse
 local-zone: "widget.packeta.com" always_refuse
 local-zone: "widget.sender.mobi" always_refuse
 local-zone: "widgets.guppy.live" always_refuse
