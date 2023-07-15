@@ -5885,6 +5885,7 @@ zone "dotbanner.dk" { type master; notify no; file "null.zone.file"; };
 zone "dpchica.mobi" { type master; notify no; file "null.zone.file"; };
 zone "dplivin.mobi" { type master; notify no; file "null.zone.file"; };
 zone "dpmetro.mobi" { type master; notify no; file "null.zone.file"; };
+zone "drivenio.com" { type master; notify no; file "null.zone.file"; };
 zone "dsdjclub.com" { type master; notify no; file "null.zone.file"; };
 zone "dsfffmb.mobi" { type master; notify no; file "null.zone.file"; };
 zone "dspunion.com" { type master; notify no; file "null.zone.file"; };
