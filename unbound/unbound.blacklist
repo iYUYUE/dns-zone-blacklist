@@ -19026,7 +19026,6 @@ local-zone: "minotaur-production.global.ssl.fastly.net" always_refuse
 local-zone: "prod.ups-adcom.aolp-ds-prd.aws.oath.cloud" always_refuse
 local-zone: "push-monetization-images.s3.amazonaws.com" always_refuse
 local-zone: "r3-live-assets.s3.eu-west-1.amazonaws.com" always_refuse
-local-zone: "video-akpcw-cdn-spotify-com.akamaized.net" always_refuse
 local-zone: "video.doubleverify.com.cdn.cloudflare.net" always_refuse
 local-zone: "1643451762.zunxiangjiazheng07712444061.com" always_refuse
 local-zone: "1643451838.zunxiangjiazheng07712444061.com" always_refuse
