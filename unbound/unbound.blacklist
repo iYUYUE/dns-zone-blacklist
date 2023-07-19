@@ -7196,6 +7196,7 @@ local-zone: "ads.lcni6.com" always_refuse
 local-zone: "adslegend.com" always_refuse
 local-zone: "ads.locals.md" always_refuse
 local-zone: "ads.makimo.pl" always_refuse
+local-zone: "adsmanaged.co" always_refuse
 local-zone: "adsmelody.com" always_refuse
 local-zone: "adsmobila.com" always_refuse
 local-zone: "adsmodern.com" always_refuse

@@ -7196,6 +7196,7 @@ local-zone: "ads.lcni6.com" always_nxdomain
 local-zone: "adslegend.com" always_nxdomain
 local-zone: "ads.locals.md" always_nxdomain
 local-zone: "ads.makimo.pl" always_nxdomain
+local-zone: "adsmanaged.co" always_nxdomain
 local-zone: "adsmelody.com" always_nxdomain
 local-zone: "adsmobila.com" always_nxdomain
 local-zone: "adsmodern.com" always_nxdomain

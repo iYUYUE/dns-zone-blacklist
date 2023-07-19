@@ -7196,6 +7196,7 @@ zone "ads.lcni6.com" { type master; notify no; file "null.zone.file"; };
 zone "adslegend.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.locals.md" { type master; notify no; file "null.zone.file"; };
 zone "ads.makimo.pl" { type master; notify no; file "null.zone.file"; };
+zone "adsmanaged.co" { type master; notify no; file "null.zone.file"; };
 zone "adsmelody.com" { type master; notify no; file "null.zone.file"; };
 zone "adsmobila.com" { type master; notify no; file "null.zone.file"; };
 zone "adsmodern.com" { type master; notify no; file "null.zone.file"; };
