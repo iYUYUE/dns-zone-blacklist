@@ -1000,6 +1000,9 @@ local-zone: "cpx24.com" always_nxdomain
 local-zone: "cpx24.net" always_nxdomain
 local-zone: "crfrf.com" always_nxdomain
 local-zone: "criteo.fr" always_nxdomain
+local-zone: "criteo.in" always_nxdomain
+local-zone: "criteo.it" always_nxdomain
+local-zone: "criteo.tv" always_nxdomain
 local-zone: "crm4d.com" always_nxdomain
 local-zone: "crpoy.com" always_nxdomain
 local-zone: "csjuq.com" always_nxdomain
@@ -2247,6 +2250,7 @@ local-zone: "cpmktg.com" always_nxdomain
 local-zone: "cr8adv.com" always_nxdomain
 local-zone: "crcvba.com" always_nxdomain
 local-zone: "criteo.com" always_nxdomain
+local-zone: "critoo.com" always_nxdomain
 local-zone: "ctjmf3j.de" always_nxdomain
 local-zone: "cualbr.com" always_nxdomain
 local-zone: "cubeegg.de" always_nxdomain
@@ -7641,6 +7645,7 @@ local-zone: "cp.filext.com" always_nxdomain
 local-zone: "cpmleader.com" always_nxdomain
 local-zone: "crakmedia.com" always_nxdomain
 local-zone: "crentgate.com" always_nxdomain
+local-zone: "criteolabs.fr" always_nxdomain
 local-zone: "cronin-co.com" always_nxdomain
 local-zone: "crwdcntrl.net" always_nxdomain
 local-zone: "crypto-ad.com" always_nxdomain
@@ -12226,6 +12231,7 @@ local-zone: "creativespace.es" always_nxdomain
 local-zone: "creativespot.com" always_nxdomain
 local-zone: "creativesumo.com" always_nxdomain
 local-zone: "crisppremium.com" always_nxdomain
+local-zone: "criteodirect.com" always_nxdomain
 local-zone: "crossbrowser.com" always_nxdomain
 local-zone: "crownrecluse.com" always_nxdomain
 local-zone: "cutescale.online" always_nxdomain
