@@ -484,6 +484,7 @@ local-zone: "mb01.com" always_nxdomain
 local-zone: "mb38.com" always_nxdomain
 local-zone: "mbww.com" always_nxdomain
 local-zone: "mbxg.com" always_nxdomain
+local-zone: "mdev.com" always_nxdomain
 local-zone: "mfive.ru" always_nxdomain
 local-zone: "mgid.com" always_nxdomain
 local-zone: "mirs.com" always_nxdomain
@@ -2627,6 +2628,7 @@ local-zone: "koltiq.com" always_nxdomain
 local-zone: "k.pluto.tv" always_nxdomain
 local-zone: "kqemdo.com" always_nxdomain
 local-zone: "kremiv.com" always_nxdomain
+local-zone: "kriteo.com" always_nxdomain
 local-zone: "krizim.com" always_nxdomain
 local-zone: "kseries.in" always_nxdomain
 local-zone: "kutoku.com" always_nxdomain
@@ -3469,6 +3471,7 @@ local-zone: "zdivai.com" always_nxdomain
 local-zone: "zeddit.com" always_nxdomain
 local-zone: "zen.agency" always_nxdomain
 local-zone: "zenaps.com" always_nxdomain
+local-zone: "zenrom.com" always_nxdomain
 local-zone: "zeppos.com" always_nxdomain
 local-zone: "zerads.com" always_nxdomain
 local-zone: "zesdmn.com" always_nxdomain
@@ -4627,6 +4630,7 @@ local-zone: "mtusrede.de" always_nxdomain
 local-zone: "mxpopad.com" always_nxdomain
 local-zone: "myadvert.in" always_nxdomain
 local-zone: "myarkay.com" always_nxdomain
+local-zone: "mycriteo.fr" always_nxdomain
 local-zone: "myfidevs.io" always_nxdomain
 local-zone: "mygpuid.com" always_nxdomain
 local-zone: "nabs.org.uk" always_nxdomain

@@ -484,6 +484,7 @@ local-zone: "mb01.com" always_refuse
 local-zone: "mb38.com" always_refuse
 local-zone: "mbww.com" always_refuse
 local-zone: "mbxg.com" always_refuse
+local-zone: "mdev.com" always_refuse
 local-zone: "mfive.ru" always_refuse
 local-zone: "mgid.com" always_refuse
 local-zone: "mirs.com" always_refuse
@@ -2627,6 +2628,7 @@ local-zone: "koltiq.com" always_refuse
 local-zone: "k.pluto.tv" always_refuse
 local-zone: "kqemdo.com" always_refuse
 local-zone: "kremiv.com" always_refuse
+local-zone: "kriteo.com" always_refuse
 local-zone: "krizim.com" always_refuse
 local-zone: "kseries.in" always_refuse
 local-zone: "kutoku.com" always_refuse
@@ -3469,6 +3471,7 @@ local-zone: "zdivai.com" always_refuse
 local-zone: "zeddit.com" always_refuse
 local-zone: "zen.agency" always_refuse
 local-zone: "zenaps.com" always_refuse
+local-zone: "zenrom.com" always_refuse
 local-zone: "zeppos.com" always_refuse
 local-zone: "zerads.com" always_refuse
 local-zone: "zesdmn.com" always_refuse
@@ -4627,6 +4630,7 @@ local-zone: "mtusrede.de" always_refuse
 local-zone: "mxpopad.com" always_refuse
 local-zone: "myadvert.in" always_refuse
 local-zone: "myarkay.com" always_refuse
+local-zone: "mycriteo.fr" always_refuse
 local-zone: "myfidevs.io" always_refuse
 local-zone: "mygpuid.com" always_refuse
 local-zone: "nabs.org.uk" always_refuse
