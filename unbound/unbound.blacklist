@@ -55,6 +55,7 @@ local-zone: "ads.se" always_refuse
 local-zone: "ads.sk" always_refuse
 local-zone: "adv.hu" always_refuse
 local-zone: "adx.io" always_refuse
+local-zone: "adx.pt" always_refuse
 local-zone: "afp.ai" always_refuse
 local-zone: "anr.in" always_refuse
 local-zone: "arx.gr" always_refuse
@@ -955,6 +956,7 @@ local-zone: "bpath.com" always_refuse
 local-zone: "bpyxg.com" always_refuse
 local-zone: "braze.com" always_refuse
 local-zone: "btrll.com" always_refuse
+local-zone: "buzaq.com" always_refuse
 local-zone: "buzzad.io" always_refuse
 local-zone: "bxjch.top" always_refuse
 local-zone: "byeej.com" always_refuse
@@ -3343,6 +3345,7 @@ local-zone: "vxibqk.com" always_refuse
 local-zone: "vydxfb.com" always_refuse
 local-zone: "vyocqq.com" always_refuse
 local-zone: "vzrufh.com" always_refuse
+local-zone: "wadoox.com" always_refuse
 local-zone: "wahoha.com" always_refuse
 local-zone: "walvzy.com" always_refuse
 local-zone: "wamfbc.com" always_refuse
@@ -13205,6 +13208,7 @@ local-zone: "betterbanners.com" always_refuse
 local-zone: "birdingtop500.com" always_refuse
 local-zone: "bisko.gjirafa.net" always_refuse
 local-zone: "bitadexchange.com" always_refuse
+local-zone: "bittrafficads.com" always_refuse
 local-zone: "blogantivirus.com" always_refuse
 local-zone: "bluemoonmedia.net" always_refuse
 local-zone: "bms2.medicover.pl" always_refuse
@@ -13405,6 +13409,7 @@ local-zone: "guarantee-cdn.com" always_refuse
 local-zone: "gulpduereason.com" always_refuse
 local-zone: "hackervisions.org" always_refuse
 local-zone: "hash-hash-tag.com" always_refuse
+local-zone: "hdcadserver.co.uk" always_refuse
 local-zone: "hds-api.hearst.io" always_refuse
 local-zone: "hearstmediact.com" always_refuse
 local-zone: "henkinschultz.com" always_refuse
