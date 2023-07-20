@@ -2184,6 +2184,7 @@ zone "cadreon.jp" { type master; notify no; file "null.zone.file"; };
 zone "cadreon.mx" { type master; notify no; file "null.zone.file"; };
 zone "cafjwf.com" { type master; notify no; file "null.zone.file"; };
 zone "camads.net" { type master; notify no; file "null.zone.file"; };
+zone "capndr.com" { type master; notify no; file "null.zone.file"; };
 zone "carambo.la" { type master; notify no; file "null.zone.file"; };
 zone "caramel.am" { type master; notify no; file "null.zone.file"; };
 zone "catcut.net" { type master; notify no; file "null.zone.file"; };
