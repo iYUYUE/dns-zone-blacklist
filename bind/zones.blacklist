@@ -3397,6 +3397,7 @@ zone "wwytjk.com" { type master; notify no; file "null.zone.file"; };
 zone "wysmmq.com" { type master; notify no; file "null.zone.file"; };
 zone "wyybnj.com" { type master; notify no; file "null.zone.file"; };
 zone "xaagwv.com" { type master; notify no; file "null.zone.file"; };
+zone "xad.js.org" { type master; notify no; file "null.zone.file"; };
 zone "xapads.com" { type master; notify no; file "null.zone.file"; };
 zone "xaprio.com" { type master; notify no; file "null.zone.file"; };
 zone "xaxoro.com" { type master; notify no; file "null.zone.file"; };
