@@ -18086,6 +18086,7 @@ zone "api.vanilla.futurecdn.net" { type master; notify no; file "null.zone.file"
 zone "arthacreativeservices.com" { type master; notify no; file "null.zone.file"; };
 zone "avenueroadadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "badges.beyondsecurity.com" { type master; notify no; file "null.zone.file"; };
+zone "badges.softwareadvice.com" { type master; notify no; file "null.zone.file"; };
 zone "banner.bestagenttoday.com" { type master; notify no; file "null.zone.file"; };
 zone "banner.correiodoms.com.br" { type master; notify no; file "null.zone.file"; };
 zone "banner.radiocacula.com.br" { type master; notify no; file "null.zone.file"; };

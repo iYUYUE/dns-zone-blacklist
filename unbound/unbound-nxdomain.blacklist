@@ -18086,6 +18086,7 @@ local-zone: "api.vanilla.futurecdn.net" always_nxdomain
 local-zone: "arthacreativeservices.com" always_nxdomain
 local-zone: "avenueroadadvertising.com" always_nxdomain
 local-zone: "badges.beyondsecurity.com" always_nxdomain
+local-zone: "badges.softwareadvice.com" always_nxdomain
 local-zone: "banner.bestagenttoday.com" always_nxdomain
 local-zone: "banner.correiodoms.com.br" always_nxdomain
 local-zone: "banner.radiocacula.com.br" always_nxdomain
