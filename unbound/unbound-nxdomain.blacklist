@@ -5686,6 +5686,7 @@ local-zone: "audio-cc.com" always_nxdomain
 local-zone: "auditude.com" always_nxdomain
 local-zone: "auksizox.com" always_nxdomain
 local-zone: "autoads.asia" always_nxdomain
+local-zone: "autoroll.biz" always_nxdomain
 local-zone: "avani.com.np" always_nxdomain
 local-zone: "avazudsp.net" always_nxdomain
 local-zone: "avazuinc.com" always_nxdomain
@@ -15912,6 +15913,7 @@ local-zone: "banner.stadtplan.net" always_nxdomain
 local-zone: "baselinecreative.com" always_nxdomain
 local-zone: "bats.video.yahoo.com" always_nxdomain
 local-zone: "beebyclarkmeyler.com" always_nxdomain
+local-zone: "behavioral-banner.fr" always_nxdomain
 local-zone: "betalonflamechan.com" always_nxdomain
 local-zone: "bitterstrawberry.com" always_nxdomain
 local-zone: "blastbeatnetwork.com" always_nxdomain
@@ -16309,6 +16311,7 @@ local-zone: "ads.affichez-vous.net" always_nxdomain
 local-zone: "ads.alexander-walz.de" always_nxdomain
 local-zone: "ads.angels-ad-pbb.com" always_nxdomain
 local-zone: "ads.anytimerecipe.com" always_nxdomain
+local-zone: "ads-api.smartnews.com" always_nxdomain
 local-zone: "ads.apotheke-adhoc.de" always_nxdomain
 local-zone: "ads.asciicomputer.com" always_nxdomain
 local-zone: "ads.autobidmaster.com" always_nxdomain
@@ -16553,6 +16556,8 @@ local-zone: "b.bestcontenttool.top" always_nxdomain
 local-zone: "bcbgadiagaeidjjheh.ru" always_nxdomain
 local-zone: "beadjgffefichjciei.ru" always_nxdomain
 local-zone: "bebaaigebidcjjbcci.ru" always_nxdomain
+local-zone: "behaviouralbanner.com" always_nxdomain
+local-zone: "behavioural-banner.fr" always_nxdomain
 local-zone: "beneficial-gather.pro" always_nxdomain
 local-zone: "bidbarrel.cbsnews.com" always_nxdomain
 local-zone: "bigtalkmediahouse.com" always_nxdomain
@@ -18485,6 +18490,7 @@ local-zone: "voodoointernetmarketing.com" always_nxdomain
 local-zone: "webappstreamingnetwork.info" always_nxdomain
 local-zone: "werbung.dohrmann-projekt.de" always_nxdomain
 local-zone: "widgets.thereviewsplace.com" always_nxdomain
+local-zone: "xml-eu-v4.explorefast-1.com" always_nxdomain
 local-zone: "zfa.ledrugstoreparisien.com" always_nxdomain
 local-zone: "590233ee4fbb3.cdn.sohucs.com" always_nxdomain
 local-zone: "ad-council.brightspotcdn.com" always_nxdomain

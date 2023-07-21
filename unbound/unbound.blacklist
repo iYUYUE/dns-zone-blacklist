@@ -5686,6 +5686,7 @@ local-zone: "audio-cc.com" always_refuse
 local-zone: "auditude.com" always_refuse
 local-zone: "auksizox.com" always_refuse
 local-zone: "autoads.asia" always_refuse
+local-zone: "autoroll.biz" always_refuse
 local-zone: "avani.com.np" always_refuse
 local-zone: "avazudsp.net" always_refuse
 local-zone: "avazuinc.com" always_refuse
@@ -15912,6 +15913,7 @@ local-zone: "banner.stadtplan.net" always_refuse
 local-zone: "baselinecreative.com" always_refuse
 local-zone: "bats.video.yahoo.com" always_refuse
 local-zone: "beebyclarkmeyler.com" always_refuse
+local-zone: "behavioral-banner.fr" always_refuse
 local-zone: "betalonflamechan.com" always_refuse
 local-zone: "bitterstrawberry.com" always_refuse
 local-zone: "blastbeatnetwork.com" always_refuse
@@ -16309,6 +16311,7 @@ local-zone: "ads.affichez-vous.net" always_refuse
 local-zone: "ads.alexander-walz.de" always_refuse
 local-zone: "ads.angels-ad-pbb.com" always_refuse
 local-zone: "ads.anytimerecipe.com" always_refuse
+local-zone: "ads-api.smartnews.com" always_refuse
 local-zone: "ads.apotheke-adhoc.de" always_refuse
 local-zone: "ads.asciicomputer.com" always_refuse
 local-zone: "ads.autobidmaster.com" always_refuse
@@ -16553,6 +16556,8 @@ local-zone: "b.bestcontenttool.top" always_refuse
 local-zone: "bcbgadiagaeidjjheh.ru" always_refuse
 local-zone: "beadjgffefichjciei.ru" always_refuse
 local-zone: "bebaaigebidcjjbcci.ru" always_refuse
+local-zone: "behaviouralbanner.com" always_refuse
+local-zone: "behavioural-banner.fr" always_refuse
 local-zone: "beneficial-gather.pro" always_refuse
 local-zone: "bidbarrel.cbsnews.com" always_refuse
 local-zone: "bigtalkmediahouse.com" always_refuse
@@ -18485,6 +18490,7 @@ local-zone: "voodoointernetmarketing.com" always_refuse
 local-zone: "webappstreamingnetwork.info" always_refuse
 local-zone: "werbung.dohrmann-projekt.de" always_refuse
 local-zone: "widgets.thereviewsplace.com" always_refuse
+local-zone: "xml-eu-v4.explorefast-1.com" always_refuse
 local-zone: "zfa.ledrugstoreparisien.com" always_refuse
 local-zone: "590233ee4fbb3.cdn.sohucs.com" always_refuse
 local-zone: "ad-council.brightspotcdn.com" always_refuse
