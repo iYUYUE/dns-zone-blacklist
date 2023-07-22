@@ -13273,6 +13273,7 @@ local-zone: "cookiechoices.org" always_refuse
 local-zone: "cookieconsent.com" always_refuse
 local-zone: "cookiereports.com" always_refuse
 local-zone: "cookie-script.com" always_refuse
+local-zone: "cookietractor.com" always_refuse
 local-zone: "cordlessmedia.com" always_refuse
 local-zone: "countduhmoney.com" always_refuse
 local-zone: "cpa-adnetwork.com" always_refuse

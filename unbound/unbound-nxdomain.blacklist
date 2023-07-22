@@ -13273,6 +13273,7 @@ local-zone: "cookiechoices.org" always_nxdomain
 local-zone: "cookieconsent.com" always_nxdomain
 local-zone: "cookiereports.com" always_nxdomain
 local-zone: "cookie-script.com" always_nxdomain
+local-zone: "cookietractor.com" always_nxdomain
 local-zone: "cordlessmedia.com" always_nxdomain
 local-zone: "countduhmoney.com" always_nxdomain
 local-zone: "cpa-adnetwork.com" always_nxdomain

@@ -13273,6 +13273,7 @@ zone "cookiechoices.org" { type master; notify no; file "null.zone.file"; };
 zone "cookieconsent.com" { type master; notify no; file "null.zone.file"; };
 zone "cookiereports.com" { type master; notify no; file "null.zone.file"; };
 zone "cookie-script.com" { type master; notify no; file "null.zone.file"; };
+zone "cookietractor.com" { type master; notify no; file "null.zone.file"; };
 zone "cordlessmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "countduhmoney.com" { type master; notify no; file "null.zone.file"; };
 zone "cpa-adnetwork.com" { type master; notify no; file "null.zone.file"; };
