@@ -15915,6 +15915,7 @@ zone "baselinecreative.com" { type master; notify no; file "null.zone.file"; };
 zone "bats.video.yahoo.com" { type master; notify no; file "null.zone.file"; };
 zone "beebyclarkmeyler.com" { type master; notify no; file "null.zone.file"; };
 zone "behavioral-banner.fr" { type master; notify no; file "null.zone.file"; };
+zone "behaviouralbanner.fr" { type master; notify no; file "null.zone.file"; };
 zone "betalonflamechan.com" { type master; notify no; file "null.zone.file"; };
 zone "bitterstrawberry.com" { type master; notify no; file "null.zone.file"; };
 zone "blastbeatnetwork.com" { type master; notify no; file "null.zone.file"; };
