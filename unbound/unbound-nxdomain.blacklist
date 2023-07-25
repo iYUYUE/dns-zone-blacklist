@@ -130,6 +130,7 @@ local-zone: "ad4m.at" always_nxdomain
 local-zone: "ad7.biz" always_nxdomain
 local-zone: "ad7.com" always_nxdomain
 local-zone: "adap.tv" always_nxdomain
+local-zone: "ad.guru" always_nxdomain
 local-zone: "adip.ly" always_nxdomain
 local-zone: "adk2.co" always_nxdomain
 local-zone: "adnz.co" always_nxdomain

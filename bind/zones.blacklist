@@ -130,6 +130,7 @@ zone "ad4m.at" { type master; notify no; file "null.zone.file"; };
 zone "ad7.biz" { type master; notify no; file "null.zone.file"; };
 zone "ad7.com" { type master; notify no; file "null.zone.file"; };
 zone "adap.tv" { type master; notify no; file "null.zone.file"; };
+zone "ad.guru" { type master; notify no; file "null.zone.file"; };
 zone "adip.ly" { type master; notify no; file "null.zone.file"; };
 zone "adk2.co" { type master; notify no; file "null.zone.file"; };
 zone "adnz.co" { type master; notify no; file "null.zone.file"; };
