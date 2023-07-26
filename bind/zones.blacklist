@@ -12308,6 +12308,7 @@ zone "fresh8gaming.com" { type master; notify no; file "null.zone.file"; };
 zone "friendlyduck.com" { type master; notify no; file "null.zone.file"; };
 zone "fuseplatform.net" { type master; notify no; file "null.zone.file"; };
 zone "gamesrevenue.com" { type master; notify no; file "null.zone.file"; };
+zone "gatorcreative.co" { type master; notify no; file "null.zone.file"; };
 zone "gayadnetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "gdc-graphics.com" { type master; notify no; file "null.zone.file"; };
 zone "gemini.yahoo.com" { type master; notify no; file "null.zone.file"; };
