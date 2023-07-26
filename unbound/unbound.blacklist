@@ -4695,6 +4695,7 @@ local-zone: "oneway.mobi" always_refuse
 local-zone: "onlycpm.com" always_refuse
 local-zone: "onwasrv.com" always_refuse
 local-zone: "oohexpo.com" always_refuse
+local-zone: "oopatet.com" always_refuse
 local-zone: "openap.tech" always_refuse
 local-zone: "opencmp.net" always_refuse
 local-zone: "opgolan.com" always_refuse

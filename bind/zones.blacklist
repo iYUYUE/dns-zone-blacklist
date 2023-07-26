@@ -4695,6 +4695,7 @@ zone "oneway.mobi" { type master; notify no; file "null.zone.file"; };
 zone "onlycpm.com" { type master; notify no; file "null.zone.file"; };
 zone "onwasrv.com" { type master; notify no; file "null.zone.file"; };
 zone "oohexpo.com" { type master; notify no; file "null.zone.file"; };
+zone "oopatet.com" { type master; notify no; file "null.zone.file"; };
 zone "openap.tech" { type master; notify no; file "null.zone.file"; };
 zone "opencmp.net" { type master; notify no; file "null.zone.file"; };
 zone "opgolan.com" { type master; notify no; file "null.zone.file"; };
