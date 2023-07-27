@@ -3684,6 +3684,7 @@ local-zone: "addroid.com" always_refuse
 local-zone: "addthis.com" always_refuse
 local-zone: "ad.eamc.org" always_refuse
 local-zone: "adeclik.com" always_refuse
+local-zone: "adeptli.net" always_refuse
 local-zone: "adether.com" always_refuse
 local-zone: "adeum.click" always_refuse
 local-zone: "adfactor.nl" always_refuse
@@ -12448,6 +12449,7 @@ local-zone: "monsterleads.pro" always_refuse
 local-zone: "mortaragency.com" always_refuse
 local-zone: "motd.acmeaom.com" always_refuse
 local-zone: "moviedollars.com" always_refuse
+local-zone: "mpartner.digital" always_refuse
 local-zone: "mwcm.nytimes.com" always_refuse
 local-zone: "mydomainbest.com" always_refuse
 local-zone: "myhappy-news.com" always_refuse
@@ -15569,7 +15571,6 @@ local-zone: "welcometosister.com" always_refuse
 local-zone: "werbemanager.w24.at" always_refuse
 local-zone: "westadvertising.com" always_refuse
 local-zone: "w.hypercomments.com" always_refuse
-local-zone: "widget.carstory.com" always_refuse
 local-zone: "widget.custhelp.com" always_refuse
 local-zone: "widget.donatepay.ru" always_refuse
 local-zone: "widget.dovetale.com" always_refuse

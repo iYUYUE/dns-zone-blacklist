@@ -3684,6 +3684,7 @@ local-zone: "addroid.com" always_nxdomain
 local-zone: "addthis.com" always_nxdomain
 local-zone: "ad.eamc.org" always_nxdomain
 local-zone: "adeclik.com" always_nxdomain
+local-zone: "adeptli.net" always_nxdomain
 local-zone: "adether.com" always_nxdomain
 local-zone: "adeum.click" always_nxdomain
 local-zone: "adfactor.nl" always_nxdomain
@@ -12448,6 +12449,7 @@ local-zone: "monsterleads.pro" always_nxdomain
 local-zone: "mortaragency.com" always_nxdomain
 local-zone: "motd.acmeaom.com" always_nxdomain
 local-zone: "moviedollars.com" always_nxdomain
+local-zone: "mpartner.digital" always_nxdomain
 local-zone: "mwcm.nytimes.com" always_nxdomain
 local-zone: "mydomainbest.com" always_nxdomain
 local-zone: "myhappy-news.com" always_nxdomain
@@ -15569,7 +15571,6 @@ local-zone: "welcometosister.com" always_nxdomain
 local-zone: "werbemanager.w24.at" always_nxdomain
 local-zone: "westadvertising.com" always_nxdomain
 local-zone: "w.hypercomments.com" always_nxdomain
-local-zone: "widget.carstory.com" always_nxdomain
 local-zone: "widget.custhelp.com" always_nxdomain
 local-zone: "widget.donatepay.ru" always_nxdomain
 local-zone: "widget.dovetale.com" always_nxdomain
