@@ -5896,6 +5896,7 @@ local-zone: "districtm.io" always_refuse
 local-zone: "ditwrite.com" always_refuse
 local-zone: "dixeladv.com" always_refuse
 local-zone: "djaxtech.com" always_refuse
+local-zone: "dmsgroup.com" always_refuse
 local-zone: "doersadv.com" always_refuse
 local-zone: "dogwrite.com" always_refuse
 local-zone: "dooeeads.com" always_refuse
@@ -12602,6 +12603,7 @@ local-zone: "saturndynamic.pt" always_refuse
 local-zone: "scarletmedia.net" always_refuse
 local-zone: "s.cdn.turner.com" always_refuse
 local-zone: "screenpopper.com" always_refuse
+local-zone: "screenshot.click" always_refuse
 local-zone: "seal.entrust.net" always_refuse
 local-zone: "seal.godaddy.com" always_refuse
 local-zone: "seal-mbc.bbb.org" always_refuse
@@ -13291,6 +13293,7 @@ local-zone: "creativehighs.com" always_refuse
 local-zone: "creativekeedas.in" always_refuse
 local-zone: "creativesocean.in" always_refuse
 local-zone: "creatormail.co.uk" always_refuse
+local-zone: "criteo-direct.com" always_refuse
 local-zone: "cryptocoinsad.com" always_refuse
 local-zone: "customerlobby.com" always_refuse
 local-zone: "data-cash.network" always_refuse
@@ -18711,6 +18714,7 @@ local-zone: "d1nruqhae353qc.cloudfront.net" always_refuse
 local-zone: "d1otoma47x30pg.cloudfront.net" always_refuse
 local-zone: "d1pr3sk5xr0dce.cloudfront.net" always_refuse
 local-zone: "d1tprjo2w7krrh.cloudfront.net" always_refuse
+local-zone: "d1um8515vdn9kb.cloudfront.net" always_refuse
 local-zone: "d1upt0rqzff34l.cloudfront.net" always_refuse
 local-zone: "d1ux8fwkxchynl.cloudfront.net" always_refuse
 local-zone: "d1voyiv1eh2vzr.cloudfront.net" always_refuse

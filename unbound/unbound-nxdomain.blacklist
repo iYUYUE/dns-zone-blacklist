@@ -5896,6 +5896,7 @@ local-zone: "districtm.io" always_nxdomain
 local-zone: "ditwrite.com" always_nxdomain
 local-zone: "dixeladv.com" always_nxdomain
 local-zone: "djaxtech.com" always_nxdomain
+local-zone: "dmsgroup.com" always_nxdomain
 local-zone: "doersadv.com" always_nxdomain
 local-zone: "dogwrite.com" always_nxdomain
 local-zone: "dooeeads.com" always_nxdomain
@@ -12602,6 +12603,7 @@ local-zone: "saturndynamic.pt" always_nxdomain
 local-zone: "scarletmedia.net" always_nxdomain
 local-zone: "s.cdn.turner.com" always_nxdomain
 local-zone: "screenpopper.com" always_nxdomain
+local-zone: "screenshot.click" always_nxdomain
 local-zone: "seal.entrust.net" always_nxdomain
 local-zone: "seal.godaddy.com" always_nxdomain
 local-zone: "seal-mbc.bbb.org" always_nxdomain
@@ -13291,6 +13293,7 @@ local-zone: "creativehighs.com" always_nxdomain
 local-zone: "creativekeedas.in" always_nxdomain
 local-zone: "creativesocean.in" always_nxdomain
 local-zone: "creatormail.co.uk" always_nxdomain
+local-zone: "criteo-direct.com" always_nxdomain
 local-zone: "cryptocoinsad.com" always_nxdomain
 local-zone: "customerlobby.com" always_nxdomain
 local-zone: "data-cash.network" always_nxdomain
@@ -18711,6 +18714,7 @@ local-zone: "d1nruqhae353qc.cloudfront.net" always_nxdomain
 local-zone: "d1otoma47x30pg.cloudfront.net" always_nxdomain
 local-zone: "d1pr3sk5xr0dce.cloudfront.net" always_nxdomain
 local-zone: "d1tprjo2w7krrh.cloudfront.net" always_nxdomain
+local-zone: "d1um8515vdn9kb.cloudfront.net" always_nxdomain
 local-zone: "d1upt0rqzff34l.cloudfront.net" always_nxdomain
 local-zone: "d1ux8fwkxchynl.cloudfront.net" always_nxdomain
 local-zone: "d1voyiv1eh2vzr.cloudfront.net" always_nxdomain
