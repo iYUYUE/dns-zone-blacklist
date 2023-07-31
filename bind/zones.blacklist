@@ -9153,6 +9153,7 @@ zone "ad.ziuadecj.ro" { type master; notify no; file "null.zone.file"; };
 zone "ad.zurnal24.si" { type master; notify no; file "null.zone.file"; };
 zone "a.emwstore.xyz" { type master; notify no; file "null.zone.file"; };
 zone "ae.nflximg.net" { type master; notify no; file "null.zone.file"; };
+zone "afadagency.com" { type master; notify no; file "null.zone.file"; };
 zone "affiliates.one" { type master; notify no; file "null.zone.file"; };
 zone "affilorama.com" { type master; notify no; file "null.zone.file"; };
 zone "affinilead.com" { type master; notify no; file "null.zone.file"; };
