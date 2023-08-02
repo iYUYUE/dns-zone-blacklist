@@ -6254,6 +6254,8 @@ local-zone: "mekanism.com" always_refuse
 local-zone: "melacexi.xyz" always_refuse
 local-zone: "merexaga.xyz" always_refuse
 local-zone: "mestreqa.com" always_refuse
+local-zone: "metro-mga.de" always_refuse
+local-zone: "metro-mga.pl" always_refuse
 local-zone: "mewyrytu.com" always_refuse
 local-zone: "mfadsrvr.com" always_refuse
 local-zone: "mhdgroup.com" always_refuse
@@ -8059,6 +8061,7 @@ local-zone: "messagepk.com" always_refuse
 local-zone: "metadsp.co.uk" always_refuse
 local-zone: "metricant.com" always_refuse
 local-zone: "metric.com.sg" always_refuse
+local-zone: "metro-mga.com" always_refuse
 local-zone: "metusogri.com" always_refuse
 local-zone: "miamribud.com" always_refuse
 local-zone: "microad.co.jp" always_refuse
@@ -16691,6 +16694,7 @@ local-zone: "marvelwebsolution.com" always_refuse
 local-zone: "meaningfulcontent.org" always_refuse
 local-zone: "media01.cgchannel.com" always_refuse
 local-zone: "meter-svc.nytimes.com" always_refuse
+local-zone: "metro-advertising.com" always_refuse
 local-zone: "metsearchengineok.com" always_refuse
 local-zone: "midvalleyadagency.com" always_refuse
 local-zone: "mob.palmparadise.info" always_refuse
