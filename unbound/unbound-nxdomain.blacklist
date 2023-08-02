@@ -10372,6 +10372,7 @@ local-zone: "adclick.clog.jp" always_nxdomain
 local-zone: "adclicksure.com" always_nxdomain
 local-zone: "adclickthru.net" always_nxdomain
 local-zone: "ad.clicplus.com" always_nxdomain
+local-zone: "ad.cloudpnr.com" always_nxdomain
 local-zone: "adcomdirect.com" always_nxdomain
 local-zone: "adcom-egypt.com" always_nxdomain
 local-zone: "ad.comix.com.cn" always_nxdomain
@@ -12987,6 +12988,7 @@ local-zone: "adserver.sejt.com" always_nxdomain
 local-zone: "adserver.stand.bg" always_nxdomain
 local-zone: "adserver.tfwm.com" always_nxdomain
 local-zone: "adserver.vinum.eu" always_nxdomain
+local-zone: "adserver.wakr.net" always_nxdomain
 local-zone: "adserver.xjsqs.cn" always_nxdomain
 local-zone: "adserve.solutions" always_nxdomain
 local-zone: "adserv.gretor.net" always_nxdomain
@@ -15715,6 +15717,7 @@ local-zone: "adserver.bernews.com" always_nxdomain
 local-zone: "adserver.beshared.bg" always_nxdomain
 local-zone: "adserver.bizedge.com" always_nxdomain
 local-zone: "adserver.capslock.mx" always_nxdomain
+local-zone: "adserver.carznow.com" always_nxdomain
 local-zone: "adserver.ceamedia.es" always_nxdomain
 local-zone: "adserver.civishir.hu" always_nxdomain
 local-zone: "adserver.cnczone.com" always_nxdomain
@@ -15754,6 +15757,7 @@ local-zone: "adserver.sakewiz.com" always_nxdomain
 local-zone: "adserver.sapiens.cat" always_nxdomain
 local-zone: "adserver.szabgab.com" always_nxdomain
 local-zone: "adserver.tapcliq.com" always_nxdomain
+local-zone: "adserver.toosaka.top" always_nxdomain
 local-zone: "adserver.valuemd.com" always_nxdomain
 local-zone: "adserver.veganok.com" always_nxdomain
 local-zone: "adserver.veldsoft.eu" always_nxdomain
@@ -17413,6 +17417,7 @@ local-zone: "adserver.cheapbooks.com" always_nxdomain
 local-zone: "adserver.contents.media" always_nxdomain
 local-zone: "adserver.delete-web.com" always_nxdomain
 local-zone: "adserver.divanin.com.ua" always_nxdomain
+local-zone: "adserver.egospodarka.pl" always_nxdomain
 local-zone: "adserver.elhorizonte.mx" always_nxdomain
 local-zone: "adserver.eskyserver.com" always_nxdomain
 local-zone: "adserver.forum-media.eu" always_nxdomain
@@ -17790,6 +17795,7 @@ local-zone: "adserver.bbibiofuels.com" always_nxdomain
 local-zone: "adserver.biz-media.co.uk" always_nxdomain
 local-zone: "adserver.cenyrolnicze.pl" always_nxdomain
 local-zone: "adserver.cotodepezca.com" always_nxdomain
+local-zone: "adserver.cpnet-works.com" always_nxdomain
 local-zone: "adserver.daandelange.com" always_nxdomain
 local-zone: "adserver.designagency.gr" always_nxdomain
 local-zone: "adserver.designitnow.ltd" always_nxdomain
@@ -17820,6 +17826,7 @@ local-zone: "adserver.nicheparade.com" always_nxdomain
 local-zone: "adserver.patrasevents.gr" always_nxdomain
 local-zone: "adserver.plastikcity.com" always_nxdomain
 local-zone: "adserver.proyectanda.com" always_nxdomain
+local-zone: "adserver.randomobject.cn" always_nxdomain
 local-zone: "adserver.rw.ataninka.com" always_nxdomain
 local-zone: "adserver.shopnsave.world" always_nxdomain
 local-zone: "adserver.sofodynamix.com" always_nxdomain
@@ -17994,6 +18001,7 @@ local-zone: "thesocialbrandagency.com" always_nxdomain
 local-zone: "tiramisu-advertising.com" always_nxdomain
 local-zone: "tools.przyslijprzepis.pl" always_nxdomain
 local-zone: "trendmd.s3.amazonaws.com" always_nxdomain
+local-zone: "trustbadge.shopclimb.com" always_nxdomain
 local-zone: "videoads-cloud.rovio.com" always_nxdomain
 local-zone: "video-ak.cdn.spotify.com" always_nxdomain
 local-zone: "webpushnotifications.com" always_nxdomain
@@ -18035,6 +18043,7 @@ local-zone: "ads.emprendedoresnews.com" always_nxdomain
 local-zone: "adserver.116marketing.com" always_nxdomain
 local-zone: "adserver14.asisonline.org" always_nxdomain
 local-zone: "adserver2016.hempelbs.org" always_nxdomain
+local-zone: "adserver.activeemails.com" always_nxdomain
 local-zone: "adserver.apps.am-media.fr" always_nxdomain
 local-zone: "adserverbeta.bigpress.net" always_nxdomain
 local-zone: "adserver.calvertcrier.org" always_nxdomain
@@ -18052,6 +18061,7 @@ local-zone: "adserver.fairplaymedia.it" always_nxdomain
 local-zone: "adserver.grupafarmacja.pl" always_nxdomain
 local-zone: "adserver.hollandcasino.nl" always_nxdomain
 local-zone: "adserver.kundenfenster.de" always_nxdomain
+local-zone: "adserver.laprovinciacr.it" always_nxdomain
 local-zone: "adserver.lotzadollars.com" always_nxdomain
 local-zone: "adserver.marriagetrac.com" always_nxdomain
 local-zone: "adserver.nannysecours.com" always_nxdomain
@@ -18244,6 +18254,7 @@ local-zone: "adserver.clustermonkey.net" always_nxdomain
 local-zone: "adserver.crane-hardware.de" always_nxdomain
 local-zone: "adserver.dainikshiksha.com" always_nxdomain
 local-zone: "adserver.fittipaldiweb.com" always_nxdomain
+local-zone: "adserver.huimaiyouxuan.com" always_nxdomain
 local-zone: "adserver.illusionstudio.es" always_nxdomain
 local-zone: "adserver.industryarena.com" always_nxdomain
 local-zone: "adserver.k8s.getakite.surf" always_nxdomain
@@ -18391,6 +18402,7 @@ local-zone: "ads.environmentalleader.com" always_nxdomain
 local-zone: "adserv1.mannixmarketing.com" always_nxdomain
 local-zone: "adserver21.paperlesspto.com" always_nxdomain
 local-zone: "adserver.4x4community.co.za" always_nxdomain
+local-zone: "adserver.arbolinvertido.com" always_nxdomain
 local-zone: "adserver.autodiagnostik.org" always_nxdomain
 local-zone: "adserver.bajopalabra.com.mx" always_nxdomain
 local-zone: "adserver.bigmpublishing.com" always_nxdomain
@@ -18536,6 +18548,7 @@ local-zone: "adserver.internetguru.com.au" always_nxdomain
 local-zone: "adserver.ivorytowergroup.net" always_nxdomain
 local-zone: "adserver.lebensmittelwelt.de" always_nxdomain
 local-zone: "adserver.mediablackhills.com" always_nxdomain
+local-zone: "adserver.mountainweather.com" always_nxdomain
 local-zone: "adserver.nteractivegroup.com" always_nxdomain
 local-zone: "adserver.oceanenergynews.com" always_nxdomain
 local-zone: "adserver.onlycoolthings.site" always_nxdomain
