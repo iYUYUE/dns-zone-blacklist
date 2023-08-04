@@ -3139,6 +3139,7 @@ zone "smrtgs.com" { type master; notify no; file "null.zone.file"; };
 zone "snoads.com" { type master; notify no; file "null.zone.file"; };
 zone "soadvr.com" { type master; notify no; file "null.zone.file"; };
 zone "social.com" { type master; notify no; file "null.zone.file"; };
+zone "socioh.com" { type master; notify no; file "null.zone.file"; };
 zone "sodash.com" { type master; notify no; file "null.zone.file"; };
 zone "sogo-ad.jp" { type master; notify no; file "null.zone.file"; };
 zone "sojern.com" { type master; notify no; file "null.zone.file"; };
