@@ -15610,6 +15610,7 @@ zone "xml.xonedart-2.live" { type master; notify no; file "null.zone.file"; };
 zone "yesmarketing.com.au" { type master; notify no; file "null.zone.file"; };
 zone "yotta.scrolller.com" { type master; notify no; file "null.zone.file"; };
 zone "zdstatic.askmen.com" { type master; notify no; file "null.zone.file"; };
+zone "30secondfeedback.com" { type master; notify no; file "null.zone.file"; };
 zone "360marketingteam.com" { type master; notify no; file "null.zone.file"; };
 zone "360yieldplatform.com" { type master; notify no; file "null.zone.file"; };
 zone "4ds.be-bop-alula.com" { type master; notify no; file "null.zone.file"; };

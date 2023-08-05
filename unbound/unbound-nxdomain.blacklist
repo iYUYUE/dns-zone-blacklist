@@ -15610,6 +15610,7 @@ local-zone: "xml.xonedart-2.live" always_nxdomain
 local-zone: "yesmarketing.com.au" always_nxdomain
 local-zone: "yotta.scrolller.com" always_nxdomain
 local-zone: "zdstatic.askmen.com" always_nxdomain
+local-zone: "30secondfeedback.com" always_nxdomain
 local-zone: "360marketingteam.com" always_nxdomain
 local-zone: "360yieldplatform.com" always_nxdomain
 local-zone: "4ds.be-bop-alula.com" always_nxdomain

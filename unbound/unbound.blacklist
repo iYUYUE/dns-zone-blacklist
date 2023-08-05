@@ -15610,6 +15610,7 @@ local-zone: "xml.xonedart-2.live" always_refuse
 local-zone: "yesmarketing.com.au" always_refuse
 local-zone: "yotta.scrolller.com" always_refuse
 local-zone: "zdstatic.askmen.com" always_refuse
+local-zone: "30secondfeedback.com" always_refuse
 local-zone: "360marketingteam.com" always_refuse
 local-zone: "360yieldplatform.com" always_refuse
 local-zone: "4ds.be-bop-alula.com" always_refuse
