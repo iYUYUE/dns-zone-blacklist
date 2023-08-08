@@ -5485,6 +5485,7 @@ local-zone: "adsmogo.mobi" always_nxdomain
 local-zone: "adsmovil.com" always_nxdomain
 local-zone: "ads.mreza.mk" always_nxdomain
 local-zone: "adsmurai.com" always_nxdomain
+local-zone: "ads.nahc.org" always_nxdomain
 local-zone: "ads.nmma.org" always_nxdomain
 local-zone: "ads.nubea.me" always_nxdomain
 local-zone: "adsofads.com" always_nxdomain
@@ -10748,6 +10749,7 @@ local-zone: "adxinspidsp.com" always_nxdomain
 local-zone: "ad.xinyinhao.cn" always_nxdomain
 local-zone: "adx.panet.co.il" always_nxdomain
 local-zone: "adx.relaksit.ru" always_nxdomain
+local-zone: "ad.yunliyun.com" always_nxdomain
 local-zone: "adzjunction.com" always_nxdomain
 local-zone: "adz.wattpad.com" always_nxdomain
 local-zone: "adzworld.online" always_nxdomain
@@ -15814,6 +15816,7 @@ local-zone: "ads.musicpages.co.uk" always_nxdomain
 local-zone: "ads.mydutchtimes.com" always_nxdomain
 local-zone: "ads.mygolfshafts.com" always_nxdomain
 local-zone: "ads.nocorspolicy.com" always_nxdomain
+local-zone: "ads.nordreportern.se" always_nxdomain
 local-zone: "ads.omegalive.com.cy" always_nxdomain
 local-zone: "ads-oss.howansem.com" always_nxdomain
 local-zone: "ads.people-group.net" always_nxdomain
@@ -17028,6 +17031,7 @@ local-zone: "ads.karas4training.com" always_nxdomain
 local-zone: "ads.katerinamagasin.se" always_nxdomain
 local-zone: "ads.krotoszynonline.pl" always_nxdomain
 local-zone: "ads.lerepertoire.co.il" always_nxdomain
+local-zone: "ads.matrixgroupinc.net" always_nxdomain
 local-zone: "ads.mygrocerydeals.com" always_nxdomain
 local-zone: "ads.nationalhotrod.com" always_nxdomain
 local-zone: "ads.nghenhinvietnam.vn" always_nxdomain
