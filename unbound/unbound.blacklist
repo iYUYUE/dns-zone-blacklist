@@ -17266,6 +17266,7 @@ local-zone: "openx.businessimmo.com" always_refuse
 local-zone: "openx.notebookspec.com" always_refuse
 local-zone: "openx.quickieboost.com" always_refuse
 local-zone: "palmer-advertising.com" always_refuse
+local-zone: "parking3.parklogic.com" always_refuse
 local-zone: "partnerad.l.google.com" always_refuse
 local-zone: "peacockadvertising.com" always_refuse
 local-zone: "pegasus.unifygroup.com" always_refuse

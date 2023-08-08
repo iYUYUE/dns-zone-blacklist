@@ -17266,6 +17266,7 @@ zone "openx.businessimmo.com" { type master; notify no; file "null.zone.file"; }
 zone "openx.notebookspec.com" { type master; notify no; file "null.zone.file"; };
 zone "openx.quickieboost.com" { type master; notify no; file "null.zone.file"; };
 zone "palmer-advertising.com" { type master; notify no; file "null.zone.file"; };
+zone "parking3.parklogic.com" { type master; notify no; file "null.zone.file"; };
 zone "partnerad.l.google.com" { type master; notify no; file "null.zone.file"; };
 zone "peacockadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "pegasus.unifygroup.com" { type master; notify no; file "null.zone.file"; };
