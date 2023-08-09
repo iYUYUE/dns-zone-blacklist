@@ -18380,6 +18380,7 @@ zone "sciencebehindecommerce.com" { type master; notify no; file "null.zone.file
 zone "servedby.hlipublishing.com" { type master; notify no; file "null.zone.file"; };
 zone "services-tags-prod.fubo.tv" { type master; notify no; file "null.zone.file"; };
 zone "shop-pop.com.herokudns.com" { type master; notify no; file "null.zone.file"; };
+zone "si.education.investing.com" { type master; notify no; file "null.zone.file"; };
 zone "silverback-advertising.com" { type master; notify no; file "null.zone.file"; };
 zone "snap.feed.snapjudgment.org" { type master; notify no; file "null.zone.file"; };
 zone "softwaredefineddelivery.us" { type master; notify no; file "null.zone.file"; };
