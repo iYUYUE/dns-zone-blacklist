@@ -13193,7 +13193,6 @@ local-zone: "anchortraffic.com" always_refuse
 local-zone: "antab.fanproj.net" always_refuse
 local-zone: "api.reviews.co.uk" always_refuse
 local-zone: "api.techwalla.com" always_refuse
-local-zone: "appboy-images.com" always_refuse
 local-zone: "aqua-adserver.com" always_refuse
 local-zone: "artisticcount.pro" always_refuse
 local-zone: "arwartortleer.com" always_refuse

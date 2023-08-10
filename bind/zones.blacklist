@@ -13193,7 +13193,6 @@ zone "anchortraffic.com" { type master; notify no; file "null.zone.file"; };
 zone "antab.fanproj.net" { type master; notify no; file "null.zone.file"; };
 zone "api.reviews.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "api.techwalla.com" { type master; notify no; file "null.zone.file"; };
-zone "appboy-images.com" { type master; notify no; file "null.zone.file"; };
 zone "aqua-adserver.com" { type master; notify no; file "null.zone.file"; };
 zone "artisticcount.pro" { type master; notify no; file "null.zone.file"; };
 zone "arwartortleer.com" { type master; notify no; file "null.zone.file"; };
