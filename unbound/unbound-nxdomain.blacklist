@@ -2430,6 +2430,7 @@ local-zone: "geistm.com" always_nxdomain
 local-zone: "geoads.com" always_nxdomain
 local-zone: "getadv.net" always_nxdomain
 local-zone: "getback.ch" always_nxdomain
+local-zone: "getmoda.io" always_nxdomain
 local-zone: "getsale.io" always_nxdomain
 local-zone: "getshop.tv" always_nxdomain
 local-zone: "gg72a1.com" always_nxdomain
@@ -19183,6 +19184,7 @@ local-zone: "uxt-special-teaser-prod.shpp.ext.zooplus.io" always_nxdomain
 local-zone: "ads-b-1941474562.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "android-tv.device-support.ad-tech.nbcuni.com" always_nxdomain
 local-zone: "ecommplugins-trustboxsettings.trustpilot.com" always_nxdomain
+local-zone: "moda-cdp-message-prd-7jirubb0.uc.gateway.dev" always_nxdomain
 local-zone: "uxt-magazine-teaser-prod.shpp.ext.zooplus.io" always_nxdomain
 local-zone: "2betadservice.s3-ap-northeast-1.amazonaws.com" always_nxdomain
 local-zone: "2betadservice.s3.ap-northeast-1.amazonaws.com" always_nxdomain
