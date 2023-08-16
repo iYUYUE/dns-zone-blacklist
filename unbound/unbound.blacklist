@@ -7427,6 +7427,7 @@ local-zone: "aldesigns.com" always_refuse
 local-zone: "a.letsjerk.to" always_refuse
 local-zone: "a.letsjerk.tv" always_refuse
 local-zone: "alfasense.com" always_refuse
+local-zone: "alfasense.net" always_refuse
 local-zone: "altbeacon.org" always_refuse
 local-zone: "aml-group.com" always_refuse
 local-zone: "a.montafp.top" always_refuse

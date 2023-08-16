@@ -7427,6 +7427,7 @@ local-zone: "aldesigns.com" always_nxdomain
 local-zone: "a.letsjerk.to" always_nxdomain
 local-zone: "a.letsjerk.tv" always_nxdomain
 local-zone: "alfasense.com" always_nxdomain
+local-zone: "alfasense.net" always_nxdomain
 local-zone: "altbeacon.org" always_nxdomain
 local-zone: "aml-group.com" always_nxdomain
 local-zone: "a.montafp.top" always_nxdomain

@@ -7427,6 +7427,7 @@ zone "aldesigns.com" { type master; notify no; file "null.zone.file"; };
 zone "a.letsjerk.to" { type master; notify no; file "null.zone.file"; };
 zone "a.letsjerk.tv" { type master; notify no; file "null.zone.file"; };
 zone "alfasense.com" { type master; notify no; file "null.zone.file"; };
+zone "alfasense.net" { type master; notify no; file "null.zone.file"; };
 zone "altbeacon.org" { type master; notify no; file "null.zone.file"; };
 zone "aml-group.com" { type master; notify no; file "null.zone.file"; };
 zone "a.montafp.top" { type master; notify no; file "null.zone.file"; };
