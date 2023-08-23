@@ -18631,6 +18631,8 @@ local-zone: "dzvdhp56mgzue.cloudfront.net" always_refuse
 local-zone: "engagement-prod.stroeerws.de" always_refuse
 local-zone: "grapefruit6705068.brizy.site" always_refuse
 local-zone: "heraldtribunemediasource.com" always_refuse
+local-zone: "http-a-darwin.hulustream.com" always_refuse
+local-zone: "http-f-darwin.hulustream.com" always_refuse
 local-zone: "images.highspeedbackbone.net" always_refuse
 local-zone: "mahb-adserver.primuscore.com" always_refuse
 local-zone: "marketplace.southernminn.com" always_refuse
@@ -19191,6 +19193,7 @@ local-zone: "ecommplugins-trustboxsettings.trustpilot.com" always_refuse
 local-zone: "moda-cdp-message-prd-7jirubb0.uc.gateway.dev" always_refuse
 local-zone: "mtools-article-search.dickssportinggoods.com" always_refuse
 local-zone: "uxt-magazine-teaser-prod.shpp.ext.zooplus.io" always_refuse
+local-zone: "video-previews-cdn.production-public.tubi.io" always_refuse
 local-zone: "2betadservice.s3-ap-northeast-1.amazonaws.com" always_refuse
 local-zone: "2betadservice.s3.ap-northeast-1.amazonaws.com" always_refuse
 local-zone: "adv-pubmanager-dev.s3-sa-east-1.amazonaws.com" always_refuse

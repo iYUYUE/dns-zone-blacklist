@@ -18631,6 +18631,8 @@ local-zone: "dzvdhp56mgzue.cloudfront.net" always_nxdomain
 local-zone: "engagement-prod.stroeerws.de" always_nxdomain
 local-zone: "grapefruit6705068.brizy.site" always_nxdomain
 local-zone: "heraldtribunemediasource.com" always_nxdomain
+local-zone: "http-a-darwin.hulustream.com" always_nxdomain
+local-zone: "http-f-darwin.hulustream.com" always_nxdomain
 local-zone: "images.highspeedbackbone.net" always_nxdomain
 local-zone: "mahb-adserver.primuscore.com" always_nxdomain
 local-zone: "marketplace.southernminn.com" always_nxdomain
@@ -19191,6 +19193,7 @@ local-zone: "ecommplugins-trustboxsettings.trustpilot.com" always_nxdomain
 local-zone: "moda-cdp-message-prd-7jirubb0.uc.gateway.dev" always_nxdomain
 local-zone: "mtools-article-search.dickssportinggoods.com" always_nxdomain
 local-zone: "uxt-magazine-teaser-prod.shpp.ext.zooplus.io" always_nxdomain
+local-zone: "video-previews-cdn.production-public.tubi.io" always_nxdomain
 local-zone: "2betadservice.s3-ap-northeast-1.amazonaws.com" always_nxdomain
 local-zone: "2betadservice.s3.ap-northeast-1.amazonaws.com" always_nxdomain
 local-zone: "adv-pubmanager-dev.s3-sa-east-1.amazonaws.com" always_nxdomain

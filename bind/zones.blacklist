@@ -18631,6 +18631,8 @@ zone "dzvdhp56mgzue.cloudfront.net" { type master; notify no; file "null.zone.fi
 zone "engagement-prod.stroeerws.de" { type master; notify no; file "null.zone.file"; };
 zone "grapefruit6705068.brizy.site" { type master; notify no; file "null.zone.file"; };
 zone "heraldtribunemediasource.com" { type master; notify no; file "null.zone.file"; };
+zone "http-a-darwin.hulustream.com" { type master; notify no; file "null.zone.file"; };
+zone "http-f-darwin.hulustream.com" { type master; notify no; file "null.zone.file"; };
 zone "images.highspeedbackbone.net" { type master; notify no; file "null.zone.file"; };
 zone "mahb-adserver.primuscore.com" { type master; notify no; file "null.zone.file"; };
 zone "marketplace.southernminn.com" { type master; notify no; file "null.zone.file"; };
@@ -19191,6 +19193,7 @@ zone "ecommplugins-trustboxsettings.trustpilot.com" { type master; notify no; fi
 zone "moda-cdp-message-prd-7jirubb0.uc.gateway.dev" { type master; notify no; file "null.zone.file"; };
 zone "mtools-article-search.dickssportinggoods.com" { type master; notify no; file "null.zone.file"; };
 zone "uxt-magazine-teaser-prod.shpp.ext.zooplus.io" { type master; notify no; file "null.zone.file"; };
+zone "video-previews-cdn.production-public.tubi.io" { type master; notify no; file "null.zone.file"; };
 zone "2betadservice.s3-ap-northeast-1.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "2betadservice.s3.ap-northeast-1.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "adv-pubmanager-dev.s3-sa-east-1.amazonaws.com" { type master; notify no; file "null.zone.file"; };
