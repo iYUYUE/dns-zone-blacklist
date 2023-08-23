@@ -1373,6 +1373,7 @@ local-zone: "qksrv.biz" always_refuse
 local-zone: "qksrv.com" always_refuse
 local-zone: "qksrv.net" always_refuse
 local-zone: "qmuli.com" always_refuse
+local-zone: "qortex.ai" always_refuse
 local-zone: "questa.uz" always_refuse
 local-zone: "qwapi.com" always_refuse
 local-zone: "qwocz.com" always_refuse
@@ -6802,6 +6803,7 @@ local-zone: "vuftouks.com" always_refuse
 local-zone: "vugecymi.xyz" always_refuse
 local-zone: "vurobyde.xyz" always_refuse
 local-zone: "wabekice.com" always_refuse
+local-zone: "wa.gtimg.com" always_refuse
 local-zone: "waryboot.pro" always_refuse
 local-zone: "waytogrow.eu" always_refuse
 local-zone: "waytogrow.pl" always_refuse
@@ -15936,6 +15938,7 @@ local-zone: "banners.aecdaily.com" always_refuse
 local-zone: "banners.askmecca.com" always_refuse
 local-zone: "banners.coalspot.com" always_refuse
 local-zone: "banners.h1studio.com" always_refuse
+local-zone: "banners.sdvcloud.net" always_refuse
 local-zone: "banner.stadtplan.net" always_refuse
 local-zone: "baselinecreative.com" always_refuse
 local-zone: "bats.video.yahoo.com" always_refuse

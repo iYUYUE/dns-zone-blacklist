@@ -1373,6 +1373,7 @@ local-zone: "qksrv.biz" always_nxdomain
 local-zone: "qksrv.com" always_nxdomain
 local-zone: "qksrv.net" always_nxdomain
 local-zone: "qmuli.com" always_nxdomain
+local-zone: "qortex.ai" always_nxdomain
 local-zone: "questa.uz" always_nxdomain
 local-zone: "qwapi.com" always_nxdomain
 local-zone: "qwocz.com" always_nxdomain
@@ -6802,6 +6803,7 @@ local-zone: "vuftouks.com" always_nxdomain
 local-zone: "vugecymi.xyz" always_nxdomain
 local-zone: "vurobyde.xyz" always_nxdomain
 local-zone: "wabekice.com" always_nxdomain
+local-zone: "wa.gtimg.com" always_nxdomain
 local-zone: "waryboot.pro" always_nxdomain
 local-zone: "waytogrow.eu" always_nxdomain
 local-zone: "waytogrow.pl" always_nxdomain
@@ -15936,6 +15938,7 @@ local-zone: "banners.aecdaily.com" always_nxdomain
 local-zone: "banners.askmecca.com" always_nxdomain
 local-zone: "banners.coalspot.com" always_nxdomain
 local-zone: "banners.h1studio.com" always_nxdomain
+local-zone: "banners.sdvcloud.net" always_nxdomain
 local-zone: "banner.stadtplan.net" always_nxdomain
 local-zone: "baselinecreative.com" always_nxdomain
 local-zone: "bats.video.yahoo.com" always_nxdomain
