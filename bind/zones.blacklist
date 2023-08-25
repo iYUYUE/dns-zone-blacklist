@@ -2982,6 +2982,7 @@ zone "pushdom.co" { type master; notify no; file "null.zone.file"; };
 zone "pushdy.com" { type master; notify no; file "null.zone.file"; };
 zone "pushex.net" { type master; notify no; file "null.zone.file"; };
 zone "push.house" { type master; notify no; file "null.zone.file"; };
+zone "pushio.com" { type master; notify no; file "null.zone.file"; };
 zone "puship.com" { type master; notify no; file "null.zone.file"; };
 zone "pushly.com" { type master; notify no; file "null.zone.file"; };
 zone "pushpro.io" { type master; notify no; file "null.zone.file"; };

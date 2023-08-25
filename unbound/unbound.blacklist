@@ -2982,6 +2982,7 @@ local-zone: "pushdom.co" always_refuse
 local-zone: "pushdy.com" always_refuse
 local-zone: "pushex.net" always_refuse
 local-zone: "push.house" always_refuse
+local-zone: "pushio.com" always_refuse
 local-zone: "puship.com" always_refuse
 local-zone: "pushly.com" always_refuse
 local-zone: "pushpro.io" always_refuse

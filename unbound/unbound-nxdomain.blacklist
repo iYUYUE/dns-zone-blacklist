@@ -2982,6 +2982,7 @@ local-zone: "pushdom.co" always_nxdomain
 local-zone: "pushdy.com" always_nxdomain
 local-zone: "pushex.net" always_nxdomain
 local-zone: "push.house" always_nxdomain
+local-zone: "pushio.com" always_nxdomain
 local-zone: "puship.com" always_nxdomain
 local-zone: "pushly.com" always_nxdomain
 local-zone: "pushpro.io" always_nxdomain
