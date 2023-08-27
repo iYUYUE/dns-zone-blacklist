@@ -6371,7 +6371,6 @@ local-zone: "okoclick.com" always_refuse
 local-zone: "olatumal.com" always_refuse
 local-zone: "old.trck.one" always_refuse
 local-zone: "olimptds.com" always_refuse
-local-zone: "omappapi.com" always_refuse
 local-zone: "omasatra.com" always_refuse
 local-zone: "omclacrv.com" always_refuse
 local-zone: "omeletla.com" always_refuse
@@ -18614,6 +18613,7 @@ local-zone: "d7x5nblzs94me.cloudfront.net" always_refuse
 local-zone: "d8yw4927nnimu.cloudfront.net" always_refuse
 local-zone: "dashboard.evolveplatform.net" always_refuse
 local-zone: "dbejeqv8nk3po.cloudfront.net" always_refuse
+local-zone: "dc5di0w7yyxz9.cloudfront.net" always_refuse
 local-zone: "dd7ihopnvjirc.cloudfront.net" always_refuse
 local-zone: "ddv0gzb5jxx6j.cloudfront.net" always_refuse
 local-zone: "deazs14tb5j7o.cloudfront.net" always_refuse

@@ -6371,7 +6371,6 @@ zone "okoclick.com" { type master; notify no; file "null.zone.file"; };
 zone "olatumal.com" { type master; notify no; file "null.zone.file"; };
 zone "old.trck.one" { type master; notify no; file "null.zone.file"; };
 zone "olimptds.com" { type master; notify no; file "null.zone.file"; };
-zone "omappapi.com" { type master; notify no; file "null.zone.file"; };
 zone "omasatra.com" { type master; notify no; file "null.zone.file"; };
 zone "omclacrv.com" { type master; notify no; file "null.zone.file"; };
 zone "omeletla.com" { type master; notify no; file "null.zone.file"; };
@@ -18614,6 +18613,7 @@ zone "d7x5nblzs94me.cloudfront.net" { type master; notify no; file "null.zone.fi
 zone "d8yw4927nnimu.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "dashboard.evolveplatform.net" { type master; notify no; file "null.zone.file"; };
 zone "dbejeqv8nk3po.cloudfront.net" { type master; notify no; file "null.zone.file"; };
+zone "dc5di0w7yyxz9.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "dd7ihopnvjirc.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "ddv0gzb5jxx6j.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "deazs14tb5j7o.cloudfront.net" { type master; notify no; file "null.zone.file"; };
