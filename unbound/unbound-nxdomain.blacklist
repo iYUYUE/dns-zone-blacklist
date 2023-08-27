@@ -18141,6 +18141,7 @@ local-zone: "banner.radiocacula.com.br" always_nxdomain
 local-zone: "banners.globalsustain.org" always_nxdomain
 local-zone: "banners.neigh-bours.co.za" always_nxdomain
 local-zone: "banners.webmasterplan.com" always_nxdomain
+local-zone: "bidder-imp.novabeyond.com" always_nxdomain
 local-zone: "bns.findlaypublishing.com" always_nxdomain
 local-zone: "bravefrontiersurfapps.com" always_nxdomain
 local-zone: "burlingtonadvertising.com" always_nxdomain

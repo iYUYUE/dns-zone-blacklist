@@ -18141,6 +18141,7 @@ zone "banner.radiocacula.com.br" { type master; notify no; file "null.zone.file"
 zone "banners.globalsustain.org" { type master; notify no; file "null.zone.file"; };
 zone "banners.neigh-bours.co.za" { type master; notify no; file "null.zone.file"; };
 zone "banners.webmasterplan.com" { type master; notify no; file "null.zone.file"; };
+zone "bidder-imp.novabeyond.com" { type master; notify no; file "null.zone.file"; };
 zone "bns.findlaypublishing.com" { type master; notify no; file "null.zone.file"; };
 zone "bravefrontiersurfapps.com" { type master; notify no; file "null.zone.file"; };
 zone "burlingtonadvertising.com" { type master; notify no; file "null.zone.file"; };
