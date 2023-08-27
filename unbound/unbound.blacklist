@@ -15431,6 +15431,7 @@ local-zone: "popundertraffic.com" always_refuse
 local-zone: "popupdomination.com" always_refuse
 local-zone: "popup.netmarble.com" always_refuse
 local-zone: "popups.landingi.com" always_refuse
+local-zone: "potatoadsupport.com" always_refuse
 local-zone: "primate-digital.com" always_refuse
 local-zone: "privacy.gomovix.com" always_refuse
 local-zone: "privateadserver.com" always_refuse
@@ -19230,6 +19231,7 @@ local-zone: "adserver-vpc-alb-2-1898430250.us-east-1.elb.amazonaws.com" always_r
 local-zone: "adserver-alb-v4-229879124.ap-southeast-1.elb.amazonaws.com" always_refuse
 local-zone: "aston-mpr-web-push-notification.s3-us-west-2.amazonaws.com" always_refuse
 local-zone: "adserver-prod-alb-2056226458.eu-central-1.elb.amazonaws.com" always_refuse
+local-zone: "cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com" always_refuse
 local-zone: "millionsviewapi-elb-1796117858.ap-south-1.elb.amazonaws.com" always_refuse
 local-zone: "5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com" always_refuse
 local-zone: "60b7ac265566e3da4341f765b2d2a73200f8f1db57b0b005a1afdc00.com" always_refuse
