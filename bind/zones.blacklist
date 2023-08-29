@@ -6654,6 +6654,7 @@ zone "sportsad.net" { type master; notify no; file "null.zone.file"; };
 zone "sportsads.nl" { type master; notify no; file "null.zone.file"; };
 zone "spotmedia.in" { type master; notify no; file "null.zone.file"; };
 zone "spotxcdn.com" { type master; notify no; file "null.zone.file"; };
+zone "sqilowic.com" { type master; notify no; file "null.zone.file"; };
 zone "srtb.msn.com" { type master; notify no; file "null.zone.file"; };
 zone "srv.7rtb.com" { type master; notify no; file "null.zone.file"; };
 zone "staplegun.us" { type master; notify no; file "null.zone.file"; };

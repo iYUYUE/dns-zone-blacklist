@@ -6654,6 +6654,7 @@ local-zone: "sportsad.net" always_nxdomain
 local-zone: "sportsads.nl" always_nxdomain
 local-zone: "spotmedia.in" always_nxdomain
 local-zone: "spotxcdn.com" always_nxdomain
+local-zone: "sqilowic.com" always_nxdomain
 local-zone: "srtb.msn.com" always_nxdomain
 local-zone: "srv.7rtb.com" always_nxdomain
 local-zone: "staplegun.us" always_nxdomain

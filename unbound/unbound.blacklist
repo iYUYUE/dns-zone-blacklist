@@ -6654,6 +6654,7 @@ local-zone: "sportsad.net" always_refuse
 local-zone: "sportsads.nl" always_refuse
 local-zone: "spotmedia.in" always_refuse
 local-zone: "spotxcdn.com" always_refuse
+local-zone: "sqilowic.com" always_refuse
 local-zone: "srtb.msn.com" always_refuse
 local-zone: "srv.7rtb.com" always_refuse
 local-zone: "staplegun.us" always_refuse
