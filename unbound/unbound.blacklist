@@ -11390,6 +11390,7 @@ local-zone: "pushenhance.com" always_refuse
 local-zone: "pushnetwork.com" always_refuse
 local-zone: "pushologies.com" always_refuse
 local-zone: "push.rollout.io" always_refuse
+local-zone: "push.tagged.com" always_refuse
 local-zone: "q.azcentral.com" always_refuse
 local-zone: "qel-qel-fie.com" always_refuse
 local-zone: "quadrantppc.com" always_refuse

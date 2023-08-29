@@ -11390,6 +11390,7 @@ local-zone: "pushenhance.com" always_nxdomain
 local-zone: "pushnetwork.com" always_nxdomain
 local-zone: "pushologies.com" always_nxdomain
 local-zone: "push.rollout.io" always_nxdomain
+local-zone: "push.tagged.com" always_nxdomain
 local-zone: "q.azcentral.com" always_nxdomain
 local-zone: "qel-qel-fie.com" always_nxdomain
 local-zone: "quadrantppc.com" always_nxdomain
