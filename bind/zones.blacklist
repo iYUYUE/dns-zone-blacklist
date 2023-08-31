@@ -19024,6 +19024,7 @@ zone "sp-consent.schwarzwaelder-bote.de" { type master; notify no; file "null.zo
 zone "sz88.oss-cn-shenzhen.aliyuncs.com" { type master; notify no; file "null.zone.file"; };
 zone "sz99.oss-cn-hongkong.aliyuncs.com" { type master; notify no; file "null.zone.file"; };
 zone "theporndude.com.1111supjavcom.xyz" { type master; notify no; file "null.zone.file"; };
+zone "xgapromomanager-pa.googleapis.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.globetrotter-partnerprogramm.de" { type master; notify no; file "null.zone.file"; };
 zone "adrizer-ad-images.s3.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.blanchardriverbroadcasting.com" { type master; notify no; file "null.zone.file"; };
