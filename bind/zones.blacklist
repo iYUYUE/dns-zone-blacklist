@@ -18941,6 +18941,7 @@ zone "banner.historiadealagoas.com.br" { type master; notify no; file "null.zone
 zone "bannershotlink.perfectgonzo.com" { type master; notify no; file "null.zone.file"; };
 zone "cmod452.live.streamtheworld.com" { type master; notify no; file "null.zone.file"; };
 zone "contactus.blob.core.windows.net" { type master; notify no; file "null.zone.file"; };
+zone "extras.prairiemountainmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "fare-adserver.resourcestack.com" { type master; notify no; file "null.zone.file"; };
 zone "gdpr-legal-cookie.beeclever.app" { type master; notify no; file "null.zone.file"; };
 zone "mads.backend-us.pinenutsdev.net" { type master; notify no; file "null.zone.file"; };
