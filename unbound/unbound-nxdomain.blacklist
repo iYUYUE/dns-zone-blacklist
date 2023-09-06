@@ -5346,6 +5346,7 @@ local-zone: "admattic.com" always_nxdomain
 local-zone: "ad-maven.com" always_nxdomain
 local-zone: "admaxadv.com" always_nxdomain
 local-zone: "admaxium.com" always_nxdomain
+local-zone: "ad.mdmd.info" always_nxdomain
 local-zone: "adme-net.com" always_nxdomain
 local-zone: "adminder.com" always_nxdomain
 local-zone: "adminima.com" always_nxdomain
@@ -7135,6 +7136,7 @@ local-zone: "adsarefun.com" always_nxdomain
 local-zone: "adsarerad.com" always_nxdomain
 local-zone: "ads.as-lan.eu" always_nxdomain
 local-zone: "ads.bagft.org" always_nxdomain
+local-zone: "adsbar.online" always_nxdomain
 local-zone: "ads.beril.com" always_nxdomain
 local-zone: "ads.bgitv.net" always_nxdomain
 local-zone: "ads.bingos.jp" always_nxdomain
@@ -13917,6 +13919,7 @@ local-zone: "adbutler-tauon.com" always_nxdomain
 local-zone: "ad.datadeliver.net" always_nxdomain
 local-zone: "addb.interpark.com" always_nxdomain
 local-zone: "ad.debtbulldog.com" always_nxdomain
+local-zone: "ad.demowebapps.com" always_nxdomain
 local-zone: "ad.dxtdigital.site" always_nxdomain
 local-zone: "ad.e-disclosure.ru" always_nxdomain
 local-zone: "adexpertsmedia.com" always_nxdomain

@@ -5346,6 +5346,7 @@ local-zone: "admattic.com" always_refuse
 local-zone: "ad-maven.com" always_refuse
 local-zone: "admaxadv.com" always_refuse
 local-zone: "admaxium.com" always_refuse
+local-zone: "ad.mdmd.info" always_refuse
 local-zone: "adme-net.com" always_refuse
 local-zone: "adminder.com" always_refuse
 local-zone: "adminima.com" always_refuse
@@ -7135,6 +7136,7 @@ local-zone: "adsarefun.com" always_refuse
 local-zone: "adsarerad.com" always_refuse
 local-zone: "ads.as-lan.eu" always_refuse
 local-zone: "ads.bagft.org" always_refuse
+local-zone: "adsbar.online" always_refuse
 local-zone: "ads.beril.com" always_refuse
 local-zone: "ads.bgitv.net" always_refuse
 local-zone: "ads.bingos.jp" always_refuse
@@ -13917,6 +13919,7 @@ local-zone: "adbutler-tauon.com" always_refuse
 local-zone: "ad.datadeliver.net" always_refuse
 local-zone: "addb.interpark.com" always_refuse
 local-zone: "ad.debtbulldog.com" always_refuse
+local-zone: "ad.demowebapps.com" always_refuse
 local-zone: "ad.dxtdigital.site" always_refuse
 local-zone: "ad.e-disclosure.ru" always_refuse
 local-zone: "adexpertsmedia.com" always_refuse
