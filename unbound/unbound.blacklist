@@ -1755,6 +1755,7 @@ local-zone: "adio.co.il" always_refuse
 local-zone: "adiply.com" always_refuse
 local-zone: "adisfy.com" always_refuse
 local-zone: "adition.de" always_refuse
+local-zone: "aditude.io" always_refuse
 local-zone: "ad.ivoo.eu" always_refuse
 local-zone: "adizio.com" always_refuse
 local-zone: "ad.kase.kz" always_refuse
@@ -6466,6 +6467,7 @@ local-zone: "potwmora.com" always_refuse
 local-zone: "povapeba.xyz" always_refuse
 local-zone: "pozekate.com" always_refuse
 local-zone: "pr3sence.xyz" always_refuse
+local-zone: "prebid.cloud" always_refuse
 local-zone: "prelinker.lu" always_refuse
 local-zone: "premaads.net" always_refuse
 local-zone: "primo.design" always_refuse

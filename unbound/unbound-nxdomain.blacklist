@@ -1755,6 +1755,7 @@ local-zone: "adio.co.il" always_nxdomain
 local-zone: "adiply.com" always_nxdomain
 local-zone: "adisfy.com" always_nxdomain
 local-zone: "adition.de" always_nxdomain
+local-zone: "aditude.io" always_nxdomain
 local-zone: "ad.ivoo.eu" always_nxdomain
 local-zone: "adizio.com" always_nxdomain
 local-zone: "ad.kase.kz" always_nxdomain
@@ -6466,6 +6467,7 @@ local-zone: "potwmora.com" always_nxdomain
 local-zone: "povapeba.xyz" always_nxdomain
 local-zone: "pozekate.com" always_nxdomain
 local-zone: "pr3sence.xyz" always_nxdomain
+local-zone: "prebid.cloud" always_nxdomain
 local-zone: "prelinker.lu" always_nxdomain
 local-zone: "premaads.net" always_nxdomain
 local-zone: "primo.design" always_nxdomain
