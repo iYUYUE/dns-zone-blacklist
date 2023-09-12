@@ -18629,6 +18629,7 @@ zone "dg1pu8fiy5cr6.cloudfront.net" { type master; notify no; file "null.zone.fi
 zone "dggaenaawxe8z.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "djnf6e5yyirys.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "dlbqnuhvjsfjk.cloudfront.net" { type master; notify no; file "null.zone.file"; };
+zone "dn0qt3r0xannq.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "dnhfi5nn2dt67.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "doi3unldljdx6.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "dpsq2uzakdgqz.cloudfront.net" { type master; notify no; file "null.zone.file"; };
