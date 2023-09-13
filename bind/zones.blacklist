@@ -9915,6 +9915,7 @@ zone "pixelbucks.com" { type master; notify no; file "null.zone.file"; };
 zone "pixelystic.com" { type master; notify no; file "null.zone.file"; };
 zone "placelocal.com" { type master; notify no; file "null.zone.file"; };
 zone "platform360.co" { type master; notify no; file "null.zone.file"; };
+zone "platform-a.com" { type master; notify no; file "null.zone.file"; };
 zone "playbuy.agency" { type master; notify no; file "null.zone.file"; };
 zone "playground.xyz" { type master; notify no; file "null.zone.file"; };
 zone "pleighties.com" { type master; notify no; file "null.zone.file"; };
