@@ -1958,9 +1958,12 @@ local-zone: "ads.web.tr" always_nxdomain
 local-zone: "adswell.ru" always_nxdomain
 local-zone: "adsxyz.com" always_nxdomain
 local-zone: "ad-sys.com" always_nxdomain
+local-zone: "adt357.net" always_nxdomain
+local-zone: "adt361.com" always_nxdomain
 local-zone: "adt511.net" always_nxdomain
 local-zone: "adt532.com" always_nxdomain
 local-zone: "adt567.net" always_nxdomain
+local-zone: "adt598.com" always_nxdomain
 local-zone: "ad-tag.biz" always_nxdomain
 local-zone: "adtaily.pl" always_nxdomain
 local-zone: "adtall.com" always_nxdomain
