@@ -6161,6 +6161,7 @@ zone "kiwiwall.com" { type master; notify no; file "null.zone.file"; };
 zone "klasaime.com" { type master; notify no; file "null.zone.file"; };
 zone "kotucuzu.xyz" { type master; notify no; file "null.zone.file"; };
 zone "kubikads.com" { type master; notify no; file "null.zone.file"; };
+zone "kueezrtb.com" { type master; notify no; file "null.zone.file"; };
 zone "kuludelo.com" { type master; notify no; file "null.zone.file"; };
 zone "kuponacdn.de" { type master; notify no; file "null.zone.file"; };
 zone "kutuheca.com" { type master; notify no; file "null.zone.file"; };
@@ -18142,6 +18143,7 @@ zone "alrayyaninternational.com" { type master; notify no; file "null.zone.file"
 zone "api.mobula.sdk.duapps.com" { type master; notify no; file "null.zone.file"; };
 zone "api.vanilla.futurecdn.net" { type master; notify no; file "null.zone.file"; };
 zone "arthacreativeservices.com" { type master; notify no; file "null.zone.file"; };
+zone "associate.foreclosure.com" { type master; notify no; file "null.zone.file"; };
 zone "avenueroadadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "badges.beyondsecurity.com" { type master; notify no; file "null.zone.file"; };
 zone "badges.softwareadvice.com" { type master; notify no; file "null.zone.file"; };

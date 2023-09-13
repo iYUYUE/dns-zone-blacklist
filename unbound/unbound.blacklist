@@ -6161,6 +6161,7 @@ local-zone: "kiwiwall.com" always_refuse
 local-zone: "klasaime.com" always_refuse
 local-zone: "kotucuzu.xyz" always_refuse
 local-zone: "kubikads.com" always_refuse
+local-zone: "kueezrtb.com" always_refuse
 local-zone: "kuludelo.com" always_refuse
 local-zone: "kuponacdn.de" always_refuse
 local-zone: "kutuheca.com" always_refuse
@@ -18142,6 +18143,7 @@ local-zone: "alrayyaninternational.com" always_refuse
 local-zone: "api.mobula.sdk.duapps.com" always_refuse
 local-zone: "api.vanilla.futurecdn.net" always_refuse
 local-zone: "arthacreativeservices.com" always_refuse
+local-zone: "associate.foreclosure.com" always_refuse
 local-zone: "avenueroadadvertising.com" always_refuse
 local-zone: "badges.beyondsecurity.com" always_refuse
 local-zone: "badges.softwareadvice.com" always_refuse
