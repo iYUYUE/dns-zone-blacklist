@@ -3113,6 +3113,7 @@ local-zone: "sdblno.com" always_refuse
 local-zone: "seckin.net" always_refuse
 local-zone: "secraq.com" always_refuse
 local-zone: "seedapp.jp" always_refuse
+local-zone: "seguno.com" always_refuse
 local-zone: "sendpul.se" always_refuse
 local-zone: "sendsay.ru" always_refuse
 local-zone: "seopack.jp" always_refuse
@@ -8262,6 +8263,7 @@ local-zone: "pornkiads.com" always_refuse
 local-zone: "poruvosty.com" always_refuse
 local-zone: "pos.baidu.com" always_refuse
 local-zone: "postclick.com" always_refuse
+local-zone: "postscript.io" always_refuse
 local-zone: "ppctraffic.co" always_refuse
 local-zone: "prelinker.com" always_refuse
 local-zone: "preludeadv.it" always_refuse
@@ -19270,6 +19272,7 @@ local-zone: "uxt-background-banner-prod.shpp.ext.zooplus.io" always_refuse
 local-zone: "global.www.creative.prod.marketing.elliemae.com" always_refuse
 local-zone: "static-42andpark-com.s3-us-west-2.amazonaws.com" always_refuse
 local-zone: "userlike-cdn-widgets.s3-eu-west-1.amazonaws.com" always_refuse
+local-zone: "audience-network-apps.oss-us-east-1.aliyuncs.com" always_refuse
 local-zone: "kaiyuan-advertising.oss-cn-hongkong.aliyuncs.com" always_refuse
 local-zone: "tupchucun-1317440667.cos.ap-chengdu.myqcloud.com" always_refuse
 local-zone: "disruptive-advertising.s3-us-west-2.amazonaws.com" always_refuse
