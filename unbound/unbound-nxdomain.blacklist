@@ -3501,7 +3501,6 @@ local-zone: "zezvty.com" always_nxdomain
 local-zone: "zfoffp.com" always_nxdomain
 local-zone: "zfsfkp.com" always_nxdomain
 local-zone: "zgxrht.com" always_nxdomain
-local-zone: "zipify.com" always_nxdomain
 local-zone: "zkbkat.com" always_nxdomain
 local-zone: "zmedia.com" always_nxdomain
 local-zone: "zmpush.com" always_nxdomain
@@ -9845,6 +9844,7 @@ local-zone: "networkcpm.com" always_nxdomain
 local-zone: "networknyc.com" always_nxdomain
 local-zone: "new17write.com" always_nxdomain
 local-zone: "newormedia.com" always_nxdomain
+local-zone: "newspassid.com" always_nxdomain
 local-zone: "newstarads.com" always_nxdomain
 local-zone: "nexus-soft.org" always_nxdomain
 local-zone: "nobbymedia.com" always_nxdomain
@@ -18666,6 +18666,7 @@ local-zone: "banner.shoeinternational.net" always_nxdomain
 local-zone: "banners.lubimaknijarnica.com" always_nxdomain
 local-zone: "contile.services.mozilla.com" always_nxdomain
 local-zone: "coolair-official-website.com" always_nxdomain
+local-zone: "d1cgrmilfgg1y.cloudfront.net" always_nxdomain
 local-zone: "d1qv75s97cbp4.cloudfront.net" always_nxdomain
 local-zone: "d2uap9jskdzp2.cloudfront.net" always_nxdomain
 local-zone: "d2wt7w75gg2vz.cloudfront.net" always_nxdomain

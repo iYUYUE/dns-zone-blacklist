@@ -3501,7 +3501,6 @@ local-zone: "zezvty.com" always_refuse
 local-zone: "zfoffp.com" always_refuse
 local-zone: "zfsfkp.com" always_refuse
 local-zone: "zgxrht.com" always_refuse
-local-zone: "zipify.com" always_refuse
 local-zone: "zkbkat.com" always_refuse
 local-zone: "zmedia.com" always_refuse
 local-zone: "zmpush.com" always_refuse
@@ -9845,6 +9844,7 @@ local-zone: "networkcpm.com" always_refuse
 local-zone: "networknyc.com" always_refuse
 local-zone: "new17write.com" always_refuse
 local-zone: "newormedia.com" always_refuse
+local-zone: "newspassid.com" always_refuse
 local-zone: "newstarads.com" always_refuse
 local-zone: "nexus-soft.org" always_refuse
 local-zone: "nobbymedia.com" always_refuse
@@ -18666,6 +18666,7 @@ local-zone: "banner.shoeinternational.net" always_refuse
 local-zone: "banners.lubimaknijarnica.com" always_refuse
 local-zone: "contile.services.mozilla.com" always_refuse
 local-zone: "coolair-official-website.com" always_refuse
+local-zone: "d1cgrmilfgg1y.cloudfront.net" always_refuse
 local-zone: "d1qv75s97cbp4.cloudfront.net" always_refuse
 local-zone: "d2uap9jskdzp2.cloudfront.net" always_refuse
 local-zone: "d2wt7w75gg2vz.cloudfront.net" always_refuse
