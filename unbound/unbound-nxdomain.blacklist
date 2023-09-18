@@ -4767,6 +4767,7 @@ local-zone: "popadup.com" always_nxdomain
 local-zone: "popcash.net" always_nxdomain
 local-zone: "popclck.com" always_nxdomain
 local-zone: "popmode.net" always_nxdomain
+local-zone: "popsads.net" always_nxdomain
 local-zone: "popunder.ru" always_nxdomain
 local-zone: "popupad.net" always_nxdomain
 local-zone: "popuper.com" always_nxdomain
@@ -5011,6 +5012,8 @@ local-zone: "tubepush.eu" always_nxdomain
 local-zone: "turboads.de" always_nxdomain
 local-zone: "twinplan.de" always_nxdomain
 local-zone: "twinred.com" always_nxdomain
+local-zone: "twinrtb.com" always_nxdomain
+local-zone: "twinsrv.com" always_nxdomain
 local-zone: "twpasol.com" always_nxdomain
 local-zone: "uberads.com" always_nxdomain
 local-zone: "ubercpm.com" always_nxdomain
@@ -6758,6 +6761,7 @@ local-zone: "turboadv.com" always_nxdomain
 local-zone: "tuwuzaci.xyz" always_nxdomain
 local-zone: "tv33whpr.com" always_nxdomain
 local-zone: "tvadsync.com" always_nxdomain
+local-zone: "twinfill.com" always_nxdomain
 local-zone: "t.winpbn.com" always_nxdomain
 local-zone: "twinplan.com" always_nxdomain
 local-zone: "twopower.net" always_nxdomain
@@ -10199,6 +10203,7 @@ local-zone: "trustyfine.com" always_nxdomain
 local-zone: "trycourier.com" always_nxdomain
 local-zone: "tsyndicate.com" always_nxdomain
 local-zone: "tuwhuthoru.com" always_nxdomain
+local-zone: "twinrdsyte.com" always_nxdomain
 local-zone: "tyshochime.com" always_nxdomain
 local-zone: "tytheglupy.com" always_nxdomain
 local-zone: "u51.aabdmn.com" always_nxdomain
@@ -10993,6 +10998,7 @@ local-zone: "creativekea.com" always_nxdomain
 local-zone: "crossinstall.io" always_nxdomain
 local-zone: "crossover.co.in" always_nxdomain
 local-zone: "crtracklink.com" always_nxdomain
+local-zone: "cumexskandal.de" always_nxdomain
 local-zone: "customermaps.ca" always_nxdomain
 local-zone: "customermaps.co" always_nxdomain
 local-zone: "customermaps.in" always_nxdomain
@@ -12202,6 +12208,7 @@ local-zone: "banner.mk-web.at" always_nxdomain
 local-zone: "banner.nkf.media" always_nxdomain
 local-zone: "banner.sangor.es" always_nxdomain
 local-zone: "bannersgomlm.com" always_nxdomain
+local-zone: "bannerszerver.hu" always_nxdomain
 local-zone: "banner.ws.pho.to" always_nxdomain
 local-zone: "batecrowle.click" always_nxdomain
 local-zone: "bbstatic.ign.com" always_nxdomain
@@ -19317,6 +19324,7 @@ local-zone: "6ef7b16b25adbb81c8a7674b4ea959178382e4254984ca4b6785e6e4.com" alway
 local-zone: "93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com" always_nxdomain
 local-zone: "a016967c8c783c38e555ae97b38fe0566ad9b398d255e32e833f160d.com" always_nxdomain
 local-zone: "bf53f4f482ba8b1513d570a748dcbee90cde062c8c91eae4304f2b57.com" always_nxdomain
+local-zone: "c0c3eda58e8cefc764eb2be4a530e2a91bb1edb958be470aa94443d8.com" always_nxdomain
 local-zone: "dab342ab8887461995aad393cb294948a5ce800ca279cd1027026d47.com" always_nxdomain
 local-zone: "uxt-supplier-financed-middle-banner-prod.shpp.ext.zooplus.io" always_nxdomain
 local-zone: "adserver-prod-alb-1558369296.ap-southeast-1.elb.amazonaws.com" always_nxdomain

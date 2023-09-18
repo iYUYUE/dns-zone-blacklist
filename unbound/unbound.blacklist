@@ -4767,6 +4767,7 @@ local-zone: "popadup.com" always_refuse
 local-zone: "popcash.net" always_refuse
 local-zone: "popclck.com" always_refuse
 local-zone: "popmode.net" always_refuse
+local-zone: "popsads.net" always_refuse
 local-zone: "popunder.ru" always_refuse
 local-zone: "popupad.net" always_refuse
 local-zone: "popuper.com" always_refuse
@@ -5011,6 +5012,8 @@ local-zone: "tubepush.eu" always_refuse
 local-zone: "turboads.de" always_refuse
 local-zone: "twinplan.de" always_refuse
 local-zone: "twinred.com" always_refuse
+local-zone: "twinrtb.com" always_refuse
+local-zone: "twinsrv.com" always_refuse
 local-zone: "twpasol.com" always_refuse
 local-zone: "uberads.com" always_refuse
 local-zone: "ubercpm.com" always_refuse
@@ -6758,6 +6761,7 @@ local-zone: "turboadv.com" always_refuse
 local-zone: "tuwuzaci.xyz" always_refuse
 local-zone: "tv33whpr.com" always_refuse
 local-zone: "tvadsync.com" always_refuse
+local-zone: "twinfill.com" always_refuse
 local-zone: "t.winpbn.com" always_refuse
 local-zone: "twinplan.com" always_refuse
 local-zone: "twopower.net" always_refuse
@@ -10199,6 +10203,7 @@ local-zone: "trustyfine.com" always_refuse
 local-zone: "trycourier.com" always_refuse
 local-zone: "tsyndicate.com" always_refuse
 local-zone: "tuwhuthoru.com" always_refuse
+local-zone: "twinrdsyte.com" always_refuse
 local-zone: "tyshochime.com" always_refuse
 local-zone: "tytheglupy.com" always_refuse
 local-zone: "u51.aabdmn.com" always_refuse
@@ -10993,6 +10998,7 @@ local-zone: "creativekea.com" always_refuse
 local-zone: "crossinstall.io" always_refuse
 local-zone: "crossover.co.in" always_refuse
 local-zone: "crtracklink.com" always_refuse
+local-zone: "cumexskandal.de" always_refuse
 local-zone: "customermaps.ca" always_refuse
 local-zone: "customermaps.co" always_refuse
 local-zone: "customermaps.in" always_refuse
@@ -12202,6 +12208,7 @@ local-zone: "banner.mk-web.at" always_refuse
 local-zone: "banner.nkf.media" always_refuse
 local-zone: "banner.sangor.es" always_refuse
 local-zone: "bannersgomlm.com" always_refuse
+local-zone: "bannerszerver.hu" always_refuse
 local-zone: "banner.ws.pho.to" always_refuse
 local-zone: "batecrowle.click" always_refuse
 local-zone: "bbstatic.ign.com" always_refuse
@@ -19317,6 +19324,7 @@ local-zone: "6ef7b16b25adbb81c8a7674b4ea959178382e4254984ca4b6785e6e4.com" alway
 local-zone: "93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com" always_refuse
 local-zone: "a016967c8c783c38e555ae97b38fe0566ad9b398d255e32e833f160d.com" always_refuse
 local-zone: "bf53f4f482ba8b1513d570a748dcbee90cde062c8c91eae4304f2b57.com" always_refuse
+local-zone: "c0c3eda58e8cefc764eb2be4a530e2a91bb1edb958be470aa94443d8.com" always_refuse
 local-zone: "dab342ab8887461995aad393cb294948a5ce800ca279cd1027026d47.com" always_refuse
 local-zone: "uxt-supplier-financed-middle-banner-prod.shpp.ext.zooplus.io" always_refuse
 local-zone: "adserver-prod-alb-1558369296.ap-southeast-1.elb.amazonaws.com" always_refuse
