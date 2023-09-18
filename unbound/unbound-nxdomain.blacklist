@@ -792,6 +792,7 @@ local-zone: "adnxs.net" always_nxdomain
 local-zone: "adnxs.org" always_nxdomain
 local-zone: "adopx.com" always_nxdomain
 local-zone: "ad.org.vn" always_nxdomain
+local-zone: "ad-os.com" always_nxdomain
 local-zone: "adoto.net" always_nxdomain
 local-zone: "adpay.com" always_nxdomain
 local-zone: "ad-pay.de" always_nxdomain
@@ -3992,6 +3993,7 @@ local-zone: "adszeta.com" always_nxdomain
 local-zone: "ads.zqrb.cn" always_nxdomain
 local-zone: "adtags.mobi" always_nxdomain
 local-zone: "adtaily.com" always_nxdomain
+local-zone: "adtech.asia" always_nxdomain
 local-zone: "ad-tech.com" always_nxdomain
 local-zone: "adtech.info" always_nxdomain
 local-zone: "adtelier.pl" always_nxdomain
@@ -4415,6 +4417,7 @@ local-zone: "goodmove.tv" always_nxdomain
 local-zone: "goroost.com" always_nxdomain
 local-zone: "gosokal.com" always_nxdomain
 local-zone: "g.pcmag.com" always_nxdomain
+local-zone: "gramads.net" always_nxdomain
 local-zone: "grand.media" always_nxdomain
 local-zone: "graphlo.com" always_nxdomain
 local-zone: "greenadz.de" always_nxdomain
@@ -6688,6 +6691,7 @@ local-zone: "s.xnewsq.net" always_nxdomain
 local-zone: "sydesigns.tv" always_nxdomain
 local-zone: "syjuyyfi.xyz" always_nxdomain
 local-zone: "sylotepu.xyz" always_nxdomain
+local-zone: "szine.com.au" always_nxdomain
 local-zone: "taboola.blog" always_nxdomain
 local-zone: "tacrater.com" always_nxdomain
 local-zone: "tadgraph.net" always_nxdomain
@@ -6828,6 +6832,7 @@ local-zone: "webonads.com" always_nxdomain
 local-zone: "web-ptica.ru" always_nxdomain
 local-zone: "webpushr.com" always_nxdomain
 local-zone: "wecehydy.com" always_nxdomain
+local-zone: "weedshoop.de" always_nxdomain
 local-zone: "wgplayer.com" always_nxdomain
 local-zone: "wgsindia.com" always_nxdomain
 local-zone: "whaleads.com" always_nxdomain
@@ -8985,6 +8990,7 @@ local-zone: "adsemirate.com" always_nxdomain
 local-zone: "ads.emolus.com" always_nxdomain
 local-zone: "adserve.direct" always_nxdomain
 local-zone: "adserve.iws.in" always_nxdomain
+local-zone: "adserver.co.in" always_nxdomain
 local-zone: "adserver.group" always_nxdomain
 local-zone: "adserverhd.com" always_nxdomain
 local-zone: "adserver.today" always_nxdomain
@@ -9323,6 +9329,7 @@ local-zone: "c6.patreon.com" always_nxdomain
 local-zone: "campartner.com" always_nxdomain
 local-zone: "cappumedia.com" always_nxdomain
 local-zone: "cappushino.com" always_nxdomain
+local-zone: "carrickads.com" always_nxdomain
 local-zone: "cashfiesta.net" always_nxdomain
 local-zone: "cas-online.com" always_nxdomain
 local-zone: "cdfr.hot4k.org" always_nxdomain
@@ -10240,6 +10247,7 @@ local-zone: "vietbuzzad.com" always_nxdomain
 local-zone: "viralad.com.pk" always_nxdomain
 local-zone: "viralsparks.io" always_nxdomain
 local-zone: "vision6.com.au" always_nxdomain
+local-zone: "visoon-dai.com" always_nxdomain
 local-zone: "vivaclicks.com" always_nxdomain
 local-zone: "vlexokrako.com" always_nxdomain
 local-zone: "v.postimees.ee" always_nxdomain
@@ -12108,6 +12116,7 @@ local-zone: "adv-adserver.com" always_nxdomain
 local-zone: "advancedtv5g.com" always_nxdomain
 local-zone: "advangelists.com" always_nxdomain
 local-zone: "advertisement.sk" always_nxdomain
+local-zone: "advertising.asia" always_nxdomain
 local-zone: "advertnative.com" always_nxdomain
 local-zone: "advertoscope.com" always_nxdomain
 local-zone: "adverts-data.com" always_nxdomain
@@ -12115,6 +12124,7 @@ local-zone: "advertserve.info" always_nxdomain
 local-zone: "advertstream.com" always_nxdomain
 local-zone: "advertwizard.com" always_nxdomain
 local-zone: "ad.virtuality.ch" always_nxdomain
+local-zone: "advisibility.com" always_nxdomain
 local-zone: "advision-adnw.jp" always_nxdomain
 local-zone: "adv.livedoor.com" always_nxdomain
 local-zone: "adv.neverbuy.com" always_nxdomain
@@ -13778,6 +13788,7 @@ local-zone: "smart.icghome.com" always_nxdomain
 local-zone: "smartnews-ads.com" always_nxdomain
 local-zone: "smellerkutcha.cam" always_nxdomain
 local-zone: "snowdayonline.xyz" always_nxdomain
+local-zone: "socialproofia.com" always_nxdomain
 local-zone: "socialtrend.co.uk" always_nxdomain
 local-zone: "sparkadagency.com" always_nxdomain
 local-zone: "specificmedia.com" always_nxdomain
