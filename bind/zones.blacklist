@@ -10890,6 +10890,7 @@ zone "bikenetzwerk.de" { type master; notify no; file "null.zone.file"; };
 zone "birthmarque.com" { type master; notify no; file "null.zone.file"; };
 zone "bk4mvacawrk.com" { type master; notify no; file "null.zone.file"; };
 zone "blockadsnot.com" { type master; notify no; file "null.zone.file"; };
+zone "blog4crypto.com" { type master; notify no; file "null.zone.file"; };
 zone "blogtelecom.com" { type master; notify no; file "null.zone.file"; };
 zone "bluelithium.com" { type master; notify no; file "null.zone.file"; };
 zone "blueserving.com" { type master; notify no; file "null.zone.file"; };
