@@ -16776,6 +16776,7 @@ zone "marvellousmachine.net" { type master; notify no; file "null.zone.file"; };
 zone "marvelwebsolution.com" { type master; notify no; file "null.zone.file"; };
 zone "meaningfulcontent.org" { type master; notify no; file "null.zone.file"; };
 zone "media01.cgchannel.com" { type master; notify no; file "null.zone.file"; };
+zone "merkelsdienstwagen.de" { type master; notify no; file "null.zone.file"; };
 zone "meter-svc.nytimes.com" { type master; notify no; file "null.zone.file"; };
 zone "metro-advertising.com" { type master; notify no; file "null.zone.file"; };
 zone "metsearchengineok.com" { type master; notify no; file "null.zone.file"; };
