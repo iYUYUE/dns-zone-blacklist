@@ -16047,6 +16047,7 @@ zone "cropsadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "crosspromo.voodoo.io" { type master; notify no; file "null.zone.file"; };
 zone "crta.dailymail.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "crushingconflict.pro" { type master; notify no; file "null.zone.file"; };
+zone "cyberalien.github.io" { type master; notify no; file "null.zone.file"; };
 zone "dailyfresh-media.com" { type master; notify no; file "null.zone.file"; };
 zone "date.ventivmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "digitaladsystems.com" { type master; notify no; file "null.zone.file"; };
