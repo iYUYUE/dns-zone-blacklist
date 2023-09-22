@@ -1647,6 +1647,7 @@ local-zone: "abn-ad.com" always_refuse
 local-zone: "acacdn.com" always_refuse
 local-zone: "acadot.com" always_refuse
 local-zone: "accmgr.com" always_refuse
+local-zone: "acdcdn.com" always_refuse
 local-zone: "a.cdn1.pro" always_refuse
 local-zone: "acento.com" always_refuse
 local-zone: "acertb.com" always_refuse
@@ -4774,6 +4775,7 @@ local-zone: "popuper.com" always_refuse
 local-zone: "postlnk.com" always_refuse
 local-zone: "p.pa4ka.com" always_refuse
 local-zone: "p.pa5ka.com" always_refuse
+local-zone: "p.pa6ka.com" always_refuse
 local-zone: "ppcmate.com" always_refuse
 local-zone: "ppytyk5t.ru" always_refuse
 local-zone: "preciso.net" always_refuse
@@ -17427,6 +17429,7 @@ local-zone: "traffic-masters.online" always_refuse
 local-zone: "tritondigitalmedia.com" always_refuse
 local-zone: "trueowladvertising.com" always_refuse
 local-zone: "uploads.convertflow.co" always_refuse
+local-zone: "us-west1.cdngcloud.com" always_refuse
 local-zone: "v16-ad.byteoversea.com" always_refuse
 local-zone: "valentinexperience.com" always_refuse
 local-zone: "verticalimpression.com" always_refuse

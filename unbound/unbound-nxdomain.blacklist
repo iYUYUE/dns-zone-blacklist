@@ -1647,6 +1647,7 @@ local-zone: "abn-ad.com" always_nxdomain
 local-zone: "acacdn.com" always_nxdomain
 local-zone: "acadot.com" always_nxdomain
 local-zone: "accmgr.com" always_nxdomain
+local-zone: "acdcdn.com" always_nxdomain
 local-zone: "a.cdn1.pro" always_nxdomain
 local-zone: "acento.com" always_nxdomain
 local-zone: "acertb.com" always_nxdomain
@@ -4774,6 +4775,7 @@ local-zone: "popuper.com" always_nxdomain
 local-zone: "postlnk.com" always_nxdomain
 local-zone: "p.pa4ka.com" always_nxdomain
 local-zone: "p.pa5ka.com" always_nxdomain
+local-zone: "p.pa6ka.com" always_nxdomain
 local-zone: "ppcmate.com" always_nxdomain
 local-zone: "ppytyk5t.ru" always_nxdomain
 local-zone: "preciso.net" always_nxdomain
@@ -17427,6 +17429,7 @@ local-zone: "traffic-masters.online" always_nxdomain
 local-zone: "tritondigitalmedia.com" always_nxdomain
 local-zone: "trueowladvertising.com" always_nxdomain
 local-zone: "uploads.convertflow.co" always_nxdomain
+local-zone: "us-west1.cdngcloud.com" always_nxdomain
 local-zone: "v16-ad.byteoversea.com" always_nxdomain
 local-zone: "valentinexperience.com" always_nxdomain
 local-zone: "verticalimpression.com" always_nxdomain
