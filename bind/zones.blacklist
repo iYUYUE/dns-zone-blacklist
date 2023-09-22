@@ -6618,6 +6618,7 @@ zone "send-web.com" { type master; notify no; file "null.zone.file"; };
 zone "serconmp.com" { type master; notify no; file "null.zone.file"; };
 zone "serveads.biz" { type master; notify no; file "null.zone.file"; };
 zone "servebom.com" { type master; notify no; file "null.zone.file"; };
+zone "setupcmp.com" { type master; notify no; file "null.zone.file"; };
 zone "sex-infos.ch" { type master; notify no; file "null.zone.file"; };
 zone "sexswap2.com" { type master; notify no; file "null.zone.file"; };
 zone "s.flocdn.com" { type master; notify no; file "null.zone.file"; };
