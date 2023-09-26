@@ -2391,6 +2391,7 @@ local-zone: "ffbtas.com" always_refuse
 local-zone: "fialet.com" always_refuse
 local-zone: "fiyifo.com" always_refuse
 local-zone: "fjarys.com" always_refuse
+local-zone: "flarby.com" always_refuse
 local-zone: "flexmg.com" always_refuse
 local-zone: "flittz.com" always_refuse
 local-zone: "flmuqa.com" always_refuse
@@ -3934,6 +3935,7 @@ local-zone: "adsmogo.org" always_refuse
 local-zone: "ads.muul.lt" always_refuse
 local-zone: "adsninja.ca" always_refuse
 local-zone: "adsniper.ru" always_refuse
+local-zone: "ads.oetv.at" always_refuse
 local-zone: "adsoft.name" always_refuse
 local-zone: "adsomia.com" always_refuse
 local-zone: "adsongo.com" always_refuse
@@ -4767,6 +4769,7 @@ local-zone: "poistaa.com" always_refuse
 local-zone: "popadon.com" always_refuse
 local-zone: "popadup.com" always_refuse
 local-zone: "popcash.net" always_refuse
+local-zone: "popcent.net" always_refuse
 local-zone: "popclck.com" always_refuse
 local-zone: "popmode.net" always_refuse
 local-zone: "popsads.net" always_refuse
@@ -10075,6 +10078,7 @@ local-zone: "sem-wizard.com" always_refuse
 local-zone: "serve.mdpi.com" always_refuse
 local-zone: "servemeads.com" always_refuse
 local-zone: "server4ads.com" always_refuse
+local-zone: "servetraff.com" always_refuse
 local-zone: "sexyadsrun.com" always_refuse
 local-zone: "sharemyads.com" always_refuse
 local-zone: "shestugele.pro" always_refuse
@@ -13743,6 +13747,7 @@ local-zone: "rek5.savefrom.net" always_refuse
 local-zone: "reklama.gazeta.pl" always_refuse
 local-zone: "reklama.silnet.pl" always_refuse
 local-zone: "reklama.wisdom.bg" always_refuse
+local-zone: "reklame.sbplus.hr" always_refuse
 local-zone: "reportcenter.live" always_refuse
 local-zone: "republicmedia.com" always_refuse
 local-zone: "responsiveads.com" always_refuse
@@ -15289,6 +15294,7 @@ local-zone: "clever-redirect.com" always_refuse
 local-zone: "cleverwebserver.com" always_refuse
 local-zone: "clickthruserver.com" always_refuse
 local-zone: "client-approval.com" always_refuse
+local-zone: "client.rigelink.com" always_refuse
 local-zone: "cognisensemedia.com" always_refuse
 local-zone: "colorwavesmedia.com" always_refuse
 local-zone: "commercialvalue.org" always_refuse
@@ -15938,6 +15944,7 @@ local-zone: "ads.wijnproeverij.nl" always_refuse
 local-zone: "ads.will-magazine.de" always_refuse
 local-zone: "ads.wncoutdoors.info" always_refuse
 local-zone: "adtag.sphdigital.com" always_refuse
+local-zone: "ad-tech.byjusweb.com" always_refuse
 local-zone: "adultadvertising.net" always_refuse
 local-zone: "adult-dating-ads.com" always_refuse
 local-zone: "adultmoneymakers.com" always_refuse
@@ -17027,6 +17034,7 @@ local-zone: "adserver.coneki.com.br" always_refuse
 local-zone: "adserver.coolmambo.com" always_refuse
 local-zone: "adserver.curiouscat.me" always_refuse
 local-zone: "adserver.detailfolk.dk" always_refuse
+local-zone: "adserver.doctoreto.com" always_refuse
 local-zone: "adserver.ekiosk.africa" always_refuse
 local-zone: "adserver.ekorodzice.pl" always_refuse
 local-zone: "adserver.elboletin.com" always_refuse
