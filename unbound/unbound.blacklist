@@ -320,6 +320,7 @@ local-zone: "ademo.jp" always_refuse
 local-zone: "adept.li" always_refuse
 local-zone: "adfly.vn" always_refuse
 local-zone: "adfox.cz" always_refuse
+local-zone: "adfox.me" always_refuse
 local-zone: "adfox.ru" always_refuse
 local-zone: "adfun.ru" always_refuse
 local-zone: "adgiv.us" always_refuse
@@ -4120,6 +4121,7 @@ local-zone: "as.meteo.sk" always_refuse
 local-zone: "asmrica.com" always_refuse
 local-zone: "asmwall.com" always_refuse
 local-zone: "a.svtrd.com" always_refuse
+local-zone: "ateam-ad.jp" always_refuse
 local-zone: "ats.otto.de" always_refuse
 local-zone: "audienzz.ch" always_refuse
 local-zone: "audiogo.com" always_refuse
@@ -15786,6 +15788,7 @@ local-zone: "ads.eprowebstore.com" always_refuse
 local-zone: "adserv.davidicke.com" always_refuse
 local-zone: "adserve.admaster.pro" always_refuse
 local-zone: "adserve.batirama.com" always_refuse
+local-zone: "adserve.collctiv.com" always_refuse
 local-zone: "adserve.pandragon.es" always_refuse
 local-zone: "adserver01.verio.com" always_refuse
 local-zone: "adserver.0--x--0.com" always_refuse

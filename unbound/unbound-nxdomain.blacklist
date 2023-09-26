@@ -320,6 +320,7 @@ local-zone: "ademo.jp" always_nxdomain
 local-zone: "adept.li" always_nxdomain
 local-zone: "adfly.vn" always_nxdomain
 local-zone: "adfox.cz" always_nxdomain
+local-zone: "adfox.me" always_nxdomain
 local-zone: "adfox.ru" always_nxdomain
 local-zone: "adfun.ru" always_nxdomain
 local-zone: "adgiv.us" always_nxdomain
@@ -4120,6 +4121,7 @@ local-zone: "as.meteo.sk" always_nxdomain
 local-zone: "asmrica.com" always_nxdomain
 local-zone: "asmwall.com" always_nxdomain
 local-zone: "a.svtrd.com" always_nxdomain
+local-zone: "ateam-ad.jp" always_nxdomain
 local-zone: "ats.otto.de" always_nxdomain
 local-zone: "audienzz.ch" always_nxdomain
 local-zone: "audiogo.com" always_nxdomain
@@ -15786,6 +15788,7 @@ local-zone: "ads.eprowebstore.com" always_nxdomain
 local-zone: "adserv.davidicke.com" always_nxdomain
 local-zone: "adserve.admaster.pro" always_nxdomain
 local-zone: "adserve.batirama.com" always_nxdomain
+local-zone: "adserve.collctiv.com" always_nxdomain
 local-zone: "adserve.pandragon.es" always_nxdomain
 local-zone: "adserver01.verio.com" always_nxdomain
 local-zone: "adserver.0--x--0.com" always_nxdomain
