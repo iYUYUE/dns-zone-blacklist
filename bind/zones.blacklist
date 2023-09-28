@@ -18464,6 +18464,7 @@ zone "hardbeatcommunications.com" { type master; notify no; file "null.zone.file
 zone "headerbidding.staqdata.com" { type master; notify no; file "null.zone.file"; };
 zone "hostedads.realitykings.com" { type master; notify no; file "null.zone.file"; };
 zone "intermedia-advertising.com" { type master; notify no; file "null.zone.file"; };
+zone "logos1-cashback.mbna.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "mediablueads.trafficman.io" { type master; notify no; file "null.zone.file"; };
 zone "mediavisionadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "mercury.dl.playstation.net" { type master; notify no; file "null.zone.file"; };
