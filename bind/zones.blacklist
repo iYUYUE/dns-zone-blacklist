@@ -2011,6 +2011,7 @@ zone "adways.com" { type master; notify no; file "null.zone.file"; };
 zone "adways.net" { type master; notify no; file "null.zone.file"; };
 zone "adwerx.com" { type master; notify no; file "null.zone.file"; };
 zone "adwheel.co" { type master; notify no; file "null.zone.file"; };
+zone "adwile.com" { type master; notify no; file "null.zone.file"; };
 zone "adwine.org" { type master; notify no; file "null.zone.file"; };
 zone "adwirk.com" { type master; notify no; file "null.zone.file"; };
 zone "adwise.com" { type master; notify no; file "null.zone.file"; };
