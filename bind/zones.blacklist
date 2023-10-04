@@ -14035,6 +14035,7 @@ zone "ads.ambiancefm.net" { type master; notify no; file "null.zone.file"; };
 zone "adsanityplugin.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.anolisgroup.si" { type master; notify no; file "null.zone.file"; };
 zone "ads.antaranews.com" { type master; notify no; file "null.zone.file"; };
+zone "adsassets.waze.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.autonet.com.vn" { type master; notify no; file "null.zone.file"; };
 zone "ads.autotrader.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.azoreswifi.com" { type master; notify no; file "null.zone.file"; };

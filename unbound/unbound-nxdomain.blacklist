@@ -14035,6 +14035,7 @@ local-zone: "ads.ambiancefm.net" always_nxdomain
 local-zone: "adsanityplugin.com" always_nxdomain
 local-zone: "ads.anolisgroup.si" always_nxdomain
 local-zone: "ads.antaranews.com" always_nxdomain
+local-zone: "adsassets.waze.com" always_nxdomain
 local-zone: "ads.autonet.com.vn" always_nxdomain
 local-zone: "ads.autotrader.com" always_nxdomain
 local-zone: "ads.azoreswifi.com" always_nxdomain
