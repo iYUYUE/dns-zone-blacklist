@@ -6073,6 +6073,7 @@ local-zone: "hankyu-ad.jp" always_nxdomain
 local-zone: "hashtagd.net" always_nxdomain
 local-zone: "hats-47b.com" always_nxdomain
 local-zone: "hawkhubs.net" always_nxdomain
+local-zone: "hb.yahoo.net" always_nxdomain
 local-zone: "heartbid.net" always_nxdomain
 local-zone: "hejeyoke.xyz" always_nxdomain
 local-zone: "hellobar.com" always_nxdomain
@@ -6846,6 +6847,7 @@ local-zone: "webisaba.com" always_nxdomain
 local-zone: "webonads.com" always_nxdomain
 local-zone: "web-ptica.ru" always_nxdomain
 local-zone: "webpushr.com" always_nxdomain
+local-zone: "webpushs.com" always_nxdomain
 local-zone: "wecehydy.com" always_nxdomain
 local-zone: "weedshoop.de" always_nxdomain
 local-zone: "wgplayer.com" always_nxdomain
@@ -17357,6 +17359,7 @@ local-zone: "mybbc.files.bbci.co.uk" always_nxdomain
 local-zone: "mymilliondollarbiz.com" always_nxdomain
 local-zone: "nationalmediaspots.com" always_nxdomain
 local-zone: "ncaudienceexchange.com" always_nxdomain
+local-zone: "nc.pubpowerplatform.io" always_nxdomain
 local-zone: "negligible-pension.pro" always_nxdomain
 local-zone: "netwaveinteractive.com" always_nxdomain
 local-zone: "networkadvertising.org" always_nxdomain
