@@ -16086,6 +16086,7 @@ zone "displayvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "dominatekeywords.com" { type master; notify no; file "null.zone.file"; };
 zone "dreamadvertising.net" { type master; notify no; file "null.zone.file"; };
 zone "drivenmediagroup.com" { type master; notify no; file "null.zone.file"; };
+zone "drsmediaexchange.com" { type master; notify no; file "null.zone.file"; };
 zone "ebjdgfafdbibfcidc.ru" { type master; notify no; file "null.zone.file"; };
 zone "elasticbeanstalk.com" { type master; notify no; file "null.zone.file"; };
 zone "electric-contest.pro" { type master; notify no; file "null.zone.file"; };
