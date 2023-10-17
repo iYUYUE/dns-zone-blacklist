@@ -16538,7 +16538,6 @@ zone "adserver.theasset.com" { type master; notify no; file "null.zone.file"; };
 zone "adserver.tracos.co.ke" { type master; notify no; file "null.zone.file"; };
 zone "adserver.tupolska.com" { type master; notify no; file "null.zone.file"; };
 zone "adserver.tut-kiev.com" { type master; notify no; file "null.zone.file"; };
-zone "adserver.ungoogle.xyz" { type master; notify no; file "null.zone.file"; };
 zone "adserver.videeoos.com" { type master; notify no; file "null.zone.file"; };
 zone "adserver.vilaglato.hu" { type master; notify no; file "null.zone.file"; };
 zone "adserver.vrathens.com" { type master; notify no; file "null.zone.file"; };
