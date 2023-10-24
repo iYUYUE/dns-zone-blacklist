@@ -4717,6 +4717,7 @@ local-zone: "adbutton.net" always_refuse
 local-zone: "ad.caaid.net" always_refuse
 local-zone: "adcanvas.com" always_refuse
 local-zone: "adcaravan.uz" always_refuse
+local-zone: "adcenter.com" always_refuse
 local-zone: "ad.cgv.co.kr" always_refuse
 local-zone: "adchakra.net" always_refuse
 local-zone: "adclerks.com" always_refuse

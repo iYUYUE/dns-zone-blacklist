@@ -4717,6 +4717,7 @@ zone "adbutton.net" { type master; notify no; file "null.zone.file"; };
 zone "ad.caaid.net" { type master; notify no; file "null.zone.file"; };
 zone "adcanvas.com" { type master; notify no; file "null.zone.file"; };
 zone "adcaravan.uz" { type master; notify no; file "null.zone.file"; };
+zone "adcenter.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.cgv.co.kr" { type master; notify no; file "null.zone.file"; };
 zone "adchakra.net" { type master; notify no; file "null.zone.file"; };
 zone "adclerks.com" { type master; notify no; file "null.zone.file"; };

@@ -4717,6 +4717,7 @@ local-zone: "adbutton.net" always_nxdomain
 local-zone: "ad.caaid.net" always_nxdomain
 local-zone: "adcanvas.com" always_nxdomain
 local-zone: "adcaravan.uz" always_nxdomain
+local-zone: "adcenter.com" always_nxdomain
 local-zone: "ad.cgv.co.kr" always_nxdomain
 local-zone: "adchakra.net" always_nxdomain
 local-zone: "adclerks.com" always_nxdomain
