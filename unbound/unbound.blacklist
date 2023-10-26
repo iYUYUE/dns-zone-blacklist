@@ -883,7 +883,6 @@ local-zone: "avazu.com" always_refuse
 local-zone: "avazu.net" always_refuse
 local-zone: "avocet.io" always_refuse
 local-zone: "avrdi.com" always_refuse
-local-zone: "awin1.com" always_refuse
 local-zone: "awin.team" always_refuse
 local-zone: "awprt.com" always_refuse
 local-zone: "azskk.com" always_refuse
@@ -1435,6 +1434,7 @@ local-zone: "xtify.com" always_refuse
 local-zone: "xvaaa.com" always_refuse
 local-zone: "xwords.pl" always_refuse
 local-zone: "yashi.com" always_refuse
+local-zone: "yavin.dev" always_refuse
 local-zone: "yavli.com" always_refuse
 local-zone: "yceml.net" always_refuse
 local-zone: "yengo.com" always_refuse
@@ -5160,6 +5160,7 @@ local-zone: "bicytaxi.com" always_refuse
 local-zone: "biddingx.com" always_refuse
 local-zone: "bidmyadz.com" always_refuse
 local-zone: "bidmyqps.xyz" always_refuse
+local-zone: "bidplace.com" always_refuse
 local-zone: "bidspush.com" always_refuse
 local-zone: "bidstack.com" always_refuse
 local-zone: "bidstalk.com" always_refuse
@@ -11139,6 +11140,7 @@ local-zone: "programattik.com" always_refuse
 local-zone: "programetrix.com" always_refuse
 local-zone: "projectagora.com" always_refuse
 local-zone: "projectagora.net" always_refuse
+local-zone: "projectdevil.com" always_refuse
 local-zone: "promos.fling.com" always_refuse
 local-zone: "promos.naked.com" always_refuse
 local-zone: "propadsviews.com" always_refuse

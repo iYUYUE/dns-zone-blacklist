@@ -883,7 +883,6 @@ local-zone: "avazu.com" always_nxdomain
 local-zone: "avazu.net" always_nxdomain
 local-zone: "avocet.io" always_nxdomain
 local-zone: "avrdi.com" always_nxdomain
-local-zone: "awin1.com" always_nxdomain
 local-zone: "awin.team" always_nxdomain
 local-zone: "awprt.com" always_nxdomain
 local-zone: "azskk.com" always_nxdomain
@@ -1435,6 +1434,7 @@ local-zone: "xtify.com" always_nxdomain
 local-zone: "xvaaa.com" always_nxdomain
 local-zone: "xwords.pl" always_nxdomain
 local-zone: "yashi.com" always_nxdomain
+local-zone: "yavin.dev" always_nxdomain
 local-zone: "yavli.com" always_nxdomain
 local-zone: "yceml.net" always_nxdomain
 local-zone: "yengo.com" always_nxdomain
@@ -5160,6 +5160,7 @@ local-zone: "bicytaxi.com" always_nxdomain
 local-zone: "biddingx.com" always_nxdomain
 local-zone: "bidmyadz.com" always_nxdomain
 local-zone: "bidmyqps.xyz" always_nxdomain
+local-zone: "bidplace.com" always_nxdomain
 local-zone: "bidspush.com" always_nxdomain
 local-zone: "bidstack.com" always_nxdomain
 local-zone: "bidstalk.com" always_nxdomain
@@ -11139,6 +11140,7 @@ local-zone: "programattik.com" always_nxdomain
 local-zone: "programetrix.com" always_nxdomain
 local-zone: "projectagora.com" always_nxdomain
 local-zone: "projectagora.net" always_nxdomain
+local-zone: "projectdevil.com" always_nxdomain
 local-zone: "promos.fling.com" always_nxdomain
 local-zone: "promos.naked.com" always_nxdomain
 local-zone: "propadsviews.com" always_nxdomain
