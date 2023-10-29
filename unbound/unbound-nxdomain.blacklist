@@ -16933,6 +16933,7 @@ local-zone: "woohoo.sfo2.digitaloceanspaces.com" always_nxdomain
 local-zone: "adserver.dev.mortar.tovarnaidej.com" always_nxdomain
 local-zone: "adserver.magyarmezogazdasagkiado.hu" always_nxdomain
 local-zone: "adserver.newmarketwebdevelopers.com" always_nxdomain
+local-zone: "ads-image.production-public.tubi.io" always_nxdomain
 local-zone: "ads-oss.howansem.com.w.kunlunca.com" always_nxdomain
 local-zone: "ads.zsezt.com.cname2039.yjs-cdn.com" always_nxdomain
 local-zone: "androidtvwatsonfe-pa.googleapis.com" always_nxdomain

@@ -16933,6 +16933,7 @@ local-zone: "woohoo.sfo2.digitaloceanspaces.com" always_refuse
 local-zone: "adserver.dev.mortar.tovarnaidej.com" always_refuse
 local-zone: "adserver.magyarmezogazdasagkiado.hu" always_refuse
 local-zone: "adserver.newmarketwebdevelopers.com" always_refuse
+local-zone: "ads-image.production-public.tubi.io" always_refuse
 local-zone: "ads-oss.howansem.com.w.kunlunca.com" always_refuse
 local-zone: "ads.zsezt.com.cname2039.yjs-cdn.com" always_refuse
 local-zone: "androidtvwatsonfe-pa.googleapis.com" always_refuse

@@ -16933,6 +16933,7 @@ zone "woohoo.sfo2.digitaloceanspaces.com" { type master; notify no; file "null.z
 zone "adserver.dev.mortar.tovarnaidej.com" { type master; notify no; file "null.zone.file"; };
 zone "adserver.magyarmezogazdasagkiado.hu" { type master; notify no; file "null.zone.file"; };
 zone "adserver.newmarketwebdevelopers.com" { type master; notify no; file "null.zone.file"; };
+zone "ads-image.production-public.tubi.io" { type master; notify no; file "null.zone.file"; };
 zone "ads-oss.howansem.com.w.kunlunca.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.zsezt.com.cname2039.yjs-cdn.com" { type master; notify no; file "null.zone.file"; };
 zone "androidtvwatsonfe-pa.googleapis.com" { type master; notify no; file "null.zone.file"; };
