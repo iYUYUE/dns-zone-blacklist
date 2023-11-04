@@ -2129,7 +2129,6 @@ zone "dolead.com" { type master; notify no; file "null.zone.file"; };
 zone "dom360.com" { type master; notify no; file "null.zone.file"; };
 zone "dooknn.com" { type master; notify no; file "null.zone.file"; };
 zone "dornzi.com" { type master; notify no; file "null.zone.file"; };
-zone "dotomi.com" { type master; notify no; file "null.zone.file"; };
 zone "dotsrv.com" { type master; notify no; file "null.zone.file"; };
 zone "dsfd67.com" { type master; notify no; file "null.zone.file"; };
 zone "dsnrtg.com" { type master; notify no; file "null.zone.file"; };
