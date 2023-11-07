@@ -1230,6 +1230,7 @@ local-zone: "optmd.com" always_refuse
 local-zone: "orjzy.com" always_refuse
 local-zone: "otm-r.com" always_refuse
 local-zone: "ottera.tv" always_refuse
+local-zone: "outbra.in" always_refuse
 local-zone: "outfox.ai" always_refuse
 local-zone: "oxado.com" always_refuse
 local-zone: "oxiads.fr" always_refuse
@@ -2446,6 +2447,7 @@ local-zone: "macfly.pro" always_refuse
 local-zone: "mad-ex.com" always_refuse
 local-zone: "madgex.com" always_refuse
 local-zone: "magnfi.com" always_refuse
+local-zone: "magsrv.com" always_refuse
 local-zone: "mailrt.com" always_refuse
 local-zone: "mainad.com" always_refuse
 local-zone: "malbis.com" always_refuse
