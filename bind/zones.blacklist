@@ -1397,6 +1397,7 @@ zone "veoxa.com" { type master; notify no; file "null.zone.file"; };
 zone "verve.com" { type master; notify no; file "null.zone.file"; };
 zone "vfghe.com" { type master; notify no; file "null.zone.file"; };
 zone "vhsrv.com" { type master; notify no; file "null.zone.file"; };
+zone "viads.net" { type master; notify no; file "null.zone.file"; };
 zone "vidads.gr" { type master; notify no; file "null.zone.file"; };
 zone "vidads.in" { type master; notify no; file "null.zone.file"; };
 zone "vimmy.com" { type master; notify no; file "null.zone.file"; };
