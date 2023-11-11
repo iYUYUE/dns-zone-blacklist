@@ -6419,6 +6419,7 @@ local-zone: "adsfactor.net" always_nxdomain
 local-zone: "ads.faktor.mk" always_nxdomain
 local-zone: "ads.femina.mk" always_nxdomain
 local-zone: "ads.fineco.it" always_nxdomain
+local-zone: "ads-flipp.com" always_nxdomain
 local-zone: "ads.forbes.ro" always_nxdomain
 local-zone: "ads.formit.cz" always_nxdomain
 local-zone: "ads.fuelo.net" always_nxdomain

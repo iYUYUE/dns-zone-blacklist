@@ -6419,6 +6419,7 @@ zone "adsfactor.net" { type master; notify no; file "null.zone.file"; };
 zone "ads.faktor.mk" { type master; notify no; file "null.zone.file"; };
 zone "ads.femina.mk" { type master; notify no; file "null.zone.file"; };
 zone "ads.fineco.it" { type master; notify no; file "null.zone.file"; };
+zone "ads-flipp.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.forbes.ro" { type master; notify no; file "null.zone.file"; };
 zone "ads.formit.cz" { type master; notify no; file "null.zone.file"; };
 zone "ads.fuelo.net" { type master; notify no; file "null.zone.file"; };
