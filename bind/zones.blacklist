@@ -16285,6 +16285,7 @@ zone "emailinboundprocessing.com" { type master; notify no; file "null.zone.file
 zone "eubanner.honeywellhome.com" { type master; notify no; file "null.zone.file"; };
 zone "fetchmediaandmarketing.com" { type master; notify no; file "null.zone.file"; };
 zone "hardbeatcommunications.com" { type master; notify no; file "null.zone.file"; };
+zone "hhdjcabafaejaibaaaeg.world" { type master; notify no; file "null.zone.file"; };
 zone "hostedads.realitykings.com" { type master; notify no; file "null.zone.file"; };
 zone "intermedia-advertising.com" { type master; notify no; file "null.zone.file"; };
 zone "logos1-cashback.mbna.co.uk" { type master; notify no; file "null.zone.file"; };
