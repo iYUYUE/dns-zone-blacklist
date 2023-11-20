@@ -7966,6 +7966,7 @@ local-zone: "adscustsrv.com" always_nxdomain
 local-zone: "ads.cytoday.eu" always_nxdomain
 local-zone: "adsdealing.com" always_nxdomain
 local-zone: "ads.domedea.cn" always_nxdomain
+local-zone: "ads.dotomi.com" always_nxdomain
 local-zone: "ads.d-radar.de" always_nxdomain
 local-zone: "adsearnbtc.com" always_nxdomain
 local-zone: "ads.edadeal.ru" always_nxdomain
@@ -11434,6 +11435,7 @@ local-zone: "ad-cdn.bilgin.pro" always_nxdomain
 local-zone: "adclickafrica.com" always_nxdomain
 local-zone: "ad.clicrbs.com.br" always_nxdomain
 local-zone: "adcombination.com" always_nxdomain
+local-zone: "ad.cpe.dotomi.com" always_nxdomain
 local-zone: "ad.daves.business" always_nxdomain
 local-zone: "ad.deli-fuzoku.jp" always_nxdomain
 local-zone: "ad.diaosiquan.com" always_nxdomain

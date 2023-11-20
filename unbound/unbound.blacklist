@@ -7966,6 +7966,7 @@ local-zone: "adscustsrv.com" always_refuse
 local-zone: "ads.cytoday.eu" always_refuse
 local-zone: "adsdealing.com" always_refuse
 local-zone: "ads.domedea.cn" always_refuse
+local-zone: "ads.dotomi.com" always_refuse
 local-zone: "ads.d-radar.de" always_refuse
 local-zone: "adsearnbtc.com" always_refuse
 local-zone: "ads.edadeal.ru" always_refuse
@@ -11434,6 +11435,7 @@ local-zone: "ad-cdn.bilgin.pro" always_refuse
 local-zone: "adclickafrica.com" always_refuse
 local-zone: "ad.clicrbs.com.br" always_refuse
 local-zone: "adcombination.com" always_refuse
+local-zone: "ad.cpe.dotomi.com" always_refuse
 local-zone: "ad.daves.business" always_refuse
 local-zone: "ad.deli-fuzoku.jp" always_refuse
 local-zone: "ad.diaosiquan.com" always_refuse
