@@ -9958,7 +9958,6 @@ zone "limpingfish.pro" { type master; notify no; file "null.zone.file"; };
 zone "linkbuddies.com" { type master; notify no; file "null.zone.file"; };
 zone "linkexchange.nl" { type master; notify no; file "null.zone.file"; };
 zone "linkexchange.ru" { type master; notify no; file "null.zone.file"; };
-zone "linksynergy.com" { type master; notify no; file "null.zone.file"; };
 zone "liquidfire.mobi" { type master; notify no; file "null.zone.file"; };
 zone "livehelpnow.net" { type master; notify no; file "null.zone.file"; };
 zone "livenetlife.com" { type master; notify no; file "null.zone.file"; };
