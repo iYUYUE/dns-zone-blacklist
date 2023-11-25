@@ -8311,6 +8311,7 @@ local-zone: "cappushino.com" always_nxdomain
 local-zone: "carrickads.com" always_nxdomain
 local-zone: "cashfiesta.net" always_nxdomain
 local-zone: "cas-online.com" always_nxdomain
+local-zone: "castiron.media" always_nxdomain
 local-zone: "cdfr.hot4k.org" always_nxdomain
 local-zone: "cdn.adt328.com" always_nxdomain
 local-zone: "cdn.hextom.com" always_nxdomain
@@ -12923,6 +12924,7 @@ local-zone: "lazarmarketing.com" always_nxdomain
 local-zone: "leadboltmobile.net" always_nxdomain
 local-zone: "leadcapitalcrp.com" always_nxdomain
 local-zone: "letsboldlygrow.com" always_nxdomain
+local-zone: "letspushplugin.com" always_nxdomain
 local-zone: "libertystmedia.com" always_nxdomain
 local-zone: "ligastavokinfo.com" always_nxdomain
 local-zone: "lightdatahouse.com" always_nxdomain
@@ -17173,6 +17175,7 @@ local-zone: "aston-mpr-web-push-notification.s3-us-west-2.amazonaws.com" always_
 local-zone: "adserver-prod-alb-2056226458.eu-central-1.elb.amazonaws.com" always_nxdomain
 local-zone: "cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com" always_nxdomain
 local-zone: "millionsviewapi-elb-1796117858.ap-south-1.elb.amazonaws.com" always_nxdomain
+local-zone: "0df921ae7136d731950edfdd4876e3ee9759a5c2e63fafe0d43f45cf.com" always_nxdomain
 local-zone: "5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com" always_nxdomain
 local-zone: "60b7ac265566e3da4341f765b2d2a73200f8f1db57b0b005a1afdc00.com" always_nxdomain
 local-zone: "93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com" always_nxdomain
