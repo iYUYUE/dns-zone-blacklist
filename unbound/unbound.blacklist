@@ -4378,6 +4378,7 @@ local-zone: "rvadnet.com" always_refuse
 local-zone: "rx-news.com" always_refuse
 local-zone: "s47teck.com" always_refuse
 local-zone: "saambaa.com" always_refuse
+local-zone: "sa.vic-m.co" always_refuse
 local-zone: "scaleout.jp" always_refuse
 local-zone: "schoene.net" always_refuse
 local-zone: "scibids.com" always_refuse
@@ -10249,6 +10250,7 @@ local-zone: "sqexpertise.com" always_refuse
 local-zone: "squinbested.com" always_refuse
 local-zone: "ssl2anyone2.com" always_refuse
 local-zone: "standartnews.eu" always_refuse
+local-zone: "static.vic-m.co" always_refuse
 local-zone: "stevesandco.com" always_refuse
 local-zone: "stewartmktg.com" always_refuse
 local-zone: "stickyadstv.com" always_refuse

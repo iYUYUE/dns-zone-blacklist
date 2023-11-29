@@ -4378,6 +4378,7 @@ local-zone: "rvadnet.com" always_nxdomain
 local-zone: "rx-news.com" always_nxdomain
 local-zone: "s47teck.com" always_nxdomain
 local-zone: "saambaa.com" always_nxdomain
+local-zone: "sa.vic-m.co" always_nxdomain
 local-zone: "scaleout.jp" always_nxdomain
 local-zone: "schoene.net" always_nxdomain
 local-zone: "scibids.com" always_nxdomain
@@ -10249,6 +10250,7 @@ local-zone: "sqexpertise.com" always_nxdomain
 local-zone: "squinbested.com" always_nxdomain
 local-zone: "ssl2anyone2.com" always_nxdomain
 local-zone: "standartnews.eu" always_nxdomain
+local-zone: "static.vic-m.co" always_nxdomain
 local-zone: "stevesandco.com" always_nxdomain
 local-zone: "stewartmktg.com" always_nxdomain
 local-zone: "stickyadstv.com" always_nxdomain
