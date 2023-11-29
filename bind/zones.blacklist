@@ -16292,6 +16292,7 @@ zone "ad.kids-model-audition.com" { type master; notify no; file "null.zone.file
 zone "ad.magokoro-care-shoku.com" { type master; notify no; file "null.zone.file"; };
 zone "adpushsdk.goforandroid.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.eccellenzecalabresi.it" { type master; notify no; file "null.zone.file"; };
+zone "adsensecustomsearchads.com" { type master; notify no; file "null.zone.file"; };
 zone "adserver.automobilwoche.de" { type master; notify no; file "null.zone.file"; };
 zone "adserver.azoren-online.com" { type master; notify no; file "null.zone.file"; };
 zone "adserver.building-body.com" { type master; notify no; file "null.zone.file"; };
