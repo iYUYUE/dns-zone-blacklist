@@ -3207,6 +3207,7 @@ local-zone: "adaseve.com" always_refuse
 local-zone: "ad.atown.jp" always_refuse
 local-zone: "adatrix.com" always_refuse
 local-zone: "adbetnet.io" always_refuse
+local-zone: "adbid.click" always_refuse
 local-zone: "adbison.com" always_refuse
 local-zone: "adbison.dev" always_refuse
 local-zone: "adblade.com" always_refuse
@@ -3852,6 +3853,7 @@ local-zone: "dobygo2.com" always_refuse
 local-zone: "doceree.com" always_refuse
 local-zone: "dolohen.com" always_refuse
 local-zone: "dombnrs.com" always_refuse
+local-zone: "dotsply.com" always_refuse
 local-zone: "doyouad.com" always_refuse
 local-zone: "dpdawg.mobi" always_refuse
 local-zone: "drawbrid.ge" always_refuse
@@ -14470,6 +14472,7 @@ local-zone: "pubs2.latinspots.com" always_refuse
 local-zone: "push.esputnik.com.ua" always_refuse
 local-zone: "pushmonetization.com" always_refuse
 local-zone: "pushnotifications.io" always_refuse
+local-zone: "push.sportskeeda.com" always_refuse
 local-zone: "qsdr.mysunnylawn.com" always_refuse
 local-zone: "radio.amswebdispo.de" always_refuse
 local-zone: "rakutenmarketing.com" always_refuse
@@ -17193,6 +17196,7 @@ local-zone: "foureyes-adpearance-com-440548151.us-west-2.elb.amazonaws.com" alwa
 local-zone: "a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com" always_refuse
 local-zone: "a.4fa3df6bdd29062d8558b55bb06fb2885592fcf83cf99e4909483c81.com" always_refuse
 local-zone: "a.6ad5d7a9aa285849df0f7a776f52d17a861901df9fdcda9db9b3404d.com" always_refuse
+local-zone: "a.a1401dff39c8fdcba6f437a5b06706d1413c89636d5fee6cce27cc99.com" always_refuse
 local-zone: "a.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com" always_refuse
 local-zone: "ad-interactions-prod-lb-1606894468.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "opinionadsadserverelbvpc-1611782868.us-east-1.elb.amazonaws.com" always_refuse
