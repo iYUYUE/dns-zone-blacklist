@@ -13527,6 +13527,7 @@ zone "adversaldisplay.com" { type master; notify no; file "null.zone.file"; };
 zone "adversalservers.com" { type master; notify no; file "null.zone.file"; };
 zone "adverterenbijrtl.nl" { type master; notify no; file "null.zone.file"; };
 zone "advertisehealth.com" { type master; notify no; file "null.zone.file"; };
+zone "advertising.a2z.com" { type master; notify no; file "null.zone.file"; };
 zone "advertising.aol.com" { type master; notify no; file "null.zone.file"; };
 zone "advertising-cdn.com" { type master; notify no; file "null.zone.file"; };
 zone "advertroindia.co.in" { type master; notify no; file "null.zone.file"; };

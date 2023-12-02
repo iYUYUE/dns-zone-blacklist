@@ -13527,6 +13527,7 @@ local-zone: "adversaldisplay.com" always_refuse
 local-zone: "adversalservers.com" always_refuse
 local-zone: "adverterenbijrtl.nl" always_refuse
 local-zone: "advertisehealth.com" always_refuse
+local-zone: "advertising.a2z.com" always_refuse
 local-zone: "advertising.aol.com" always_refuse
 local-zone: "advertising-cdn.com" always_refuse
 local-zone: "advertroindia.co.in" always_refuse
