@@ -8326,6 +8326,7 @@ zone "cdn.wisc.cloud" { type master; notify no; file "null.zone.file"; };
 zone "cep.plxqln.com" { type master; notify no; file "null.zone.file"; };
 zone "certifyads.com" { type master; notify no; file "null.zone.file"; };
 zone "chartboost.com" { type master; notify no; file "null.zone.file"; };
+zone "chickenads.com" { type master; notify no; file "null.zone.file"; };
 zone "chicoryapp.com" { type master; notify no; file "null.zone.file"; };
 zone "chldigital.com" { type master; notify no; file "null.zone.file"; };
 zone "chubbymess.pro" { type master; notify no; file "null.zone.file"; };
