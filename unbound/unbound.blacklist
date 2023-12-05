@@ -181,6 +181,7 @@ local-zone: "fave.co" always_refuse
 local-zone: "fout.jp" always_refuse
 local-zone: "gmx.net" always_refuse
 local-zone: "gng.net" always_refuse
+local-zone: "grow.me" always_refuse
 local-zone: "gsfn.us" always_refuse
 local-zone: "hero.rs" always_refuse
 local-zone: "i2ad.jp" always_refuse
@@ -3761,6 +3762,7 @@ local-zone: "cdncont.com" always_refuse
 local-zone: "cdngain.com" always_refuse
 local-zone: "cdn.gallery" always_refuse
 local-zone: "cdn.jifo.co" always_refuse
+local-zone: "c.down.tube" always_refuse
 local-zone: "cdsbnrs.com" always_refuse
 local-zone: "cedexis.com" always_refuse
 local-zone: "cedexis.net" always_refuse
@@ -3987,6 +3989,7 @@ local-zone: "idcomms.com" always_refuse
 local-zone: "ifwcash.com" always_refuse
 local-zone: "ii9g0qj9.de" always_refuse
 local-zone: "i-iba.co.uk" always_refuse
+local-zone: "ilkwork.com" always_refuse
 local-zone: "img.go2s.co" always_refuse
 local-zone: "imglnke.com" always_refuse
 local-zone: "imocash.com" always_refuse
@@ -4497,6 +4500,7 @@ local-zone: "tracead.com" always_refuse
 local-zone: "tracead.net" always_refuse
 local-zone: "trafmag.com" always_refuse
 local-zone: "traktrk.com" always_refuse
+local-zone: "trekkww.fun" always_refuse
 local-zone: "trellian.fr" always_refuse
 local-zone: "trenads.com" always_refuse
 local-zone: "trendmd.com" always_refuse
@@ -6138,6 +6142,7 @@ local-zone: "wgsindia.com" always_refuse
 local-zone: "whaleads.com" always_refuse
 local-zone: "whitevox.com" always_refuse
 local-zone: "whitewalk.eu" always_refuse
+local-zone: "whulsaux.com" always_refuse
 local-zone: "widgetbot.io" always_refuse
 local-zone: "widgetic.com" always_refuse
 local-zone: "wilslide.com" always_refuse
@@ -6865,6 +6870,7 @@ local-zone: "coco-tree.com" always_refuse
 local-zone: "coinexium.com" always_refuse
 local-zone: "coinverti.com" always_refuse
 local-zone: "coinzilla.com" always_refuse
+local-zone: "conde.digital" always_refuse
 local-zone: "confirmic.com" always_refuse
 local-zone: "connexity.com" always_refuse
 local-zone: "connextra.com" always_refuse
@@ -16544,6 +16550,7 @@ local-zone: "softwaredefineddelivery.com" always_refuse
 local-zone: "softwaredefineddelivery.net" always_refuse
 local-zone: "softwaredefineddelivery.org" always_refuse
 local-zone: "sourcepoint.theguardian.com" always_refuse
+local-zone: "tag-manager.frontiersin.org" always_refuse
 local-zone: "tempest.services.disqus.com" always_refuse
 local-zone: "thedesimarketingproject.com" always_refuse
 local-zone: "traveler.contentondemand.es" always_refuse

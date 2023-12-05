@@ -181,6 +181,7 @@ local-zone: "fave.co" always_nxdomain
 local-zone: "fout.jp" always_nxdomain
 local-zone: "gmx.net" always_nxdomain
 local-zone: "gng.net" always_nxdomain
+local-zone: "grow.me" always_nxdomain
 local-zone: "gsfn.us" always_nxdomain
 local-zone: "hero.rs" always_nxdomain
 local-zone: "i2ad.jp" always_nxdomain
@@ -3761,6 +3762,7 @@ local-zone: "cdncont.com" always_nxdomain
 local-zone: "cdngain.com" always_nxdomain
 local-zone: "cdn.gallery" always_nxdomain
 local-zone: "cdn.jifo.co" always_nxdomain
+local-zone: "c.down.tube" always_nxdomain
 local-zone: "cdsbnrs.com" always_nxdomain
 local-zone: "cedexis.com" always_nxdomain
 local-zone: "cedexis.net" always_nxdomain
@@ -3987,6 +3989,7 @@ local-zone: "idcomms.com" always_nxdomain
 local-zone: "ifwcash.com" always_nxdomain
 local-zone: "ii9g0qj9.de" always_nxdomain
 local-zone: "i-iba.co.uk" always_nxdomain
+local-zone: "ilkwork.com" always_nxdomain
 local-zone: "img.go2s.co" always_nxdomain
 local-zone: "imglnke.com" always_nxdomain
 local-zone: "imocash.com" always_nxdomain
@@ -4497,6 +4500,7 @@ local-zone: "tracead.com" always_nxdomain
 local-zone: "tracead.net" always_nxdomain
 local-zone: "trafmag.com" always_nxdomain
 local-zone: "traktrk.com" always_nxdomain
+local-zone: "trekkww.fun" always_nxdomain
 local-zone: "trellian.fr" always_nxdomain
 local-zone: "trenads.com" always_nxdomain
 local-zone: "trendmd.com" always_nxdomain
@@ -6138,6 +6142,7 @@ local-zone: "wgsindia.com" always_nxdomain
 local-zone: "whaleads.com" always_nxdomain
 local-zone: "whitevox.com" always_nxdomain
 local-zone: "whitewalk.eu" always_nxdomain
+local-zone: "whulsaux.com" always_nxdomain
 local-zone: "widgetbot.io" always_nxdomain
 local-zone: "widgetic.com" always_nxdomain
 local-zone: "wilslide.com" always_nxdomain
@@ -6865,6 +6870,7 @@ local-zone: "coco-tree.com" always_nxdomain
 local-zone: "coinexium.com" always_nxdomain
 local-zone: "coinverti.com" always_nxdomain
 local-zone: "coinzilla.com" always_nxdomain
+local-zone: "conde.digital" always_nxdomain
 local-zone: "confirmic.com" always_nxdomain
 local-zone: "connexity.com" always_nxdomain
 local-zone: "connextra.com" always_nxdomain
@@ -16544,6 +16550,7 @@ local-zone: "softwaredefineddelivery.com" always_nxdomain
 local-zone: "softwaredefineddelivery.net" always_nxdomain
 local-zone: "softwaredefineddelivery.org" always_nxdomain
 local-zone: "sourcepoint.theguardian.com" always_nxdomain
+local-zone: "tag-manager.frontiersin.org" always_nxdomain
 local-zone: "tempest.services.disqus.com" always_nxdomain
 local-zone: "thedesimarketingproject.com" always_nxdomain
 local-zone: "traveler.contentondemand.es" always_nxdomain
