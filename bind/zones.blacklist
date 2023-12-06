@@ -366,6 +366,7 @@ zone "adzip.co" { type master; notify no; file "null.zone.file"; };
 zone "affec.tv" { type master; notify no; file "null.zone.file"; };
 zone "affil.jp" { type master; notify no; file "null.zone.file"; };
 zone "agora.bg" { type master; notify no; file "null.zone.file"; };
+zone "ahadi.pk" { type master; notify no; file "null.zone.file"; };
 zone "am15.net" { type master; notify no; file "null.zone.file"; };
 zone "ampcr.io" { type master; notify no; file "null.zone.file"; };
 zone "amunx.de" { type master; notify no; file "null.zone.file"; };
