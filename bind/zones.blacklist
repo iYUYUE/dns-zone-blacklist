@@ -15533,6 +15533,7 @@ zone "ad.inspectioneering.com" { type master; notify no; file "null.zone.file"; 
 zone "ad.i-tanq.roundtable.jp" { type master; notify no; file "null.zone.file"; };
 zone "ad.magazineprestige.com" { type master; notify no; file "null.zone.file"; };
 zone "admarketadvertising.com" { type master; notify no; file "null.zone.file"; };
+zone "ad-maven.xml.ak-is2.net" { type master; notify no; file "null.zone.file"; };
 zone "adncdnend.azureedge.net" { type master; notify no; file "null.zone.file"; };
 zone "ad-production-stage.com" { type master; notify no; file "null.zone.file"; };
 zone "adpush.goforandroid.com" { type master; notify no; file "null.zone.file"; };

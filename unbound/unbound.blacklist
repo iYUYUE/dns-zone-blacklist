@@ -15533,6 +15533,7 @@ local-zone: "ad.inspectioneering.com" always_refuse
 local-zone: "ad.i-tanq.roundtable.jp" always_refuse
 local-zone: "ad.magazineprestige.com" always_refuse
 local-zone: "admarketadvertising.com" always_refuse
+local-zone: "ad-maven.xml.ak-is2.net" always_refuse
 local-zone: "adncdnend.azureedge.net" always_refuse
 local-zone: "ad-production-stage.com" always_refuse
 local-zone: "adpush.goforandroid.com" always_refuse
