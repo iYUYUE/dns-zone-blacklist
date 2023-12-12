@@ -1465,6 +1465,7 @@ local-zone: "za.zdn.vn" always_refuse
 local-zone: "zbo.media" always_refuse
 local-zone: "zewkj.com" always_refuse
 local-zone: "zfish.com" always_refuse
+local-zone: "zgqbb.com" always_refuse
 local-zone: "zlkbo.com" always_refuse
 local-zone: "zmeda.com" always_refuse
 local-zone: "zoomd.com" always_refuse
@@ -16879,6 +16880,7 @@ local-zone: "concertads-configs.vox-cdn.com" always_refuse
 local-zone: "contributions.guardianapis.com" always_refuse
 local-zone: "digitaladvertisingalliance.org" always_refuse
 local-zone: "digitalmediacommunications.com" always_refuse
+local-zone: "fullspectrumcommunications.com" always_refuse
 local-zone: "marketing.dickinson-wright.com" always_refuse
 local-zone: "murciaeconomia.folioserver.com" always_refuse
 local-zone: "nationaloutdooradvertising.com" always_refuse

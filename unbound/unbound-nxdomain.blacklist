@@ -1465,6 +1465,7 @@ local-zone: "za.zdn.vn" always_nxdomain
 local-zone: "zbo.media" always_nxdomain
 local-zone: "zewkj.com" always_nxdomain
 local-zone: "zfish.com" always_nxdomain
+local-zone: "zgqbb.com" always_nxdomain
 local-zone: "zlkbo.com" always_nxdomain
 local-zone: "zmeda.com" always_nxdomain
 local-zone: "zoomd.com" always_nxdomain
@@ -16879,6 +16880,7 @@ local-zone: "concertads-configs.vox-cdn.com" always_nxdomain
 local-zone: "contributions.guardianapis.com" always_nxdomain
 local-zone: "digitaladvertisingalliance.org" always_nxdomain
 local-zone: "digitalmediacommunications.com" always_nxdomain
+local-zone: "fullspectrumcommunications.com" always_nxdomain
 local-zone: "marketing.dickinson-wright.com" always_nxdomain
 local-zone: "murciaeconomia.folioserver.com" always_nxdomain
 local-zone: "nationaloutdooradvertising.com" always_nxdomain

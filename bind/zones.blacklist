@@ -1465,6 +1465,7 @@ zone "za.zdn.vn" { type master; notify no; file "null.zone.file"; };
 zone "zbo.media" { type master; notify no; file "null.zone.file"; };
 zone "zewkj.com" { type master; notify no; file "null.zone.file"; };
 zone "zfish.com" { type master; notify no; file "null.zone.file"; };
+zone "zgqbb.com" { type master; notify no; file "null.zone.file"; };
 zone "zlkbo.com" { type master; notify no; file "null.zone.file"; };
 zone "zmeda.com" { type master; notify no; file "null.zone.file"; };
 zone "zoomd.com" { type master; notify no; file "null.zone.file"; };
@@ -16879,6 +16880,7 @@ zone "concertads-configs.vox-cdn.com" { type master; notify no; file "null.zone.
 zone "contributions.guardianapis.com" { type master; notify no; file "null.zone.file"; };
 zone "digitaladvertisingalliance.org" { type master; notify no; file "null.zone.file"; };
 zone "digitalmediacommunications.com" { type master; notify no; file "null.zone.file"; };
+zone "fullspectrumcommunications.com" { type master; notify no; file "null.zone.file"; };
 zone "marketing.dickinson-wright.com" { type master; notify no; file "null.zone.file"; };
 zone "murciaeconomia.folioserver.com" { type master; notify no; file "null.zone.file"; };
 zone "nationaloutdooradvertising.com" { type master; notify no; file "null.zone.file"; };
