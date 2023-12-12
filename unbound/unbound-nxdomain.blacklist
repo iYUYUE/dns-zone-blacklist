@@ -8153,6 +8153,7 @@ local-zone: "adverticum.net" always_nxdomain
 local-zone: "advertiser.com" always_nxdomain
 local-zone: "advertising.at" always_nxdomain
 local-zone: "advertising.ch" always_nxdomain
+local-zone: "advertising.cm" always_nxdomain
 local-zone: "advertising.de" always_nxdomain
 local-zone: "advertising.dk" always_nxdomain
 local-zone: "advertising.gr" always_nxdomain
@@ -14251,6 +14252,7 @@ local-zone: "advert-solutions.com" always_nxdomain
 local-zone: "adverts.tankchat.com" always_nxdomain
 local-zone: "ad.video.51togic.com" always_nxdomain
 local-zone: "adv.nexthardware.com" always_nxdomain
+local-zone: "adv.resto.kharkov.ua" always_nxdomain
 local-zone: "adv-sv-show.focus.cn" always_nxdomain
 local-zone: "adwords.l.google.com" always_nxdomain
 local-zone: "adx.alwatanvoice.com" always_nxdomain
@@ -15004,6 +15006,7 @@ local-zone: "reklama.botevgrad.com" always_nxdomain
 local-zone: "remedyenterprises.com" always_nxdomain
 local-zone: "revenueaccelerator.io" always_nxdomain
 local-zone: "reviveadservermod.com" always_nxdomain
+local-zone: "revive.goryiludzie.pl" always_nxdomain
 local-zone: "revive.nyheteridag.se" always_nxdomain
 local-zone: "revive.photos-box.org" always_nxdomain
 local-zone: "rewards.mythcraft.com" always_nxdomain
@@ -16058,6 +16061,7 @@ local-zone: "poweredbyliquidfire.mobi" always_nxdomain
 local-zone: "prajapatiadvertising.com" always_nxdomain
 local-zone: "projectagoraservices.com" always_nxdomain
 local-zone: "promotion.bookmyshow.com" always_nxdomain
+local-zone: "publicitate.agrointel.ro" always_nxdomain
 local-zone: "publisher-collective.com" always_nxdomain
 local-zone: "push.eldiariomontanes.es" always_nxdomain
 local-zone: "push.zhanzhang.baidu.com" always_nxdomain

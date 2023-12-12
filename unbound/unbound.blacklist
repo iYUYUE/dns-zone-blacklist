@@ -8153,6 +8153,7 @@ local-zone: "adverticum.net" always_refuse
 local-zone: "advertiser.com" always_refuse
 local-zone: "advertising.at" always_refuse
 local-zone: "advertising.ch" always_refuse
+local-zone: "advertising.cm" always_refuse
 local-zone: "advertising.de" always_refuse
 local-zone: "advertising.dk" always_refuse
 local-zone: "advertising.gr" always_refuse
@@ -14251,6 +14252,7 @@ local-zone: "advert-solutions.com" always_refuse
 local-zone: "adverts.tankchat.com" always_refuse
 local-zone: "ad.video.51togic.com" always_refuse
 local-zone: "adv.nexthardware.com" always_refuse
+local-zone: "adv.resto.kharkov.ua" always_refuse
 local-zone: "adv-sv-show.focus.cn" always_refuse
 local-zone: "adwords.l.google.com" always_refuse
 local-zone: "adx.alwatanvoice.com" always_refuse
@@ -15004,6 +15006,7 @@ local-zone: "reklama.botevgrad.com" always_refuse
 local-zone: "remedyenterprises.com" always_refuse
 local-zone: "revenueaccelerator.io" always_refuse
 local-zone: "reviveadservermod.com" always_refuse
+local-zone: "revive.goryiludzie.pl" always_refuse
 local-zone: "revive.nyheteridag.se" always_refuse
 local-zone: "revive.photos-box.org" always_refuse
 local-zone: "rewards.mythcraft.com" always_refuse
@@ -16058,6 +16061,7 @@ local-zone: "poweredbyliquidfire.mobi" always_refuse
 local-zone: "prajapatiadvertising.com" always_refuse
 local-zone: "projectagoraservices.com" always_refuse
 local-zone: "promotion.bookmyshow.com" always_refuse
+local-zone: "publicitate.agrointel.ro" always_refuse
 local-zone: "publisher-collective.com" always_refuse
 local-zone: "push.eldiariomontanes.es" always_refuse
 local-zone: "push.zhanzhang.baidu.com" always_refuse
