@@ -6697,6 +6697,7 @@ local-zone: "api.dwell.com" always_nxdomain
 local-zone: "api.hvapi.com" always_nxdomain
 local-zone: "appbaqend.com" always_nxdomain
 local-zone: "appboycdn.com" always_nxdomain
+local-zone: "appconsent.io" always_nxdomain
 local-zone: "appinions.com" always_nxdomain
 local-zone: "appjoy.agency" always_nxdomain
 local-zone: "applifier.com" always_nxdomain

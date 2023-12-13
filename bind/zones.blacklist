@@ -6697,6 +6697,7 @@ zone "api.dwell.com" { type master; notify no; file "null.zone.file"; };
 zone "api.hvapi.com" { type master; notify no; file "null.zone.file"; };
 zone "appbaqend.com" { type master; notify no; file "null.zone.file"; };
 zone "appboycdn.com" { type master; notify no; file "null.zone.file"; };
+zone "appconsent.io" { type master; notify no; file "null.zone.file"; };
 zone "appinions.com" { type master; notify no; file "null.zone.file"; };
 zone "appjoy.agency" { type master; notify no; file "null.zone.file"; };
 zone "applifier.com" { type master; notify no; file "null.zone.file"; };

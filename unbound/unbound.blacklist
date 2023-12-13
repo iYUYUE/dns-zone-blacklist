@@ -6697,6 +6697,7 @@ local-zone: "api.dwell.com" always_refuse
 local-zone: "api.hvapi.com" always_refuse
 local-zone: "appbaqend.com" always_refuse
 local-zone: "appboycdn.com" always_refuse
+local-zone: "appconsent.io" always_refuse
 local-zone: "appinions.com" always_refuse
 local-zone: "appjoy.agency" always_refuse
 local-zone: "applifier.com" always_refuse
