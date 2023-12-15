@@ -3191,6 +3191,7 @@ local-zone: "ad.akom.org" always_refuse
 local-zone: "ad.aliez.me" always_refuse
 local-zone: "adality.com" always_refuse
 local-zone: "adamatic.co" always_refuse
+local-zone: "adanad.name" always_refuse
 local-zone: "adapace.com" always_refuse
 local-zone: "ad.apl52.me" always_refuse
 local-zone: "ad.apl57.me" always_refuse
@@ -4164,6 +4165,7 @@ local-zone: "mobravo.net" always_refuse
 local-zone: "mobupps.com" always_refuse
 local-zone: "mobwolf.com" always_refuse
 local-zone: "mocean.mobi" always_refuse
+local-zone: "moistad.com" always_refuse
 local-zone: "momagic.com" always_refuse
 local-zone: "monetiza.co" always_refuse
 local-zone: "montwam.top" always_refuse
@@ -4899,6 +4901,7 @@ local-zone: "ads.bpoc.org" always_refuse
 local-zone: "adsbrook.com" always_refuse
 local-zone: "ads.cad3d.it" always_refuse
 local-zone: "ads.cargo.lt" always_refuse
+local-zone: "ads.cdn.live" always_refuse
 local-zone: "adschoom.com" always_refuse
 local-zone: "adscience.nl" always_refuse
 local-zone: "ads.clubs.ma" always_refuse
@@ -7702,6 +7705,7 @@ local-zone: "tytstudio.com" always_refuse
 local-zone: "u7kgr54jr7.ru" always_refuse
 local-zone: "unblockia.com" always_refuse
 local-zone: "undertone.com" always_refuse
+local-zone: "unisender.com" always_refuse
 local-zone: "unoblotto.net" always_refuse
 local-zone: "unrotomon.com" always_refuse
 local-zone: "unumbonum.com" always_refuse
@@ -7762,6 +7766,7 @@ local-zone: "wondocash.com" always_refuse
 local-zone: "wowyowapi.com" always_refuse
 local-zone: "wsoversea.com" always_refuse
 local-zone: "wxwf9klazp.ru" always_refuse
+local-zone: "xdisplay.site" always_refuse
 local-zone: "xekychacu.com" always_refuse
 local-zone: "xeventure.com" always_refuse
 local-zone: "xlovecash.com" always_refuse
@@ -11945,6 +11950,7 @@ local-zone: "dropkickmedia.com" always_refuse
 local-zone: "ds-4047.kxcdn.com" always_refuse
 local-zone: "dtashjvcjswq.info" always_refuse
 local-zone: "duncanchannon.com" always_refuse
+local-zone: "eas.etherscan.com" always_refuse
 local-zone: "ebrokerpartner.pl" always_refuse
 local-zone: "echo.teasernet.ru" always_refuse
 local-zone: "eclick.360doc.com" always_refuse
@@ -14495,6 +14501,7 @@ local-zone: "push.esputnik.com.ua" always_refuse
 local-zone: "pushmonetization.com" always_refuse
 local-zone: "pushnotifications.io" always_refuse
 local-zone: "push.sportskeeda.com" always_refuse
+local-zone: "pushstg.pickaboo.com" always_refuse
 local-zone: "qsdr.mysunnylawn.com" always_refuse
 local-zone: "radio.amswebdispo.de" always_refuse
 local-zone: "rakutenmarketing.com" always_refuse
@@ -17197,6 +17204,7 @@ local-zone: "adserver.maltaprofile.info.dedi3501.your-server.de" always_refuse
 local-zone: "push-notification-token-service.livesport.services" always_refuse
 local-zone: "hindsight-music-library.s3.ap-south-1.amazonaws.com" always_refuse
 local-zone: "adserver-1277986481.ap-northeast-1.elb.amazonaws.com" always_refuse
+local-zone: "dev-vertiv-xrwidgets-enh0cfcpfmhwh0az.z01.azurefd.net" always_refuse
 local-zone: "forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com" always_refuse
 local-zone: "prebid-config-open-data.s3.eu-central-1.amazonaws.com" always_refuse
 local-zone: "adwombat-services-470191665.us-east-1.elb.amazonaws.com" always_refuse

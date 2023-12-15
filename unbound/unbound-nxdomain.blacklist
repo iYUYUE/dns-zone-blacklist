@@ -3191,6 +3191,7 @@ local-zone: "ad.akom.org" always_nxdomain
 local-zone: "ad.aliez.me" always_nxdomain
 local-zone: "adality.com" always_nxdomain
 local-zone: "adamatic.co" always_nxdomain
+local-zone: "adanad.name" always_nxdomain
 local-zone: "adapace.com" always_nxdomain
 local-zone: "ad.apl52.me" always_nxdomain
 local-zone: "ad.apl57.me" always_nxdomain
@@ -4164,6 +4165,7 @@ local-zone: "mobravo.net" always_nxdomain
 local-zone: "mobupps.com" always_nxdomain
 local-zone: "mobwolf.com" always_nxdomain
 local-zone: "mocean.mobi" always_nxdomain
+local-zone: "moistad.com" always_nxdomain
 local-zone: "momagic.com" always_nxdomain
 local-zone: "monetiza.co" always_nxdomain
 local-zone: "montwam.top" always_nxdomain
@@ -4899,6 +4901,7 @@ local-zone: "ads.bpoc.org" always_nxdomain
 local-zone: "adsbrook.com" always_nxdomain
 local-zone: "ads.cad3d.it" always_nxdomain
 local-zone: "ads.cargo.lt" always_nxdomain
+local-zone: "ads.cdn.live" always_nxdomain
 local-zone: "adschoom.com" always_nxdomain
 local-zone: "adscience.nl" always_nxdomain
 local-zone: "ads.clubs.ma" always_nxdomain
@@ -7702,6 +7705,7 @@ local-zone: "tytstudio.com" always_nxdomain
 local-zone: "u7kgr54jr7.ru" always_nxdomain
 local-zone: "unblockia.com" always_nxdomain
 local-zone: "undertone.com" always_nxdomain
+local-zone: "unisender.com" always_nxdomain
 local-zone: "unoblotto.net" always_nxdomain
 local-zone: "unrotomon.com" always_nxdomain
 local-zone: "unumbonum.com" always_nxdomain
@@ -7762,6 +7766,7 @@ local-zone: "wondocash.com" always_nxdomain
 local-zone: "wowyowapi.com" always_nxdomain
 local-zone: "wsoversea.com" always_nxdomain
 local-zone: "wxwf9klazp.ru" always_nxdomain
+local-zone: "xdisplay.site" always_nxdomain
 local-zone: "xekychacu.com" always_nxdomain
 local-zone: "xeventure.com" always_nxdomain
 local-zone: "xlovecash.com" always_nxdomain
@@ -11945,6 +11950,7 @@ local-zone: "dropkickmedia.com" always_nxdomain
 local-zone: "ds-4047.kxcdn.com" always_nxdomain
 local-zone: "dtashjvcjswq.info" always_nxdomain
 local-zone: "duncanchannon.com" always_nxdomain
+local-zone: "eas.etherscan.com" always_nxdomain
 local-zone: "ebrokerpartner.pl" always_nxdomain
 local-zone: "echo.teasernet.ru" always_nxdomain
 local-zone: "eclick.360doc.com" always_nxdomain
@@ -14495,6 +14501,7 @@ local-zone: "push.esputnik.com.ua" always_nxdomain
 local-zone: "pushmonetization.com" always_nxdomain
 local-zone: "pushnotifications.io" always_nxdomain
 local-zone: "push.sportskeeda.com" always_nxdomain
+local-zone: "pushstg.pickaboo.com" always_nxdomain
 local-zone: "qsdr.mysunnylawn.com" always_nxdomain
 local-zone: "radio.amswebdispo.de" always_nxdomain
 local-zone: "rakutenmarketing.com" always_nxdomain
@@ -17197,6 +17204,7 @@ local-zone: "adserver.maltaprofile.info.dedi3501.your-server.de" always_nxdomain
 local-zone: "push-notification-token-service.livesport.services" always_nxdomain
 local-zone: "hindsight-music-library.s3.ap-south-1.amazonaws.com" always_nxdomain
 local-zone: "adserver-1277986481.ap-northeast-1.elb.amazonaws.com" always_nxdomain
+local-zone: "dev-vertiv-xrwidgets-enh0cfcpfmhwh0az.z01.azurefd.net" always_nxdomain
 local-zone: "forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com" always_nxdomain
 local-zone: "prebid-config-open-data.s3.eu-central-1.amazonaws.com" always_nxdomain
 local-zone: "adwombat-services-470191665.us-east-1.elb.amazonaws.com" always_nxdomain
