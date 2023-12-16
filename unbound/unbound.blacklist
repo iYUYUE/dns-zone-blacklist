@@ -16514,6 +16514,7 @@ local-zone: "advertising.artcity2008.com" always_refuse
 local-zone: "advertisingonlineagency.com" always_refuse
 local-zone: "advertising.valuedrugco.com" always_refuse
 local-zone: "affiliate-api.gamingtec.com" always_refuse
+local-zone: "affiliates.harvestright.com" always_refuse
 local-zone: "affiliates.webrotate360.com" always_refuse
 local-zone: "affiliation.groupe-ldlc.com" always_refuse
 local-zone: "aheadofthegamemarketing.com" always_refuse
@@ -16647,6 +16648,7 @@ local-zone: "d3q33rbmdkxzj.cloudfront.net" always_refuse
 local-zone: "d7x5nblzs94me.cloudfront.net" always_refuse
 local-zone: "d8yw4927nnimu.cloudfront.net" always_refuse
 local-zone: "dashboard.evolveplatform.net" always_refuse
+local-zone: "dbcpu9gznkryx.cloudfront.net" always_refuse
 local-zone: "dbejeqv8nk3po.cloudfront.net" always_refuse
 local-zone: "dc5di0w7yyxz9.cloudfront.net" always_refuse
 local-zone: "dd7ihopnvjirc.cloudfront.net" always_refuse
