@@ -2441,6 +2441,7 @@ local-zone: "ligadx.com" always_refuse
 local-zone: "ligatus.de" always_refuse
 local-zone: "linkad.com" always_refuse
 local-zone: "linkspy.cc" always_refuse
+local-zone: "linxxx.net" always_refuse
 local-zone: "liqwid.net" always_refuse
 local-zone: "liveads.jp" always_refuse
 local-zone: "livere.com" always_refuse
@@ -3632,6 +3633,7 @@ local-zone: "akiedge.com" always_refuse
 local-zone: "alertzy.app" always_refuse
 local-zone: "algovid.com" always_refuse
 local-zone: "alimama.com" always_refuse
+local-zone: "alinkad.com" always_refuse
 local-zone: "allroll.com" always_refuse
 local-zone: "alovirs.com" always_refuse
 local-zone: "alphaads.co" always_refuse
@@ -6761,6 +6763,7 @@ local-zone: "banner.imh.dk" always_refuse
 local-zone: "bannernow.com" always_refuse
 local-zone: "bannertjes.nl" always_refuse
 local-zone: "bannerwise.io" always_refuse
+local-zone: "banneryear.io" always_refuse
 local-zone: "barkernyc.com" always_refuse
 local-zone: "bbbpromos.org" always_refuse
 local-zone: "bcansw.com.au" always_refuse
@@ -15866,6 +15869,7 @@ local-zone: "staticaws.365scores.com" always_refuse
 local-zone: "stream.ezanvaktipro.com" always_refuse
 local-zone: "targetmediapartners.com" always_refuse
 local-zone: "theaffiliategateway.com" always_refuse
+local-zone: "topsites.jlbnetwork.com" always_refuse
 local-zone: "totalmarketexposure.com" always_refuse
 local-zone: "trafficex.adlandpro.com" always_refuse
 local-zone: "tramadol2006.3xforum.ro" always_refuse
