@@ -1907,6 +1907,7 @@ local-zone: "affied.com" always_refuse
 local-zone: "affili.net" always_refuse
 local-zone: "affise.com" always_refuse
 local-zone: "afflow.com" always_refuse
+local-zone: "afilio.com" always_refuse
 local-zone: "agency.com" always_refuse
 local-zone: "aghutv.com" always_refuse
 local-zone: "agnitas.de" always_refuse
@@ -6593,6 +6594,7 @@ local-zone: "ad.tpmn.co.kr" always_refuse
 local-zone: "adtrafico.com" always_refuse
 local-zone: "ad.tunbox.com" always_refuse
 local-zone: "adtycoons.com" always_refuse
+local-zone: "adultforce.co" always_refuse
 local-zone: "adultrium.com" always_refuse
 local-zone: "ad.unimhk.com" always_refuse
 local-zone: "adup-tech.com" always_refuse
@@ -8149,11 +8151,13 @@ local-zone: "ads.zegrir.com" always_refuse
 local-zone: "adtechserv.com" always_refuse
 local-zone: "adtechworld.in" always_refuse
 local-zone: "adtheorent.com" always_refuse
+local-zone: "adtonement.com" always_refuse
 local-zone: "adtrace.online" always_refuse
 local-zone: "adtraction.com" always_refuse
 local-zone: "ad.truerun.com" always_refuse
 local-zone: "ad.ulanding.io" always_refuse
 local-zone: "adultforce.com" always_refuse
+local-zone: "adultforce.net" always_refuse
 local-zone: "adultsense.com" always_refuse
 local-zone: "adultsense.net" always_refuse
 local-zone: "advamos.com.tr" always_refuse
@@ -8396,6 +8400,8 @@ local-zone: "connectplus.io" always_refuse
 local-zone: "consent.dii.eu" always_refuse
 local-zone: "consoliads.com" always_refuse
 local-zone: "consumable.com" always_refuse
+local-zone: "contact-xxx.be" always_refuse
+local-zone: "contact-xxx.nl" always_refuse
 local-zone: "contentabc.com" always_refuse
 local-zone: "content-ad.net" always_refuse
 local-zone: "contentsvr.com" always_refuse
@@ -9576,6 +9582,7 @@ local-zone: "adtouchlabs.com" always_refuse
 local-zone: "adtplatform.com" always_refuse
 local-zone: "adtracker.co.za" always_refuse
 local-zone: "ad.u-car.com.tw" always_refuse
+local-zone: "adult-force.com" always_refuse
 local-zone: "adultsense.info" always_refuse
 local-zone: "advadnetwork.me" always_refuse
 local-zone: "adv.alsscan.com" always_refuse
@@ -9788,6 +9795,7 @@ local-zone: "collectcent.com" always_refuse
 local-zone: "connexity.co.uk" always_refuse
 local-zone: "constintptr.com" always_refuse
 local-zone: "consultwebs.com" always_refuse
+local-zone: "contact-xxx.com" always_refuse
 local-zone: "content.chip.de" always_refuse
 local-zone: "contentpass.net" always_refuse
 local-zone: "contextads.live" always_refuse
@@ -10793,6 +10801,7 @@ local-zone: "ad.trialsport.ru" always_refuse
 local-zone: "adtrustmedia.com" always_refuse
 local-zone: "ad.udisclive.com" always_refuse
 local-zone: "adultadworld.com" always_refuse
+local-zone: "adult-forces.com" always_refuse
 local-zone: "adv-adserver.com" always_refuse
 local-zone: "advancedtv5g.com" always_refuse
 local-zone: "advangelists.com" always_refuse
@@ -12232,6 +12241,7 @@ local-zone: "privacymanager.io" always_refuse
 local-zone: "pr.messe-essen.de" always_refuse
 local-zone: "programatik.email" always_refuse
 local-zone: "promo.cazillo.com" always_refuse
+local-zone: "promo.purlive.com" always_refuse
 local-zone: "protectsubrev.com" always_refuse
 local-zone: "publicidade.jn.pt" always_refuse
 local-zone: "publicidadpro.com" always_refuse
@@ -15998,6 +16008,7 @@ local-zone: "ads.universogaditano.com" always_refuse
 local-zone: "ads.webfamilie-speyer.de" always_refuse
 local-zone: "ads.whatsonhighlands.com" always_refuse
 local-zone: "ads.xtremedevelopers.com" always_refuse
+local-zone: "adultpopundertraffic.com" always_refuse
 local-zone: "adv6.grupopreferente.com" always_refuse
 local-zone: "advanceyourplacement.com" always_refuse
 local-zone: "adv.anhsangvacuocsong.vn" always_refuse
