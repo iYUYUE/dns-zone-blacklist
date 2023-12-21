@@ -16561,6 +16561,7 @@ local-zone: "dnderkfeab66.cloudfront.net" always_refuse
 local-zone: "expertinternetmarketing.com" always_refuse
 local-zone: "feeds-elections.foxnews.com" always_refuse
 local-zone: "fiercecougaradvertising.com" always_refuse
+local-zone: "frankly.images.worldnow.com" always_refuse
 local-zone: "game-advertising-online.com" always_refuse
 local-zone: "harvestcreativeservices.com" always_refuse
 local-zone: "hawk.digitalcameraworld.com" always_refuse
@@ -16925,6 +16926,7 @@ local-zone: "digitaladvertisingalliance.org" always_refuse
 local-zone: "digitalmediacommunications.com" always_refuse
 local-zone: "fullspectrumcommunications.com" always_refuse
 local-zone: "marketing.dickinson-wright.com" always_refuse
+local-zone: "mgu-embed-config.community.com" always_refuse
 local-zone: "murciaeconomia.folioserver.com" always_refuse
 local-zone: "nationaloutdooradvertising.com" always_refuse
 local-zone: "nativeadvertisinginstitute.com" always_refuse

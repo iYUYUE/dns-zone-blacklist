@@ -16561,6 +16561,7 @@ zone "dnderkfeab66.cloudfront.net" { type master; notify no; file "null.zone.fil
 zone "expertinternetmarketing.com" { type master; notify no; file "null.zone.file"; };
 zone "feeds-elections.foxnews.com" { type master; notify no; file "null.zone.file"; };
 zone "fiercecougaradvertising.com" { type master; notify no; file "null.zone.file"; };
+zone "frankly.images.worldnow.com" { type master; notify no; file "null.zone.file"; };
 zone "game-advertising-online.com" { type master; notify no; file "null.zone.file"; };
 zone "harvestcreativeservices.com" { type master; notify no; file "null.zone.file"; };
 zone "hawk.digitalcameraworld.com" { type master; notify no; file "null.zone.file"; };
@@ -16925,6 +16926,7 @@ zone "digitaladvertisingalliance.org" { type master; notify no; file "null.zone.
 zone "digitalmediacommunications.com" { type master; notify no; file "null.zone.file"; };
 zone "fullspectrumcommunications.com" { type master; notify no; file "null.zone.file"; };
 zone "marketing.dickinson-wright.com" { type master; notify no; file "null.zone.file"; };
+zone "mgu-embed-config.community.com" { type master; notify no; file "null.zone.file"; };
 zone "murciaeconomia.folioserver.com" { type master; notify no; file "null.zone.file"; };
 zone "nationaloutdooradvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "nativeadvertisinginstitute.com" { type master; notify no; file "null.zone.file"; };
