@@ -6086,6 +6086,7 @@ local-zone: "trokemar.com" always_refuse
 local-zone: "trueberry.in" always_refuse
 local-zone: "truepush.com" always_refuse
 local-zone: "trustarc.com" always_refuse
+local-zone: "tryamped.com" always_refuse
 local-zone: "trybrick.com" always_refuse
 local-zone: "tubberlo.com" always_refuse
 local-zone: "tubecorp.com" always_refuse
@@ -7411,6 +7412,7 @@ local-zone: "playrcart.com" always_refuse
 local-zone: "pointroll.com" always_refuse
 local-zone: "polarbyte.com" always_refuse
 local-zone: "polydarth.com" always_refuse
+local-zone: "pooye-ads.com" always_refuse
 local-zone: "popadvert.com" always_refuse
 local-zone: "popbounty.com" always_refuse
 local-zone: "popbutler.com" always_refuse
