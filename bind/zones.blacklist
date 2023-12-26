@@ -12240,6 +12240,7 @@ zone "popundertotal.com" { type master; notify no; file "null.zone.file"; };
 zone "postman.strana.de" { type master; notify no; file "null.zone.file"; };
 zone "povaffiliates.com" { type master; notify no; file "null.zone.file"; };
 zone "pqrtd9hhtu9x.info" { type master; notify no; file "null.zone.file"; };
+zone "prebid-server.com" { type master; notify no; file "null.zone.file"; };
 zone "premiumads.com.br" { type master; notify no; file "null.zone.file"; };
 zone "presscommtech.com" { type master; notify no; file "null.zone.file"; };
 zone "pressekompass.net" { type master; notify no; file "null.zone.file"; };
