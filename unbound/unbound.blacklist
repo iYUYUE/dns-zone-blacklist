@@ -3690,6 +3690,7 @@ local-zone: "azadify.com" always_refuse
 local-zone: "azadv.co.il" always_refuse
 local-zone: "azyi9utz.ru" always_refuse
 local-zone: "b21ywa9a.ru" always_refuse
+local-zone: "baducdn.com" always_refuse
 local-zone: "balihoo.com" always_refuse
 local-zone: "bam-ads.com" always_refuse
 local-zone: "bandujo.com" always_refuse
@@ -6754,6 +6755,7 @@ local-zone: "ayotising.com" always_refuse
 local-zone: "b6c6k88qe1.ru" always_refuse
 local-zone: "backtracks.fm" always_refuse
 local-zone: "ba-content.de" always_refuse
+local-zone: "badcdnusa.com" always_refuse
 local-zone: "baharnani.com" always_refuse
 local-zone: "baletingo.com" always_refuse
 local-zone: "bamifyads.com" always_refuse
@@ -8473,6 +8475,7 @@ local-zone: "dpinspire.mobi" always_refuse
 local-zone: "dr2.yandex.net" always_refuse
 local-zone: "dream-cash.com" always_refuse
 local-zone: "dreamentia.com" always_refuse
+local-zone: "drevniicdn.com" always_refuse
 local-zone: "dutchleader.nl" always_refuse
 local-zone: "dzrs3yuexz.com" always_refuse
 local-zone: "e9geolgzk6.com" always_refuse
@@ -8569,6 +8572,7 @@ local-zone: "gravitec.media" always_refuse
 local-zone: "greystripe.com" always_refuse
 local-zone: "grimmel.com.au" always_refuse
 local-zone: "groovinads.com" always_refuse
+local-zone: "groupmphone.be" always_refuse
 local-zone: "growmobile.com" always_refuse
 local-zone: "harpsocial.com" always_refuse
 local-zone: "harris-hmg.com" always_refuse
@@ -8612,6 +8616,7 @@ local-zone: "indieclick.com" always_refuse
 local-zone: "indigitall.com" always_refuse
 local-zone: "indigitall.net" always_refuse
 local-zone: "indoadsnet.com" always_refuse
+local-zone: "industrium.com" always_refuse
 local-zone: "infinigrow.com" always_refuse
 local-zone: "influitive.com" always_refuse
 local-zone: "inkornesto.com" always_refuse
@@ -9857,6 +9862,7 @@ local-zone: "doubleclick.net" always_refuse
 local-zone: "doubleclick.pro" always_refuse
 local-zone: "dpguystuff.mobi" always_refuse
 local-zone: "drakecooper.com" always_refuse
+local-zone: "drevniicdns.com" always_refuse
 local-zone: "drivealexus.com" always_refuse
 local-zone: "dropout.company" always_refuse
 local-zone: "dropthought.com" always_refuse
@@ -15800,6 +15806,7 @@ local-zone: "dontblock.jav1jav2.buzz" always_refuse
 local-zone: "doubleclickbygoogle.com" always_refuse
 local-zone: "downloads.mailchimp.com" always_refuse
 local-zone: "enginemediaexchange.com" always_refuse
+local-zone: "ethniconlinenetwork.com" always_refuse
 local-zone: "ex.instanttvchannel.com" always_refuse
 local-zone: "fireworkadservices1.com" always_refuse
 local-zone: "freememes.desiceleb.top" always_refuse
@@ -17120,6 +17127,7 @@ local-zone: "vns121.oss-cn-hongkong.aliyuncs.com" always_refuse
 local-zone: "webapplicationstreamingnetwork.info" always_refuse
 local-zone: "wixlabs-adsense-v3.uc.r.appspot.com" always_refuse
 local-zone: "xpjtu7.oss-cn-hangzhou.aliyuncs.com" always_refuse
+local-zone: "6a29f2964719025ed21ad70eada81a50.com" always_refuse
 local-zone: "aax-us-east-retail-direct.amazon.com" always_refuse
 local-zone: "ads.colegiodeabogadosresistencia.org" always_refuse
 local-zone: "adserver.associationheadquarters.com" always_refuse
