@@ -9947,6 +9947,7 @@ zone "hairy-level.pro" { type master; notify no; file "null.zone.file"; };
 zone "halibutblue.com" { type master; notify no; file "null.zone.file"; };
 zone "hb.zariumhb.com" { type master; notify no; file "null.zone.file"; };
 zone "hearstgames.com" { type master; notify no; file "null.zone.file"; };
+zone "hellscdnusa.com" { type master; notify no; file "null.zone.file"; };
 zone "helltraffic.com" { type master; notify no; file "null.zone.file"; };
 zone "hightower.video" { type master; notify no; file "null.zone.file"; };
 zone "hitadsmedia.com" { type master; notify no; file "null.zone.file"; };
