@@ -15936,6 +15936,7 @@ local-zone: "ad-dev.globalnoticias.pt" always_nxdomain
 local-zone: "adfarm.lidkopingsnytt.nu" always_nxdomain
 local-zone: "adimages.startribune.com" always_nxdomain
 local-zone: "ad.jeune-independant.net" always_nxdomain
+local-zone: "ad.mediaprimaplus.com.my" always_nxdomain
 local-zone: "adnet.bunnyandvolkov.com" always_nxdomain
 local-zone: "adnetworkperformance.com" always_nxdomain
 local-zone: "adn.sportsbookreview.com" always_nxdomain
@@ -17245,6 +17246,7 @@ local-zone: "adserver-1277986481.ap-northeast-1.elb.amazonaws.com" always_nxdoma
 local-zone: "dev-vertiv-xrwidgets-enh0cfcpfmhwh0az.z01.azurefd.net" always_nxdomain
 local-zone: "forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com" always_nxdomain
 local-zone: "prebid-config-open-data.s3.eu-central-1.amazonaws.com" always_nxdomain
+local-zone: "asia-southeast1-gae-redirector-prod.cloudfunctions.net" always_nxdomain
 local-zone: "adwombat-services-470191665.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "adserver-prod-alb-2114072997.us-west-2.elb.amazonaws.com" always_nxdomain
 local-zone: "adserver-vpc-alb-3-917510562.us-east-1.elb.amazonaws.com" always_nxdomain

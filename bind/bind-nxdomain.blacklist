@@ -31878,6 +31878,8 @@ adimages.startribune.com CNAME .
 *.adimages.startribune.com CNAME .
 ad.jeune-independant.net CNAME .
 *.ad.jeune-independant.net CNAME .
+ad.mediaprimaplus.com.my CNAME .
+*.ad.mediaprimaplus.com.my CNAME .
 adnet.bunnyandvolkov.com CNAME .
 *.adnet.bunnyandvolkov.com CNAME .
 adnetworkperformance.com CNAME .
@@ -34496,6 +34498,8 @@ forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com CNAME .
 *.forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com CNAME .
 prebid-config-open-data.s3.eu-central-1.amazonaws.com CNAME .
 *.prebid-config-open-data.s3.eu-central-1.amazonaws.com CNAME .
+asia-southeast1-gae-redirector-prod.cloudfunctions.net CNAME .
+*.asia-southeast1-gae-redirector-prod.cloudfunctions.net CNAME .
 adwombat-services-470191665.us-east-1.elb.amazonaws.com CNAME .
 *.adwombat-services-470191665.us-east-1.elb.amazonaws.com CNAME .
 adserver-prod-alb-2114072997.us-west-2.elb.amazonaws.com CNAME .

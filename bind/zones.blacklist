@@ -15936,6 +15936,7 @@ zone "ad-dev.globalnoticias.pt" { type master; notify no; file "null.zone.file";
 zone "adfarm.lidkopingsnytt.nu" { type master; notify no; file "null.zone.file"; };
 zone "adimages.startribune.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.jeune-independant.net" { type master; notify no; file "null.zone.file"; };
+zone "ad.mediaprimaplus.com.my" { type master; notify no; file "null.zone.file"; };
 zone "adnet.bunnyandvolkov.com" { type master; notify no; file "null.zone.file"; };
 zone "adnetworkperformance.com" { type master; notify no; file "null.zone.file"; };
 zone "adn.sportsbookreview.com" { type master; notify no; file "null.zone.file"; };
@@ -17245,6 +17246,7 @@ zone "adserver-1277986481.ap-northeast-1.elb.amazonaws.com" { type master; notif
 zone "dev-vertiv-xrwidgets-enh0cfcpfmhwh0az.z01.azurefd.net" { type master; notify no; file "null.zone.file"; };
 zone "forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "prebid-config-open-data.s3.eu-central-1.amazonaws.com" { type master; notify no; file "null.zone.file"; };
+zone "asia-southeast1-gae-redirector-prod.cloudfunctions.net" { type master; notify no; file "null.zone.file"; };
 zone "adwombat-services-470191665.us-east-1.elb.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "adserver-prod-alb-2114072997.us-west-2.elb.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "adserver-vpc-alb-3-917510562.us-east-1.elb.amazonaws.com" { type master; notify no; file "null.zone.file"; };

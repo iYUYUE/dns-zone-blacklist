@@ -15936,6 +15936,7 @@ local-zone: "ad-dev.globalnoticias.pt" always_refuse
 local-zone: "adfarm.lidkopingsnytt.nu" always_refuse
 local-zone: "adimages.startribune.com" always_refuse
 local-zone: "ad.jeune-independant.net" always_refuse
+local-zone: "ad.mediaprimaplus.com.my" always_refuse
 local-zone: "adnet.bunnyandvolkov.com" always_refuse
 local-zone: "adnetworkperformance.com" always_refuse
 local-zone: "adn.sportsbookreview.com" always_refuse
@@ -17245,6 +17246,7 @@ local-zone: "adserver-1277986481.ap-northeast-1.elb.amazonaws.com" always_refuse
 local-zone: "dev-vertiv-xrwidgets-enh0cfcpfmhwh0az.z01.azurefd.net" always_refuse
 local-zone: "forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com" always_refuse
 local-zone: "prebid-config-open-data.s3.eu-central-1.amazonaws.com" always_refuse
+local-zone: "asia-southeast1-gae-redirector-prod.cloudfunctions.net" always_refuse
 local-zone: "adwombat-services-470191665.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "adserver-prod-alb-2114072997.us-west-2.elb.amazonaws.com" always_refuse
 local-zone: "adserver-vpc-alb-3-917510562.us-east-1.elb.amazonaws.com" always_refuse
