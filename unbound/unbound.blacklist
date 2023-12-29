@@ -6546,6 +6546,7 @@ local-zone: "adsrivera.com" always_refuse
 local-zone: "adsrv.beta.rs" always_refuse
 local-zone: "ads.rvg.co.id" always_refuse
 local-zone: "adsrv.kobi.tv" always_refuse
+local-zone: "ads.scored.co" always_refuse
 local-zone: "ads.shasha.ps" always_refuse
 local-zone: "ads.shorte.st" always_refuse
 local-zone: "ads.sjon.info" always_refuse

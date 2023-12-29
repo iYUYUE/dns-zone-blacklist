@@ -6546,6 +6546,7 @@ zone "adsrivera.com" { type master; notify no; file "null.zone.file"; };
 zone "adsrv.beta.rs" { type master; notify no; file "null.zone.file"; };
 zone "ads.rvg.co.id" { type master; notify no; file "null.zone.file"; };
 zone "adsrv.kobi.tv" { type master; notify no; file "null.zone.file"; };
+zone "ads.scored.co" { type master; notify no; file "null.zone.file"; };
 zone "ads.shasha.ps" { type master; notify no; file "null.zone.file"; };
 zone "ads.shorte.st" { type master; notify no; file "null.zone.file"; };
 zone "ads.sjon.info" { type master; notify no; file "null.zone.file"; };
