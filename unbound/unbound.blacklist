@@ -5957,6 +5957,7 @@ local-zone: "saleslead.pk" always_refuse
 local-zone: "sarojads.com" always_refuse
 local-zone: "saymedia.com" always_refuse
 local-zone: "sbbanner.com" always_refuse
+local-zone: "sbi-push.com" always_refuse
 local-zone: "scroll.co.nz" always_refuse
 local-zone: "scuseami.net" always_refuse
 local-zone: "seaofads.com" always_refuse
