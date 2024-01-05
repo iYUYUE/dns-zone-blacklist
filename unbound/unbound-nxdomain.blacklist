@@ -11339,6 +11339,7 @@ local-zone: "sharethrough.com" always_nxdomain
 local-zone: "shophermedia.com" always_nxdomain
 local-zone: "shophermedia.net" always_nxdomain
 local-zone: "showyoursite.com" always_nxdomain
+local-zone: "shurooqmedia.com" always_nxdomain
 local-zone: "silveragency.com" always_nxdomain
 local-zone: "simpleads.com.br" always_nxdomain
 local-zone: "simpleapps.store" always_nxdomain
@@ -13125,6 +13126,7 @@ local-zone: "shakyadigitech.com" always_nxdomain
 local-zone: "sharpgrowth.com.au" always_nxdomain
 local-zone: "sherwoodsutton.pro" always_nxdomain
 local-zone: "shrillinstance.pro" always_nxdomain
+local-zone: "shutter-events.com" always_nxdomain
 local-zone: "simg.imadrep.co.kr" always_nxdomain
 local-zone: "sjsmartcontent.org" always_nxdomain
 local-zone: "smarterclick.co.uk" always_nxdomain
@@ -17280,6 +17282,7 @@ local-zone: "caltimes-sdut-marketing-assets-dev.s3-us-west-2.amazonaws.com" alwa
 local-zone: "foureyes-adpearance-com-440548151.us-west-2.elb.amazonaws.com" always_nxdomain
 local-zone: "a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com" always_nxdomain
 local-zone: "a.4fa3df6bdd29062d8558b55bb06fb2885592fcf83cf99e4909483c81.com" always_nxdomain
+local-zone: "a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com" always_nxdomain
 local-zone: "a.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com" always_nxdomain
 local-zone: "ad-interactions-prod-lb-1606894468.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "opinionadsadserverelbvpc-1611782868.us-east-1.elb.amazonaws.com" always_nxdomain
