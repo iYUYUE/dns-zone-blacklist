@@ -2019,6 +2019,7 @@ local-zone: "bmfads.com" always_nxdomain
 local-zone: "bmsend.com" always_nxdomain
 local-zone: "bmstox.com" always_nxdomain
 local-zone: "bndozm.com" always_nxdomain
+local-zone: "bngdin.com" always_nxdomain
 local-zone: "bngprl.com" always_nxdomain
 local-zone: "bngpst.com" always_nxdomain
 local-zone: "bnrdom.com" always_nxdomain
@@ -11336,8 +11337,10 @@ local-zone: "servecontent.net" always_nxdomain
 local-zone: "shafttraffic.com" always_nxdomain
 local-zone: "share-a-link.com" always_nxdomain
 local-zone: "sharethrough.com" always_nxdomain
+local-zone: "shopgamescdn.com" always_nxdomain
 local-zone: "shophermedia.com" always_nxdomain
 local-zone: "shophermedia.net" always_nxdomain
+local-zone: "shopvideocdn.com" always_nxdomain
 local-zone: "showyoursite.com" always_nxdomain
 local-zone: "shurooqmedia.com" always_nxdomain
 local-zone: "silveragency.com" always_nxdomain

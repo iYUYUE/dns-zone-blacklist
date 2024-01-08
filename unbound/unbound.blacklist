@@ -2019,6 +2019,7 @@ local-zone: "bmfads.com" always_refuse
 local-zone: "bmsend.com" always_refuse
 local-zone: "bmstox.com" always_refuse
 local-zone: "bndozm.com" always_refuse
+local-zone: "bngdin.com" always_refuse
 local-zone: "bngprl.com" always_refuse
 local-zone: "bngpst.com" always_refuse
 local-zone: "bnrdom.com" always_refuse
@@ -11336,8 +11337,10 @@ local-zone: "servecontent.net" always_refuse
 local-zone: "shafttraffic.com" always_refuse
 local-zone: "share-a-link.com" always_refuse
 local-zone: "sharethrough.com" always_refuse
+local-zone: "shopgamescdn.com" always_refuse
 local-zone: "shophermedia.com" always_refuse
 local-zone: "shophermedia.net" always_refuse
+local-zone: "shopvideocdn.com" always_refuse
 local-zone: "showyoursite.com" always_refuse
 local-zone: "shurooqmedia.com" always_refuse
 local-zone: "silveragency.com" always_refuse
