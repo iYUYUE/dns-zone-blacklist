@@ -11590,6 +11590,7 @@ local-zone: "admidainsight.com" always_refuse
 local-zone: "ad.nashagazeta.ch" always_refuse
 local-zone: "ad-ndtv.3s.com.vn" always_refuse
 local-zone: "ad.near-place.com" always_refuse
+local-zone: "adnetwork.digital" always_refuse
 local-zone: "ad.nextvalue.site" always_refuse
 local-zone: "ad.patikatukor.hu" always_refuse
 local-zone: "adpeepshosted.com" always_refuse

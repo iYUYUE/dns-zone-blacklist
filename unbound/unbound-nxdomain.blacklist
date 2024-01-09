@@ -11590,6 +11590,7 @@ local-zone: "admidainsight.com" always_nxdomain
 local-zone: "ad.nashagazeta.ch" always_nxdomain
 local-zone: "ad-ndtv.3s.com.vn" always_nxdomain
 local-zone: "ad.near-place.com" always_nxdomain
+local-zone: "adnetwork.digital" always_nxdomain
 local-zone: "ad.nextvalue.site" always_nxdomain
 local-zone: "ad.patikatukor.hu" always_nxdomain
 local-zone: "adpeepshosted.com" always_nxdomain

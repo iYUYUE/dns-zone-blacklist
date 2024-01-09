@@ -11590,6 +11590,7 @@ zone "admidainsight.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.nashagazeta.ch" { type master; notify no; file "null.zone.file"; };
 zone "ad-ndtv.3s.com.vn" { type master; notify no; file "null.zone.file"; };
 zone "ad.near-place.com" { type master; notify no; file "null.zone.file"; };
+zone "adnetwork.digital" { type master; notify no; file "null.zone.file"; };
 zone "ad.nextvalue.site" { type master; notify no; file "null.zone.file"; };
 zone "ad.patikatukor.hu" { type master; notify no; file "null.zone.file"; };
 zone "adpeepshosted.com" { type master; notify no; file "null.zone.file"; };
