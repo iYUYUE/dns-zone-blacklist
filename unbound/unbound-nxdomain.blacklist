@@ -1405,6 +1405,7 @@ local-zone: "viads.net" always_nxdomain
 local-zone: "vidads.gr" always_nxdomain
 local-zone: "vidads.in" always_nxdomain
 local-zone: "vimmy.com" always_nxdomain
+local-zone: "vipads.cc" always_nxdomain
 local-zone: "vlyby.com" always_nxdomain
 local-zone: "vmedia.fr" always_nxdomain
 local-zone: "vntsm.com" always_nxdomain
@@ -4577,6 +4578,7 @@ local-zone: "viewlnk.com" always_nxdomain
 local-zone: "vincodo.com" always_nxdomain
 local-zone: "vionito.com" always_nxdomain
 local-zone: "viously.com" always_nxdomain
+local-zone: "vipads.live" always_nxdomain
 local-zone: "viralize.tv" always_nxdomain
 local-zone: "virleth.com" always_nxdomain
 local-zone: "visitbox.de" always_nxdomain

@@ -1405,6 +1405,7 @@ local-zone: "viads.net" always_refuse
 local-zone: "vidads.gr" always_refuse
 local-zone: "vidads.in" always_refuse
 local-zone: "vimmy.com" always_refuse
+local-zone: "vipads.cc" always_refuse
 local-zone: "vlyby.com" always_refuse
 local-zone: "vmedia.fr" always_refuse
 local-zone: "vntsm.com" always_refuse
@@ -4577,6 +4578,7 @@ local-zone: "viewlnk.com" always_refuse
 local-zone: "vincodo.com" always_refuse
 local-zone: "vionito.com" always_refuse
 local-zone: "viously.com" always_refuse
+local-zone: "vipads.live" always_refuse
 local-zone: "viralize.tv" always_refuse
 local-zone: "virleth.com" always_refuse
 local-zone: "visitbox.de" always_refuse
