@@ -12407,6 +12407,7 @@ zone "trustmarkthai.com" { type master; notify no; file "null.zone.file"; };
 zone "tsadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "tubeadnetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "tubecorporate.com" { type master; notify no; file "null.zone.file"; };
+zone "twitchcdnshop.com" { type master; notify no; file "null.zone.file"; };
 zone "uezbshzpdcbb.info" { type master; notify no; file "null.zone.file"; };
 zone "uk.boffinsoft.com" { type master; notify no; file "null.zone.file"; };
 zone "ultraadserver.com" { type master; notify no; file "null.zone.file"; };
