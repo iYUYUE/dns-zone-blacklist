@@ -5337,6 +5337,7 @@ zone "customad.net" { type master; notify no; file "null.zone.file"; };
 zone "customads.co" { type master; notify no; file "null.zone.file"; };
 zone "cyrusson.com" { type master; notify no; file "null.zone.file"; };
 zone "czilladx.com" { type master; notify no; file "null.zone.file"; };
+zone "daartads.com" { type master; notify no; file "null.zone.file"; };
 zone "dailyfeed.kr" { type master; notify no; file "null.zone.file"; };
 zone "daisycon.com" { type master; notify no; file "null.zone.file"; };
 zone "data.cnn.com" { type master; notify no; file "null.zone.file"; };

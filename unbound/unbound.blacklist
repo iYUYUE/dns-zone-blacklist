@@ -5337,6 +5337,7 @@ local-zone: "customad.net" always_refuse
 local-zone: "customads.co" always_refuse
 local-zone: "cyrusson.com" always_refuse
 local-zone: "czilladx.com" always_refuse
+local-zone: "daartads.com" always_refuse
 local-zone: "dailyfeed.kr" always_refuse
 local-zone: "daisycon.com" always_refuse
 local-zone: "data.cnn.com" always_refuse

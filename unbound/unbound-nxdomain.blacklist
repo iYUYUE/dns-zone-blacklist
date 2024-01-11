@@ -5337,6 +5337,7 @@ local-zone: "customad.net" always_nxdomain
 local-zone: "customads.co" always_nxdomain
 local-zone: "cyrusson.com" always_nxdomain
 local-zone: "czilladx.com" always_nxdomain
+local-zone: "daartads.com" always_nxdomain
 local-zone: "dailyfeed.kr" always_nxdomain
 local-zone: "daisycon.com" always_nxdomain
 local-zone: "data.cnn.com" always_nxdomain
