@@ -1872,6 +1872,7 @@ local-zone: "advista.no" always_nxdomain
 local-zone: "adviva.net" always_nxdomain
 local-zone: "adv.r7.com" always_nxdomain
 local-zone: "advsnx.net" always_nxdomain
+local-zone: "advurl.com" always_nxdomain
 local-zone: "adways.com" always_nxdomain
 local-zone: "adways.net" always_nxdomain
 local-zone: "adwerx.com" always_nxdomain
@@ -2896,6 +2897,7 @@ local-zone: "therba.com" always_nxdomain
 local-zone: "thevab.com" always_nxdomain
 local-zone: "tip-ads.de" always_nxdomain
 local-zone: "tljivh.com" always_nxdomain
+local-zone: "tm-ads.net" always_nxdomain
 local-zone: "tmatch.com" always_nxdomain
 local-zone: "tmrjmp.com" always_nxdomain
 local-zone: "tneduf.com" always_nxdomain
