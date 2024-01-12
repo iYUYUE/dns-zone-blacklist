@@ -14087,6 +14087,7 @@ local-zone: "ad.charltonmedia.com" always_nxdomain
 local-zone: "adclient1.tucows.com" always_nxdomain
 local-zone: "adcreator.mobpro.com" always_nxdomain
 local-zone: "adcryptocoin.website" always_nxdomain
+local-zone: "addisplaynetwork.com" always_nxdomain
 local-zone: "ad.dlrwebservice.com" always_nxdomain
 local-zone: "ad.etnetchina.com.cn" always_nxdomain
 local-zone: "ad.ichiban-boshi.com" always_nxdomain

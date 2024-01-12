@@ -14087,6 +14087,7 @@ local-zone: "ad.charltonmedia.com" always_refuse
 local-zone: "adclient1.tucows.com" always_refuse
 local-zone: "adcreator.mobpro.com" always_refuse
 local-zone: "adcryptocoin.website" always_refuse
+local-zone: "addisplaynetwork.com" always_refuse
 local-zone: "ad.dlrwebservice.com" always_refuse
 local-zone: "ad.etnetchina.com.cn" always_refuse
 local-zone: "ad.ichiban-boshi.com" always_refuse

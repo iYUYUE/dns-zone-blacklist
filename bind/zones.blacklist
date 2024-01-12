@@ -14087,6 +14087,7 @@ zone "ad.charltonmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "adclient1.tucows.com" { type master; notify no; file "null.zone.file"; };
 zone "adcreator.mobpro.com" { type master; notify no; file "null.zone.file"; };
 zone "adcryptocoin.website" { type master; notify no; file "null.zone.file"; };
+zone "addisplaynetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.dlrwebservice.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.etnetchina.com.cn" { type master; notify no; file "null.zone.file"; };
 zone "ad.ichiban-boshi.com" { type master; notify no; file "null.zone.file"; };
