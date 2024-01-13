@@ -2997,7 +2997,6 @@ zone "vkwaeo.com" { type master; notify no; file "null.zone.file"; };
 zone "vmmpxl.com" { type master; notify no; file "null.zone.file"; };
 zone "vnrvss.com" { type master; notify no; file "null.zone.file"; };
 zone "voodoo.com" { type master; notify no; file "null.zone.file"; };
-zone "vp.nyt.com" { type master; notify no; file "null.zone.file"; };
 zone "vqmcyx.com" { type master; notify no; file "null.zone.file"; };
 zone "vrixon.com" { type master; notify no; file "null.zone.file"; };
 zone "vrtcal.com" { type master; notify no; file "null.zone.file"; };
