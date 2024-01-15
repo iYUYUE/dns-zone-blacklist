@@ -8398,6 +8398,7 @@ local-zone: "click-push.com" always_refuse
 local-zone: "clickranco.com" always_refuse
 local-zone: "click.sinx.com" always_refuse
 local-zone: "clicksmedia.in" always_refuse
+local-zone: "clicktimes.bid" always_refuse
 local-zone: "clicktrade.com" always_refuse
 local-zone: "clickurlik.com" always_refuse
 local-zone: "clixgalore.com" always_refuse
@@ -8951,6 +8952,7 @@ local-zone: "ramp.purch.com" always_refuse
 local-zone: "ra.poringa.net" always_refuse
 local-zone: "ravaquinal.com" always_refuse
 local-zone: "rdf.radial.com" always_refuse
+local-zone: "rdrctgoweb.com" always_refuse
 local-zone: "readserver.net" always_refuse
 local-zone: "realpopbid.com" always_refuse
 local-zone: "realpush.media" always_refuse
@@ -9057,6 +9059,7 @@ local-zone: "straightup.com" always_refuse
 local-zone: "streamrail.net" always_refuse
 local-zone: "strike.fox.com" always_refuse
 local-zone: "studio1hub.com" always_refuse
+local-zone: "subsworker.bid" always_refuse
 local-zone: "sunnysales.biz" always_refuse
 local-zone: "suntcontent.se" always_refuse
 local-zone: "superadbid.com" always_refuse
@@ -10327,6 +10330,7 @@ local-zone: "talenthouse.com" always_refuse
 local-zone: "talk4anyone.com" always_refuse
 local-zone: "talkdeskapp.com" always_refuse
 local-zone: "tb.turbocap.net" always_refuse
+local-zone: "teachmewind.com" always_refuse
 local-zone: "teamcornett.com" always_refuse
 local-zone: "teasermedia.net" always_refuse
 local-zone: "techcentrica.in" always_refuse
