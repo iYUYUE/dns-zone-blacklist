@@ -4576,6 +4576,7 @@ local-zone: "vidsrev.com" always_nxdomain
 local-zone: "vidverto.io" always_nxdomain
 local-zone: "viewbix.com" always_nxdomain
 local-zone: "viewlnk.com" always_nxdomain
+local-zone: "viglink.com" always_nxdomain
 local-zone: "vincodo.com" always_nxdomain
 local-zone: "vionito.com" always_nxdomain
 local-zone: "viously.com" always_nxdomain
@@ -9779,7 +9780,6 @@ local-zone: "c.cgmission.com" always_nxdomain
 local-zone: "cdn-server.info" always_nxdomain
 local-zone: "cdn.tech426.com" always_nxdomain
 local-zone: "cdn.thehinh.com" always_nxdomain
-local-zone: "cdn.viglink.com" always_nxdomain
 local-zone: "ceylonmedia.com" always_nxdomain
 local-zone: "cfad.1agency.de" always_nxdomain
 local-zone: "chachophigy.pro" always_nxdomain

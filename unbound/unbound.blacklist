@@ -4576,6 +4576,7 @@ local-zone: "vidsrev.com" always_refuse
 local-zone: "vidverto.io" always_refuse
 local-zone: "viewbix.com" always_refuse
 local-zone: "viewlnk.com" always_refuse
+local-zone: "viglink.com" always_refuse
 local-zone: "vincodo.com" always_refuse
 local-zone: "vionito.com" always_refuse
 local-zone: "viously.com" always_refuse
@@ -9779,7 +9780,6 @@ local-zone: "c.cgmission.com" always_refuse
 local-zone: "cdn-server.info" always_refuse
 local-zone: "cdn.tech426.com" always_refuse
 local-zone: "cdn.thehinh.com" always_refuse
-local-zone: "cdn.viglink.com" always_refuse
 local-zone: "ceylonmedia.com" always_refuse
 local-zone: "cfad.1agency.de" always_refuse
 local-zone: "chachophigy.pro" always_refuse
