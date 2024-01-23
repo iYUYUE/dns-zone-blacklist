@@ -713,6 +713,7 @@ local-zone: "adfest.by" always_refuse
 local-zone: "ad.fhr.ro" always_refuse
 local-zone: "adfino.in" always_refuse
 local-zone: "adflex.vn" always_refuse
+local-zone: "adform.dk" always_refuse
 local-zone: "ad.fos.cc" always_refuse
 local-zone: "adgage.es" always_refuse
 local-zone: "ad.gan.bg" always_refuse
@@ -8830,6 +8831,7 @@ local-zone: "newspassid.com" always_refuse
 local-zone: "newstarads.com" always_refuse
 local-zone: "nexus-soft.org" always_refuse
 local-zone: "nobbymedia.com" always_refuse
+local-zone: "nogamelive.com" always_refuse
 local-zone: "nostruminc.com" always_refuse
 local-zone: "notif.9gag.com" always_refuse
 local-zone: "novobanner.com" always_refuse
@@ -10558,6 +10560,7 @@ local-zone: "ad.kisstvshow.ru" always_refuse
 local-zone: "ad.labecca.tokyo" always_refuse
 local-zone: "adlaboratory.com" always_refuse
 local-zone: "adland-media.com" always_refuse
+local-zone: "admanager.org.uk" always_refuse
 local-zone: "admapper.cdk.com" always_refuse
 local-zone: "admetricspro.com" always_refuse
 local-zone: "adm.funshion.com" always_refuse
@@ -11100,6 +11103,7 @@ local-zone: "ib-broker.global" always_refuse
 local-zone: "idealbranding.in" always_refuse
 local-zone: "ill-purchase.pro" always_refuse
 local-zone: "ilmfpartners.com" always_refuse
+local-zone: "ilovelivecdn.com" always_refuse
 local-zone: "imaginemedia.com" always_refuse
 local-zone: "impactingads.com" always_refuse
 local-zone: "impressionad.com" always_refuse
@@ -12815,6 +12819,7 @@ local-zone: "banner.reinstil.de" always_refuse
 local-zone: "banner.skisport.dk" always_refuse
 local-zone: "bauertrader.com.au" always_refuse
 local-zone: "b-content.laget.se" always_refuse
+local-zone: "beauxartsgroup.com" always_refuse
 local-zone: "benardcreative.com" always_refuse
 local-zone: "benchmarkemail.com" always_refuse
 local-zone: "bestcontentfee.top" always_refuse
@@ -16741,6 +16746,7 @@ local-zone: "mountainviewmarketingllc.com" always_refuse
 local-zone: "newads.annies-publishing.com" always_refuse
 local-zone: "notification.adblockplus.org" always_refuse
 local-zone: "notifications-api.cf.sky.com" always_refuse
+local-zone: "ogads-pa.clients6.google.com" always_refuse
 local-zone: "onlineadvertisingacademy.com" always_refuse
 local-zone: "openx.financialpublishers.nl" always_refuse
 local-zone: "payperclicksearchengines.com" always_refuse

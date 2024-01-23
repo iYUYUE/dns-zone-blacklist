@@ -713,6 +713,7 @@ local-zone: "adfest.by" always_nxdomain
 local-zone: "ad.fhr.ro" always_nxdomain
 local-zone: "adfino.in" always_nxdomain
 local-zone: "adflex.vn" always_nxdomain
+local-zone: "adform.dk" always_nxdomain
 local-zone: "ad.fos.cc" always_nxdomain
 local-zone: "adgage.es" always_nxdomain
 local-zone: "ad.gan.bg" always_nxdomain
@@ -8830,6 +8831,7 @@ local-zone: "newspassid.com" always_nxdomain
 local-zone: "newstarads.com" always_nxdomain
 local-zone: "nexus-soft.org" always_nxdomain
 local-zone: "nobbymedia.com" always_nxdomain
+local-zone: "nogamelive.com" always_nxdomain
 local-zone: "nostruminc.com" always_nxdomain
 local-zone: "notif.9gag.com" always_nxdomain
 local-zone: "novobanner.com" always_nxdomain
@@ -10558,6 +10560,7 @@ local-zone: "ad.kisstvshow.ru" always_nxdomain
 local-zone: "ad.labecca.tokyo" always_nxdomain
 local-zone: "adlaboratory.com" always_nxdomain
 local-zone: "adland-media.com" always_nxdomain
+local-zone: "admanager.org.uk" always_nxdomain
 local-zone: "admapper.cdk.com" always_nxdomain
 local-zone: "admetricspro.com" always_nxdomain
 local-zone: "adm.funshion.com" always_nxdomain
@@ -11100,6 +11103,7 @@ local-zone: "ib-broker.global" always_nxdomain
 local-zone: "idealbranding.in" always_nxdomain
 local-zone: "ill-purchase.pro" always_nxdomain
 local-zone: "ilmfpartners.com" always_nxdomain
+local-zone: "ilovelivecdn.com" always_nxdomain
 local-zone: "imaginemedia.com" always_nxdomain
 local-zone: "impactingads.com" always_nxdomain
 local-zone: "impressionad.com" always_nxdomain
@@ -12815,6 +12819,7 @@ local-zone: "banner.reinstil.de" always_nxdomain
 local-zone: "banner.skisport.dk" always_nxdomain
 local-zone: "bauertrader.com.au" always_nxdomain
 local-zone: "b-content.laget.se" always_nxdomain
+local-zone: "beauxartsgroup.com" always_nxdomain
 local-zone: "benardcreative.com" always_nxdomain
 local-zone: "benchmarkemail.com" always_nxdomain
 local-zone: "bestcontentfee.top" always_nxdomain
@@ -16741,6 +16746,7 @@ local-zone: "mountainviewmarketingllc.com" always_nxdomain
 local-zone: "newads.annies-publishing.com" always_nxdomain
 local-zone: "notification.adblockplus.org" always_nxdomain
 local-zone: "notifications-api.cf.sky.com" always_nxdomain
+local-zone: "ogads-pa.clients6.google.com" always_nxdomain
 local-zone: "onlineadvertisingacademy.com" always_nxdomain
 local-zone: "openx.financialpublishers.nl" always_nxdomain
 local-zone: "payperclicksearchengines.com" always_nxdomain
