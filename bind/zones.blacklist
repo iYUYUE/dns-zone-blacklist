@@ -2365,6 +2365,7 @@ zone "irncdn.com" { type master; notify no; file "null.zone.file"; };
 zone "ishatv.com" { type master; notify no; file "null.zone.file"; };
 zone "ismlks.com" { type master; notify no; file "null.zone.file"; };
 zone "istmvh.com" { type master; notify no; file "null.zone.file"; };
+zone "itdsmr.com" { type master; notify no; file "null.zone.file"; };
 zone "its-up.com" { type master; notify no; file "null.zone.file"; };
 zone "iubenda.co" { type master; notify no; file "null.zone.file"; };
 zone "iulftx.com" { type master; notify no; file "null.zone.file"; };
