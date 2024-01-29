@@ -9918,6 +9918,7 @@ local-zone: "fallbackads.com" always_refuse
 local-zone: "fast-hunter.com" always_refuse
 local-zone: "fatchilli.media" always_refuse
 local-zone: "feedbackify.com" always_refuse
+local-zone: "findhouse.co.uk" always_refuse
 local-zone: "findnewline.com" always_refuse
 local-zone: "fingertip.click" always_refuse
 local-zone: "fireads.network" always_refuse

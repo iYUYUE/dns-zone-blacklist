@@ -9918,6 +9918,7 @@ zone "fallbackads.com" { type master; notify no; file "null.zone.file"; };
 zone "fast-hunter.com" { type master; notify no; file "null.zone.file"; };
 zone "fatchilli.media" { type master; notify no; file "null.zone.file"; };
 zone "feedbackify.com" { type master; notify no; file "null.zone.file"; };
+zone "findhouse.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "findnewline.com" { type master; notify no; file "null.zone.file"; };
 zone "fingertip.click" { type master; notify no; file "null.zone.file"; };
 zone "fireads.network" { type master; notify no; file "null.zone.file"; };

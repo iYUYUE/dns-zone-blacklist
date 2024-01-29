@@ -9918,6 +9918,7 @@ local-zone: "fallbackads.com" always_nxdomain
 local-zone: "fast-hunter.com" always_nxdomain
 local-zone: "fatchilli.media" always_nxdomain
 local-zone: "feedbackify.com" always_nxdomain
+local-zone: "findhouse.co.uk" always_nxdomain
 local-zone: "findnewline.com" always_nxdomain
 local-zone: "fingertip.click" always_nxdomain
 local-zone: "fireads.network" always_nxdomain
