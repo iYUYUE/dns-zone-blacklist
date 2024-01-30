@@ -7745,6 +7745,7 @@ zone "unumbonum.com" { type master; notify no; file "null.zone.file"; };
 zone "upgastlyr.com" { type master; notify no; file "null.zone.file"; };
 zone "uptimecdn.com" { type master; notify no; file "null.zone.file"; };
 zone "urbansoft.pro" { type master; notify no; file "null.zone.file"; };
+zone "usablenet.com" { type master; notify no; file "null.zone.file"; };
 zone "uscluster.com" { type master; notify no; file "null.zone.file"; };
 zone "uscluster.net" { type master; notify no; file "null.zone.file"; };
 zone "valemedia.net" { type master; notify no; file "null.zone.file"; };

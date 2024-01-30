@@ -7745,6 +7745,7 @@ local-zone: "unumbonum.com" always_refuse
 local-zone: "upgastlyr.com" always_refuse
 local-zone: "uptimecdn.com" always_refuse
 local-zone: "urbansoft.pro" always_refuse
+local-zone: "usablenet.com" always_refuse
 local-zone: "uscluster.com" always_refuse
 local-zone: "uscluster.net" always_refuse
 local-zone: "valemedia.net" always_refuse
