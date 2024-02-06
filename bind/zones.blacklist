@@ -3772,6 +3772,7 @@ zone "cafmjvh7.ru" { type master; notify no; file "null.zone.file"; };
 zone "callpage.io" { type master; notify no; file "null.zone.file"; };
 zone "camsads.com" { type master; notify no; file "null.zone.file"; };
 zone "cangatu.xyz" { type master; notify no; file "null.zone.file"; };
+zone "captads.com" { type master; notify no; file "null.zone.file"; };
 zone "castoola.tv" { type master; notify no; file "null.zone.file"; };
 zone "catiligh.ru" { type master; notify no; file "null.zone.file"; };
 zone "cauly.co.kr" { type master; notify no; file "null.zone.file"; };
