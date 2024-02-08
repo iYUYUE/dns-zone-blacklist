@@ -9229,6 +9229,7 @@ local-zone: "xml.frdjs-1.co" always_refuse
 local-zone: "xml.frdjs-2.co" always_refuse
 local-zone: "xmlppcbuzz.com" always_refuse
 local-zone: "xml.qksrv1.com" always_refuse
+local-zone: "xpromo.g5e.com" always_refuse
 local-zone: "xtendmedia.com" always_refuse
 local-zone: "xtremepush.com" always_refuse
 local-zone: "xxxrewards.com" always_refuse
