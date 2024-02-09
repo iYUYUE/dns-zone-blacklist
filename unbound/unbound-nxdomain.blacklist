@@ -4070,6 +4070,7 @@ local-zone: "kenomal.com" always_nxdomain
 local-zone: "kenshoo.com" always_nxdomain
 local-zone: "kerumal.com" always_nxdomain
 local-zone: "keywords.az" always_nxdomain
+local-zone: "kickcdn.com" always_nxdomain
 local-zone: "kiosked.com" always_nxdomain
 local-zone: "knowmad.com" always_nxdomain
 local-zone: "kobeden.com" always_nxdomain
@@ -11402,6 +11403,7 @@ local-zone: "sproutemedia.com" always_nxdomain
 local-zone: "stackattacka.com" always_nxdomain
 local-zone: "st.afreecatv.com" always_nxdomain
 local-zone: "stanoadleads.com" always_nxdomain
+local-zone: "starcdnvideo.com" always_nxdomain
 local-zone: "starmobmedia.com" always_nxdomain
 local-zone: "static.rqmob.com" always_nxdomain
 local-zone: "static.wired.com" always_nxdomain

@@ -4070,6 +4070,7 @@ local-zone: "kenomal.com" always_refuse
 local-zone: "kenshoo.com" always_refuse
 local-zone: "kerumal.com" always_refuse
 local-zone: "keywords.az" always_refuse
+local-zone: "kickcdn.com" always_refuse
 local-zone: "kiosked.com" always_refuse
 local-zone: "knowmad.com" always_refuse
 local-zone: "kobeden.com" always_refuse
@@ -11402,6 +11403,7 @@ local-zone: "sproutemedia.com" always_refuse
 local-zone: "stackattacka.com" always_refuse
 local-zone: "st.afreecatv.com" always_refuse
 local-zone: "stanoadleads.com" always_refuse
+local-zone: "starcdnvideo.com" always_refuse
 local-zone: "starmobmedia.com" always_refuse
 local-zone: "static.rqmob.com" always_refuse
 local-zone: "static.wired.com" always_refuse
