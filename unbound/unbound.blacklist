@@ -6662,6 +6662,7 @@ local-zone: "adwintage.com" always_refuse
 local-zone: "adwise.agency" always_refuse
 local-zone: "adxadserv.com" always_refuse
 local-zone: "adx.gayboy.at" always_refuse
+local-zone: "ad.xiaomi.com" always_refuse
 local-zone: "ad.xmmnsl.com" always_refuse
 local-zone: "adyoulike.com" always_refuse
 local-zone: "adzmarket.net" always_refuse
@@ -11132,6 +11133,7 @@ local-zone: "infinity-adz.com" always_refuse
 local-zone: "inherente.com.mx" always_refuse
 local-zone: "innothoughts.com" always_refuse
 local-zone: "insightera.co.th" always_refuse
+local-zone: "instagramcdn.com" always_refuse
 local-zone: "instartcloud.com" always_refuse
 local-zone: "instartlogic.biz" always_refuse
 local-zone: "instartlogic.org" always_refuse

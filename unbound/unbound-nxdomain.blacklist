@@ -6662,6 +6662,7 @@ local-zone: "adwintage.com" always_nxdomain
 local-zone: "adwise.agency" always_nxdomain
 local-zone: "adxadserv.com" always_nxdomain
 local-zone: "adx.gayboy.at" always_nxdomain
+local-zone: "ad.xiaomi.com" always_nxdomain
 local-zone: "ad.xmmnsl.com" always_nxdomain
 local-zone: "adyoulike.com" always_nxdomain
 local-zone: "adzmarket.net" always_nxdomain
@@ -11132,6 +11133,7 @@ local-zone: "infinity-adz.com" always_nxdomain
 local-zone: "inherente.com.mx" always_nxdomain
 local-zone: "innothoughts.com" always_nxdomain
 local-zone: "insightera.co.th" always_nxdomain
+local-zone: "instagramcdn.com" always_nxdomain
 local-zone: "instartcloud.com" always_nxdomain
 local-zone: "instartlogic.biz" always_nxdomain
 local-zone: "instartlogic.org" always_nxdomain
