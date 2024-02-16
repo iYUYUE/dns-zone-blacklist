@@ -15471,6 +15471,7 @@ zone "engagement.sandesh.com" { type master; notify no; file "null.zone.file"; }
 zone "essenceadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "evolutiongroup.digital" { type master; notify no; file "null.zone.file"; };
 zone "excellentpublicity.com" { type master; notify no; file "null.zone.file"; };
+zone "extmaps-api.yandex.net" { type master; notify no; file "null.zone.file"; };
 zone "extremeleadprogram.com" { type master; notify no; file "null.zone.file"; };
 zone "eyereturnmarketing.com" { type master; notify no; file "null.zone.file"; };
 zone "falcon-asset.pixfs.net" { type master; notify no; file "null.zone.file"; };

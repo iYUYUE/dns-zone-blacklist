@@ -15471,6 +15471,7 @@ local-zone: "engagement.sandesh.com" always_refuse
 local-zone: "essenceadvertising.com" always_refuse
 local-zone: "evolutiongroup.digital" always_refuse
 local-zone: "excellentpublicity.com" always_refuse
+local-zone: "extmaps-api.yandex.net" always_refuse
 local-zone: "extremeleadprogram.com" always_refuse
 local-zone: "eyereturnmarketing.com" always_refuse
 local-zone: "falcon-asset.pixfs.net" always_refuse
