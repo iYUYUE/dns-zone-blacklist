@@ -9885,6 +9885,7 @@ zone "designaccent.in" { type master; notify no; file "null.zone.file"; };
 zone "digidigital.org" { type master; notify no; file "null.zone.file"; };
 zone "digitaledze.com" { type master; notify no; file "null.zone.file"; };
 zone "digitalflare.io" { type master; notify no; file "null.zone.file"; };
+zone "digitalgo.click" { type master; notify no; file "null.zone.file"; };
 zone "digitalhub-h.de" { type master; notify no; file "null.zone.file"; };
 zone "digitalozone.in" { type master; notify no; file "null.zone.file"; };
 zone "digitalpush.org" { type master; notify no; file "null.zone.file"; };

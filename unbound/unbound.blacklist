@@ -9885,6 +9885,7 @@ local-zone: "designaccent.in" always_refuse
 local-zone: "digidigital.org" always_refuse
 local-zone: "digitaledze.com" always_refuse
 local-zone: "digitalflare.io" always_refuse
+local-zone: "digitalgo.click" always_refuse
 local-zone: "digitalhub-h.de" always_refuse
 local-zone: "digitalozone.in" always_refuse
 local-zone: "digitalpush.org" always_refuse
