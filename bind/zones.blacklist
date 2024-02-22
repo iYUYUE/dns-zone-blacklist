@@ -9151,6 +9151,7 @@ zone "triumphads.com" { type master; notify no; file "null.zone.file"; };
 zone "trustyfine.com" { type master; notify no; file "null.zone.file"; };
 zone "trycourier.com" { type master; notify no; file "null.zone.file"; };
 zone "tsyndicate.com" { type master; notify no; file "null.zone.file"; };
+zone "twindesire.com" { type master; notify no; file "null.zone.file"; };
 zone "twinrdsyte.com" { type master; notify no; file "null.zone.file"; };
 zone "u51.aabdmn.com" { type master; notify no; file "null.zone.file"; };
 zone "u52.aabdmn.com" { type master; notify no; file "null.zone.file"; };
