@@ -9027,6 +9027,7 @@ local-zone: "schmuckshow.ch" always_refuse
 local-zone: "sci.intuit.com" always_refuse
 local-zone: "sdk.ffxpub.com" always_refuse
 local-zone: "searchgage.com" always_refuse
+local-zone: "seedadscdn.com" always_refuse
 local-zone: "sem-wizard.com" always_refuse
 local-zone: "serve.mdpi.com" always_refuse
 local-zone: "servemeads.com" always_refuse
@@ -13177,6 +13178,7 @@ local-zone: "seal-bryan.bbb.org" always_refuse
 local-zone: "seal-necal.bbb.org" always_refuse
 local-zone: "seal-tulsa.bbb.org" always_refuse
 local-zone: "seal-wynco.bbb.org" always_refuse
+local-zone: "seedtrackerfor.com" always_refuse
 local-zone: "segurosmagazine.es" always_refuse
 local-zone: "selfadvertiser.com" always_refuse
 local-zone: "seotechexperts.net" always_refuse
@@ -17220,6 +17222,7 @@ local-zone: "wixlabs-adsense-v3.uc.r.appspot.com" always_refuse
 local-zone: "xpjtu7.oss-cn-hangzhou.aliyuncs.com" always_refuse
 local-zone: "6a29f2964719025ed21ad70eada81a50.com" always_refuse
 local-zone: "6abe6fc415d6aad809ddede8b4e9834f.com" always_refuse
+local-zone: "87ec9959f951bd4a21a31e1bc3055552.com" always_refuse
 local-zone: "aax-us-east-retail-direct.amazon.com" always_refuse
 local-zone: "ads.colegiodeabogadosresistencia.org" always_refuse
 local-zone: "adserver.associationheadquarters.com" always_refuse
