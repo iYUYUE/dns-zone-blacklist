@@ -13363,6 +13363,7 @@ local-zone: "ads.adsmarketing.pl" always_refuse
 local-zone: "adsafiliados.com.br" always_refuse
 local-zone: "ads.agrisales.co.za" always_refuse
 local-zone: "ads.alcorconhoy.com" always_refuse
+local-zone: "adsapi.snapchat.com" always_refuse
 local-zone: "ads-api.twitter.com" always_refuse
 local-zone: "ads.arnoldverlag.de" always_refuse
 local-zone: "ads.artmedia.biz.pl" always_refuse

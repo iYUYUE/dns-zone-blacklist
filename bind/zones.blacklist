@@ -13363,6 +13363,7 @@ zone "ads.adsmarketing.pl" { type master; notify no; file "null.zone.file"; };
 zone "adsafiliados.com.br" { type master; notify no; file "null.zone.file"; };
 zone "ads.agrisales.co.za" { type master; notify no; file "null.zone.file"; };
 zone "ads.alcorconhoy.com" { type master; notify no; file "null.zone.file"; };
+zone "adsapi.snapchat.com" { type master; notify no; file "null.zone.file"; };
 zone "ads-api.twitter.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.arnoldverlag.de" { type master; notify no; file "null.zone.file"; };
 zone "ads.artmedia.biz.pl" { type master; notify no; file "null.zone.file"; };
