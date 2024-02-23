@@ -807,6 +807,7 @@ local-zone: "adsrvr.me" always_refuse
 local-zone: "adsrv.wtf" always_refuse
 local-zone: "ads.style" always_refuse
 local-zone: "adstk.net" always_refuse
+local-zone: "adsux.com" always_refuse
 local-zone: "ads.v2.fi" always_refuse
 local-zone: "adsync.in" always_refuse
 local-zone: "adtag.org" always_refuse
@@ -4891,6 +4892,7 @@ local-zone: "adpool.co.kr" always_refuse
 local-zone: "adpremier.fr" always_refuse
 local-zone: "adpressi.com" always_refuse
 local-zone: "adpro.com.ua" always_refuse
+local-zone: "adprofex.com" always_refuse
 local-zone: "adprofits.ru" always_refuse
 local-zone: "adproval.com" always_refuse
 local-zone: "adpushup.com" always_refuse
@@ -4963,6 +4965,7 @@ local-zone: "adservrs.com" always_refuse
 local-zone: "ads.every.tv" always_refuse
 local-zone: "ads.geofy.de" always_refuse
 local-zone: "ads.gogel.al" always_refuse
+local-zone: "adsgreed.com" always_refuse
 local-zone: "adshares.net" always_refuse
 local-zone: "adsheavy.com" always_refuse
 local-zone: "ad-shield.io" always_refuse
@@ -6657,6 +6660,7 @@ local-zone: "advisible.com" always_refuse
 local-zone: "ad.vjsoft.net" always_refuse
 local-zone: "advolution.de" always_refuse
 local-zone: "advrstcdn.com" always_refuse
+local-zone: "advstream.com" always_refuse
 local-zone: "ad.webresa.ir" always_refuse
 local-zone: "ad.wethink.cc" always_refuse
 local-zone: "adw.gomtv.com" always_refuse
@@ -8053,6 +8057,7 @@ local-zone: "ads.cafemag.bg" always_refuse
 local-zone: "ads.carmudi.vn" always_refuse
 local-zone: "ads.cattive.me" always_refuse
 local-zone: "ads.cbls.co.kr" always_refuse
+local-zone: "adscdnseed.com" always_refuse
 local-zone: "adschemist.com" always_refuse
 local-zone: "adscholars.com" always_refuse
 local-zone: "ads.comfort.bg" always_refuse
@@ -9123,6 +9128,7 @@ local-zone: "thepushhub.com" always_refuse
 local-zone: "therefinery.je" always_refuse
 local-zone: "theurbaniq.com" always_refuse
 local-zone: "thevibrand.com" always_refuse
+local-zone: "thewebpush.com" always_refuse
 local-zone: "thinkflipp.com" always_refuse
 local-zone: "thismoment.com" always_refuse
 local-zone: "threebears.com" always_refuse
@@ -11823,6 +11829,7 @@ local-zone: "ads.timetogay.com" always_refuse
 local-zone: "ads.todoti.com.br" always_refuse
 local-zone: "ads.tolajob.co.za" always_refuse
 local-zone: "ads.tools.vcat.de" always_refuse
+local-zone: "adstrackerfor.com" always_refuse
 local-zone: "ads.trendolend.mk" always_refuse
 local-zone: "ads.tuniscope.com" always_refuse
 local-zone: "ads.ty4stroke.com" always_refuse
