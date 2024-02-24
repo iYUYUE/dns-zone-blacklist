@@ -11131,6 +11131,7 @@ local-zone: "hubadnetwork.com" always_nxdomain
 local-zone: "hubkreatives.com" always_nxdomain
 local-zone: "i100.cao-gao.xyz" always_nxdomain
 local-zone: "iadsdk.apple.com" always_nxdomain
+local-zone: "iads.unity3d.com" always_nxdomain
 local-zone: "iamaffiliate.com" always_nxdomain
 local-zone: "ibautomotive.com" always_nxdomain
 local-zone: "ib-broker.global" always_nxdomain

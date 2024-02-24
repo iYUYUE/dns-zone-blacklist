@@ -11131,6 +11131,7 @@ zone "hubadnetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "hubkreatives.com" { type master; notify no; file "null.zone.file"; };
 zone "i100.cao-gao.xyz" { type master; notify no; file "null.zone.file"; };
 zone "iadsdk.apple.com" { type master; notify no; file "null.zone.file"; };
+zone "iads.unity3d.com" { type master; notify no; file "null.zone.file"; };
 zone "iamaffiliate.com" { type master; notify no; file "null.zone.file"; };
 zone "ibautomotive.com" { type master; notify no; file "null.zone.file"; };
 zone "ib-broker.global" { type master; notify no; file "null.zone.file"; };

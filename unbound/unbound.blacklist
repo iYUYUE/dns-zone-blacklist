@@ -11131,6 +11131,7 @@ local-zone: "hubadnetwork.com" always_refuse
 local-zone: "hubkreatives.com" always_refuse
 local-zone: "i100.cao-gao.xyz" always_refuse
 local-zone: "iadsdk.apple.com" always_refuse
+local-zone: "iads.unity3d.com" always_refuse
 local-zone: "iamaffiliate.com" always_refuse
 local-zone: "ibautomotive.com" always_refuse
 local-zone: "ib-broker.global" always_refuse
