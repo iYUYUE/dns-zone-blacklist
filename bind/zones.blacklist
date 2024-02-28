@@ -14598,6 +14598,7 @@ zone "pepperjamnetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "pingmemessenger.mobi" { type master; notify no; file "null.zone.file"; };
 zone "pirsum3.funder.co.il" { type master; notify no; file "null.zone.file"; };
 zone "player.isocrates.com" { type master; notify no; file "null.zone.file"; };
+zone "pliki.audiostereo.pl" { type master; notify no; file "null.zone.file"; };
 zone "polaradvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "popmachineagency.com" { type master; notify no; file "null.zone.file"; };
 zone "popup.bitdefender.pl" { type master; notify no; file "null.zone.file"; };
@@ -16693,6 +16694,7 @@ zone "pushnotificationpreview.com" { type master; notify no; file "null.zone.fil
 zone "regulationprivilegescan.top" { type master; notify no; file "null.zone.file"; };
 zone "reklama.warszawawpigulce.pl" { type master; notify no; file "null.zone.file"; };
 zone "revive.portosenavios.com.br" { type master; notify no; file "null.zone.file"; };
+zone "rwc-ad-2022.raysweather.com" { type master; notify no; file "null.zone.file"; };
 zone "salesgenerationservices.com" { type master; notify no; file "null.zone.file"; };
 zone "seal-centralalabama.bbb.org" { type master; notify no; file "null.zone.file"; };
 zone "seal-centralflorida.bbb.org" { type master; notify no; file "null.zone.file"; };
