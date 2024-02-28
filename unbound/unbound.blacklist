@@ -2276,6 +2276,7 @@ local-zone: "glispa.com" always_refuse
 local-zone: "global.com" always_refuse
 local-zone: "gluads.com" always_refuse
 local-zone: "gmcsco.com" always_refuse
+local-zone: "gmiads.com" always_refuse
 local-zone: "go2-me.com" always_refuse
 local-zone: "goadopt.io" always_refuse
 local-zone: "goasrv.com" always_refuse
@@ -6943,6 +6944,7 @@ local-zone: "cozysense.com" always_refuse
 local-zone: "cp.filext.com" always_refuse
 local-zone: "crakmedia.com" always_refuse
 local-zone: "crentgate.com" always_refuse
+local-zone: "criteo.com.lv" always_refuse
 local-zone: "criteolabs.fr" always_refuse
 local-zone: "cronin-co.com" always_refuse
 local-zone: "crwdcntrl.net" always_refuse
@@ -14872,6 +14874,7 @@ local-zone: "ads.gazetaexpress.com" always_refuse
 local-zone: "ads.gudrunbergmann.is" always_refuse
 local-zone: "ads.infobijeljina.com" always_refuse
 local-zone: "ads.intimesrevier.com" always_refuse
+local-zone: "ads.jeccomposites.com" always_refuse
 local-zone: "ads.juergen-elbert.de" always_refuse
 local-zone: "ads.keyvouchers.co.uk" always_refuse
 local-zone: "ads.klick-kaernten.at" always_refuse

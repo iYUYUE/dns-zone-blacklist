@@ -2276,6 +2276,7 @@ local-zone: "glispa.com" always_nxdomain
 local-zone: "global.com" always_nxdomain
 local-zone: "gluads.com" always_nxdomain
 local-zone: "gmcsco.com" always_nxdomain
+local-zone: "gmiads.com" always_nxdomain
 local-zone: "go2-me.com" always_nxdomain
 local-zone: "goadopt.io" always_nxdomain
 local-zone: "goasrv.com" always_nxdomain
@@ -6943,6 +6944,7 @@ local-zone: "cozysense.com" always_nxdomain
 local-zone: "cp.filext.com" always_nxdomain
 local-zone: "crakmedia.com" always_nxdomain
 local-zone: "crentgate.com" always_nxdomain
+local-zone: "criteo.com.lv" always_nxdomain
 local-zone: "criteolabs.fr" always_nxdomain
 local-zone: "cronin-co.com" always_nxdomain
 local-zone: "crwdcntrl.net" always_nxdomain
@@ -14872,6 +14874,7 @@ local-zone: "ads.gazetaexpress.com" always_nxdomain
 local-zone: "ads.gudrunbergmann.is" always_nxdomain
 local-zone: "ads.infobijeljina.com" always_nxdomain
 local-zone: "ads.intimesrevier.com" always_nxdomain
+local-zone: "ads.jeccomposites.com" always_nxdomain
 local-zone: "ads.juergen-elbert.de" always_nxdomain
 local-zone: "ads.keyvouchers.co.uk" always_nxdomain
 local-zone: "ads.klick-kaernten.at" always_nxdomain
