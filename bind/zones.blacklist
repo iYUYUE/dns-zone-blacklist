@@ -8201,6 +8201,7 @@ zone "ad.truerun.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.ulanding.io" { type master; notify no; file "null.zone.file"; };
 zone "adultforce.com" { type master; notify no; file "null.zone.file"; };
 zone "adultforce.net" { type master; notify no; file "null.zone.file"; };
+zone "adultforce.org" { type master; notify no; file "null.zone.file"; };
 zone "adultsense.com" { type master; notify no; file "null.zone.file"; };
 zone "adultsense.net" { type master; notify no; file "null.zone.file"; };
 zone "advamos.com.tr" { type master; notify no; file "null.zone.file"; };

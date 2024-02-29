@@ -8201,6 +8201,7 @@ local-zone: "ad.truerun.com" always_refuse
 local-zone: "ad.ulanding.io" always_refuse
 local-zone: "adultforce.com" always_refuse
 local-zone: "adultforce.net" always_refuse
+local-zone: "adultforce.org" always_refuse
 local-zone: "adultsense.com" always_refuse
 local-zone: "adultsense.net" always_refuse
 local-zone: "advamos.com.tr" always_refuse

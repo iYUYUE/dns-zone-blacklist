@@ -8201,6 +8201,7 @@ local-zone: "ad.truerun.com" always_nxdomain
 local-zone: "ad.ulanding.io" always_nxdomain
 local-zone: "adultforce.com" always_nxdomain
 local-zone: "adultforce.net" always_nxdomain
+local-zone: "adultforce.org" always_nxdomain
 local-zone: "adultsense.com" always_nxdomain
 local-zone: "adultsense.net" always_nxdomain
 local-zone: "advamos.com.tr" always_nxdomain
