@@ -17345,6 +17345,7 @@ zone "userlike-cdn-widgets.s3-eu-west-1.amazonaws.com" { type master; notify no;
 zone "audience-network-apps.oss-us-east-1.aliyuncs.com" { type master; notify no; file "null.zone.file"; };
 zone "kaiyuan-advertising.oss-cn-hongkong.aliyuncs.com" { type master; notify no; file "null.zone.file"; };
 zone "tupchucun-1317440667.cos.ap-chengdu.myqcloud.com" { type master; notify no; file "null.zone.file"; };
+zone "ad-host-backup-america.s3.us-west-1.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "disruptive-advertising.s3-us-west-2.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "uxt-promotional-carousel-prod.shpp.ext.zooplus.io" { type master; notify no; file "null.zone.file"; };
 zone "adserver.maltaprofile.info.dedi3501.your-server.de" { type master; notify no; file "null.zone.file"; };

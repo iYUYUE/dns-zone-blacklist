@@ -17345,6 +17345,7 @@ local-zone: "userlike-cdn-widgets.s3-eu-west-1.amazonaws.com" always_nxdomain
 local-zone: "audience-network-apps.oss-us-east-1.aliyuncs.com" always_nxdomain
 local-zone: "kaiyuan-advertising.oss-cn-hongkong.aliyuncs.com" always_nxdomain
 local-zone: "tupchucun-1317440667.cos.ap-chengdu.myqcloud.com" always_nxdomain
+local-zone: "ad-host-backup-america.s3.us-west-1.amazonaws.com" always_nxdomain
 local-zone: "disruptive-advertising.s3-us-west-2.amazonaws.com" always_nxdomain
 local-zone: "uxt-promotional-carousel-prod.shpp.ext.zooplus.io" always_nxdomain
 local-zone: "adserver.maltaprofile.info.dedi3501.your-server.de" always_nxdomain
