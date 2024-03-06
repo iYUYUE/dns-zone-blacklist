@@ -10915,6 +10915,7 @@ zone "anson-stoner.com" { type master; notify no; file "null.zone.file"; };
 zone "antaraimedia.com" { type master; notify no; file "null.zone.file"; };
 zone "antiadblock.info" { type master; notify no; file "null.zone.file"; };
 zone "antiadxxxspy.com" { type master; notify no; file "null.zone.file"; };
+zone "anythinktech.com" { type master; notify no; file "null.zone.file"; };
 zone "aolplatforms.com" { type master; notify no; file "null.zone.file"; };
 zone "api.agahpush.com" { type master; notify no; file "null.zone.file"; };
 zone "api.condenast.io" { type master; notify no; file "null.zone.file"; };
