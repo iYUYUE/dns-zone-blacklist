@@ -5162,7 +5162,6 @@ zone "apedodo8.fun" { type master; notify no; file "null.zone.file"; };
 zone "apiads.gg.pl" { type master; notify no; file "null.zone.file"; };
 zone "api-feed.com" { type master; notify no; file "null.zone.file"; };
 zone "api-push.com" { type master; notify no; file "null.zone.file"; };
-zone "appbrain.com" { type master; notify no; file "null.zone.file"; };
 zone "appcdn01.xyz" { type master; notify no; file "null.zone.file"; };
 zone "appendad.com" { type master; notify no; file "null.zone.file"; };
 zone "appflood.com" { type master; notify no; file "null.zone.file"; };
