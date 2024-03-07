@@ -13940,6 +13940,7 @@ local-zone: "openx.specphone.com" always_nxdomain
 local-zone: "openx.watchmygf.net" always_nxdomain
 local-zone: "optimistixmedia.com" always_nxdomain
 local-zone: "optimon.appspot.com" always_nxdomain
+local-zone: "outlookads.live.com" always_nxdomain
 local-zone: "pagead.l.google.com" always_nxdomain
 local-zone: "pantheranetwork.com" always_nxdomain
 local-zone: "parking.godaddy.com" always_nxdomain
@@ -16714,6 +16715,7 @@ local-zone: "tempest.services.disqus.com" always_nxdomain
 local-zone: "thedesimarketingproject.com" always_nxdomain
 local-zone: "traveler.contentondemand.es" always_nxdomain
 local-zone: "twcmediasales.akamaized.net" always_nxdomain
+local-zone: "verifications.sfly-mktg.com" always_nxdomain
 local-zone: "voodoointernetmarketing.com" always_nxdomain
 local-zone: "webappstreamingnetwork.info" always_nxdomain
 local-zone: "werbung.dohrmann-projekt.de" always_nxdomain
@@ -17087,6 +17089,7 @@ local-zone: "adserver.resenhapolitika.com.br" always_nxdomain
 local-zone: "adserver.wochenspiegelonline.de" always_nxdomain
 local-zone: "ads-media3.netrefer.edgekey.net" always_nxdomain
 local-zone: "ads.prd.ie.internal.unity3d.com" always_nxdomain
+local-zone: "ads.prod.webservices.mozgcp.net" always_nxdomain
 local-zone: "advertising.christiansunite.com" always_nxdomain
 local-zone: "affiliates.advertisingboost.com" always_nxdomain
 local-zone: "a-us-west.rfihub.com.akadns.net" always_nxdomain

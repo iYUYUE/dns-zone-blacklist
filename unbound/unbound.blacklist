@@ -13940,6 +13940,7 @@ local-zone: "openx.specphone.com" always_refuse
 local-zone: "openx.watchmygf.net" always_refuse
 local-zone: "optimistixmedia.com" always_refuse
 local-zone: "optimon.appspot.com" always_refuse
+local-zone: "outlookads.live.com" always_refuse
 local-zone: "pagead.l.google.com" always_refuse
 local-zone: "pantheranetwork.com" always_refuse
 local-zone: "parking.godaddy.com" always_refuse
@@ -16714,6 +16715,7 @@ local-zone: "tempest.services.disqus.com" always_refuse
 local-zone: "thedesimarketingproject.com" always_refuse
 local-zone: "traveler.contentondemand.es" always_refuse
 local-zone: "twcmediasales.akamaized.net" always_refuse
+local-zone: "verifications.sfly-mktg.com" always_refuse
 local-zone: "voodoointernetmarketing.com" always_refuse
 local-zone: "webappstreamingnetwork.info" always_refuse
 local-zone: "werbung.dohrmann-projekt.de" always_refuse
@@ -17087,6 +17089,7 @@ local-zone: "adserver.resenhapolitika.com.br" always_refuse
 local-zone: "adserver.wochenspiegelonline.de" always_refuse
 local-zone: "ads-media3.netrefer.edgekey.net" always_refuse
 local-zone: "ads.prd.ie.internal.unity3d.com" always_refuse
+local-zone: "ads.prod.webservices.mozgcp.net" always_refuse
 local-zone: "advertising.christiansunite.com" always_refuse
 local-zone: "affiliates.advertisingboost.com" always_refuse
 local-zone: "a-us-west.rfihub.com.akadns.net" always_refuse

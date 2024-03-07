@@ -13940,6 +13940,7 @@ zone "openx.specphone.com" { type master; notify no; file "null.zone.file"; };
 zone "openx.watchmygf.net" { type master; notify no; file "null.zone.file"; };
 zone "optimistixmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "optimon.appspot.com" { type master; notify no; file "null.zone.file"; };
+zone "outlookads.live.com" { type master; notify no; file "null.zone.file"; };
 zone "pagead.l.google.com" { type master; notify no; file "null.zone.file"; };
 zone "pantheranetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "parking.godaddy.com" { type master; notify no; file "null.zone.file"; };
@@ -16714,6 +16715,7 @@ zone "tempest.services.disqus.com" { type master; notify no; file "null.zone.fil
 zone "thedesimarketingproject.com" { type master; notify no; file "null.zone.file"; };
 zone "traveler.contentondemand.es" { type master; notify no; file "null.zone.file"; };
 zone "twcmediasales.akamaized.net" { type master; notify no; file "null.zone.file"; };
+zone "verifications.sfly-mktg.com" { type master; notify no; file "null.zone.file"; };
 zone "voodoointernetmarketing.com" { type master; notify no; file "null.zone.file"; };
 zone "webappstreamingnetwork.info" { type master; notify no; file "null.zone.file"; };
 zone "werbung.dohrmann-projekt.de" { type master; notify no; file "null.zone.file"; };
@@ -17087,6 +17089,7 @@ zone "adserver.resenhapolitika.com.br" { type master; notify no; file "null.zone
 zone "adserver.wochenspiegelonline.de" { type master; notify no; file "null.zone.file"; };
 zone "ads-media3.netrefer.edgekey.net" { type master; notify no; file "null.zone.file"; };
 zone "ads.prd.ie.internal.unity3d.com" { type master; notify no; file "null.zone.file"; };
+zone "ads.prod.webservices.mozgcp.net" { type master; notify no; file "null.zone.file"; };
 zone "advertising.christiansunite.com" { type master; notify no; file "null.zone.file"; };
 zone "affiliates.advertisingboost.com" { type master; notify no; file "null.zone.file"; };
 zone "a-us-west.rfihub.com.akadns.net" { type master; notify no; file "null.zone.file"; };
