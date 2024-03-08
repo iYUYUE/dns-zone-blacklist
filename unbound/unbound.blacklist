@@ -3196,6 +3196,7 @@ local-zone: "ad6media.es" always_refuse
 local-zone: "ad6media.fr" always_refuse
 local-zone: "ad71.agency" always_refuse
 local-zone: "ad.a93a.com" always_refuse
+local-zone: "ad.abema.io" always_refuse
 local-zone: "adacado.com" always_refuse
 local-zone: "adaccess.fr" always_refuse
 local-zone: "adaction.se" always_refuse
@@ -10776,6 +10777,7 @@ local-zone: "ads.livetv539.me" always_refuse
 local-zone: "ads.locafilm.com" always_refuse
 local-zone: "ads.makfudbal.mk" always_refuse
 local-zone: "ads.makhsoft.com" always_refuse
+local-zone: "ad.smartnews.net" always_refuse
 local-zone: "ads.matrixads.in" always_refuse
 local-zone: "ads.metrike.link" always_refuse
 local-zone: "ads.metronome.ge" always_refuse
@@ -14157,6 +14159,7 @@ local-zone: "ad.charltonmedia.com" always_refuse
 local-zone: "adclient1.tucows.com" always_refuse
 local-zone: "adcreator.mobpro.com" always_refuse
 local-zone: "adcryptocoin.website" always_refuse
+local-zone: "ad.dev.smartnews.net" always_refuse
 local-zone: "addisplaynetwork.com" always_refuse
 local-zone: "ad.dlrwebservice.com" always_refuse
 local-zone: "ad.etnetchina.com.cn" always_refuse

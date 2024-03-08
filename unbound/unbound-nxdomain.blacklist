@@ -3196,6 +3196,7 @@ local-zone: "ad6media.es" always_nxdomain
 local-zone: "ad6media.fr" always_nxdomain
 local-zone: "ad71.agency" always_nxdomain
 local-zone: "ad.a93a.com" always_nxdomain
+local-zone: "ad.abema.io" always_nxdomain
 local-zone: "adacado.com" always_nxdomain
 local-zone: "adaccess.fr" always_nxdomain
 local-zone: "adaction.se" always_nxdomain
@@ -10776,6 +10777,7 @@ local-zone: "ads.livetv539.me" always_nxdomain
 local-zone: "ads.locafilm.com" always_nxdomain
 local-zone: "ads.makfudbal.mk" always_nxdomain
 local-zone: "ads.makhsoft.com" always_nxdomain
+local-zone: "ad.smartnews.net" always_nxdomain
 local-zone: "ads.matrixads.in" always_nxdomain
 local-zone: "ads.metrike.link" always_nxdomain
 local-zone: "ads.metronome.ge" always_nxdomain
@@ -14157,6 +14159,7 @@ local-zone: "ad.charltonmedia.com" always_nxdomain
 local-zone: "adclient1.tucows.com" always_nxdomain
 local-zone: "adcreator.mobpro.com" always_nxdomain
 local-zone: "adcryptocoin.website" always_nxdomain
+local-zone: "ad.dev.smartnews.net" always_nxdomain
 local-zone: "addisplaynetwork.com" always_nxdomain
 local-zone: "ad.dlrwebservice.com" always_nxdomain
 local-zone: "ad.etnetchina.com.cn" always_nxdomain
