@@ -4336,6 +4336,7 @@ local-zone: "ptwmjmp.com" always_nxdomain
 local-zone: "pub2srv.com" always_nxdomain
 local-zone: "pubguru.com" always_nxdomain
 local-zone: "pubguru.net" always_nxdomain
+local-zone: "pubimgs.com" always_nxdomain
 local-zone: "publift.com" always_nxdomain
 local-zone: "puboise.com" always_nxdomain
 local-zone: "pubstack.io" always_nxdomain
@@ -10452,6 +10453,7 @@ local-zone: "veneficus.co.uk" always_nxdomain
 local-zone: "vervemobile.com" always_nxdomain
 local-zone: "via-backend.com" always_nxdomain
 local-zone: "viacustomer.com" always_nxdomain
+local-zone: "vibrantpact.com" always_nxdomain
 local-zone: "vipissycash.com" always_nxdomain
 local-zone: "vip-vip-vup.com" always_nxdomain
 local-zone: "viralnugget.com" always_nxdomain
@@ -16798,6 +16800,7 @@ local-zone: "destinationtravelnetwork.com" always_nxdomain
 local-zone: "dg1pu8fiy5cr6.cloudfront.net" always_nxdomain
 local-zone: "dggaenaawxe8z.cloudfront.net" always_nxdomain
 local-zone: "djnf6e5yyirys.cloudfront.net" always_nxdomain
+local-zone: "dmdj655uxuj8f.cloudfront.net" always_nxdomain
 local-zone: "dn0qt3r0xannq.cloudfront.net" always_nxdomain
 local-zone: "dnhfi5nn2dt67.cloudfront.net" always_nxdomain
 local-zone: "doi3unldljdx6.cloudfront.net" always_nxdomain
