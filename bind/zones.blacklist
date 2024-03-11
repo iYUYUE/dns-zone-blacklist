@@ -12281,7 +12281,6 @@ zone "oathuklimited.com" { type master; notify no; file "null.zone.file"; };
 zone "ocean.gigatron.rs" { type master; notify no; file "null.zone.file"; };
 zone "oceanwebcraft.com" { type master; notify no; file "null.zone.file"; };
 zone "onclickgenius.com" { type master; notify no; file "null.zone.file"; };
-zone "onelogin.wpcdn.pl" { type master; notify no; file "null.zone.file"; };
 zone "oneplanetonly.com" { type master; notify no; file "null.zone.file"; };
 zone "online-banners.nl" { type master; notify no; file "null.zone.file"; };
 zone "online-topics.com" { type master; notify no; file "null.zone.file"; };
