@@ -8424,6 +8424,8 @@ myfidevs.io CNAME .
 *.myfidevs.io CNAME .
 mygpuid.com CNAME .
 *.mygpuid.com CNAME .
+myleadx.com CNAME .
+*.myleadx.com CNAME .
 nabs.org.uk CNAME .
 *.nabs.org.uk CNAME .
 nadaseo.com CNAME .
@@ -34220,8 +34222,6 @@ gdpr-legal-cookie.beeclever.app CNAME .
 *.gdpr-legal-cookie.beeclever.app CNAME .
 mads.backend-us.pinenutsdev.net CNAME .
 *.mads.backend-us.pinenutsdev.net CNAME .
-notifications-pa.googleapis.com CNAME .
-*.notifications-pa.googleapis.com CNAME .
 offers-api.fungames-forfree.com CNAME .
 *.offers-api.fungames-forfree.com CNAME .
 postbox-images.s3.amazonaws.com CNAME .

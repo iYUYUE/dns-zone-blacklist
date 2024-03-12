@@ -4209,6 +4209,7 @@ zone "myarkay.com" { type master; notify no; file "null.zone.file"; };
 zone "mycriteo.fr" { type master; notify no; file "null.zone.file"; };
 zone "myfidevs.io" { type master; notify no; file "null.zone.file"; };
 zone "mygpuid.com" { type master; notify no; file "null.zone.file"; };
+zone "myleadx.com" { type master; notify no; file "null.zone.file"; };
 zone "nabs.org.uk" { type master; notify no; file "null.zone.file"; };
 zone "nadaseo.com" { type master; notify no; file "null.zone.file"; };
 zone "naewynn.com" { type master; notify no; file "null.zone.file"; };
@@ -17107,7 +17108,6 @@ zone "extras.prairiemountainmedia.com" { type master; notify no; file "null.zone
 zone "fare-adserver.resourcestack.com" { type master; notify no; file "null.zone.file"; };
 zone "gdpr-legal-cookie.beeclever.app" { type master; notify no; file "null.zone.file"; };
 zone "mads.backend-us.pinenutsdev.net" { type master; notify no; file "null.zone.file"; };
-zone "notifications-pa.googleapis.com" { type master; notify no; file "null.zone.file"; };
 zone "offers-api.fungames-forfree.com" { type master; notify no; file "null.zone.file"; };
 zone "postbox-images.s3.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "progressivebusinessservices.com" { type master; notify no; file "null.zone.file"; };

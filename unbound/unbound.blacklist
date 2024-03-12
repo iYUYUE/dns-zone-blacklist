@@ -4209,6 +4209,7 @@ local-zone: "myarkay.com" always_refuse
 local-zone: "mycriteo.fr" always_refuse
 local-zone: "myfidevs.io" always_refuse
 local-zone: "mygpuid.com" always_refuse
+local-zone: "myleadx.com" always_refuse
 local-zone: "nabs.org.uk" always_refuse
 local-zone: "nadaseo.com" always_refuse
 local-zone: "naewynn.com" always_refuse
@@ -17107,7 +17108,6 @@ local-zone: "extras.prairiemountainmedia.com" always_refuse
 local-zone: "fare-adserver.resourcestack.com" always_refuse
 local-zone: "gdpr-legal-cookie.beeclever.app" always_refuse
 local-zone: "mads.backend-us.pinenutsdev.net" always_refuse
-local-zone: "notifications-pa.googleapis.com" always_refuse
 local-zone: "offers-api.fungames-forfree.com" always_refuse
 local-zone: "postbox-images.s3.amazonaws.com" always_refuse
 local-zone: "progressivebusinessservices.com" always_refuse

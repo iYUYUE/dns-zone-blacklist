@@ -4209,6 +4209,7 @@ local-zone: "myarkay.com" always_nxdomain
 local-zone: "mycriteo.fr" always_nxdomain
 local-zone: "myfidevs.io" always_nxdomain
 local-zone: "mygpuid.com" always_nxdomain
+local-zone: "myleadx.com" always_nxdomain
 local-zone: "nabs.org.uk" always_nxdomain
 local-zone: "nadaseo.com" always_nxdomain
 local-zone: "naewynn.com" always_nxdomain
@@ -17107,7 +17108,6 @@ local-zone: "extras.prairiemountainmedia.com" always_nxdomain
 local-zone: "fare-adserver.resourcestack.com" always_nxdomain
 local-zone: "gdpr-legal-cookie.beeclever.app" always_nxdomain
 local-zone: "mads.backend-us.pinenutsdev.net" always_nxdomain
-local-zone: "notifications-pa.googleapis.com" always_nxdomain
 local-zone: "offers-api.fungames-forfree.com" always_nxdomain
 local-zone: "postbox-images.s3.amazonaws.com" always_nxdomain
 local-zone: "progressivebusinessservices.com" always_nxdomain
