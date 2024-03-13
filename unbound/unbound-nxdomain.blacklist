@@ -904,6 +904,7 @@ local-zone: "bcprm.com" always_nxdomain
 local-zone: "betop.fun" always_nxdomain
 local-zone: "bfmio.com" always_nxdomain
 local-zone: "b.fox.com" always_nxdomain
+local-zone: "biddeo.me" always_nxdomain
 local-zone: "bid.glass" always_nxdomain
 local-zone: "bigboy.ca" always_nxdomain
 local-zone: "bislr.com" always_nxdomain
@@ -4398,6 +4399,7 @@ local-zone: "riester.com" always_nxdomain
 local-zone: "rimg.abv.bg" always_nxdomain
 local-zone: "rivcash.com" always_nxdomain
 local-zone: "rivet.works" always_nxdomain
+local-zone: "rixserv.com" always_nxdomain
 local-zone: "rmitltd.com" always_nxdomain
 local-zone: "roboads.net" always_nxdomain
 local-zone: "rockyou.com" always_nxdomain
@@ -6819,6 +6821,7 @@ local-zone: "bewellads.com" always_nxdomain
 local-zone: "b.filexan.com" always_nxdomain
 local-zone: "b.harehop.com" always_nxdomain
 local-zone: "bibbmedia.com" always_nxdomain
+local-zone: "bidderads.com" always_nxdomain
 local-zone: "biddercore.io" always_nxdomain
 local-zone: "bidfilter.com" always_nxdomain
 local-zone: "bidiology.com" always_nxdomain
@@ -7429,6 +7432,7 @@ local-zone: "permaleads.ch" always_nxdomain
 local-zone: "permission.io" always_nxdomain
 local-zone: "permutive.app" always_nxdomain
 local-zone: "permutive.com" always_nxdomain
+local-zone: "personaly.bid" always_nxdomain
 local-zone: "pgnagency.com" always_nxdomain
 local-zone: "pgpartner.com" always_nxdomain
 local-zone: "phiduvuka.pro" always_nxdomain
@@ -8557,7 +8561,9 @@ local-zone: "fbofferads.com" always_nxdomain
 local-zone: "fdma-media.com" always_nxdomain
 local-zone: "feedburner.com" always_nxdomain
 local-zone: "feedgrabbr.com" always_nxdomain
+local-zone: "feeeelled.info" always_nxdomain
 local-zone: "feelagency.com" always_nxdomain
+local-zone: "feelreals.info" always_nxdomain
 local-zone: "ff112233ff.com" always_nxdomain
 local-zone: "filetarget.com" always_nxdomain
 local-zone: "filetarget.net" always_nxdomain
@@ -9925,6 +9931,7 @@ local-zone: "ecomvertify.com" always_nxdomain
 local-zone: "edvfwlacluo.com" always_nxdomain
 local-zone: "eikegolehem.com" always_nxdomain
 local-zone: "elementaltv.com" always_nxdomain
+local-zone: "elitebidder.com" always_nxdomain
 local-zone: "engagefront.com" always_nxdomain
 local-zone: "enveromedia.com" always_nxdomain
 local-zone: "e-omnibus.co.jp" always_nxdomain
@@ -9943,6 +9950,7 @@ local-zone: "fallbackads.com" always_nxdomain
 local-zone: "fast-hunter.com" always_nxdomain
 local-zone: "fatchilli.media" always_nxdomain
 local-zone: "feedbackify.com" always_nxdomain
+local-zone: "feelforowl.info" always_nxdomain
 local-zone: "findhouse.co.uk" always_nxdomain
 local-zone: "findnewline.com" always_nxdomain
 local-zone: "fingertip.click" always_nxdomain
@@ -11055,6 +11063,7 @@ local-zone: "deepdive.zum.com" always_nxdomain
 local-zone: "deepfriedads.com" always_nxdomain
 local-zone: "demandsmedia.com" always_nxdomain
 local-zone: "demetramedia.com" always_nxdomain
+local-zone: "dev-applovin.com" always_nxdomain
 local-zone: "digifoxxindia.in" always_nxdomain
 local-zone: "digitaleast.mobi" always_nxdomain
 local-zone: "digitaloptim.com" always_nxdomain
@@ -15868,6 +15877,7 @@ local-zone: "ambientdigitalgroup.com" always_nxdomain
 local-zone: "anastasiasaffiliate.com" always_nxdomain
 local-zone: "apac-hk-ads.aralego.net" always_nxdomain
 local-zone: "apac-tw-ads.aralego.net" always_nxdomain
+local-zone: "api-ad-bidding.4wps.net" always_nxdomain
 local-zone: "a.rfihub.com.akadns.net" always_nxdomain
 local-zone: "asg.collegesexvideo.net" always_nxdomain
 local-zone: "back-to-top.appspot.com" always_nxdomain
@@ -16526,6 +16536,9 @@ local-zone: "affiliate.pocketoption.com" always_nxdomain
 local-zone: "afiliados.hostgator.com.br" always_nxdomain
 local-zone: "amazon-adsystem.amazon.com" always_nxdomain
 local-zone: "amplyaudiencesolutions.com" always_nxdomain
+local-zone: "api-ad-bidding-ff.4wps.net" always_nxdomain
+local-zone: "api-ad-bidding-mb.4wps.net" always_nxdomain
+local-zone: "api-ad-bidding-us.4wps.net" always_nxdomain
 local-zone: "app-smartbar.herokuapp.com" always_nxdomain
 local-zone: "baitu1llbkotsfthllcjeg.com" always_nxdomain
 local-zone: "banner.albatrostrading.com" always_nxdomain
