@@ -6341,6 +6341,7 @@ local-zone: "adcommadv.com" always_nxdomain
 local-zone: "adcomms.co.uk" always_nxdomain
 local-zone: "adconjure.com" always_nxdomain
 local-zone: "adconnexa.com" always_nxdomain
+local-zone: "adcontent.xyz" always_nxdomain
 local-zone: "adcourier.com" always_nxdomain
 local-zone: "adcritter.com" always_nxdomain
 local-zone: "adcrony.co.kr" always_nxdomain
@@ -6630,6 +6631,7 @@ local-zone: "ad.tpmn.co.kr" always_nxdomain
 local-zone: "adtrafico.com" always_nxdomain
 local-zone: "ad.tunbox.com" always_nxdomain
 local-zone: "adtycoons.com" always_nxdomain
+local-zone: "adult-ads.ovh" always_nxdomain
 local-zone: "adultforce.co" always_nxdomain
 local-zone: "adultrium.com" always_nxdomain
 local-zone: "ad.unimhk.com" always_nxdomain
