@@ -2157,6 +2157,7 @@ zone "dornzi.com" { type master; notify no; file "null.zone.file"; };
 zone "dotsrv.com" { type master; notify no; file "null.zone.file"; };
 zone "dsfd67.com" { type master; notify no; file "null.zone.file"; };
 zone "dsnrtg.com" { type master; notify no; file "null.zone.file"; };
+zone "dth.org.ng" { type master; notify no; file "null.zone.file"; };
 zone "dtmpub.com" { type master; notify no; file "null.zone.file"; };
 zone "dvypar.com" { type master; notify no; file "null.zone.file"; };
 zone "d.wi-fi.ru" { type master; notify no; file "null.zone.file"; };
