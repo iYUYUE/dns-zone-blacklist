@@ -6426,6 +6426,7 @@ zone "adokutrtb.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.olympic.cz" { type master; notify no; file "null.zone.file"; };
 zone "adomantra.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.onvista.de" { type master; notify no; file "null.zone.file"; };
+zone "ad-optima.com" { type master; notify no; file "null.zone.file"; };
 zone "adoric-om.com" { type master; notify no; file "null.zone.file"; };
 zone "adparlour.com" { type master; notify no; file "null.zone.file"; };
 zone "adpartner.pro" { type master; notify no; file "null.zone.file"; };
@@ -17038,6 +17039,7 @@ zone "d1npnstlfekkfz.cloudfront.net" { type master; notify no; file "null.zone.f
 zone "d1nruqhae353qc.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "d1otoma47x30pg.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "d1pr3sk5xr0dce.cloudfront.net" { type master; notify no; file "null.zone.file"; };
+zone "d1r3ddyrqrmcjv.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "d1tprjo2w7krrh.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "d1upt0rqzff34l.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "d1ux8fwkxchynl.cloudfront.net" { type master; notify no; file "null.zone.file"; };

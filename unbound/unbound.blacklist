@@ -6426,6 +6426,7 @@ local-zone: "adokutrtb.com" always_refuse
 local-zone: "ad.olympic.cz" always_refuse
 local-zone: "adomantra.com" always_refuse
 local-zone: "ad.onvista.de" always_refuse
+local-zone: "ad-optima.com" always_refuse
 local-zone: "adoric-om.com" always_refuse
 local-zone: "adparlour.com" always_refuse
 local-zone: "adpartner.pro" always_refuse
@@ -17038,6 +17039,7 @@ local-zone: "d1npnstlfekkfz.cloudfront.net" always_refuse
 local-zone: "d1nruqhae353qc.cloudfront.net" always_refuse
 local-zone: "d1otoma47x30pg.cloudfront.net" always_refuse
 local-zone: "d1pr3sk5xr0dce.cloudfront.net" always_refuse
+local-zone: "d1r3ddyrqrmcjv.cloudfront.net" always_refuse
 local-zone: "d1tprjo2w7krrh.cloudfront.net" always_refuse
 local-zone: "d1upt0rqzff34l.cloudfront.net" always_refuse
 local-zone: "d1ux8fwkxchynl.cloudfront.net" always_refuse
