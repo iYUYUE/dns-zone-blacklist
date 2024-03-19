@@ -1834,9 +1834,12 @@ local-zone: "ads.web.tr" always_refuse
 local-zone: "adswell.ru" always_refuse
 local-zone: "adsxyz.com" always_refuse
 local-zone: "ad-sys.com" always_refuse
+local-zone: "adt348.net" always_refuse
+local-zone: "adt356.com" always_refuse
 local-zone: "adt357.net" always_refuse
 local-zone: "adt361.com" always_refuse
 local-zone: "adt511.net" always_refuse
+local-zone: "adt523.net" always_refuse
 local-zone: "adt532.com" always_refuse
 local-zone: "adt567.net" always_refuse
 local-zone: "adt598.com" always_refuse
@@ -4212,6 +4215,7 @@ local-zone: "mycriteo.fr" always_refuse
 local-zone: "myfidevs.io" always_refuse
 local-zone: "mygpuid.com" always_refuse
 local-zone: "myleadx.com" always_refuse
+local-zone: "mypixel.com" always_refuse
 local-zone: "nabs.org.uk" always_refuse
 local-zone: "nadaseo.com" always_refuse
 local-zone: "naewynn.com" always_refuse
@@ -10630,6 +10634,7 @@ local-zone: "adimg.hani.co.kr" always_refuse
 local-zone: "ad.imyerevan.com" always_refuse
 local-zone: "adinsights.globo" always_refuse
 local-zone: "ad.inter-edu.com" always_refuse
+local-zone: "adinvigorate.com" always_refuse
 local-zone: "ad.itworld.co.kr" always_refuse
 local-zone: "ad.jasimabed.com" always_refuse
 local-zone: "ad.jxnews.com.cn" always_refuse

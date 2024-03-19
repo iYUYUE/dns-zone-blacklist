@@ -1834,9 +1834,12 @@ local-zone: "ads.web.tr" always_nxdomain
 local-zone: "adswell.ru" always_nxdomain
 local-zone: "adsxyz.com" always_nxdomain
 local-zone: "ad-sys.com" always_nxdomain
+local-zone: "adt348.net" always_nxdomain
+local-zone: "adt356.com" always_nxdomain
 local-zone: "adt357.net" always_nxdomain
 local-zone: "adt361.com" always_nxdomain
 local-zone: "adt511.net" always_nxdomain
+local-zone: "adt523.net" always_nxdomain
 local-zone: "adt532.com" always_nxdomain
 local-zone: "adt567.net" always_nxdomain
 local-zone: "adt598.com" always_nxdomain
@@ -4212,6 +4215,7 @@ local-zone: "mycriteo.fr" always_nxdomain
 local-zone: "myfidevs.io" always_nxdomain
 local-zone: "mygpuid.com" always_nxdomain
 local-zone: "myleadx.com" always_nxdomain
+local-zone: "mypixel.com" always_nxdomain
 local-zone: "nabs.org.uk" always_nxdomain
 local-zone: "nadaseo.com" always_nxdomain
 local-zone: "naewynn.com" always_nxdomain
@@ -10630,6 +10634,7 @@ local-zone: "adimg.hani.co.kr" always_nxdomain
 local-zone: "ad.imyerevan.com" always_nxdomain
 local-zone: "adinsights.globo" always_nxdomain
 local-zone: "ad.inter-edu.com" always_nxdomain
+local-zone: "adinvigorate.com" always_nxdomain
 local-zone: "ad.itworld.co.kr" always_nxdomain
 local-zone: "ad.jasimabed.com" always_nxdomain
 local-zone: "ad.jxnews.com.cn" always_nxdomain
