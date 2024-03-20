@@ -16817,6 +16817,7 @@ local-zone: "seal-centralflorida.bbb.org" always_refuse
 local-zone: "seal-centralgeorgia.bbb.org" always_refuse
 local-zone: "seal-southeasttexas.bbb.org" always_refuse
 local-zone: "seal-southernnevada.bbb.org" always_refuse
+local-zone: "seal.websecurity.norton.com" always_refuse
 local-zone: "secureimages.allrecipes.com" always_refuse
 local-zone: "servedby.palmbeachmedia.com" always_refuse
 local-zone: "smart.rexfordindustrial.com" always_refuse

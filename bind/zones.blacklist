@@ -16817,6 +16817,7 @@ zone "seal-centralflorida.bbb.org" { type master; notify no; file "null.zone.fil
 zone "seal-centralgeorgia.bbb.org" { type master; notify no; file "null.zone.file"; };
 zone "seal-southeasttexas.bbb.org" { type master; notify no; file "null.zone.file"; };
 zone "seal-southernnevada.bbb.org" { type master; notify no; file "null.zone.file"; };
+zone "seal.websecurity.norton.com" { type master; notify no; file "null.zone.file"; };
 zone "secureimages.allrecipes.com" { type master; notify no; file "null.zone.file"; };
 zone "servedby.palmbeachmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "smart.rexfordindustrial.com" { type master; notify no; file "null.zone.file"; };
