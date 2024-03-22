@@ -10497,6 +10497,7 @@ local-zone: "vervemobile.com" always_refuse
 local-zone: "via-backend.com" always_refuse
 local-zone: "viacustomer.com" always_refuse
 local-zone: "vibrantpact.com" always_refuse
+local-zone: "videocdnfor.com" always_refuse
 local-zone: "vipissycash.com" always_refuse
 local-zone: "vip-vip-vup.com" always_refuse
 local-zone: "viralnugget.com" always_refuse
