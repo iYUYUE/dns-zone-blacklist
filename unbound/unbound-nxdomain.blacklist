@@ -3024,6 +3024,7 @@ local-zone: "wadoox.com" always_nxdomain
 local-zone: "wahoha.com" always_nxdomain
 local-zone: "waihoz.xyz" always_nxdomain
 local-zone: "warp90.com" always_nxdomain
+local-zone: "wasd.media" always_nxdomain
 local-zone: "watieb.com" always_nxdomain
 local-zone: "waxcom.com" always_nxdomain
 local-zone: "we3red.com" always_nxdomain
@@ -3954,6 +3955,10 @@ local-zone: "foxpush.net" always_nxdomain
 local-zone: "freestar.io" always_nxdomain
 local-zone: "frizbit.com" always_nxdomain
 local-zone: "fstsrv2.com" always_nxdomain
+local-zone: "fstsrv4.com" always_nxdomain
+local-zone: "fstsrv5.com" always_nxdomain
+local-zone: "fstsrv6.com" always_nxdomain
+local-zone: "fstsrv7.com" always_nxdomain
 local-zone: "ftadsrv.com" always_nxdomain
 local-zone: "funhell.com" always_nxdomain
 local-zone: "fuse-ad.com" always_nxdomain
@@ -10172,6 +10177,7 @@ local-zone: "nelonenmedia.fi" always_nxdomain
 local-zone: "neptunepush.com" always_nxdomain
 local-zone: "neverboring.com" always_nxdomain
 local-zone: "newadserver.com" always_nxdomain
+local-zone: "newbluetrue.xyz" always_nxdomain
 local-zone: "newdaymedia.com" always_nxdomain
 local-zone: "newfrontier.com" always_nxdomain
 local-zone: "newsadds.com.au" always_nxdomain
@@ -10190,6 +10196,7 @@ local-zone: "ocsrest.ebay.ca" always_nxdomain
 local-zone: "offermatica.com" always_nxdomain
 local-zone: "ogle-0740lb.com" always_nxdomain
 local-zone: "ok.starwank.com" always_nxdomain
+local-zone: "oldercdncom.com" always_nxdomain
 local-zone: "onclickalgo.com" always_nxdomain
 local-zone: "oncustomer.asia" always_nxdomain
 local-zone: "one.progmxs.com" always_nxdomain
@@ -10286,6 +10293,7 @@ local-zone: "push.tagged.com" always_nxdomain
 local-zone: "q.azcentral.com" always_nxdomain
 local-zone: "qel-qel-fie.com" always_nxdomain
 local-zone: "quadrantppc.com" always_nxdomain
+local-zone: "qualiclicks.com" always_nxdomain
 local-zone: "quanta-wave.com" always_nxdomain
 local-zone: "quartermedia.de" always_nxdomain
 local-zone: "quicklaunch.com" always_nxdomain
@@ -15038,6 +15046,7 @@ local-zone: "adtima-static.zadn.vn" always_nxdomain
 local-zone: "adtradradservices.com" always_nxdomain
 local-zone: "adultclicksponsor.com" always_nxdomain
 local-zone: "adultwebmasternet.com" always_nxdomain
+local-zone: "adv.baoangiang.com.vn" always_nxdomain
 local-zone: "adventureadagency.com" always_nxdomain
 local-zone: "advertere.zamunda.net" always_nxdomain
 local-zone: "advert.focusgames.com" always_nxdomain
@@ -17355,6 +17364,7 @@ local-zone: "vns121.oss-cn-hongkong.aliyuncs.com" always_nxdomain
 local-zone: "webapplicationstreamingnetwork.info" always_nxdomain
 local-zone: "wixlabs-adsense-v3.uc.r.appspot.com" always_nxdomain
 local-zone: "xpjtu7.oss-cn-hangzhou.aliyuncs.com" always_nxdomain
+local-zone: "079301eaff0975107716716fd1cb0dcd.com" always_nxdomain
 local-zone: "6a29f2964719025ed21ad70eada81a50.com" always_nxdomain
 local-zone: "6abe6fc415d6aad809ddede8b4e9834f.com" always_nxdomain
 local-zone: "87ec9959f951bd4a21a31e1bc3055552.com" always_nxdomain

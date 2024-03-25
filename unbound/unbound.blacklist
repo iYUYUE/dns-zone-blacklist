@@ -3024,6 +3024,7 @@ local-zone: "wadoox.com" always_refuse
 local-zone: "wahoha.com" always_refuse
 local-zone: "waihoz.xyz" always_refuse
 local-zone: "warp90.com" always_refuse
+local-zone: "wasd.media" always_refuse
 local-zone: "watieb.com" always_refuse
 local-zone: "waxcom.com" always_refuse
 local-zone: "we3red.com" always_refuse
@@ -3954,6 +3955,10 @@ local-zone: "foxpush.net" always_refuse
 local-zone: "freestar.io" always_refuse
 local-zone: "frizbit.com" always_refuse
 local-zone: "fstsrv2.com" always_refuse
+local-zone: "fstsrv4.com" always_refuse
+local-zone: "fstsrv5.com" always_refuse
+local-zone: "fstsrv6.com" always_refuse
+local-zone: "fstsrv7.com" always_refuse
 local-zone: "ftadsrv.com" always_refuse
 local-zone: "funhell.com" always_refuse
 local-zone: "fuse-ad.com" always_refuse
@@ -10172,6 +10177,7 @@ local-zone: "nelonenmedia.fi" always_refuse
 local-zone: "neptunepush.com" always_refuse
 local-zone: "neverboring.com" always_refuse
 local-zone: "newadserver.com" always_refuse
+local-zone: "newbluetrue.xyz" always_refuse
 local-zone: "newdaymedia.com" always_refuse
 local-zone: "newfrontier.com" always_refuse
 local-zone: "newsadds.com.au" always_refuse
@@ -10190,6 +10196,7 @@ local-zone: "ocsrest.ebay.ca" always_refuse
 local-zone: "offermatica.com" always_refuse
 local-zone: "ogle-0740lb.com" always_refuse
 local-zone: "ok.starwank.com" always_refuse
+local-zone: "oldercdncom.com" always_refuse
 local-zone: "onclickalgo.com" always_refuse
 local-zone: "oncustomer.asia" always_refuse
 local-zone: "one.progmxs.com" always_refuse
@@ -10286,6 +10293,7 @@ local-zone: "push.tagged.com" always_refuse
 local-zone: "q.azcentral.com" always_refuse
 local-zone: "qel-qel-fie.com" always_refuse
 local-zone: "quadrantppc.com" always_refuse
+local-zone: "qualiclicks.com" always_refuse
 local-zone: "quanta-wave.com" always_refuse
 local-zone: "quartermedia.de" always_refuse
 local-zone: "quicklaunch.com" always_refuse
@@ -15038,6 +15046,7 @@ local-zone: "adtima-static.zadn.vn" always_refuse
 local-zone: "adtradradservices.com" always_refuse
 local-zone: "adultclicksponsor.com" always_refuse
 local-zone: "adultwebmasternet.com" always_refuse
+local-zone: "adv.baoangiang.com.vn" always_refuse
 local-zone: "adventureadagency.com" always_refuse
 local-zone: "advertere.zamunda.net" always_refuse
 local-zone: "advert.focusgames.com" always_refuse
@@ -17355,6 +17364,7 @@ local-zone: "vns121.oss-cn-hongkong.aliyuncs.com" always_refuse
 local-zone: "webapplicationstreamingnetwork.info" always_refuse
 local-zone: "wixlabs-adsense-v3.uc.r.appspot.com" always_refuse
 local-zone: "xpjtu7.oss-cn-hangzhou.aliyuncs.com" always_refuse
+local-zone: "079301eaff0975107716716fd1cb0dcd.com" always_refuse
 local-zone: "6a29f2964719025ed21ad70eada81a50.com" always_refuse
 local-zone: "6abe6fc415d6aad809ddede8b4e9834f.com" always_refuse
 local-zone: "87ec9959f951bd4a21a31e1bc3055552.com" always_refuse
