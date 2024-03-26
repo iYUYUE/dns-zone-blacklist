@@ -7005,6 +7005,7 @@ zone "distribeo.com" { type master; notify no; file "null.zone.file"; };
 zone "districtm.net" { type master; notify no; file "null.zone.file"; };
 zone "ditdotsol.com" { type master; notify no; file "null.zone.file"; };
 zone "divisiond.com" { type master; notify no; file "null.zone.file"; };
+zone "dnasoft.co.kr" { type master; notify no; file "null.zone.file"; };
 zone "doclersrv.com" { type master; notify no; file "null.zone.file"; };
 zone "dogolurkr.com" { type master; notify no; file "null.zone.file"; };
 zone "domnovrek.com" { type master; notify no; file "null.zone.file"; };
