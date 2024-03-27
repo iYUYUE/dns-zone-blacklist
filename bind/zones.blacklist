@@ -2106,6 +2106,7 @@ zone "contaxe.de" { type master; notify no; file "null.zone.file"; };
 zone "contema.ru" { type master; notify no; file "null.zone.file"; };
 zone "content.ad" { type master; notify no; file "null.zone.file"; };
 zone "context.ly" { type master; notify no; file "null.zone.file"; };
+zone "contlo.com" { type master; notify no; file "null.zone.file"; };
 zone "cordial.io" { type master; notify no; file "null.zone.file"; };
 zone "cos-rd.com" { type master; notify no; file "null.zone.file"; };
 zone "covatic.io" { type master; notify no; file "null.zone.file"; };
