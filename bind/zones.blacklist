@@ -9368,6 +9368,7 @@ zone "5000banners.com" { type master; notify no; file "null.zone.file"; };
 zone "587tuchuang.com" { type master; notify no; file "null.zone.file"; };
 zone "595tuchuang.com" { type master; notify no; file "null.zone.file"; };
 zone "5.ras.yahoo.com" { type master; notify no; file "null.zone.file"; };
+zone "5smartreads.com" { type master; notify no; file "null.zone.file"; };
 zone "683tuchuang.com" { type master; notify no; file "null.zone.file"; };
 zone "68939975272.com" { type master; notify no; file "null.zone.file"; };
 zone "6.ras.yahoo.com" { type master; notify no; file "null.zone.file"; };
