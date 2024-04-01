@@ -5716,6 +5716,7 @@ local-zone: "masakeku.com" always_refuse
 local-zone: "ma-static.ru" always_refuse
 local-zone: "maxetise.net" always_refuse
 local-zone: "maxforta.com" always_refuse
+local-zone: "maximally.io" always_refuse
 local-zone: "maxpoint.com" always_refuse
 local-zone: "maxtarget.ru" always_refuse
 local-zone: "maytrics.com" always_refuse
@@ -7738,6 +7739,7 @@ local-zone: "streamamp.com" always_refuse
 local-zone: "stringads.com" always_refuse
 local-zone: "sulimedia.com" always_refuse
 local-zone: "suomzilla.com" always_refuse
+local-zone: "swordkura.com" always_refuse
 local-zone: "synergy-e.com" always_refuse
 local-zone: "t2-1.p-cdn.us" always_refuse
 local-zone: "t2-4.p-cdn.us" always_refuse
@@ -12156,6 +12158,7 @@ local-zone: "dkmadsnetwork.com" always_refuse
 local-zone: "dkms.digikala.com" always_refuse
 local-zone: "dobermanmedia.com" always_refuse
 local-zone: "doblevialatam.com" always_refuse
+local-zone: "dogystyleshop.com" always_refuse
 local-zone: "dolanadserver.com" always_refuse
 local-zone: "domainsponsor.com" always_refuse
 local-zone: "doubleadserve.com" always_refuse
