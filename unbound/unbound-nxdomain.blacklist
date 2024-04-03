@@ -15048,6 +15048,7 @@ local-zone: "ads.myparksystems.com" always_nxdomain
 local-zone: "ads.myplace4parts.com" always_nxdomain
 local-zone: "ads.mypushtracker.com" always_nxdomain
 local-zone: "ads.newyorkbyrail.com" always_nxdomain
+local-zone: "adsninjacdn.b-cdn.net" always_nxdomain
 local-zone: "ads.nitschkeverlag.de" always_nxdomain
 local-zone: "ads.nordichardware.se" always_nxdomain
 local-zone: "ads.oilconnection.net" always_nxdomain

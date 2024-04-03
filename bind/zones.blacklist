@@ -15048,6 +15048,7 @@ zone "ads.myparksystems.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.myplace4parts.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.mypushtracker.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.newyorkbyrail.com" { type master; notify no; file "null.zone.file"; };
+zone "adsninjacdn.b-cdn.net" { type master; notify no; file "null.zone.file"; };
 zone "ads.nitschkeverlag.de" { type master; notify no; file "null.zone.file"; };
 zone "ads.nordichardware.se" { type master; notify no; file "null.zone.file"; };
 zone "ads.oilconnection.net" { type master; notify no; file "null.zone.file"; };
