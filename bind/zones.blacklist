@@ -5310,6 +5310,7 @@ zone "brandcdn.com" { type master; notify no; file "null.zone.file"; };
 zone "brandwand.in" { type master; notify no; file "null.zone.file"; };
 zone "brickinc.net" { type master; notify no; file "null.zone.file"; };
 zone "brinkads.com" { type master; notify no; file "null.zone.file"; };
+zone "brsrv-id.com" { type master; notify no; file "null.zone.file"; };
 zone "bruceads.com" { type master; notify no; file "null.zone.file"; };
 zone "b.sexvids.cc" { type master; notify no; file "null.zone.file"; };
 zone "bs.mdadx.com" { type master; notify no; file "null.zone.file"; };
