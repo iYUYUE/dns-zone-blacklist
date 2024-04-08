@@ -2199,6 +2199,7 @@ zone "epaaab.com" { type master; notify no; file "null.zone.file"; };
 zone "epmads.com" { type master; notify no; file "null.zone.file"; };
 zone "eqfgrt.com" { type master; notify no; file "null.zone.file"; };
 zone "eqolot.com" { type master; notify no; file "null.zone.file"; };
+zone "ereira.net" { type master; notify no; file "null.zone.file"; };
 zone "ergadx.com" { type master; notify no; file "null.zone.file"; };
 zone "erohub.com" { type master; notify no; file "null.zone.file"; };
 zone "eroskop.ch" { type master; notify no; file "null.zone.file"; };
