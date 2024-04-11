@@ -7224,6 +7224,7 @@ local-zone: "index.digital" always_refuse
 local-zone: "indoleads.com" always_refuse
 local-zone: "infolinks.com" always_refuse
 local-zone: "infoscreen.de" always_refuse
+local-zone: "inmobicdn.net" always_refuse
 local-zone: "inorbitad.com" always_refuse
 local-zone: "instabid.tech" always_refuse
 local-zone: "instapage.com" always_refuse
@@ -12715,6 +12716,7 @@ local-zone: "ad.livejupiter.org" always_refuse
 local-zone: "ad.lottorich.co.kr" always_refuse
 local-zone: "admanager.hulu.com" always_refuse
 local-zone: "ad.mangaplanet.com" always_refuse
+local-zone: "ad.minigameltd.com" always_refuse
 local-zone: "ad.mms-muenster.de" always_refuse
 local-zone: "ad.moo-mam-tai.com" always_refuse
 local-zone: "ad.mynetreklam.com" always_refuse

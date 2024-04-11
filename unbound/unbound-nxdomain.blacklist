@@ -7224,6 +7224,7 @@ local-zone: "index.digital" always_nxdomain
 local-zone: "indoleads.com" always_nxdomain
 local-zone: "infolinks.com" always_nxdomain
 local-zone: "infoscreen.de" always_nxdomain
+local-zone: "inmobicdn.net" always_nxdomain
 local-zone: "inorbitad.com" always_nxdomain
 local-zone: "instabid.tech" always_nxdomain
 local-zone: "instapage.com" always_nxdomain
@@ -12715,6 +12716,7 @@ local-zone: "ad.livejupiter.org" always_nxdomain
 local-zone: "ad.lottorich.co.kr" always_nxdomain
 local-zone: "admanager.hulu.com" always_nxdomain
 local-zone: "ad.mangaplanet.com" always_nxdomain
+local-zone: "ad.minigameltd.com" always_nxdomain
 local-zone: "ad.mms-muenster.de" always_nxdomain
 local-zone: "ad.moo-mam-tai.com" always_nxdomain
 local-zone: "ad.mynetreklam.com" always_nxdomain
