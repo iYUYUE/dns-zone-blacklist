@@ -1276,6 +1276,7 @@ local-zone: "pushex.io" always_refuse
 local-zone: "push.guru" always_refuse
 local-zone: "pykoo.com" always_refuse
 local-zone: "pymx5.com" always_refuse
+local-zone: "qdorz.com" always_refuse
 local-zone: "qhnwj.com" always_refuse
 local-zone: "qiota.com" always_refuse
 local-zone: "qirnz.com" always_refuse
@@ -4895,6 +4896,7 @@ local-zone: "admachine.co" always_refuse
 local-zone: "admagnet.com" always_refuse
 local-zone: "admagnet.net" always_refuse
 local-zone: "admanage.com" always_refuse
+local-zone: "admanager.hu" always_refuse
 local-zone: "admark.co.uk" always_refuse
 local-zone: "admarvel.com" always_refuse
 local-zone: "admarvel.top" always_refuse
@@ -7918,7 +7920,6 @@ local-zone: "zhibo128x.xyz" always_refuse
 local-zone: "zitaptugo.com" always_refuse
 local-zone: "zodiacare.com" always_refuse
 local-zone: "zswzri7ju3.ru" always_refuse
-local-zone: "03ab2qdorz.com" always_refuse
 local-zone: "1000mercis.com" always_refuse
 local-zone: "100widgets.com" always_refuse
 local-zone: "10thdegree.com" always_refuse
@@ -14290,6 +14291,7 @@ local-zone: "xml.xonedart-2.live" always_refuse
 local-zone: "yesmarketing.com.au" always_refuse
 local-zone: "yotta.scrolller.com" always_refuse
 local-zone: "zdstatic.askmen.com" always_refuse
+local-zone: "03ab2paradisecdn.com" always_refuse
 local-zone: "30secondfeedback.com" always_refuse
 local-zone: "360marketingteam.com" always_refuse
 local-zone: "360yieldplatform.com" always_refuse

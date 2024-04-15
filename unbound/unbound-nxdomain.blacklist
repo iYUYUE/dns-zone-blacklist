@@ -1276,6 +1276,7 @@ local-zone: "pushex.io" always_nxdomain
 local-zone: "push.guru" always_nxdomain
 local-zone: "pykoo.com" always_nxdomain
 local-zone: "pymx5.com" always_nxdomain
+local-zone: "qdorz.com" always_nxdomain
 local-zone: "qhnwj.com" always_nxdomain
 local-zone: "qiota.com" always_nxdomain
 local-zone: "qirnz.com" always_nxdomain
@@ -4895,6 +4896,7 @@ local-zone: "admachine.co" always_nxdomain
 local-zone: "admagnet.com" always_nxdomain
 local-zone: "admagnet.net" always_nxdomain
 local-zone: "admanage.com" always_nxdomain
+local-zone: "admanager.hu" always_nxdomain
 local-zone: "admark.co.uk" always_nxdomain
 local-zone: "admarvel.com" always_nxdomain
 local-zone: "admarvel.top" always_nxdomain
@@ -7918,7 +7920,6 @@ local-zone: "zhibo128x.xyz" always_nxdomain
 local-zone: "zitaptugo.com" always_nxdomain
 local-zone: "zodiacare.com" always_nxdomain
 local-zone: "zswzri7ju3.ru" always_nxdomain
-local-zone: "03ab2qdorz.com" always_nxdomain
 local-zone: "1000mercis.com" always_nxdomain
 local-zone: "100widgets.com" always_nxdomain
 local-zone: "10thdegree.com" always_nxdomain
@@ -14290,6 +14291,7 @@ local-zone: "xml.xonedart-2.live" always_nxdomain
 local-zone: "yesmarketing.com.au" always_nxdomain
 local-zone: "yotta.scrolller.com" always_nxdomain
 local-zone: "zdstatic.askmen.com" always_nxdomain
+local-zone: "03ab2paradisecdn.com" always_nxdomain
 local-zone: "30secondfeedback.com" always_nxdomain
 local-zone: "360marketingteam.com" always_nxdomain
 local-zone: "360yieldplatform.com" always_nxdomain
