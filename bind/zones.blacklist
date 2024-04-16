@@ -10269,6 +10269,7 @@ zone "overzoruaon.com" { type master; notify no; file "null.zone.file"; };
 zone "oxalispulse.com" { type master; notify no; file "null.zone.file"; };
 zone "padgroup.com.vn" { type master; notify no; file "null.zone.file"; };
 zone "pageprotect.net" { type master; notify no; file "null.zone.file"; };
+zone "paradisecdn.com" { type master; notify no; file "null.zone.file"; };
 zone "paradoxgroup.co" { type master; notify no; file "null.zone.file"; };
 zone "parkingcrew.com" { type master; notify no; file "null.zone.file"; };
 zone "parkingcrew.net" { type master; notify no; file "null.zone.file"; };
