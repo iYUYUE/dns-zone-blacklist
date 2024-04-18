@@ -3441,6 +3441,7 @@ local-zone: "ad.rchub.hu" always_refuse
 local-zone: "adready.com" always_refuse
 local-zone: "adregain.ru" always_refuse
 local-zone: "adresult.jp" always_refuse
+local-zone: "adriads.com" always_refuse
 local-zone: "adright.com" always_refuse
 local-zone: "adroll.live" always_refuse
 local-zone: "adrotate.se" always_refuse
@@ -4195,6 +4196,7 @@ local-zone: "microad.net" always_refuse
 local-zone: "midas-i.com" always_refuse
 local-zone: "midroll.com" always_refuse
 local-zone: "milo.agency" always_refuse
+local-zone: "mindblue.in" always_refuse
 local-zone: "minimob.com" always_refuse
 local-zone: "mirriad.com" always_refuse
 local-zone: "misgood.com" always_refuse

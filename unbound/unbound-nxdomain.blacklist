@@ -3441,6 +3441,7 @@ local-zone: "ad.rchub.hu" always_nxdomain
 local-zone: "adready.com" always_nxdomain
 local-zone: "adregain.ru" always_nxdomain
 local-zone: "adresult.jp" always_nxdomain
+local-zone: "adriads.com" always_nxdomain
 local-zone: "adright.com" always_nxdomain
 local-zone: "adroll.live" always_nxdomain
 local-zone: "adrotate.se" always_nxdomain
@@ -4195,6 +4196,7 @@ local-zone: "microad.net" always_nxdomain
 local-zone: "midas-i.com" always_nxdomain
 local-zone: "midroll.com" always_nxdomain
 local-zone: "milo.agency" always_nxdomain
+local-zone: "mindblue.in" always_nxdomain
 local-zone: "minimob.com" always_nxdomain
 local-zone: "mirriad.com" always_nxdomain
 local-zone: "misgood.com" always_nxdomain
