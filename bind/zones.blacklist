@@ -6669,6 +6669,7 @@ zone "ads.thulo.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.tmedia.ro" { type master; notify no; file "null.zone.file"; };
 zone "ads.topdoc.me" { type master; notify no; file "null.zone.file"; };
 zone "ads.topici.fr" { type master; notify no; file "null.zone.file"; };
+zone "ads.twitch.tv" { type master; notify no; file "null.zone.file"; };
 zone "ads.unija.net" { type master; notify no; file "null.zone.file"; };
 zone "ads.unison.bg" { type master; notify no; file "null.zone.file"; };
 zone "ads.viber.com" { type master; notify no; file "null.zone.file"; };
