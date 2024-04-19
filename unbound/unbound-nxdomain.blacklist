@@ -5388,6 +5388,7 @@ local-zone: "cloudmark.mx" always_nxdomain
 local-zone: "cmp2.bild.de" always_nxdomain
 local-zone: "co1linesu.ru" always_nxdomain
 local-zone: "codefuel.com" always_nxdomain
+local-zone: "codevelop.io" always_nxdomain
 local-zone: "cogocast.net" always_nxdomain
 local-zone: "coinad.media" always_nxdomain
 local-zone: "coinmedia.co" always_nxdomain
@@ -5437,6 +5438,7 @@ local-zone: "di6stero.com" always_nxdomain
 local-zone: "di7stero.com" always_nxdomain
 local-zone: "digilant.com" always_nxdomain
 local-zone: "digiquals.in" always_nxdomain
+local-zone: "digitizer.ae" always_nxdomain
 local-zone: "dishacom.com" always_nxdomain
 local-zone: "districtm.ca" always_nxdomain
 local-zone: "districtm.io" always_nxdomain
@@ -8374,7 +8376,6 @@ local-zone: "almstfri87.com" always_nxdomain
 local-zone: "alspearowa.com" always_nxdomain
 local-zone: "aluhutmafia.de" always_nxdomain
 local-zone: "amarceusan.com" always_nxdomain
-local-zone: "amer.hhkld.com" always_nxdomain
 local-zone: "ammankeyan.com" always_nxdomain
 local-zone: "amoddishor.com" always_nxdomain
 local-zone: "amolio.fubo.tv" always_nxdomain
@@ -10345,7 +10346,6 @@ local-zone: "privacy.hbo.com" always_nxdomain
 local-zone: "privatecash.com" always_nxdomain
 local-zone: "promising.co.in" always_nxdomain
 local-zone: "promo-kovrov.ru" always_nxdomain
-local-zone: "prompts.maze.co" always_nxdomain
 local-zone: "prooffactor.com" always_nxdomain
 local-zone: "propelmedia.com" always_nxdomain
 local-zone: "propholicad.com" always_nxdomain
@@ -10516,6 +10516,7 @@ local-zone: "thedavmedia.com" always_nxdomain
 local-zone: "thehbagency.com" always_nxdomain
 local-zone: "themcgrpint.com" always_nxdomain
 local-zone: "thenextwave.biz" always_nxdomain
+local-zone: "therepublik.net" always_nxdomain
 local-zone: "thesharpener.co" always_nxdomain
 local-zone: "theuncommons.in" always_nxdomain
 local-zone: "thisisarray.com" always_nxdomain
@@ -14920,7 +14921,6 @@ local-zone: "widget.reviews.co.uk" always_nxdomain
 local-zone: "widgets.business.com" always_nxdomain
 local-zone: "widgets.carsaver.com" always_nxdomain
 local-zone: "widget.solvemate.com" always_nxdomain
-local-zone: "widget.stylitics.com" always_nxdomain
 local-zone: "widgets.vinaudit.com" always_nxdomain
 local-zone: "winads.eraofecom.org" always_nxdomain
 local-zone: "worldoffersdaily.com" always_nxdomain
@@ -15532,7 +15532,6 @@ local-zone: "adserver.publipega.com" always_nxdomain
 local-zone: "adserver.rccrawler.com" always_nxdomain
 local-zone: "adserver.rheinpfalz.de" always_nxdomain
 local-zone: "adserver.sciflicks.com" always_nxdomain
-local-zone: "adserver.seesource.com" always_nxdomain
 local-zone: "adserver.ship2yard.com" always_nxdomain
 local-zone: "adserver.sigma-foto.de" always_nxdomain
 local-zone: "adserver.sonicplug.com" always_nxdomain
@@ -16663,7 +16662,6 @@ local-zone: "vertexmarketingagency.com" always_nxdomain
 local-zone: "vital20communications.com" always_nxdomain
 local-zone: "watsonadvertising.ibm.com" always_nxdomain
 local-zone: "whitewolf-advertising.com" always_nxdomain
-local-zone: "widget.shoptelligence.com" always_nxdomain
 local-zone: "widgets.stackcommerce.com" always_nxdomain
 local-zone: "widgets.stagingjobshq.com" always_nxdomain
 local-zone: "xml-eu-v4.xonedart-2.live" always_nxdomain
@@ -17595,12 +17593,21 @@ local-zone: "cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com" always
 local-zone: "millionsviewapi-elb-1796117858.ap-south-1.elb.amazonaws.com" always_nxdomain
 local-zone: "0df921ae7136d731950edfdd4876e3ee9759a5c2e63fafe0d43f45cf.com" always_nxdomain
 local-zone: "1a81c87423210199b8232f0bbcc8bd5c6e7e54078768629b407811e9.com" always_nxdomain
+local-zone: "1eb7c8523c749bfaaa42fe1f841c4b3318cc77cc64d55f34cc9fce8e.com" always_nxdomain
+local-zone: "320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com" always_nxdomain
+local-zone: "480bbdf9664629877bc67d2094ca011cc759f779887c3337e8ae8bfd.com" always_nxdomain
+local-zone: "4b1b5677193b53828020053ae4a0c9d2dec12ef98fe68dc0f880d08c.com" always_nxdomain
+local-zone: "4fa3df6bdd29062d8558b55bb06fb2885592fcf83cf99e4909483c81.com" always_nxdomain
 local-zone: "5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com" always_nxdomain
 local-zone: "60b7ac265566e3da4341f765b2d2a73200f8f1db57b0b005a1afdc00.com" always_nxdomain
+local-zone: "64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com" always_nxdomain
 local-zone: "6ad5d7a9aa285849df0f7a776f52d17a861901df9fdcda9db9b3404d.com" always_nxdomain
+local-zone: "89f5318ce93d828ab801f693bf6d1bf4ba587299f920697b486e751c.com" always_nxdomain
+local-zone: "8d4b8e3228cf9c859d4a4721929775dee41828804dddc0b1519562b9.com" always_nxdomain
 local-zone: "93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com" always_nxdomain
 local-zone: "a016967c8c783c38e555ae97b38fe0566ad9b398d255e32e833f160d.com" always_nxdomain
 local-zone: "a1401dff39c8fdcba6f437a5b06706d1413c89636d5fee6cce27cc99.com" always_nxdomain
+local-zone: "a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com" always_nxdomain
 local-zone: "ab87cc9ec2c76f1c4f6d2703ef9e0d56008bc98b157cc3af10a5bfbd.com" always_nxdomain
 local-zone: "bf53f4f482ba8b1513d570a748dcbee90cde062c8c91eae4304f2b57.com" always_nxdomain
 local-zone: "c0c3eda58e8cefc764eb2be4a530e2a91bb1edb958be470aa94443d8.com" always_nxdomain
@@ -17609,15 +17616,6 @@ local-zone: "uxt-supplier-financed-middle-banner-prod.shpp.ext.zooplus.io" alway
 local-zone: "adserver-prod-alb-1558369296.ap-southeast-1.elb.amazonaws.com" always_nxdomain
 local-zone: "caltimes-sdut-marketing-assets-dev.s3-us-west-2.amazonaws.com" always_nxdomain
 local-zone: "foureyes-adpearance-com-440548151.us-west-2.elb.amazonaws.com" always_nxdomain
-local-zone: "a.1eb7c8523c749bfaaa42fe1f841c4b3318cc77cc64d55f34cc9fce8e.com" always_nxdomain
-local-zone: "a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com" always_nxdomain
-local-zone: "a.480bbdf9664629877bc67d2094ca011cc759f779887c3337e8ae8bfd.com" always_nxdomain
-local-zone: "a.4b1b5677193b53828020053ae4a0c9d2dec12ef98fe68dc0f880d08c.com" always_nxdomain
-local-zone: "a.4fa3df6bdd29062d8558b55bb06fb2885592fcf83cf99e4909483c81.com" always_nxdomain
-local-zone: "a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com" always_nxdomain
-local-zone: "a.89f5318ce93d828ab801f693bf6d1bf4ba587299f920697b486e751c.com" always_nxdomain
-local-zone: "a.8d4b8e3228cf9c859d4a4721929775dee41828804dddc0b1519562b9.com" always_nxdomain
-local-zone: "a.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com" always_nxdomain
 local-zone: "a.c5bbb6d791bda0b2587d212ce345a027fab31c67388fa54079c33307.com" always_nxdomain
 local-zone: "ad-interactions-prod-lb-1606894468.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "opinionadsadserverelbvpc-1611782868.us-east-1.elb.amazonaws.com" always_nxdomain
