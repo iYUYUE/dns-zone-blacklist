@@ -12415,6 +12415,7 @@ zone "myalphaspace3.com" { type master; notify no; file "null.zone.file"; };
 zone "my-banner-ads.com" { type master; notify no; file "null.zone.file"; };
 zone "mycars.dealer.com" { type master; notify no; file "null.zone.file"; };
 zone "my-dog-studio.com" { type master; notify no; file "null.zone.file"; };
+zone "myhometownads.com" { type master; notify no; file "null.zone.file"; };
 zone "mymediashield.com" { type master; notify no; file "null.zone.file"; };
 zone "nativeadmatch.com" { type master; notify no; file "null.zone.file"; };
 zone "nativeadscamp.com" { type master; notify no; file "null.zone.file"; };

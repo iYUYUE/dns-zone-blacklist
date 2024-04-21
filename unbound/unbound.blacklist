@@ -12415,6 +12415,7 @@ local-zone: "myalphaspace3.com" always_refuse
 local-zone: "my-banner-ads.com" always_refuse
 local-zone: "mycars.dealer.com" always_refuse
 local-zone: "my-dog-studio.com" always_refuse
+local-zone: "myhometownads.com" always_refuse
 local-zone: "mymediashield.com" always_refuse
 local-zone: "nativeadmatch.com" always_refuse
 local-zone: "nativeadscamp.com" always_refuse

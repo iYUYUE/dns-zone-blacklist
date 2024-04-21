@@ -12415,6 +12415,7 @@ local-zone: "myalphaspace3.com" always_nxdomain
 local-zone: "my-banner-ads.com" always_nxdomain
 local-zone: "mycars.dealer.com" always_nxdomain
 local-zone: "my-dog-studio.com" always_nxdomain
+local-zone: "myhometownads.com" always_nxdomain
 local-zone: "mymediashield.com" always_nxdomain
 local-zone: "nativeadmatch.com" always_nxdomain
 local-zone: "nativeadscamp.com" always_nxdomain
