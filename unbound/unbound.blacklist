@@ -16939,6 +16939,7 @@ local-zone: "verifications.sfly-mktg.com" always_refuse
 local-zone: "voodoointernetmarketing.com" always_refuse
 local-zone: "webappstreamingnetwork.info" always_refuse
 local-zone: "werbung.dohrmann-projekt.de" always_refuse
+local-zone: "widget.cluster.groovehq.com" always_refuse
 local-zone: "widgets.thereviewsplace.com" always_refuse
 local-zone: "xml-eu-v4.explorefast-1.com" always_refuse
 local-zone: "zfa.ledrugstoreparisien.com" always_refuse

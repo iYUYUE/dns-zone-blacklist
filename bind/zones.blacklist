@@ -16939,6 +16939,7 @@ zone "verifications.sfly-mktg.com" { type master; notify no; file "null.zone.fil
 zone "voodoointernetmarketing.com" { type master; notify no; file "null.zone.file"; };
 zone "webappstreamingnetwork.info" { type master; notify no; file "null.zone.file"; };
 zone "werbung.dohrmann-projekt.de" { type master; notify no; file "null.zone.file"; };
+zone "widget.cluster.groovehq.com" { type master; notify no; file "null.zone.file"; };
 zone "widgets.thereviewsplace.com" { type master; notify no; file "null.zone.file"; };
 zone "xml-eu-v4.explorefast-1.com" { type master; notify no; file "null.zone.file"; };
 zone "zfa.ledrugstoreparisien.com" { type master; notify no; file "null.zone.file"; };
