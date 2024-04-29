@@ -11935,7 +11935,6 @@ zone "ads.nation.africa" { type master; notify no; file "null.zone.file"; };
 zone "ads.netzpepper.de" { type master; notify no; file "null.zone.file"; };
 zone "ad.softcatala.cat" { type master; notify no; file "null.zone.file"; };
 zone "ad.softcatala.org" { type master; notify no; file "null.zone.file"; };
-zone "adsoftheworld.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.oujdacity.net" { type master; notify no; file "null.zone.file"; };
 zone "adsourcemedia.net" { type master; notify no; file "null.zone.file"; };
 zone "adspaceafrica.com" { type master; notify no; file "null.zone.file"; };
