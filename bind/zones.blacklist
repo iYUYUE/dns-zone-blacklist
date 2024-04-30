@@ -11493,6 +11493,7 @@ zone "rabmarketing.com" { type master; notify no; file "null.zone.file"; };
 zone "radioamerica.org" { type master; notify no; file "null.zone.file"; };
 zone "ramirocampos.pro" { type master; notify no; file "null.zone.file"; };
 zone "rankmeglobal.com" { type master; notify no; file "null.zone.file"; };
+zone "ras.bigumigu.com" { type master; notify no; file "null.zone.file"; };
 zone "readmo.yahoo.com" { type master; notify no; file "null.zone.file"; };
 zone "realityads.co.za" { type master; notify no; file "null.zone.file"; };
 zone "realpush.digital" { type master; notify no; file "null.zone.file"; };
