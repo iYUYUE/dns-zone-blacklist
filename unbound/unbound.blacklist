@@ -1986,6 +1986,7 @@ local-zone: "artfut.com" always_refuse
 local-zone: "artsai.com" always_refuse
 local-zone: "artworx.at" always_refuse
 local-zone: "as5000.com" always_refuse
+local-zone: "asccdn.com" always_refuse
 local-zone: "ashcdn.com" always_refuse
 local-zone: "atedra.com" always_refuse
 local-zone: "atemda.com" always_refuse

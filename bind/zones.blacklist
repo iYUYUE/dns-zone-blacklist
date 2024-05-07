@@ -1986,6 +1986,7 @@ zone "artfut.com" { type master; notify no; file "null.zone.file"; };
 zone "artsai.com" { type master; notify no; file "null.zone.file"; };
 zone "artworx.at" { type master; notify no; file "null.zone.file"; };
 zone "as5000.com" { type master; notify no; file "null.zone.file"; };
+zone "asccdn.com" { type master; notify no; file "null.zone.file"; };
 zone "ashcdn.com" { type master; notify no; file "null.zone.file"; };
 zone "atedra.com" { type master; notify no; file "null.zone.file"; };
 zone "atemda.com" { type master; notify no; file "null.zone.file"; };

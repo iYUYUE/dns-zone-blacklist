@@ -1986,6 +1986,7 @@ local-zone: "artfut.com" always_nxdomain
 local-zone: "artsai.com" always_nxdomain
 local-zone: "artworx.at" always_nxdomain
 local-zone: "as5000.com" always_nxdomain
+local-zone: "asccdn.com" always_nxdomain
 local-zone: "ashcdn.com" always_nxdomain
 local-zone: "atedra.com" always_nxdomain
 local-zone: "atemda.com" always_nxdomain
