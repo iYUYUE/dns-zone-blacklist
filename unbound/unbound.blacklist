@@ -4018,6 +4018,7 @@ local-zone: "greysell.in" always_refuse
 local-zone: "grmtech.net" always_refuse
 local-zone: "growider.co" always_refuse
 local-zone: "gsdsinc.com" always_refuse
+local-zone: "gygy.online" always_refuse
 local-zone: "hakuna.mobi" always_refuse
 local-zone: "hbtronix.de" always_refuse
 local-zone: "hclicks.com" always_refuse
@@ -4418,6 +4419,7 @@ local-zone: "radium1.com" always_refuse
 local-zone: "radium1.net" always_refuse
 local-zone: "radium1.org" always_refuse
 local-zone: "r.apina.biz" always_refuse
+local-zone: "raptive.com" always_refuse
 local-zone: "rayjump.com" always_refuse
 local-zone: "rb.infox.sg" always_refuse
 local-zone: "rcvlink.com" always_refuse
@@ -15894,6 +15896,7 @@ local-zone: "a4alticeadvertising.com" always_refuse
 local-zone: "actionadvertisingnc.com" always_refuse
 local-zone: "ad.abogadosbaluarte.com" always_refuse
 local-zone: "adactioninteractive.com" always_refuse
+local-zone: "ad-assets.futurecdn.net" always_refuse
 local-zone: "ad.broadcaststation.net" always_refuse
 local-zone: "ad.chovatelahospodar.sk" always_refuse
 local-zone: "ad-digitalmarketing.com" always_refuse
@@ -16383,6 +16386,7 @@ local-zone: "annons.lidkopingsnytt.nu" always_refuse
 local-zone: "anuncios.edicaoms.com.br" always_refuse
 local-zone: "api-adservices.apple.com" always_refuse
 local-zone: "app-mobile-solutions.com" always_refuse
+local-zone: "aromatic-possibility.pro" always_refuse
 local-zone: "assets.newsmaxwidget.com" always_refuse
 local-zone: "autoaffiliateprogram.com" always_refuse
 local-zone: "autopromo.consoglobe.com" always_refuse
@@ -17492,6 +17496,8 @@ local-zone: "079301eaff0975107716716fd1cb0dcd.com" always_refuse
 local-zone: "4b614f51ad499fe05baf3c22f48a64e1.com" always_refuse
 local-zone: "6a29f2964719025ed21ad70eada81a50.com" always_refuse
 local-zone: "6abe6fc415d6aad809ddede8b4e9834f.com" always_refuse
+local-zone: "7adb3aba4022bdf282e1fd5aff82e857.com" always_refuse
+local-zone: "8548b742cbef620d1d03daac936352b1.com" always_refuse
 local-zone: "87ec9959f951bd4a21a31e1bc3055552.com" always_refuse
 local-zone: "aax-us-east-retail-direct.amazon.com" always_refuse
 local-zone: "ads.colegiodeabogadosresistencia.org" always_refuse
