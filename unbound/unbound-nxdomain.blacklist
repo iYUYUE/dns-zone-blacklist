@@ -1668,6 +1668,7 @@ local-zone: "adline.com" always_nxdomain
 local-zone: "adlogix.eu" always_nxdomain
 local-zone: "adlook.net" always_nxdomain
 local-zone: "adloox.com" always_nxdomain
+local-zone: "adltrk.com" always_nxdomain
 local-zone: "adlyra.com" always_nxdomain
 local-zone: "admail.net" always_nxdomain
 local-zone: "ad.mail.ru" always_nxdomain
@@ -3425,6 +3426,7 @@ local-zone: "adpiano.com" always_nxdomain
 local-zone: "adpiler.com" always_nxdomain
 local-zone: "adplacer.de" always_nxdomain
 local-zone: "adplan7.com" always_nxdomain
+local-zone: "adplayer.pl" always_nxdomain
 local-zone: "adplugg.com" always_nxdomain
 local-zone: "adpop-1.com" always_nxdomain
 local-zone: "adpopts.top" always_nxdomain
@@ -3453,6 +3455,7 @@ local-zone: "ads.24ur.si" always_nxdomain
 local-zone: "ads2.gag.it" always_nxdomain
 local-zone: "ads.2nd.gdn" always_nxdomain
 local-zone: "ads.3al.com" always_nxdomain
+local-zone: "ads4you.xyz" always_nxdomain
 local-zone: "ads.aae.org" always_nxdomain
 local-zone: "ads.amna.gr" always_nxdomain
 local-zone: "ads.apps.ae" always_nxdomain
@@ -3625,6 +3628,7 @@ local-zone: "advlion.com" always_nxdomain
 local-zone: "advmedia.kz" always_nxdomain
 local-zone: "adv.mpvc.it" always_nxdomain
 local-zone: "adv.riza.it" always_nxdomain
+local-zone: "advscdn.com" always_nxdomain
 local-zone: "adwager.com" always_nxdomain
 local-zone: "adwerks.com" always_nxdomain
 local-zone: "adwetec.com" always_nxdomain
@@ -6760,6 +6764,7 @@ local-zone: "ad.wethink.cc" always_nxdomain
 local-zone: "adw.gomtv.com" always_nxdomain
 local-zone: "adwintage.com" always_nxdomain
 local-zone: "adwise.agency" always_nxdomain
+local-zone: "adwisetest.nl" always_nxdomain
 local-zone: "adxadserv.com" always_nxdomain
 local-zone: "adx.gayboy.at" always_nxdomain
 local-zone: "ad.xiaomi.com" always_nxdomain
@@ -8179,6 +8184,7 @@ local-zone: "adscompute.com" always_nxdomain
 local-zone: "ads.crisana.ro" always_nxdomain
 local-zone: "adscustsrv.com" always_nxdomain
 local-zone: "ads.cytoday.eu" always_nxdomain
+local-zone: "adsdatahub.com" always_nxdomain
 local-zone: "adsdealing.com" always_nxdomain
 local-zone: "ads.domedea.cn" always_nxdomain
 local-zone: "ads.dotomi.com" always_nxdomain
@@ -9728,6 +9734,7 @@ local-zone: "ads.tirabol.cat" always_nxdomain
 local-zone: "adst.muloqot.uz" always_nxdomain
 local-zone: "adstoreplus.com" always_nxdomain
 local-zone: "adstraction.com" always_nxdomain
+local-zone: "adstream.com.au" always_nxdomain
 local-zone: "adstream.com.ro" always_nxdomain
 local-zone: "ads-twitter.com" always_nxdomain
 local-zone: "ads.twitter.com" always_nxdomain
@@ -13570,6 +13577,7 @@ local-zone: "ad.medicaltimes.com" always_nxdomain
 local-zone: "admicro1.vcmedia.vn" always_nxdomain
 local-zone: "admin.kabbmedia.com" always_nxdomain
 local-zone: "admitad-connect.com" always_nxdomain
+local-zone: "adnetworkonline.com" always_nxdomain
 local-zone: "ad.nw-england.co.uk" always_nxdomain
 local-zone: "adoffice.11st.co.kr" always_nxdomain
 local-zone: "ad.particlenews.com" always_nxdomain
@@ -13960,6 +13968,7 @@ local-zone: "c3s.bionestraff.pro" always_nxdomain
 local-zone: "campaign.dasmart.eu" always_nxdomain
 local-zone: "campaigns.avira.com" always_nxdomain
 local-zone: "capptivemarkets.com" always_nxdomain
+local-zone: "caravelmedia.com.au" always_nxdomain
 local-zone: "cdc.teensnorest.com" always_nxdomain
 local-zone: "cdn3.hentaihand.com" always_nxdomain
 local-zone: "cdn.pinktriangle.ca" always_nxdomain
@@ -16898,6 +16907,7 @@ local-zone: "ads.russellstreetreport.com" always_nxdomain
 local-zone: "adsrv.prabhatservices.co.in" always_nxdomain
 local-zone: "ads.universityworldnews.com" always_nxdomain
 local-zone: "advert.agro-business.com.ua" always_nxdomain
+local-zone: "advertisingadvantage.com.au" always_nxdomain
 local-zone: "advertising.artcity2008.com" always_nxdomain
 local-zone: "advertisingonlineagency.com" always_nxdomain
 local-zone: "advertising.valuedrugco.com" always_nxdomain
