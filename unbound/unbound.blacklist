@@ -14330,6 +14330,7 @@ local-zone: "valuecommerce.co.jp" always_refuse
 local-zone: "valuecommerce.ne.jp" always_refuse
 local-zone: "valueimpression.com" always_refuse
 local-zone: "vast.holmesmind.com" always_refuse
+local-zone: "videocdnmetrika.com" always_refuse
 local-zone: "vip.qingdaonews.com" always_refuse
 local-zone: "w2.hoopchina.com.cn" always_refuse
 local-zone: "wbdds.jeuxvideo.com" always_refuse

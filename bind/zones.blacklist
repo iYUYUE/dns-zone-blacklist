@@ -14330,6 +14330,7 @@ zone "valuecommerce.co.jp" { type master; notify no; file "null.zone.file"; };
 zone "valuecommerce.ne.jp" { type master; notify no; file "null.zone.file"; };
 zone "valueimpression.com" { type master; notify no; file "null.zone.file"; };
 zone "vast.holmesmind.com" { type master; notify no; file "null.zone.file"; };
+zone "videocdnmetrika.com" { type master; notify no; file "null.zone.file"; };
 zone "vip.qingdaonews.com" { type master; notify no; file "null.zone.file"; };
 zone "w2.hoopchina.com.cn" { type master; notify no; file "null.zone.file"; };
 zone "wbdds.jeuxvideo.com" { type master; notify no; file "null.zone.file"; };
