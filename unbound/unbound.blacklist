@@ -3529,6 +3529,7 @@ local-zone: "adsmobi.com" always_refuse
 local-zone: "adsmogo.com" always_refuse
 local-zone: "adsmogo.net" always_refuse
 local-zone: "adsmogo.org" always_refuse
+local-zone: "ads.msn.com" always_refuse
 local-zone: "adsninja.ca" always_refuse
 local-zone: "adsniper.ru" always_refuse
 local-zone: "ads.oetv.at" always_refuse
@@ -5638,6 +5639,7 @@ local-zone: "inskinad.com" always_refuse
 local-zone: "inspikon.com" always_refuse
 local-zone: "instantpu.sh" always_refuse
 local-zone: "instashop.co" always_refuse
+local-zone: "instream.com" always_refuse
 local-zone: "insurads.com" always_refuse
 local-zone: "interdfp.com" always_refuse
 local-zone: "intextad.net" always_refuse
@@ -5818,6 +5820,7 @@ local-zone: "mybestdc.com" always_refuse
 local-zone: "mypopads.com" always_refuse
 local-zone: "mypopups.com" always_refuse
 local-zone: "mythings.com" always_refuse
+local-zone: "mzulenef.com" always_refuse
 local-zone: "nababrew.com" always_refuse
 local-zone: "nagrande.com" always_refuse
 local-zone: "nanigans.com" always_refuse
@@ -5872,6 +5875,7 @@ local-zone: "omeletla.com" always_refuse
 local-zone: "omnivirt.com" always_refuse
 local-zone: "onboard24.ru" always_refuse
 local-zone: "onclarck.com" always_refuse
+local-zone: "onclckbn.com" always_refuse
 local-zone: "onclklnd.com" always_refuse
 local-zone: "onead.com.tw" always_refuse
 local-zone: "onebyaol.com" always_refuse
@@ -6048,6 +6052,7 @@ local-zone: "rocketme.top" always_refuse
 local-zone: "rodirgix.com" always_refuse
 local-zone: "roduster.com" always_refuse
 local-zone: "roivenue.com" always_refuse
+local-zone: "rollads.live" always_refuse
 local-zone: "round2mg.com" always_refuse
 local-zone: "royalada.com" always_refuse
 local-zone: "royalads.net" always_refuse
@@ -10154,6 +10159,7 @@ local-zone: "ifullcircle.com" always_refuse
 local-zone: "ileadetal.co.za" always_refuse
 local-zone: "illuma-tech.com" always_refuse
 local-zone: "image.sector.sk" always_refuse
+local-zone: "img.gokucdn.com" always_refuse
 local-zone: "img-taboola.com" always_refuse
 local-zone: "impactify.media" always_refuse
 local-zone: "imwinnerkur.com" always_refuse
@@ -10236,6 +10242,7 @@ local-zone: "mediamodern.pro" always_refuse
 local-zone: "mediapronow.com" always_refuse
 local-zone: "mediatarget.com" always_refuse
 local-zone: "mediatarget.net" always_refuse
+local-zone: "mediaxchange.co" always_refuse
 local-zone: "mediaxpedia.com" always_refuse
 local-zone: "medyanetads.com" always_refuse
 local-zone: "mekstolande.com" always_refuse
@@ -11670,6 +11677,7 @@ local-zone: "traffic-gate.com" always_refuse
 local-zone: "trafficjunky.com" always_refuse
 local-zone: "trafficjunky.net" always_refuse
 local-zone: "trafficmoose.com" always_refuse
+local-zone: "trafficmotor.com" always_refuse
 local-zone: "trafficpimps.com" always_refuse
 local-zone: "trafficroots.com" always_refuse
 local-zone: "trafficrouter.io" always_refuse
@@ -17257,6 +17265,7 @@ local-zone: "d3l320urli0p1u.cloudfront.net" always_refuse
 local-zone: "d3l739e8r8y9v7.cloudfront.net" always_refuse
 local-zone: "d3lcz8vpax4lo2.cloudfront.net" always_refuse
 local-zone: "d3m6sept6cnil5.cloudfront.net" always_refuse
+local-zone: "d3mr7y154d2qg5.cloudfront.net" always_refuse
 local-zone: "d3mzokty951c5w.cloudfront.net" always_refuse
 local-zone: "d3nvrqlo8rj1kw.cloudfront.net" always_refuse
 local-zone: "d3plfjw9uod7ab.cloudfront.net" always_refuse

@@ -3529,6 +3529,7 @@ local-zone: "adsmobi.com" always_nxdomain
 local-zone: "adsmogo.com" always_nxdomain
 local-zone: "adsmogo.net" always_nxdomain
 local-zone: "adsmogo.org" always_nxdomain
+local-zone: "ads.msn.com" always_nxdomain
 local-zone: "adsninja.ca" always_nxdomain
 local-zone: "adsniper.ru" always_nxdomain
 local-zone: "ads.oetv.at" always_nxdomain
@@ -5638,6 +5639,7 @@ local-zone: "inskinad.com" always_nxdomain
 local-zone: "inspikon.com" always_nxdomain
 local-zone: "instantpu.sh" always_nxdomain
 local-zone: "instashop.co" always_nxdomain
+local-zone: "instream.com" always_nxdomain
 local-zone: "insurads.com" always_nxdomain
 local-zone: "interdfp.com" always_nxdomain
 local-zone: "intextad.net" always_nxdomain
@@ -5818,6 +5820,7 @@ local-zone: "mybestdc.com" always_nxdomain
 local-zone: "mypopads.com" always_nxdomain
 local-zone: "mypopups.com" always_nxdomain
 local-zone: "mythings.com" always_nxdomain
+local-zone: "mzulenef.com" always_nxdomain
 local-zone: "nababrew.com" always_nxdomain
 local-zone: "nagrande.com" always_nxdomain
 local-zone: "nanigans.com" always_nxdomain
@@ -5872,6 +5875,7 @@ local-zone: "omeletla.com" always_nxdomain
 local-zone: "omnivirt.com" always_nxdomain
 local-zone: "onboard24.ru" always_nxdomain
 local-zone: "onclarck.com" always_nxdomain
+local-zone: "onclckbn.com" always_nxdomain
 local-zone: "onclklnd.com" always_nxdomain
 local-zone: "onead.com.tw" always_nxdomain
 local-zone: "onebyaol.com" always_nxdomain
@@ -6048,6 +6052,7 @@ local-zone: "rocketme.top" always_nxdomain
 local-zone: "rodirgix.com" always_nxdomain
 local-zone: "roduster.com" always_nxdomain
 local-zone: "roivenue.com" always_nxdomain
+local-zone: "rollads.live" always_nxdomain
 local-zone: "round2mg.com" always_nxdomain
 local-zone: "royalada.com" always_nxdomain
 local-zone: "royalads.net" always_nxdomain
@@ -10154,6 +10159,7 @@ local-zone: "ifullcircle.com" always_nxdomain
 local-zone: "ileadetal.co.za" always_nxdomain
 local-zone: "illuma-tech.com" always_nxdomain
 local-zone: "image.sector.sk" always_nxdomain
+local-zone: "img.gokucdn.com" always_nxdomain
 local-zone: "img-taboola.com" always_nxdomain
 local-zone: "impactify.media" always_nxdomain
 local-zone: "imwinnerkur.com" always_nxdomain
@@ -10236,6 +10242,7 @@ local-zone: "mediamodern.pro" always_nxdomain
 local-zone: "mediapronow.com" always_nxdomain
 local-zone: "mediatarget.com" always_nxdomain
 local-zone: "mediatarget.net" always_nxdomain
+local-zone: "mediaxchange.co" always_nxdomain
 local-zone: "mediaxpedia.com" always_nxdomain
 local-zone: "medyanetads.com" always_nxdomain
 local-zone: "mekstolande.com" always_nxdomain
@@ -11670,6 +11677,7 @@ local-zone: "traffic-gate.com" always_nxdomain
 local-zone: "trafficjunky.com" always_nxdomain
 local-zone: "trafficjunky.net" always_nxdomain
 local-zone: "trafficmoose.com" always_nxdomain
+local-zone: "trafficmotor.com" always_nxdomain
 local-zone: "trafficpimps.com" always_nxdomain
 local-zone: "trafficroots.com" always_nxdomain
 local-zone: "trafficrouter.io" always_nxdomain
@@ -17257,6 +17265,7 @@ local-zone: "d3l320urli0p1u.cloudfront.net" always_nxdomain
 local-zone: "d3l739e8r8y9v7.cloudfront.net" always_nxdomain
 local-zone: "d3lcz8vpax4lo2.cloudfront.net" always_nxdomain
 local-zone: "d3m6sept6cnil5.cloudfront.net" always_nxdomain
+local-zone: "d3mr7y154d2qg5.cloudfront.net" always_nxdomain
 local-zone: "d3mzokty951c5w.cloudfront.net" always_nxdomain
 local-zone: "d3nvrqlo8rj1kw.cloudfront.net" always_nxdomain
 local-zone: "d3plfjw9uod7ab.cloudfront.net" always_nxdomain
