@@ -1972,6 +1972,7 @@ local-zone: "appbid.com" always_nxdomain
 local-zone: "appboy.com" always_nxdomain
 local-zone: "appcast.io" always_nxdomain
 local-zone: "appdry.com" always_nxdomain
+local-zone: "apphero.co" always_nxdomain
 local-zone: "appier.net" always_nxdomain
 local-zone: "applvn.com" always_nxdomain
 local-zone: "appsdt.com" always_nxdomain

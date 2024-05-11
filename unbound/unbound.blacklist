@@ -1972,6 +1972,7 @@ local-zone: "appbid.com" always_refuse
 local-zone: "appboy.com" always_refuse
 local-zone: "appcast.io" always_refuse
 local-zone: "appdry.com" always_refuse
+local-zone: "apphero.co" always_refuse
 local-zone: "appier.net" always_refuse
 local-zone: "applvn.com" always_refuse
 local-zone: "appsdt.com" always_refuse

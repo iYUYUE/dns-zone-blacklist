@@ -1972,6 +1972,7 @@ zone "appbid.com" { type master; notify no; file "null.zone.file"; };
 zone "appboy.com" { type master; notify no; file "null.zone.file"; };
 zone "appcast.io" { type master; notify no; file "null.zone.file"; };
 zone "appdry.com" { type master; notify no; file "null.zone.file"; };
+zone "apphero.co" { type master; notify no; file "null.zone.file"; };
 zone "appier.net" { type master; notify no; file "null.zone.file"; };
 zone "applvn.com" { type master; notify no; file "null.zone.file"; };
 zone "appsdt.com" { type master; notify no; file "null.zone.file"; };
