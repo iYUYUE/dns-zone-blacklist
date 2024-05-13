@@ -4646,6 +4646,7 @@ local-zone: "unative.com" always_refuse
 local-zone: "unicads.net" always_refuse
 local-zone: "union.media" always_refuse
 local-zone: "uniqush.org" always_refuse
+local-zone: "unuu.online" always_refuse
 local-zone: "uppyads.com" always_refuse
 local-zone: "uprival.com" always_refuse
 local-zone: "urechar.com" always_refuse
@@ -11279,6 +11280,7 @@ local-zone: "discover-tech.io" always_refuse
 local-zone: "diving.marketing" always_refuse
 local-zone: "djaxadserver.com" always_refuse
 local-zone: "dnsdelegation.io" always_refuse
+local-zone: "dogystylefor.com" always_refuse
 local-zone: "doubleverify.com" always_refuse
 local-zone: "downloads1qwe.ru" always_refuse
 local-zone: "dragonstatic.com" always_refuse
