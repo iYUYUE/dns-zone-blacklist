@@ -4281,6 +4281,7 @@ zone "myfidevs.io" { type master; notify no; file "null.zone.file"; };
 zone "mygpuid.com" { type master; notify no; file "null.zone.file"; };
 zone "myleadx.com" { type master; notify no; file "null.zone.file"; };
 zone "mypixel.com" { type master; notify no; file "null.zone.file"; };
+zone "mzmm.online" { type master; notify no; file "null.zone.file"; };
 zone "nabs.org.uk" { type master; notify no; file "null.zone.file"; };
 zone "nadaseo.com" { type master; notify no; file "null.zone.file"; };
 zone "naewynn.com" { type master; notify no; file "null.zone.file"; };

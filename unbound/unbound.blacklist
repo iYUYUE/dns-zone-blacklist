@@ -4281,6 +4281,7 @@ local-zone: "myfidevs.io" always_refuse
 local-zone: "mygpuid.com" always_refuse
 local-zone: "myleadx.com" always_refuse
 local-zone: "mypixel.com" always_refuse
+local-zone: "mzmm.online" always_refuse
 local-zone: "nabs.org.uk" always_refuse
 local-zone: "nadaseo.com" always_refuse
 local-zone: "naewynn.com" always_refuse

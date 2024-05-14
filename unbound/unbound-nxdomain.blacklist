@@ -4281,6 +4281,7 @@ local-zone: "myfidevs.io" always_nxdomain
 local-zone: "mygpuid.com" always_nxdomain
 local-zone: "myleadx.com" always_nxdomain
 local-zone: "mypixel.com" always_nxdomain
+local-zone: "mzmm.online" always_nxdomain
 local-zone: "nabs.org.uk" always_nxdomain
 local-zone: "nadaseo.com" always_nxdomain
 local-zone: "naewynn.com" always_nxdomain
