@@ -3785,6 +3785,7 @@ local-zone: "bidsopt.com" always_refuse
 local-zone: "biforge.biz" always_refuse
 local-zone: "bigabid.com" always_refuse
 local-zone: "big-bid.com" always_refuse
+local-zone: "bigclick.ca" always_refuse
 local-zone: "bigclick.me" always_refuse
 local-zone: "bigreal.org" always_refuse
 local-zone: "bigrstr.com" always_refuse
@@ -5222,6 +5223,7 @@ local-zone: "a.farlex.com" always_refuse
 local-zone: "affforce.com" always_refuse
 local-zone: "affilaxy.com" always_refuse
 local-zone: "affilist.com" always_refuse
+local-zone: "affilist.net" always_refuse
 local-zone: "affilixxl.de" always_refuse
 local-zone: "affilynx.com" always_refuse
 local-zone: "affinity.com" always_refuse
@@ -5336,6 +5338,7 @@ local-zone: "bidstack.com" always_refuse
 local-zone: "bidstalk.com" always_refuse
 local-zone: "bidvance.com" always_refuse
 local-zone: "bigbonga.com" always_refuse
+local-zone: "bigjumbo.com" always_refuse
 local-zone: "bijutatv.com" always_refuse
 local-zone: "bildirim.net" always_refuse
 local-zone: "billboard.cz" always_refuse
@@ -5793,6 +5796,7 @@ local-zone: "media.eso.tv" always_refuse
 local-zone: "medialead.de" always_refuse
 local-zone: "mediamond.it" always_refuse
 local-zone: "mediapal.net" always_refuse
+local-zone: "mediarise.io" always_refuse
 local-zone: "mediative.ca" always_refuse
 local-zone: "medidexs.com" always_refuse
 local-zone: "megapush.top" always_refuse
@@ -6912,6 +6916,7 @@ local-zone: "augustads.com" always_refuse
 local-zone: "auraads.co.uk" always_refuse
 local-zone: "auto-dash.com" always_refuse
 local-zone: "automatad.com" always_refuse
+local-zone: "autoroll.info" always_refuse
 local-zone: "a.w3techs.com" always_refuse
 local-zone: "away-stay.com" always_refuse
 local-zone: "awepsljan.com" always_refuse
@@ -8428,6 +8433,7 @@ local-zone: "agencyzero.com" always_refuse
 local-zone: "agilebrands.us" always_refuse
 local-zone: "agorahtag.tech" always_refuse
 local-zone: "aimventure.com" always_refuse
+local-zone: "airvertise.com" always_refuse
 local-zone: "a.labadena.com" always_refuse
 local-zone: "a.letsjerk.org" always_refuse
 local-zone: "allinviews.com" always_refuse
@@ -9886,6 +9892,7 @@ local-zone: "an.facebook.com" always_refuse
 local-zone: "ang-content.com" always_refuse
 local-zone: "annonsserver.se" always_refuse
 local-zone: "answermedia.com" always_refuse
+local-zone: "antibloqueo.com" always_refuse
 local-zone: "apnaseattle.net" always_refuse
 local-zone: "a.poker1000.com" always_refuse
 local-zone: "app-ads-txt.com" always_refuse
@@ -11188,6 +11195,7 @@ local-zone: "bid4keywords.com" always_refuse
 local-zone: "bidsimulator.com" always_refuse
 local-zone: "bigmobileads.com" always_refuse
 local-zone: "biscuitridge.com" always_refuse
+local-zone: "bitlymonitor.com" always_refuse
 local-zone: "bitterborder.pro" always_refuse
 local-zone: "blacklabfive.com" always_refuse
 local-zone: "blackstrap.media" always_refuse
@@ -12158,6 +12166,7 @@ local-zone: "anchortraffic.com" always_refuse
 local-zone: "api.reviews.co.uk" always_refuse
 local-zone: "api.techwalla.com" always_refuse
 local-zone: "aqua-adserver.com" always_refuse
+local-zone: "arnoldfurnace.com" always_refuse
 local-zone: "ars.comicarab.com" always_refuse
 local-zone: "arwartortleer.com" always_refuse
 local-zone: "ascc.javquick.com" always_refuse
@@ -15321,6 +15330,7 @@ local-zone: "bingads.microsoft.com" always_refuse
 local-zone: "boilingpointmedia.com" always_refuse
 local-zone: "booyahadvertising.com" always_refuse
 local-zone: "brandvertisemedia.com" always_refuse
+local-zone: "bulksmsservice.net.in" always_refuse
 local-zone: "buylevitra.3xforum.ro" always_refuse
 local-zone: "bwpcommunications.com" always_refuse
 local-zone: "c2shb.pubgw.yahoo.com" always_refuse
@@ -15996,6 +16006,7 @@ local-zone: "zone1.serverhost84.com" always_refuse
 local-zone: "6degreesadvertising.com" always_refuse
 local-zone: "902advertisinggroup.com" always_refuse
 local-zone: "a4alticeadvertising.com" always_refuse
+local-zone: "accomplishgreatness.com" always_refuse
 local-zone: "actionadvertisingnc.com" always_refuse
 local-zone: "ad.abogadosbaluarte.com" always_refuse
 local-zone: "adactioninteractive.com" always_refuse
