@@ -12356,6 +12356,7 @@ zone "frayed-common.pro" { type master; notify no; file "null.zone.file"; };
 zone "freeadnetwork.net" { type master; notify no; file "null.zone.file"; };
 zone "friendlybunny.com" { type master; notify no; file "null.zone.file"; };
 zone "frontpagecash.com" { type master; notify no; file "null.zone.file"; };
+zone "fundingnews.co.nz" { type master; notify no; file "null.zone.file"; };
 zone "funnelcockpit.com" { type master; notify no; file "null.zone.file"; };
 zone "fussy-highway.pro" { type master; notify no; file "null.zone.file"; };
 zone "futuredontics.com" { type master; notify no; file "null.zone.file"; };
