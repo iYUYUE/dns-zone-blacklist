@@ -4443,6 +4443,7 @@ local-zone: "pushpush.io" always_refuse
 local-zone: "pushtry.com" always_refuse
 local-zone: "push.wps.cn" always_refuse
 local-zone: "pxc.otto.de" always_refuse
+local-zone: "pxpp.online" always_refuse
 local-zone: "q1media.com" always_refuse
 local-zone: "qik.digital" always_refuse
 local-zone: "quabads.com" always_refuse
@@ -4730,6 +4731,7 @@ local-zone: "wtg-ads.com" always_refuse
 local-zone: "wwiw.online" always_refuse
 local-zone: "wwsw.online" always_refuse
 local-zone: "x.amain.com" always_refuse
+local-zone: "xdxx.online" always_refuse
 local-zone: "xl-cash.com" always_refuse
 local-zone: "xmlking.com" always_refuse
 local-zone: "xtr2020.com" always_refuse

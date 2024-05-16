@@ -4443,6 +4443,7 @@ local-zone: "pushpush.io" always_nxdomain
 local-zone: "pushtry.com" always_nxdomain
 local-zone: "push.wps.cn" always_nxdomain
 local-zone: "pxc.otto.de" always_nxdomain
+local-zone: "pxpp.online" always_nxdomain
 local-zone: "q1media.com" always_nxdomain
 local-zone: "qik.digital" always_nxdomain
 local-zone: "quabads.com" always_nxdomain
@@ -4730,6 +4731,7 @@ local-zone: "wtg-ads.com" always_nxdomain
 local-zone: "wwiw.online" always_nxdomain
 local-zone: "wwsw.online" always_nxdomain
 local-zone: "x.amain.com" always_nxdomain
+local-zone: "xdxx.online" always_nxdomain
 local-zone: "xl-cash.com" always_nxdomain
 local-zone: "xmlking.com" always_nxdomain
 local-zone: "xtr2020.com" always_nxdomain
