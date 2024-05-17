@@ -1363,6 +1363,7 @@ zone "tatari.tv" { type master; notify no; file "null.zone.file"; };
 zone "teads.com" { type master; notify no; file "null.zone.file"; };
 zone "tenmax.io" { type master; notify no; file "null.zone.file"; };
 zone "teser.net" { type master; notify no; file "null.zone.file"; };
+zone "tfxnl.pro" { type master; notify no; file "null.zone.file"; };
 zone "tgknt.com" { type master; notify no; file "null.zone.file"; };
 zone "thiel.com" { type master; notify no; file "null.zone.file"; };
 zone "tiller.co" { type master; notify no; file "null.zone.file"; };
