@@ -13561,7 +13561,6 @@ zone "staticz.askmen.com" { type master; notify no; file "null.zone.file"; };
 zone "stc.za.zaloapp.com" { type master; notify no; file "null.zone.file"; };
 zone "steelbluemedia.com" { type master; notify no; file "null.zone.file"; };
 zone "strawberryfrog.com" { type master; notify no; file "null.zone.file"; };
-zone "stspg-customer.com" { type master; notify no; file "null.zone.file"; };
 zone "styria-digital.com" { type master; notify no; file "null.zone.file"; };
 zone "sublimerevenue.com" { type master; notify no; file "null.zone.file"; };
 zone "sugaryambition.pro" { type master; notify no; file "null.zone.file"; };
