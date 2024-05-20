@@ -3975,6 +3975,7 @@ local-zone: "erosadv.com" always_refuse
 local-zone: "evenads.com" always_refuse
 local-zone: "evowise.com" always_refuse
 local-zone: "ewayads.com" always_refuse
+local-zone: "exee.online" always_refuse
 local-zone: "exelbid.com" always_refuse
 local-zone: "exitbee.com" always_refuse
 local-zone: "exopush.com" always_refuse
@@ -5852,6 +5853,7 @@ local-zone: "mosesinc.com" always_refuse
 local-zone: "mo.spaces.ru" always_refuse
 local-zone: "moviead55.ru" always_refuse
 local-zone: "mps.cnbc.com" always_refuse
+local-zone: "mrmserve.com" always_refuse
 local-zone: "mross011.com" always_refuse
 local-zone: "mross022.com" always_refuse
 local-zone: "mspremium.io" always_refuse

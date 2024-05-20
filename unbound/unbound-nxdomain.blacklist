@@ -3975,6 +3975,7 @@ local-zone: "erosadv.com" always_nxdomain
 local-zone: "evenads.com" always_nxdomain
 local-zone: "evowise.com" always_nxdomain
 local-zone: "ewayads.com" always_nxdomain
+local-zone: "exee.online" always_nxdomain
 local-zone: "exelbid.com" always_nxdomain
 local-zone: "exitbee.com" always_nxdomain
 local-zone: "exopush.com" always_nxdomain
@@ -5852,6 +5853,7 @@ local-zone: "mosesinc.com" always_nxdomain
 local-zone: "mo.spaces.ru" always_nxdomain
 local-zone: "moviead55.ru" always_nxdomain
 local-zone: "mps.cnbc.com" always_nxdomain
+local-zone: "mrmserve.com" always_nxdomain
 local-zone: "mross011.com" always_nxdomain
 local-zone: "mross022.com" always_nxdomain
 local-zone: "mspremium.io" always_nxdomain
