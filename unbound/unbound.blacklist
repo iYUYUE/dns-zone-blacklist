@@ -2611,6 +2611,7 @@ local-zone: "njhtcz.com" always_refuse
 local-zone: "nnaisn.com" always_refuse
 local-zone: "noddus.com" always_refuse
 local-zone: "notifia.io" always_refuse
+local-zone: "notify.dev" always_refuse
 local-zone: "novanet.vn" always_refuse
 local-zone: "nqizef.com" always_refuse
 local-zone: "nrcffa.com" always_refuse
@@ -2688,6 +2689,7 @@ local-zone: "pdxweb.net" always_refuse
 local-zone: "pecash.com" always_refuse
 local-zone: "peer39.net" always_refuse
 local-zone: "pelcro.com" always_refuse
+local-zone: "pemsrv.com" always_refuse
 local-zone: "perion.com" always_refuse
 local-zone: "pfsrvs.com" always_refuse
 local-zone: "pgmcdn.com" always_refuse
@@ -10289,6 +10291,7 @@ local-zone: "look.djfiln.com" always_refuse
 local-zone: "loopsagency.com" always_refuse
 local-zone: "loppigruppen.se" always_refuse
 local-zone: "lovelybingo.com" always_refuse
+local-zone: "loyaltyboost.co" always_refuse
 local-zone: "lundmarkadv.com" always_refuse
 local-zone: "lynxdollars.com" always_refuse
 local-zone: "m2theagency.com" always_refuse
