@@ -1954,6 +1954,7 @@ local-zone: "a-i-ad.com" always_nxdomain
 local-zone: "aimtell.io" always_nxdomain
 local-zone: "aixcdn.com" always_nxdomain
 local-zone: "ai.yimg.jp" always_nxdomain
+local-zone: "ajscdn.com" always_nxdomain
 local-zone: "akohub.com" always_nxdomain
 local-zone: "alenty.com" always_nxdomain
 local-zone: "alephd.com" always_nxdomain
@@ -2186,6 +2187,7 @@ local-zone: "dnoyrz.com" always_nxdomain
 local-zone: "dolead.com" always_nxdomain
 local-zone: "dom360.com" always_nxdomain
 local-zone: "dooknn.com" always_nxdomain
+local-zone: "door95.com" always_nxdomain
 local-zone: "dornzi.com" always_nxdomain
 local-zone: "dotsrv.com" always_nxdomain
 local-zone: "druzya.biz" always_nxdomain
@@ -2466,6 +2468,7 @@ local-zone: "k.pluto.tv" always_nxdomain
 local-zone: "kriteo.com" always_nxdomain
 local-zone: "krizim.com" always_nxdomain
 local-zone: "kseries.in" always_nxdomain
+local-zone: "ktkjmp.com" always_nxdomain
 local-zone: "kutoku.com" always_nxdomain
 local-zone: "kvhccc.top" always_nxdomain
 local-zone: "kvhooo.top" always_nxdomain
@@ -2540,6 +2543,7 @@ local-zone: "mirando.de" always_nxdomain
 local-zone: "mjnxku.com" always_nxdomain
 local-zone: "mjxukx.com" always_nxdomain
 local-zone: "mlgrtn.com" always_nxdomain
+local-zone: "mnaspm.com" always_nxdomain
 local-zone: "mnayto.com" always_nxdomain
 local-zone: "mnlfui.com" always_nxdomain
 local-zone: "mobday.com" always_nxdomain
@@ -2660,6 +2664,7 @@ local-zone: "openvv.org" always_nxdomain
 local-zone: "optable.co" always_nxdomain
 local-zone: "optaim.com" always_nxdomain
 local-zone: "opuscom.ca" always_nxdomain
+local-zone: "orbsrv.com" always_nxdomain
 local-zone: "otbqdw.com" always_nxdomain
 local-zone: "otcash.com" always_nxdomain
 local-zone: "otogkg.com" always_nxdomain
@@ -4091,6 +4096,7 @@ local-zone: "i-iba.co.uk" always_nxdomain
 local-zone: "ilkwork.com" always_nxdomain
 local-zone: "img.go2s.co" always_nxdomain
 local-zone: "imglnke.com" always_nxdomain
+local-zone: "imglnkx.com" always_nxdomain
 local-zone: "imocash.com" always_nxdomain
 local-zone: "imo-cash.de" always_nxdomain
 local-zone: "imonomy.com" always_nxdomain
@@ -7536,6 +7542,7 @@ local-zone: "notifysrv.com" always_nxdomain
 local-zone: "novaonads.com" always_nxdomain
 local-zone: "novelty.media" always_nxdomain
 local-zone: "nsbadfair.com" always_nxdomain
+local-zone: "nudgeduck.com" always_nxdomain
 local-zone: "numarabiz.com" always_nxdomain
 local-zone: "numbswing.pro" always_nxdomain
 local-zone: "nva-online.nl" always_nxdomain
@@ -7980,9 +7987,11 @@ local-zone: "werbeflut.net" always_nxdomain
 local-zone: "whalecash.com" always_nxdomain
 local-zone: "whitesaas.com" always_nxdomain
 local-zone: "whotheman.com" always_nxdomain
+local-zone: "whvkjgwuy.com" always_nxdomain
 local-zone: "wideorbit.com" always_nxdomain
 local-zone: "widespace.com" always_nxdomain
 local-zone: "wigzopush.com" always_nxdomain
+local-zone: "wild-army.com" always_nxdomain
 local-zone: "windsplay.com" always_nxdomain
 local-zone: "wisetoweb.com" always_nxdomain
 local-zone: "wondocash.com" always_nxdomain
@@ -13517,7 +13526,6 @@ local-zone: "rubiconproject.com" always_nxdomain
 local-zone: "rubiconproject.net" always_nxdomain
 local-zone: "rushadvertising.ae" always_nxdomain
 local-zone: "rvv3.pdnegocios.cl" always_nxdomain
-local-zone: "s3t3d2y8.afcdn.net" always_nxdomain
 local-zone: "sales-frontier.com" always_nxdomain
 local-zone: "sapienceglobal.com" always_nxdomain
 local-zone: "scandicpartners.se" always_nxdomain
@@ -15841,6 +15849,7 @@ local-zone: "alternativeadverts.com" always_nxdomain
 local-zone: "altitudedigital.com.au" always_nxdomain
 local-zone: "americanadagencies.com" always_nxdomain
 local-zone: "ans.oobesaas.adobe.com" always_nxdomain
+local-zone: "antiadblocksystems.com" always_nxdomain
 local-zone: "aragon-advertising.com" always_nxdomain
 local-zone: "asg1.xueserverhost.com" always_nxdomain
 local-zone: "asg2.xueserverhost.com" always_nxdomain
@@ -17581,6 +17590,7 @@ local-zone: "d361oi6ppvq2ym.cloudfront.net" always_nxdomain
 local-zone: "d37oebn0w9ir6a.cloudfront.net" always_nxdomain
 local-zone: "d38psrni17bvxu.cloudfront.net" always_nxdomain
 local-zone: "d3c8j8snkzfr1n.cloudfront.net" always_nxdomain
+local-zone: "d3cod80thn7qnd.cloudfront.net" always_nxdomain
 local-zone: "d3ds63zw57jt09.cloudfront.net" always_nxdomain
 local-zone: "d3g5ovfngjw9bw.cloudfront.net" always_nxdomain
 local-zone: "d3gpkdwom7cn1q.cloudfront.net" always_nxdomain
