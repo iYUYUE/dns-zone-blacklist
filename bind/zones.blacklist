@@ -2479,6 +2479,7 @@ zone "kwgefe.com" { type master; notify no; file "null.zone.file"; };
 zone "kwtrdd.com" { type master; notify no; file "null.zone.file"; };
 zone "kwtyuv.com" { type master; notify no; file "null.zone.file"; };
 zone "kxhhim.com" { type master; notify no; file "null.zone.file"; };
+zone "lattor.com" { type master; notify no; file "null.zone.file"; };
 zone "lawsivo.ru" { type master; notify no; file "null.zone.file"; };
 zone "leadera.in" { type master; notify no; file "null.zone.file"; };
 zone "leadgid.es" { type master; notify no; file "null.zone.file"; };
