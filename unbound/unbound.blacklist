@@ -2323,6 +2323,7 @@ local-zone: "goasrv.com" always_refuse
 local-zone: "goldlab.de" always_refuse
 local-zone: "goneto.xyz" always_refuse
 local-zone: "goraps.com" always_refuse
+local-zone: "go-srv.com" always_refuse
 local-zone: "grmtas.com" always_refuse
 local-zone: "grobyo.com" always_refuse
 local-zone: "groupm.com" always_refuse
@@ -9530,6 +9531,7 @@ local-zone: "actionad.agency" always_refuse
 local-zone: "actionbutton.co" always_refuse
 local-zone: "actionteaser.ru" always_refuse
 local-zone: "ad1.ettoday.net" always_refuse
+local-zone: "ad1-updates.com" always_refuse
 local-zone: "ad2.ettoday.net" always_refuse
 local-zone: "ad2.netriota.hu" always_refuse
 local-zone: "ad2.selectra.es" always_refuse
@@ -10502,6 +10504,7 @@ local-zone: "reklaam.on24.ee" always_refuse
 local-zone: "reklama.network" always_refuse
 local-zone: "reklamstore.com" always_refuse
 local-zone: "reklamstore.net" always_refuse
+local-zone: "relaunchapp.com" always_refuse
 local-zone: "releaseadvt.com" always_refuse
 local-zone: "remarketing.com" always_refuse
 local-zone: "remedyfilms.com" always_refuse

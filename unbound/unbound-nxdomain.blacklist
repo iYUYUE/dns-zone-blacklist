@@ -2323,6 +2323,7 @@ local-zone: "goasrv.com" always_nxdomain
 local-zone: "goldlab.de" always_nxdomain
 local-zone: "goneto.xyz" always_nxdomain
 local-zone: "goraps.com" always_nxdomain
+local-zone: "go-srv.com" always_nxdomain
 local-zone: "grmtas.com" always_nxdomain
 local-zone: "grobyo.com" always_nxdomain
 local-zone: "groupm.com" always_nxdomain
@@ -9530,6 +9531,7 @@ local-zone: "actionad.agency" always_nxdomain
 local-zone: "actionbutton.co" always_nxdomain
 local-zone: "actionteaser.ru" always_nxdomain
 local-zone: "ad1.ettoday.net" always_nxdomain
+local-zone: "ad1-updates.com" always_nxdomain
 local-zone: "ad2.ettoday.net" always_nxdomain
 local-zone: "ad2.netriota.hu" always_nxdomain
 local-zone: "ad2.selectra.es" always_nxdomain
@@ -10502,6 +10504,7 @@ local-zone: "reklaam.on24.ee" always_nxdomain
 local-zone: "reklama.network" always_nxdomain
 local-zone: "reklamstore.com" always_nxdomain
 local-zone: "reklamstore.net" always_nxdomain
+local-zone: "relaunchapp.com" always_nxdomain
 local-zone: "releaseadvt.com" always_nxdomain
 local-zone: "remarketing.com" always_nxdomain
 local-zone: "remedyfilms.com" always_nxdomain
