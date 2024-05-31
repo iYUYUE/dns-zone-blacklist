@@ -2145,6 +2145,7 @@ local-zone: "crcvba.com" always_refuse
 local-zone: "criteo.com" always_refuse
 local-zone: "critoe.com" always_refuse
 local-zone: "critoo.com" always_refuse
+local-zone: "cryteo.com" always_refuse
 local-zone: "ctjmf3j.de" always_refuse
 local-zone: "cualbr.com" always_refuse
 local-zone: "cubeegg.de" always_refuse
@@ -2467,6 +2468,7 @@ local-zone: "koka.deals" always_refuse
 local-zone: "koltiq.com" always_refuse
 local-zone: "k.pluto.tv" always_refuse
 local-zone: "kriteo.com" always_refuse
+local-zone: "kriteo.net" always_refuse
 local-zone: "krizim.com" always_refuse
 local-zone: "kseries.in" always_refuse
 local-zone: "ktkjmp.com" always_refuse

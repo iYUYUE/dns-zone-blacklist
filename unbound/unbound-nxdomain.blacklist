@@ -2145,6 +2145,7 @@ local-zone: "crcvba.com" always_nxdomain
 local-zone: "criteo.com" always_nxdomain
 local-zone: "critoe.com" always_nxdomain
 local-zone: "critoo.com" always_nxdomain
+local-zone: "cryteo.com" always_nxdomain
 local-zone: "ctjmf3j.de" always_nxdomain
 local-zone: "cualbr.com" always_nxdomain
 local-zone: "cubeegg.de" always_nxdomain
@@ -2467,6 +2468,7 @@ local-zone: "koka.deals" always_nxdomain
 local-zone: "koltiq.com" always_nxdomain
 local-zone: "k.pluto.tv" always_nxdomain
 local-zone: "kriteo.com" always_nxdomain
+local-zone: "kriteo.net" always_nxdomain
 local-zone: "krizim.com" always_nxdomain
 local-zone: "kseries.in" always_nxdomain
 local-zone: "ktkjmp.com" always_nxdomain
