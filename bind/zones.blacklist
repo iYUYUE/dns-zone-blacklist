@@ -13779,6 +13779,7 @@ zone "ad.chandrabindu.net" { type master; notify no; file "null.zone.file"; };
 zone "adchemy-content.com" { type master; notify no; file "null.zone.file"; };
 zone "additionalmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.donanimhaber.com" { type master; notify no; file "null.zone.file"; };
+zone "addservicemedia.com" { type master; notify no; file "null.zone.file"; };
 zone "addvantagemedia.com" { type master; notify no; file "null.zone.file"; };
 zone "adfeeds.stuff.co.nz" { type master; notify no; file "null.zone.file"; };
 zone "adflexaffiliate.com" { type master; notify no; file "null.zone.file"; };
