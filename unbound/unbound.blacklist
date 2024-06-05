@@ -9346,6 +9346,7 @@ local-zone: "spunkycash.com" always_refuse
 local-zone: "spykemedia.com" always_refuse
 local-zone: "ssdbkv4qtq.xyz" always_refuse
 local-zone: "stackadapt.com" always_refuse
+local-zone: "static-srv.com" always_refuse
 local-zone: "stats.8264.com" always_refuse
 local-zone: "stc-sp.zadn.vn" always_refuse
 local-zone: "steelhouse.com" always_refuse
