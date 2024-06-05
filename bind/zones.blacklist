@@ -9365,6 +9365,7 @@ zone "suntcontent.se" { type master; notify no; file "null.zone.file"; };
 zone "superadbid.com" { type master; notify no; file "null.zone.file"; };
 zone "supersonic.com" { type master; notify no; file "null.zone.file"; };
 zone "s.vi-serve.com" { type master; notify no; file "null.zone.file"; };
+zone "sweetadforu.cc" { type master; notify no; file "null.zone.file"; };
 zone "taboola.com.cn" { type master; notify no; file "null.zone.file"; };
 zone "tagdeliver.com" { type master; notify no; file "null.zone.file"; };
 zone "tagteam.agency" { type master; notify no; file "null.zone.file"; };
