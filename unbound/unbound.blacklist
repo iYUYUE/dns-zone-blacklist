@@ -6866,6 +6866,7 @@ local-zone: "adxadserv.com" always_refuse
 local-zone: "adx.gayboy.at" always_refuse
 local-zone: "ad.xiaomi.com" always_refuse
 local-zone: "ad.xmmnsl.com" always_refuse
+local-zone: "adx.opera.com" always_refuse
 local-zone: "adyoulike.com" always_refuse
 local-zone: "adzmarket.net" always_refuse
 local-zone: "adzmedia.mobi" always_refuse
