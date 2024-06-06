@@ -778,6 +778,7 @@ local-zone: "adoto.net" always_nxdomain
 local-zone: "adpay.com" always_nxdomain
 local-zone: "ad-pay.de" always_nxdomain
 local-zone: "adplan.cz" always_nxdomain
+local-zone: "adplay.ru" always_nxdomain
 local-zone: "adport.io" always_nxdomain
 local-zone: "ad.prw.pl" always_nxdomain
 local-zone: "adpush.cn" always_nxdomain
@@ -8009,6 +8010,7 @@ local-zone: "videocdn.name" always_nxdomain
 local-zone: "videogram.com" always_nxdomain
 local-zone: "videoplaza.tv" always_nxdomain
 local-zone: "videoreach.de" always_nxdomain
+local-zone: "videoroll.net" always_nxdomain
 local-zone: "vidillion.com" always_nxdomain
 local-zone: "viewtraff.com" always_nxdomain
 local-zone: "vimoshare.com" always_nxdomain
@@ -8930,6 +8932,7 @@ local-zone: "interads.co.uk" always_nxdomain
 local-zone: "intergient.com" always_nxdomain
 local-zone: "interpolls.com" always_nxdomain
 local-zone: "inventmyad.com" always_nxdomain
+local-zone: "ippeachcod.com" always_nxdomain
 local-zone: "ipromcloud.com" always_nxdomain
 local-zone: "ironpulley.com" always_nxdomain
 local-zone: "iskyworker.com" always_nxdomain
@@ -9431,6 +9434,7 @@ local-zone: "trycourier.com" always_nxdomain
 local-zone: "tsyndicate.com" always_nxdomain
 local-zone: "twindesire.com" always_nxdomain
 local-zone: "twinrdsyte.com" always_nxdomain
+local-zone: "tzpeachcod.com" always_nxdomain
 local-zone: "u51.aabdmn.com" always_nxdomain
 local-zone: "u52.aabdmn.com" always_nxdomain
 local-zone: "uaeprt2nte.com" always_nxdomain

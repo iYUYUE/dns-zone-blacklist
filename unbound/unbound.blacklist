@@ -778,6 +778,7 @@ local-zone: "adoto.net" always_refuse
 local-zone: "adpay.com" always_refuse
 local-zone: "ad-pay.de" always_refuse
 local-zone: "adplan.cz" always_refuse
+local-zone: "adplay.ru" always_refuse
 local-zone: "adport.io" always_refuse
 local-zone: "ad.prw.pl" always_refuse
 local-zone: "adpush.cn" always_refuse
@@ -8009,6 +8010,7 @@ local-zone: "videocdn.name" always_refuse
 local-zone: "videogram.com" always_refuse
 local-zone: "videoplaza.tv" always_refuse
 local-zone: "videoreach.de" always_refuse
+local-zone: "videoroll.net" always_refuse
 local-zone: "vidillion.com" always_refuse
 local-zone: "viewtraff.com" always_refuse
 local-zone: "vimoshare.com" always_refuse
@@ -8930,6 +8932,7 @@ local-zone: "interads.co.uk" always_refuse
 local-zone: "intergient.com" always_refuse
 local-zone: "interpolls.com" always_refuse
 local-zone: "inventmyad.com" always_refuse
+local-zone: "ippeachcod.com" always_refuse
 local-zone: "ipromcloud.com" always_refuse
 local-zone: "ironpulley.com" always_refuse
 local-zone: "iskyworker.com" always_refuse
@@ -9431,6 +9434,7 @@ local-zone: "trycourier.com" always_refuse
 local-zone: "tsyndicate.com" always_refuse
 local-zone: "twindesire.com" always_refuse
 local-zone: "twinrdsyte.com" always_refuse
+local-zone: "tzpeachcod.com" always_refuse
 local-zone: "u51.aabdmn.com" always_refuse
 local-zone: "u52.aabdmn.com" always_refuse
 local-zone: "uaeprt2nte.com" always_refuse
