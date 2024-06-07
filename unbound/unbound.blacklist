@@ -1386,6 +1386,7 @@ local-zone: "trmads.eu" always_refuse
 local-zone: "trmit.com" always_refuse
 local-zone: "trpkc.com" always_refuse
 local-zone: "truex.com" always_refuse
+local-zone: "truyo.com" always_refuse
 local-zone: "trvdp.com" always_refuse
 local-zone: "tscf8.com" always_refuse
 local-zone: "tunnl.com" always_refuse
@@ -2018,6 +2019,7 @@ local-zone: "atlaqs.com" always_refuse
 local-zone: "atomex.net" always_refuse
 local-zone: "atovub.com" always_refuse
 local-zone: "atuoep.com" always_refuse
+local-zone: "aumago.com" always_refuse
 local-zone: "auth.dn.se" always_refuse
 local-zone: "avct.cloud" always_refuse
 local-zone: "awcrpu.com" always_refuse
@@ -8556,6 +8558,7 @@ local-zone: "a.sitel.com.mk" always_refuse
 local-zone: "astespurra.com" always_refuse
 local-zone: "atdippcode.com" always_refuse
 local-zone: "atelieradd.com" always_refuse
+local-zone: "atmserving.com" always_refuse
 local-zone: "audvertize.com" always_refuse
 local-zone: "automizely.com" always_refuse
 local-zone: "avatraffic.com" always_refuse

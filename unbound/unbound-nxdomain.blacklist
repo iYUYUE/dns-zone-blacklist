@@ -1386,6 +1386,7 @@ local-zone: "trmads.eu" always_nxdomain
 local-zone: "trmit.com" always_nxdomain
 local-zone: "trpkc.com" always_nxdomain
 local-zone: "truex.com" always_nxdomain
+local-zone: "truyo.com" always_nxdomain
 local-zone: "trvdp.com" always_nxdomain
 local-zone: "tscf8.com" always_nxdomain
 local-zone: "tunnl.com" always_nxdomain
@@ -2018,6 +2019,7 @@ local-zone: "atlaqs.com" always_nxdomain
 local-zone: "atomex.net" always_nxdomain
 local-zone: "atovub.com" always_nxdomain
 local-zone: "atuoep.com" always_nxdomain
+local-zone: "aumago.com" always_nxdomain
 local-zone: "auth.dn.se" always_nxdomain
 local-zone: "avct.cloud" always_nxdomain
 local-zone: "awcrpu.com" always_nxdomain
@@ -8556,6 +8558,7 @@ local-zone: "a.sitel.com.mk" always_nxdomain
 local-zone: "astespurra.com" always_nxdomain
 local-zone: "atdippcode.com" always_nxdomain
 local-zone: "atelieradd.com" always_nxdomain
+local-zone: "atmserving.com" always_nxdomain
 local-zone: "audvertize.com" always_nxdomain
 local-zone: "automizely.com" always_nxdomain
 local-zone: "avatraffic.com" always_nxdomain
