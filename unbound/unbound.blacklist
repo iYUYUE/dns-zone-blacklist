@@ -4457,6 +4457,7 @@ local-zone: "psmardr.com" always_refuse
 local-zone: "ptapjmp.com" always_refuse
 local-zone: "ptwmjmp.com" always_refuse
 local-zone: "pub2srv.com" always_refuse
+local-zone: "pubgifs.com" always_refuse
 local-zone: "pubguru.com" always_refuse
 local-zone: "pubguru.net" always_refuse
 local-zone: "pubimgs.com" always_refuse
@@ -7710,6 +7711,7 @@ local-zone: "push.delivery" always_refuse
 local-zone: "pusherapp.com" always_refuse
 local-zone: "push-free.com" always_refuse
 local-zone: "pushjunky.com" always_refuse
+local-zone: "pushlycdn.com" always_refuse
 local-zone: "pushmoose.com" always_refuse
 local-zone: "pushninja.com" always_refuse
 local-zone: "push.partners" always_refuse
@@ -10498,6 +10500,7 @@ local-zone: "partnercash.com" always_refuse
 local-zone: "partnerearn.net" always_refuse
 local-zone: "paultour.com.br" always_refuse
 local-zone: "payadsmedia.com" always_refuse
+local-zone: "pbc.decider.com" always_refuse
 local-zone: "pcgames.network" always_refuse
 local-zone: "pdpadserver.net" always_refuse
 local-zone: "peer2profit.com" always_refuse
@@ -11792,6 +11795,7 @@ local-zone: "smarterclick.com" always_refuse
 local-zone: "smartfeedads.com" always_refuse
 local-zone: "smartredirect.de" always_refuse
 local-zone: "smpop.icfcdn.com" always_refuse
+local-zone: "snappyreport.com" always_refuse
 local-zone: "socialbubbles.in" always_refuse
 local-zone: "socialfox.com.au" always_refuse
 local-zone: "socialsurf4u.com" always_refuse
@@ -13650,6 +13654,7 @@ local-zone: "sharpgrowth.com.au" always_refuse
 local-zone: "sherwoodsutton.pro" always_refuse
 local-zone: "shrillinstance.pro" always_refuse
 local-zone: "shutter-events.com" always_refuse
+local-zone: "silo49.p7cloud.net" always_refuse
 local-zone: "silveraddition.pro" always_refuse
 local-zone: "simg.imadrep.co.kr" always_refuse
 local-zone: "sjsmartcontent.org" always_refuse

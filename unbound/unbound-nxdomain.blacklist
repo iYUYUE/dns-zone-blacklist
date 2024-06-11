@@ -4457,6 +4457,7 @@ local-zone: "psmardr.com" always_nxdomain
 local-zone: "ptapjmp.com" always_nxdomain
 local-zone: "ptwmjmp.com" always_nxdomain
 local-zone: "pub2srv.com" always_nxdomain
+local-zone: "pubgifs.com" always_nxdomain
 local-zone: "pubguru.com" always_nxdomain
 local-zone: "pubguru.net" always_nxdomain
 local-zone: "pubimgs.com" always_nxdomain
@@ -7710,6 +7711,7 @@ local-zone: "push.delivery" always_nxdomain
 local-zone: "pusherapp.com" always_nxdomain
 local-zone: "push-free.com" always_nxdomain
 local-zone: "pushjunky.com" always_nxdomain
+local-zone: "pushlycdn.com" always_nxdomain
 local-zone: "pushmoose.com" always_nxdomain
 local-zone: "pushninja.com" always_nxdomain
 local-zone: "push.partners" always_nxdomain
@@ -10498,6 +10500,7 @@ local-zone: "partnercash.com" always_nxdomain
 local-zone: "partnerearn.net" always_nxdomain
 local-zone: "paultour.com.br" always_nxdomain
 local-zone: "payadsmedia.com" always_nxdomain
+local-zone: "pbc.decider.com" always_nxdomain
 local-zone: "pcgames.network" always_nxdomain
 local-zone: "pdpadserver.net" always_nxdomain
 local-zone: "peer2profit.com" always_nxdomain
@@ -11792,6 +11795,7 @@ local-zone: "smarterclick.com" always_nxdomain
 local-zone: "smartfeedads.com" always_nxdomain
 local-zone: "smartredirect.de" always_nxdomain
 local-zone: "smpop.icfcdn.com" always_nxdomain
+local-zone: "snappyreport.com" always_nxdomain
 local-zone: "socialbubbles.in" always_nxdomain
 local-zone: "socialfox.com.au" always_nxdomain
 local-zone: "socialsurf4u.com" always_nxdomain
@@ -13650,6 +13654,7 @@ local-zone: "sharpgrowth.com.au" always_nxdomain
 local-zone: "sherwoodsutton.pro" always_nxdomain
 local-zone: "shrillinstance.pro" always_nxdomain
 local-zone: "shutter-events.com" always_nxdomain
+local-zone: "silo49.p7cloud.net" always_nxdomain
 local-zone: "silveraddition.pro" always_nxdomain
 local-zone: "simg.imadrep.co.kr" always_nxdomain
 local-zone: "sjsmartcontent.org" always_nxdomain
