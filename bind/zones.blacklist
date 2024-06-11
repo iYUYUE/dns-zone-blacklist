@@ -12840,6 +12840,7 @@ zone "static-blau.o9.de" { type master; notify no; file "null.zone.file"; };
 zone "static.sunbit.com" { type master; notify no; file "null.zone.file"; };
 zone "static-swaven.com" { type master; notify no; file "null.zone.file"; };
 zone "static.whisbi.com" { type master; notify no; file "null.zone.file"; };
+zone "stepwisevideo.com" { type master; notify no; file "null.zone.file"; };
 zone "streamtoclick.com" { type master; notify no; file "null.zone.file"; };
 zone "sultrytraffic.com" { type master; notify no; file "null.zone.file"; };
 zone "supersonicads.com" { type master; notify no; file "null.zone.file"; };

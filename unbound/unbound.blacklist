@@ -12840,6 +12840,7 @@ local-zone: "static-blau.o9.de" always_refuse
 local-zone: "static.sunbit.com" always_refuse
 local-zone: "static-swaven.com" always_refuse
 local-zone: "static.whisbi.com" always_refuse
+local-zone: "stepwisevideo.com" always_refuse
 local-zone: "streamtoclick.com" always_refuse
 local-zone: "sultrytraffic.com" always_refuse
 local-zone: "supersonicads.com" always_refuse
