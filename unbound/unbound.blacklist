@@ -1962,6 +1962,7 @@ local-zone: "a-i-ad.com" always_refuse
 local-zone: "aimtell.io" always_refuse
 local-zone: "aixcdn.com" always_refuse
 local-zone: "ai.yimg.jp" always_refuse
+local-zone: "aj2550.bid" always_refuse
 local-zone: "ajscdn.com" always_refuse
 local-zone: "akohub.com" always_refuse
 local-zone: "alenty.com" always_refuse
@@ -6111,6 +6112,7 @@ local-zone: "ravalads.com" always_refuse
 local-zone: "ravenapp.dev" always_refuse
 local-zone: "razwrite.com" always_refuse
 local-zone: "rbopromo.com" always_refuse
+local-zone: "r.dizibox.cc" always_refuse
 local-zone: "reachads.com" always_refuse
 local-zone: "reactads.com" always_refuse
 local-zone: "readpeak.com" always_refuse
@@ -6346,6 +6348,7 @@ local-zone: "voltaxam.com" always_refuse
 local-zone: "voxpopme.com" always_refuse
 local-zone: "voxus.com.br" always_refuse
 local-zone: "voymedia.com" always_refuse
+local-zone: "vqlwzoaf.com" always_refuse
 local-zone: "vuftouks.com" always_refuse
 local-zone: "wa.gtimg.com" always_refuse
 local-zone: "waryboot.pro" always_refuse
@@ -9318,6 +9321,7 @@ local-zone: "server4ads.com" always_refuse
 local-zone: "servetraff.com" always_refuse
 local-zone: "sexyadsrun.com" always_refuse
 local-zone: "sharemyads.com" always_refuse
+local-zone: "shareusads.com" always_refuse
 local-zone: "shestugele.pro" always_refuse
 local-zone: "showcasead.com" always_refuse
 local-zone: "showheroes.com" always_refuse

@@ -1962,6 +1962,7 @@ local-zone: "a-i-ad.com" always_nxdomain
 local-zone: "aimtell.io" always_nxdomain
 local-zone: "aixcdn.com" always_nxdomain
 local-zone: "ai.yimg.jp" always_nxdomain
+local-zone: "aj2550.bid" always_nxdomain
 local-zone: "ajscdn.com" always_nxdomain
 local-zone: "akohub.com" always_nxdomain
 local-zone: "alenty.com" always_nxdomain
@@ -6111,6 +6112,7 @@ local-zone: "ravalads.com" always_nxdomain
 local-zone: "ravenapp.dev" always_nxdomain
 local-zone: "razwrite.com" always_nxdomain
 local-zone: "rbopromo.com" always_nxdomain
+local-zone: "r.dizibox.cc" always_nxdomain
 local-zone: "reachads.com" always_nxdomain
 local-zone: "reactads.com" always_nxdomain
 local-zone: "readpeak.com" always_nxdomain
@@ -6346,6 +6348,7 @@ local-zone: "voltaxam.com" always_nxdomain
 local-zone: "voxpopme.com" always_nxdomain
 local-zone: "voxus.com.br" always_nxdomain
 local-zone: "voymedia.com" always_nxdomain
+local-zone: "vqlwzoaf.com" always_nxdomain
 local-zone: "vuftouks.com" always_nxdomain
 local-zone: "wa.gtimg.com" always_nxdomain
 local-zone: "waryboot.pro" always_nxdomain
@@ -9318,6 +9321,7 @@ local-zone: "server4ads.com" always_nxdomain
 local-zone: "servetraff.com" always_nxdomain
 local-zone: "sexyadsrun.com" always_nxdomain
 local-zone: "sharemyads.com" always_nxdomain
+local-zone: "shareusads.com" always_nxdomain
 local-zone: "shestugele.pro" always_nxdomain
 local-zone: "showcasead.com" always_nxdomain
 local-zone: "showheroes.com" always_nxdomain
