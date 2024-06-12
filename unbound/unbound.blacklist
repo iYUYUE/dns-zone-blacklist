@@ -685,6 +685,7 @@ local-zone: "ad999.biz" always_refuse
 local-zone: "adage.com" always_refuse
 local-zone: "adagio.io" always_refuse
 local-zone: "adapex.io" always_refuse
+local-zone: "adappi.co" always_refuse
 local-zone: "adaptv.us" always_refuse
 local-zone: "adasia.my" always_refuse
 local-zone: "adasta.it" always_refuse
@@ -1035,6 +1036,7 @@ local-zone: "extend.tv" always_refuse
 local-zone: "ezadz.net" always_refuse
 local-zone: "ezmob.com" always_refuse
 local-zone: "ezoic.net" always_refuse
+local-zone: "fbappi.co" always_refuse
 local-zone: "fdzev.com" always_refuse
 local-zone: "feathr.co" always_refuse
 local-zone: "fedsy.xyz" always_refuse
@@ -1101,6 +1103,7 @@ local-zone: "ikkxw.com" always_refuse
 local-zone: "ikroh.com" always_refuse
 local-zone: "ileads.ru" always_refuse
 local-zone: "imgbum.ru" always_refuse
+local-zone: "inappi.me" always_refuse
 local-zone: "incoda.in" always_refuse
 local-zone: "info.care" always_refuse
 local-zone: "inmobi.cn" always_refuse
@@ -4474,6 +4477,7 @@ local-zone: "pushfire.de" always_refuse
 local-zone: "pushfire.io" always_refuse
 local-zone: "push.hoy.es" always_refuse
 local-zone: "pushify.com" always_refuse
+local-zone: "pushimg.com" always_refuse
 local-zone: "pushkit.com" always_refuse
 local-zone: "pushland.ru" always_refuse
 local-zone: "pushloop.io" always_refuse
@@ -7240,6 +7244,7 @@ local-zone: "escortgps.net" always_refuse
 local-zone: "espotting.com" always_refuse
 local-zone: "etarg.network" always_refuse
 local-zone: "ethicalads.io" always_refuse
+local-zone: "etqbnahyt.com" always_refuse
 local-zone: "evadavapi.com" always_refuse
 local-zone: "everestads.io" always_refuse
 local-zone: "evocalize.com" always_refuse
@@ -17697,6 +17702,7 @@ local-zone: "d20kffh39acpue.cloudfront.net" always_refuse
 local-zone: "d20u24a0cw7x43.cloudfront.net" always_refuse
 local-zone: "d22q3dafggn5rg.cloudfront.net" always_refuse
 local-zone: "d25dfknw9ghxs6.cloudfront.net" always_refuse
+local-zone: "d26xw8rp6mlgfg.cloudfront.net" always_refuse
 local-zone: "d275im4r3zngba.cloudfront.net" always_refuse
 local-zone: "d2c4ylitp1qu24.cloudfront.net" always_refuse
 local-zone: "d2cgumzzqhgmdu.cloudfront.net" always_refuse
