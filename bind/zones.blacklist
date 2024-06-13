@@ -17027,6 +17027,7 @@ zone "notificationmessaging.com" { type master; notify no; file "null.zone.file"
 zone "notify.hindustantimes.com" { type master; notify no; file "null.zone.file"; };
 zone "onlinebanneradverts.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "openx.einbock-internet.de" { type master; notify no; file "null.zone.file"; };
+zone "parkingpage.namecheap.com" { type master; notify no; file "null.zone.file"; };
 zone "popup-upsell.spur-i-t.com" { type master; notify no; file "null.zone.file"; };
 zone "popup.yourpractice.online" { type master; notify no; file "null.zone.file"; };
 zone "pragatimediasolutions.com" { type master; notify no; file "null.zone.file"; };
