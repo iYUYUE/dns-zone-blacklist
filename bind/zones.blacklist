@@ -15107,6 +15107,7 @@ zone "openx.guidesocial.be" { type master; notify no; file "null.zone.file"; };
 zone "openx.koprivnica.biz" { type master; notify no; file "null.zone.file"; };
 zone "orangeclickmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "oxygenmediagroup.com" { type master; notify no; file "null.zone.file"; };
+zone "p16-va.lemon8cdn.com" { type master; notify no; file "null.zone.file"; };
 zone "partner.schalke04.de" { type master; notify no; file "null.zone.file"; };
 zone "pavonefoodandbev.com" { type master; notify no; file "null.zone.file"; };
 zone "peaksadvertising.com" { type master; notify no; file "null.zone.file"; };
