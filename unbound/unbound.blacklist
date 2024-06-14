@@ -17562,6 +17562,7 @@ local-zone: "payperclicksearchengines.com" always_refuse
 local-zone: "personalizedappsequencer.com" always_refuse
 local-zone: "personalizedappsequencer.net" always_refuse
 local-zone: "prod.appnexus.map.fastly.net" always_refuse
+local-zone: "promote-subscribe.forbes.com" always_refuse
 local-zone: "pushnotifications.pusher.com" always_refuse
 local-zone: "rs-stripe.americandigest.com" always_refuse
 local-zone: "rs-stripe.americanupdate.com" always_refuse

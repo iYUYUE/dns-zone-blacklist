@@ -35130,6 +35130,8 @@ personalizedappsequencer.net CNAME .
 *.personalizedappsequencer.net CNAME .
 prod.appnexus.map.fastly.net CNAME .
 *.prod.appnexus.map.fastly.net CNAME .
+promote-subscribe.forbes.com CNAME .
+*.promote-subscribe.forbes.com CNAME .
 pushnotifications.pusher.com CNAME .
 *.pushnotifications.pusher.com CNAME .
 rs-stripe.americandigest.com CNAME .

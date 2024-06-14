@@ -17562,6 +17562,7 @@ zone "payperclicksearchengines.com" { type master; notify no; file "null.zone.fi
 zone "personalizedappsequencer.com" { type master; notify no; file "null.zone.file"; };
 zone "personalizedappsequencer.net" { type master; notify no; file "null.zone.file"; };
 zone "prod.appnexus.map.fastly.net" { type master; notify no; file "null.zone.file"; };
+zone "promote-subscribe.forbes.com" { type master; notify no; file "null.zone.file"; };
 zone "pushnotifications.pusher.com" { type master; notify no; file "null.zone.file"; };
 zone "rs-stripe.americandigest.com" { type master; notify no; file "null.zone.file"; };
 zone "rs-stripe.americanupdate.com" { type master; notify no; file "null.zone.file"; };
