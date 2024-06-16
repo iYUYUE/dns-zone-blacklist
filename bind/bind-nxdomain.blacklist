@@ -4,6 +4,8 @@ dns-zone-blacklist. IN NS localhost.
 
 a.ki CNAME .
 *.a.ki CNAME .
+a9.ca CNAME .
+*.a9.ca CNAME .
 ad.iq CNAME .
 *.ad.iq CNAME .
 ad.mg CNAME .
@@ -3928,6 +3930,8 @@ agnitas.de CNAME .
 *.agnitas.de CNAME .
 agulwv.com CNAME .
 *.agulwv.com CNAME .
+aiactiv.io CNAME .
+*.aiactiv.io CNAME .
 a-i-ad.com CNAME .
 *.a-i-ad.com CNAME .
 aimtell.io CNAME .
@@ -9996,6 +10000,8 @@ adloader.com CNAME .
 *.adloader.com CNAME .
 ad-locus.com CNAME .
 *.ad-locus.com CNAME .
+adlook.cloud CNAME .
+*.adlook.cloud CNAME .
 adlooker.com CNAME .
 *.adlooker.com CNAME .
 admachina.ru CNAME .
@@ -13226,6 +13232,8 @@ ad-nagata.com CNAME .
 *.ad-nagata.com CNAME .
 adnetmedia.ee CNAME .
 *.adnetmedia.ee CNAME .
+adnetwork.net CNAME .
+*.adnetwork.net CNAME .
 adnmore.co.kr CNAME .
 *.adnmore.co.kr CNAME .
 adnordics.com CNAME .
@@ -14742,6 +14750,8 @@ iabireland.ie CNAME .
 *.iabireland.ie CNAME .
 iad.apple.com CNAME .
 *.iad.apple.com CNAME .
+iambivert.com CNAME .
+*.iambivert.com CNAME .
 iamniyati.com CNAME .
 *.iamniyati.com CNAME .
 i.anime22.net CNAME .
@@ -20456,6 +20466,8 @@ dropout.company CNAME .
 *.dropout.company CNAME .
 dropthought.com CNAME .
 *.dropthought.com CNAME .
+dtadnetwork.com CNAME .
+*.dtadnetwork.com CNAME .
 dubvacasept.com CNAME .
 *.dubvacasept.com CNAME .
 easyrotator.com CNAME .
@@ -25536,6 +25548,8 @@ qc.designervn.net CNAME .
 *.qc.designervn.net CNAME .
 qpidaffiliate.com CNAME .
 *.qpidaffiliate.com CNAME .
+quangcaodantri.vn CNAME .
+*.quangcaodantri.vn CNAME .
 quickadsmedia.com CNAME .
 *.quickadsmedia.com CNAME .
 radiumonelabs.com CNAME .
@@ -28850,6 +28864,8 @@ ocreativedesign.com CNAME .
 *.ocreativedesign.com CNAME .
 oglasi.slo-tech.com CNAME .
 *.oglasi.slo-tech.com CNAME .
+omega-adnetwork.com CNAME .
+*.omega-adnetwork.com CNAME .
 oneeleven-group.com CNAME .
 *.oneeleven-group.com CNAME .
 openxadexchange.com CNAME .
@@ -30022,6 +30038,8 @@ flamboyant-great.pro CNAME .
 *.flamboyant-great.pro CNAME .
 fortudios-wriefs.com CNAME .
 *.fortudios-wriefs.com CNAME .
+freedomadnetwork.com CNAME .
+*.freedomadnetwork.com CNAME .
 g6j.cupidonmedia.com CNAME .
 *.g6j.cupidonmedia.com CNAME .
 gekko.spiceworks.com CNAME .

@@ -1,4 +1,5 @@
 local-zone: "a.ki" always_refuse
+local-zone: "a9.ca" always_refuse
 local-zone: "ad.iq" always_refuse
 local-zone: "ad.mg" always_refuse
 local-zone: "ad.nl" always_refuse
@@ -1961,6 +1962,7 @@ local-zone: "agency.com" always_refuse
 local-zone: "aghutv.com" always_refuse
 local-zone: "agnitas.de" always_refuse
 local-zone: "agulwv.com" always_refuse
+local-zone: "aiactiv.io" always_refuse
 local-zone: "a-i-ad.com" always_refuse
 local-zone: "aimtell.io" always_refuse
 local-zone: "aixcdn.com" always_refuse
@@ -4995,6 +4997,7 @@ local-zone: "ad-layer.com" always_refuse
 local-zone: "adlegend.com" always_refuse
 local-zone: "adloader.com" always_refuse
 local-zone: "ad-locus.com" always_refuse
+local-zone: "adlook.cloud" always_refuse
 local-zone: "adlooker.com" always_refuse
 local-zone: "admachina.ru" always_refuse
 local-zone: "admachine.co" always_refuse
@@ -6610,6 +6613,7 @@ local-zone: "adm-vids.info" always_refuse
 local-zone: "ad.myapple.pl" always_refuse
 local-zone: "ad-nagata.com" always_refuse
 local-zone: "adnetmedia.ee" always_refuse
+local-zone: "adnetwork.net" always_refuse
 local-zone: "adnmore.co.kr" always_refuse
 local-zone: "adnordics.com" always_refuse
 local-zone: "adnuntius.com" always_refuse
@@ -7368,6 +7372,7 @@ local-zone: "hyperxxx.club" always_refuse
 local-zone: "hyrewusha.pro" always_refuse
 local-zone: "iabireland.ie" always_refuse
 local-zone: "iad.apple.com" always_refuse
+local-zone: "iambivert.com" always_refuse
 local-zone: "iamniyati.com" always_refuse
 local-zone: "i.anime22.net" always_refuse
 local-zone: "iclickcdn.com" always_refuse
@@ -10225,6 +10230,7 @@ local-zone: "drevniicdns.com" always_refuse
 local-zone: "drivealexus.com" always_refuse
 local-zone: "dropout.company" always_refuse
 local-zone: "dropthought.com" always_refuse
+local-zone: "dtadnetwork.com" always_refuse
 local-zone: "dubvacasept.com" always_refuse
 local-zone: "easyrotator.com" always_refuse
 local-zone: "easyrotator.net" always_refuse
@@ -12765,6 +12771,7 @@ local-zone: "push.xxxlists.net" always_refuse
 local-zone: "qcao.happyskin.vn" always_refuse
 local-zone: "qc.designervn.net" always_refuse
 local-zone: "qpidaffiliate.com" always_refuse
+local-zone: "quangcaodantri.vn" always_refuse
 local-zone: "quickadsmedia.com" always_refuse
 local-zone: "radiumonelabs.com" always_refuse
 local-zone: "rads.realadmin.pl" always_refuse
@@ -14422,6 +14429,7 @@ local-zone: "notif-push.9gag.com" always_refuse
 local-zone: "oathholdingsinc.com" always_refuse
 local-zone: "ocreativedesign.com" always_refuse
 local-zone: "oglasi.slo-tech.com" always_refuse
+local-zone: "omega-adnetwork.com" always_refuse
 local-zone: "oneeleven-group.com" always_refuse
 local-zone: "openxadexchange.com" always_refuse
 local-zone: "openxenterprise.com" always_refuse
@@ -15008,6 +15016,7 @@ local-zone: "fifthadvertising.com" always_refuse
 local-zone: "first-impression.com" always_refuse
 local-zone: "flamboyant-great.pro" always_refuse
 local-zone: "fortudios-wriefs.com" always_refuse
+local-zone: "freedomadnetwork.com" always_refuse
 local-zone: "g6j.cupidonmedia.com" always_refuse
 local-zone: "gekko.spiceworks.com" always_refuse
 local-zone: "geminiadvertising.in" always_refuse

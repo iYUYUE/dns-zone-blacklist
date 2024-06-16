@@ -1,4 +1,5 @@
 local-zone: "a.ki" always_nxdomain
+local-zone: "a9.ca" always_nxdomain
 local-zone: "ad.iq" always_nxdomain
 local-zone: "ad.mg" always_nxdomain
 local-zone: "ad.nl" always_nxdomain
@@ -1961,6 +1962,7 @@ local-zone: "agency.com" always_nxdomain
 local-zone: "aghutv.com" always_nxdomain
 local-zone: "agnitas.de" always_nxdomain
 local-zone: "agulwv.com" always_nxdomain
+local-zone: "aiactiv.io" always_nxdomain
 local-zone: "a-i-ad.com" always_nxdomain
 local-zone: "aimtell.io" always_nxdomain
 local-zone: "aixcdn.com" always_nxdomain
@@ -4995,6 +4997,7 @@ local-zone: "ad-layer.com" always_nxdomain
 local-zone: "adlegend.com" always_nxdomain
 local-zone: "adloader.com" always_nxdomain
 local-zone: "ad-locus.com" always_nxdomain
+local-zone: "adlook.cloud" always_nxdomain
 local-zone: "adlooker.com" always_nxdomain
 local-zone: "admachina.ru" always_nxdomain
 local-zone: "admachine.co" always_nxdomain
@@ -6610,6 +6613,7 @@ local-zone: "adm-vids.info" always_nxdomain
 local-zone: "ad.myapple.pl" always_nxdomain
 local-zone: "ad-nagata.com" always_nxdomain
 local-zone: "adnetmedia.ee" always_nxdomain
+local-zone: "adnetwork.net" always_nxdomain
 local-zone: "adnmore.co.kr" always_nxdomain
 local-zone: "adnordics.com" always_nxdomain
 local-zone: "adnuntius.com" always_nxdomain
@@ -7368,6 +7372,7 @@ local-zone: "hyperxxx.club" always_nxdomain
 local-zone: "hyrewusha.pro" always_nxdomain
 local-zone: "iabireland.ie" always_nxdomain
 local-zone: "iad.apple.com" always_nxdomain
+local-zone: "iambivert.com" always_nxdomain
 local-zone: "iamniyati.com" always_nxdomain
 local-zone: "i.anime22.net" always_nxdomain
 local-zone: "iclickcdn.com" always_nxdomain
@@ -10225,6 +10230,7 @@ local-zone: "drevniicdns.com" always_nxdomain
 local-zone: "drivealexus.com" always_nxdomain
 local-zone: "dropout.company" always_nxdomain
 local-zone: "dropthought.com" always_nxdomain
+local-zone: "dtadnetwork.com" always_nxdomain
 local-zone: "dubvacasept.com" always_nxdomain
 local-zone: "easyrotator.com" always_nxdomain
 local-zone: "easyrotator.net" always_nxdomain
@@ -12765,6 +12771,7 @@ local-zone: "push.xxxlists.net" always_nxdomain
 local-zone: "qcao.happyskin.vn" always_nxdomain
 local-zone: "qc.designervn.net" always_nxdomain
 local-zone: "qpidaffiliate.com" always_nxdomain
+local-zone: "quangcaodantri.vn" always_nxdomain
 local-zone: "quickadsmedia.com" always_nxdomain
 local-zone: "radiumonelabs.com" always_nxdomain
 local-zone: "rads.realadmin.pl" always_nxdomain
@@ -14422,6 +14429,7 @@ local-zone: "notif-push.9gag.com" always_nxdomain
 local-zone: "oathholdingsinc.com" always_nxdomain
 local-zone: "ocreativedesign.com" always_nxdomain
 local-zone: "oglasi.slo-tech.com" always_nxdomain
+local-zone: "omega-adnetwork.com" always_nxdomain
 local-zone: "oneeleven-group.com" always_nxdomain
 local-zone: "openxadexchange.com" always_nxdomain
 local-zone: "openxenterprise.com" always_nxdomain
@@ -15008,6 +15016,7 @@ local-zone: "fifthadvertising.com" always_nxdomain
 local-zone: "first-impression.com" always_nxdomain
 local-zone: "flamboyant-great.pro" always_nxdomain
 local-zone: "fortudios-wriefs.com" always_nxdomain
+local-zone: "freedomadnetwork.com" always_nxdomain
 local-zone: "g6j.cupidonmedia.com" always_nxdomain
 local-zone: "gekko.spiceworks.com" always_nxdomain
 local-zone: "geminiadvertising.in" always_nxdomain
