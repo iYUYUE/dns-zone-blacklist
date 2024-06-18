@@ -3811,6 +3811,7 @@ local-zone: "bc-news2.ru" always_refuse
 local-zone: "bcrncdn.com" always_refuse
 local-zone: "beccati.com" always_refuse
 local-zone: "beefound.in" always_refuse
+local-zone: "beehiiv.com" always_refuse
 local-zone: "beeswax.com" always_refuse
 local-zone: "beintoo.com" always_refuse
 local-zone: "bepolite.eu" always_refuse

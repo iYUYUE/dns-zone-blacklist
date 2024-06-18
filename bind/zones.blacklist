@@ -3811,6 +3811,7 @@ zone "bc-news2.ru" { type master; notify no; file "null.zone.file"; };
 zone "bcrncdn.com" { type master; notify no; file "null.zone.file"; };
 zone "beccati.com" { type master; notify no; file "null.zone.file"; };
 zone "beefound.in" { type master; notify no; file "null.zone.file"; };
+zone "beehiiv.com" { type master; notify no; file "null.zone.file"; };
 zone "beeswax.com" { type master; notify no; file "null.zone.file"; };
 zone "beintoo.com" { type master; notify no; file "null.zone.file"; };
 zone "bepolite.eu" { type master; notify no; file "null.zone.file"; };
