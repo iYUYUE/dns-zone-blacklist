@@ -16648,6 +16648,7 @@ zone "xml-eu.craftviking-2.co" { type master; notify no; file "null.zone.file"; 
 zone "xml-v4.craftviking-2.co" { type master; notify no; file "null.zone.file"; };
 zone "yellowish-yesterday.pro" { type master; notify no; file "null.zone.file"; };
 zone "youngstersworldwide.com" { type master; notify no; file "null.zone.file"; };
+zone "8upsell.s3.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "a235.middletownpress.com" { type master; notify no; file "null.zone.file"; };
 zone "a235.registercitizen.com" { type master; notify no; file "null.zone.file"; };
 zone "abbabanneradsnetwork.xyz" { type master; notify no; file "null.zone.file"; };
@@ -17033,6 +17034,7 @@ zone "globaldigitaladagency.com" { type master; notify no; file "null.zone.file"
 zone "goldjaguaradvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "googleadapis.l.google.com" { type master; notify no; file "null.zone.file"; };
 zone "greenappleadvertising.com" { type master; notify no; file "null.zone.file"; };
+zone "gstaticadssl.l.google.com" { type master; notify no; file "null.zone.file"; };
 zone "junkrat-tire.overbuff.com" { type master; notify no; file "null.zone.file"; };
 zone "k4z6w9b5.stackpathcdn.com" { type master; notify no; file "null.zone.file"; };
 zone "knowonlineadvertising.com" { type master; notify no; file "null.zone.file"; };
@@ -18199,6 +18201,7 @@ zone "yaoji666.oss-cn-hongkong.aliyuncs.com" { type master; notify no; file "nul
 zone "200.94.201.35.bc.googleusercontent.com" { type master; notify no; file "null.zone.file"; };
 zone "adserver.africabusinesscommunities.com" { type master; notify no; file "null.zone.file"; };
 zone "adserver.auditorioteatrolaspalmasgc.es" { type master; notify no; file "null.zone.file"; };
+zone "appsgrowthpromo-pa.clients6.google.com" { type master; notify no; file "null.zone.file"; };
 zone "biddr.brealtime.com.cdn.cloudflare.net" { type master; notify no; file "null.zone.file"; };
 zone "flashbanners.static.ard.sexplaycam.com" { type master; notify no; file "null.zone.file"; };
 zone "hb-rollcall.s3.us-east-2.amazonaws.com" { type master; notify no; file "null.zone.file"; };
@@ -18246,6 +18249,7 @@ zone "push-monetization-images.s3.amazonaws.com" { type master; notify no; file 
 zone "r3-live-assets.s3.eu-west-1.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "rs-stripe.conservativeundergroundnews.com" { type master; notify no; file "null.zone.file"; };
 zone "video.doubleverify.com.cdn.cloudflare.net" { type master; notify no; file "null.zone.file"; };
+zone "chromecontentsuggestions-pa.googleapis.com" { type master; notify no; file "null.zone.file"; };
 zone "rs-stripe.email.neworleanscitybusiness.com" { type master; notify no; file "null.zone.file"; };
 zone "sales-house-configuration.mes.glomex.cloud" { type master; notify no; file "null.zone.file"; };
 zone "seal-alaskaoregonwesternwashington.bbb.org" { type master; notify no; file "null.zone.file"; };
@@ -18271,6 +18275,7 @@ zone "adv-pubmanager-dev.s3-sa-east-1.amazonaws.com" { type master; notify no; f
 zone "seal-central-northern-western-arizona.bbb.org" { type master; notify no; file "null.zone.file"; };
 zone "ams-ads-cornerstone-creatives.s3.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "cdn2023-1307895297.cos.ap-nanjing.myqcloud.com" { type master; notify no; file "null.zone.file"; };
+zone "chromefeedcontentsuggestions-pa.googleapis.com" { type master; notify no; file "null.zone.file"; };
 zone "uxt-background-banner-prod.shpp.ext.zooplus.io" { type master; notify no; file "null.zone.file"; };
 zone "global.www.creative.prod.marketing.elliemae.com" { type master; notify no; file "null.zone.file"; };
 zone "replybuy.com.s3-website-us-west-1.amazonaws.com" { type master; notify no; file "null.zone.file"; };

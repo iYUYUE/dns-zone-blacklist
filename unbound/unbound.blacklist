@@ -16648,6 +16648,7 @@ local-zone: "xml-eu.craftviking-2.co" always_refuse
 local-zone: "xml-v4.craftviking-2.co" always_refuse
 local-zone: "yellowish-yesterday.pro" always_refuse
 local-zone: "youngstersworldwide.com" always_refuse
+local-zone: "8upsell.s3.amazonaws.com" always_refuse
 local-zone: "a235.middletownpress.com" always_refuse
 local-zone: "a235.registercitizen.com" always_refuse
 local-zone: "abbabanneradsnetwork.xyz" always_refuse
@@ -17033,6 +17034,7 @@ local-zone: "globaldigitaladagency.com" always_refuse
 local-zone: "goldjaguaradvertising.com" always_refuse
 local-zone: "googleadapis.l.google.com" always_refuse
 local-zone: "greenappleadvertising.com" always_refuse
+local-zone: "gstaticadssl.l.google.com" always_refuse
 local-zone: "junkrat-tire.overbuff.com" always_refuse
 local-zone: "k4z6w9b5.stackpathcdn.com" always_refuse
 local-zone: "knowonlineadvertising.com" always_refuse
@@ -18199,6 +18201,7 @@ local-zone: "yaoji666.oss-cn-hongkong.aliyuncs.com" always_refuse
 local-zone: "200.94.201.35.bc.googleusercontent.com" always_refuse
 local-zone: "adserver.africabusinesscommunities.com" always_refuse
 local-zone: "adserver.auditorioteatrolaspalmasgc.es" always_refuse
+local-zone: "appsgrowthpromo-pa.clients6.google.com" always_refuse
 local-zone: "biddr.brealtime.com.cdn.cloudflare.net" always_refuse
 local-zone: "flashbanners.static.ard.sexplaycam.com" always_refuse
 local-zone: "hb-rollcall.s3.us-east-2.amazonaws.com" always_refuse
@@ -18246,6 +18249,7 @@ local-zone: "push-monetization-images.s3.amazonaws.com" always_refuse
 local-zone: "r3-live-assets.s3.eu-west-1.amazonaws.com" always_refuse
 local-zone: "rs-stripe.conservativeundergroundnews.com" always_refuse
 local-zone: "video.doubleverify.com.cdn.cloudflare.net" always_refuse
+local-zone: "chromecontentsuggestions-pa.googleapis.com" always_refuse
 local-zone: "rs-stripe.email.neworleanscitybusiness.com" always_refuse
 local-zone: "sales-house-configuration.mes.glomex.cloud" always_refuse
 local-zone: "seal-alaskaoregonwesternwashington.bbb.org" always_refuse
@@ -18271,6 +18275,7 @@ local-zone: "adv-pubmanager-dev.s3-sa-east-1.amazonaws.com" always_refuse
 local-zone: "seal-central-northern-western-arizona.bbb.org" always_refuse
 local-zone: "ams-ads-cornerstone-creatives.s3.amazonaws.com" always_refuse
 local-zone: "cdn2023-1307895297.cos.ap-nanjing.myqcloud.com" always_refuse
+local-zone: "chromefeedcontentsuggestions-pa.googleapis.com" always_refuse
 local-zone: "uxt-background-banner-prod.shpp.ext.zooplus.io" always_refuse
 local-zone: "global.www.creative.prod.marketing.elliemae.com" always_refuse
 local-zone: "replybuy.com.s3-website-us-west-1.amazonaws.com" always_refuse

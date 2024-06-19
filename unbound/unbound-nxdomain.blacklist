@@ -16648,6 +16648,7 @@ local-zone: "xml-eu.craftviking-2.co" always_nxdomain
 local-zone: "xml-v4.craftviking-2.co" always_nxdomain
 local-zone: "yellowish-yesterday.pro" always_nxdomain
 local-zone: "youngstersworldwide.com" always_nxdomain
+local-zone: "8upsell.s3.amazonaws.com" always_nxdomain
 local-zone: "a235.middletownpress.com" always_nxdomain
 local-zone: "a235.registercitizen.com" always_nxdomain
 local-zone: "abbabanneradsnetwork.xyz" always_nxdomain
@@ -17033,6 +17034,7 @@ local-zone: "globaldigitaladagency.com" always_nxdomain
 local-zone: "goldjaguaradvertising.com" always_nxdomain
 local-zone: "googleadapis.l.google.com" always_nxdomain
 local-zone: "greenappleadvertising.com" always_nxdomain
+local-zone: "gstaticadssl.l.google.com" always_nxdomain
 local-zone: "junkrat-tire.overbuff.com" always_nxdomain
 local-zone: "k4z6w9b5.stackpathcdn.com" always_nxdomain
 local-zone: "knowonlineadvertising.com" always_nxdomain
@@ -18199,6 +18201,7 @@ local-zone: "yaoji666.oss-cn-hongkong.aliyuncs.com" always_nxdomain
 local-zone: "200.94.201.35.bc.googleusercontent.com" always_nxdomain
 local-zone: "adserver.africabusinesscommunities.com" always_nxdomain
 local-zone: "adserver.auditorioteatrolaspalmasgc.es" always_nxdomain
+local-zone: "appsgrowthpromo-pa.clients6.google.com" always_nxdomain
 local-zone: "biddr.brealtime.com.cdn.cloudflare.net" always_nxdomain
 local-zone: "flashbanners.static.ard.sexplaycam.com" always_nxdomain
 local-zone: "hb-rollcall.s3.us-east-2.amazonaws.com" always_nxdomain
@@ -18246,6 +18249,7 @@ local-zone: "push-monetization-images.s3.amazonaws.com" always_nxdomain
 local-zone: "r3-live-assets.s3.eu-west-1.amazonaws.com" always_nxdomain
 local-zone: "rs-stripe.conservativeundergroundnews.com" always_nxdomain
 local-zone: "video.doubleverify.com.cdn.cloudflare.net" always_nxdomain
+local-zone: "chromecontentsuggestions-pa.googleapis.com" always_nxdomain
 local-zone: "rs-stripe.email.neworleanscitybusiness.com" always_nxdomain
 local-zone: "sales-house-configuration.mes.glomex.cloud" always_nxdomain
 local-zone: "seal-alaskaoregonwesternwashington.bbb.org" always_nxdomain
@@ -18271,6 +18275,7 @@ local-zone: "adv-pubmanager-dev.s3-sa-east-1.amazonaws.com" always_nxdomain
 local-zone: "seal-central-northern-western-arizona.bbb.org" always_nxdomain
 local-zone: "ams-ads-cornerstone-creatives.s3.amazonaws.com" always_nxdomain
 local-zone: "cdn2023-1307895297.cos.ap-nanjing.myqcloud.com" always_nxdomain
+local-zone: "chromefeedcontentsuggestions-pa.googleapis.com" always_nxdomain
 local-zone: "uxt-background-banner-prod.shpp.ext.zooplus.io" always_nxdomain
 local-zone: "global.www.creative.prod.marketing.elliemae.com" always_nxdomain
 local-zone: "replybuy.com.s3-website-us-west-1.amazonaws.com" always_nxdomain
