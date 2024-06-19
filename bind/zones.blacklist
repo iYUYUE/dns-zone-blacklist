@@ -15790,6 +15790,7 @@ zone "whitestarmediainc.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.clips4sale.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.cloudinary.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.freshworks.com" { type master; notify no; file "null.zone.file"; };
+zone "widget.harnessapp.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.info-static.ru" { type master; notify no; file "null.zone.file"; };
 zone "widgets.getpocket.com" { type master; notify no; file "null.zone.file"; };
 zone "widgets.pinterest.com" { type master; notify no; file "null.zone.file"; };

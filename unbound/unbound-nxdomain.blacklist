@@ -15790,6 +15790,7 @@ local-zone: "whitestarmediainc.com" always_nxdomain
 local-zone: "widget.clips4sale.com" always_nxdomain
 local-zone: "widget.cloudinary.com" always_nxdomain
 local-zone: "widget.freshworks.com" always_nxdomain
+local-zone: "widget.harnessapp.com" always_nxdomain
 local-zone: "widget.info-static.ru" always_nxdomain
 local-zone: "widgets.getpocket.com" always_nxdomain
 local-zone: "widgets.pinterest.com" always_nxdomain
