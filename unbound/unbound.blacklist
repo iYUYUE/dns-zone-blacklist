@@ -575,6 +575,7 @@ local-zone: "tanx.com" always_refuse
 local-zone: "t.direct" always_refuse
 local-zone: "teads.tv" always_refuse
 local-zone: "thece.co" always_refuse
+local-zone: "t-m.live" always_refuse
 local-zone: "tmqhw.us" always_refuse
 local-zone: "token.ad" always_refuse
 local-zone: "tpmr.com" always_refuse

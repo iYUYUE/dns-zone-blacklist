@@ -575,6 +575,7 @@ zone "tanx.com" { type master; notify no; file "null.zone.file"; };
 zone "t.direct" { type master; notify no; file "null.zone.file"; };
 zone "teads.tv" { type master; notify no; file "null.zone.file"; };
 zone "thece.co" { type master; notify no; file "null.zone.file"; };
+zone "t-m.live" { type master; notify no; file "null.zone.file"; };
 zone "tmqhw.us" { type master; notify no; file "null.zone.file"; };
 zone "token.ad" { type master; notify no; file "null.zone.file"; };
 zone "tpmr.com" { type master; notify no; file "null.zone.file"; };

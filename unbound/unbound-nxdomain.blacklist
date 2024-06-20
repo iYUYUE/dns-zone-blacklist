@@ -575,6 +575,7 @@ local-zone: "tanx.com" always_nxdomain
 local-zone: "t.direct" always_nxdomain
 local-zone: "teads.tv" always_nxdomain
 local-zone: "thece.co" always_nxdomain
+local-zone: "t-m.live" always_nxdomain
 local-zone: "tmqhw.us" always_nxdomain
 local-zone: "token.ad" always_nxdomain
 local-zone: "tpmr.com" always_nxdomain
