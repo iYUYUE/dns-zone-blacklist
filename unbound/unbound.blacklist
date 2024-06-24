@@ -7505,6 +7505,8 @@ local-zone: "match2one.com" always_refuse
 local-zone: "maxbounty.com" always_refuse
 local-zone: "maxfullad.com" always_refuse
 local-zone: "mbbagency.com" always_refuse
+local-zone: "mbt3st3r1.com" always_refuse
+local-zone: "mbt3st3r2.com" always_refuse
 local-zone: "mcgrawnow.com" always_refuse
 local-zone: "medbanner.com" always_refuse
 local-zone: "mediafuse.com" always_refuse
@@ -11555,6 +11557,7 @@ local-zone: "instartlogic.biz" always_refuse
 local-zone: "instartlogic.org" always_refuse
 local-zone: "instreamatic.com" always_refuse
 local-zone: "int-agencies.com" always_refuse
+local-zone: "intent-based.com" always_refuse
 local-zone: "intermarkets.net" always_refuse
 local-zone: "internetfuel.com" always_refuse
 local-zone: "intersection.com" always_refuse
@@ -15782,6 +15785,8 @@ local-zone: "tribalsocialmedia.com" always_refuse
 local-zone: "tubbyconversation.pro" always_refuse
 local-zone: "turbulent-bedroom.pro" always_refuse
 local-zone: "unicomadvertising.com" always_refuse
+local-zone: "valueclick-europe.com" always_refuse
+local-zone: "valueclickmedia.co.uk" always_refuse
 local-zone: "venalem.pcekspert.com" always_refuse
 local-zone: "vmrcommunications.com" always_refuse
 local-zone: "web-oao.ssp.yahoo.com" always_refuse
@@ -16517,6 +16522,7 @@ local-zone: "freememes.desiceleb.top" always_refuse
 local-zone: "freesoftwarestation.com" always_refuse
 local-zone: "genesiscreatescolor.com" always_refuse
 local-zone: "glacier-advertising.com" always_refuse
+local-zone: "greenstickmarketing.com" always_refuse
 local-zone: "hardcoreadvertising.com" always_refuse
 local-zone: "hb.lifecycle.norton.com" always_refuse
 local-zone: "ingameads2.gameloft.com" always_refuse
@@ -17536,6 +17542,8 @@ local-zone: "alkambacreativesolutions.com" always_refuse
 local-zone: "as.thoroughbreddailynews.com" always_refuse
 local-zone: "banner.geocaching-romania.ro" always_refuse
 local-zone: "banner.shoeinternational.net" always_refuse
+local-zone: "brandsdeservebettermedia.com" always_refuse
+local-zone: "brandsdeservebettermedia.org" always_refuse
 local-zone: "contile.services.mozilla.com" always_refuse
 local-zone: "d1cgrmilfgg1y.cloudfront.net" always_refuse
 local-zone: "d1qv75s97cbp4.cloudfront.net" always_refuse
@@ -18166,6 +18174,7 @@ local-zone: "6abe6fc415d6aad809ddede8b4e9834f.com" always_refuse
 local-zone: "7adb3aba4022bdf282e1fd5aff82e857.com" always_refuse
 local-zone: "8548b742cbef620d1d03daac936352b1.com" always_refuse
 local-zone: "87ec9959f951bd4a21a31e1bc3055552.com" always_refuse
+local-zone: "a2bbdc6eb859423877dcade96a7c1259.com" always_refuse
 local-zone: "aax-us-east-retail-direct.amazon.com" always_refuse
 local-zone: "ads.colegiodeabogadosresistencia.org" always_refuse
 local-zone: "adserver.associationheadquarters.com" always_refuse
