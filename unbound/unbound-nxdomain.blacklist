@@ -3513,6 +3513,7 @@ local-zone: "adrotate.se" always_nxdomain
 local-zone: "adrunnr.com" always_nxdomain
 local-zone: "ads.1551.lt" always_nxdomain
 local-zone: "ads.24ur.si" always_nxdomain
+local-zone: "ads2550.bid" always_nxdomain
 local-zone: "ads2.gag.it" always_nxdomain
 local-zone: "ads.2nd.gdn" always_nxdomain
 local-zone: "ads.3al.com" always_nxdomain
@@ -9146,7 +9147,6 @@ local-zone: "nexus-soft.org" always_nxdomain
 local-zone: "nobbymedia.com" always_nxdomain
 local-zone: "nogamelive.com" always_nxdomain
 local-zone: "nostruminc.com" always_nxdomain
-local-zone: "notif.9gag.com" always_nxdomain
 local-zone: "novobanner.com" always_nxdomain
 local-zone: "ntvpevents.com" always_nxdomain
 local-zone: "nucleusads.com" always_nxdomain
@@ -11835,6 +11835,7 @@ local-zone: "spaceshipads.com" always_nxdomain
 local-zone: "spankmasters.com" always_nxdomain
 local-zone: "spolecznosci.net" always_nxdomain
 local-zone: "sproutemedia.com" always_nxdomain
+local-zone: "ssindserving.com" always_nxdomain
 local-zone: "stackattacka.com" always_nxdomain
 local-zone: "st.afreecatv.com" always_nxdomain
 local-zone: "stanoadleads.com" always_nxdomain
@@ -14439,7 +14440,6 @@ local-zone: "nextthursday.com.au" always_nxdomain
 local-zone: "nicoad.nicovideo.jp" always_nxdomain
 local-zone: "nope.xn--ygba1c.wtf" always_nxdomain
 local-zone: "notads.11supjav.xyz" always_nxdomain
-local-zone: "notif-api.under9.co" always_nxdomain
 local-zone: "notif-push.9gag.com" always_nxdomain
 local-zone: "oathholdingsinc.com" always_nxdomain
 local-zone: "ocreativedesign.com" always_nxdomain
@@ -17588,7 +17588,6 @@ local-zone: "mdeport.mediosdeportivos.com" always_nxdomain
 local-zone: "monorail-edge.shopifysvc.com" always_nxdomain
 local-zone: "mountainviewmarketingllc.com" always_nxdomain
 local-zone: "newads.annies-publishing.com" always_nxdomain
-local-zone: "notification.adblockplus.org" always_nxdomain
 local-zone: "notifications-api.cf.sky.com" always_nxdomain
 local-zone: "ogads-pa.clients6.google.com" always_nxdomain
 local-zone: "onlineadvertisingacademy.com" always_nxdomain
