@@ -15273,6 +15273,7 @@ zone "widget.justwatch.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.reviews.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "widgets.business.com" { type master; notify no; file "null.zone.file"; };
 zone "widgets.carsaver.com" { type master; notify no; file "null.zone.file"; };
+zone "widgets.kinopoisk.ru" { type master; notify no; file "null.zone.file"; };
 zone "widget.solvemate.com" { type master; notify no; file "null.zone.file"; };
 zone "widgets.vinaudit.com" { type master; notify no; file "null.zone.file"; };
 zone "winads.eraofecom.org" { type master; notify no; file "null.zone.file"; };

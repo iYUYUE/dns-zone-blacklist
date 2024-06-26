@@ -15273,6 +15273,7 @@ local-zone: "widget.justwatch.com" always_refuse
 local-zone: "widget.reviews.co.uk" always_refuse
 local-zone: "widgets.business.com" always_refuse
 local-zone: "widgets.carsaver.com" always_refuse
+local-zone: "widgets.kinopoisk.ru" always_refuse
 local-zone: "widget.solvemate.com" always_refuse
 local-zone: "widgets.vinaudit.com" always_refuse
 local-zone: "winads.eraofecom.org" always_refuse

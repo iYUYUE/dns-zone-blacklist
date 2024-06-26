@@ -15273,6 +15273,7 @@ local-zone: "widget.justwatch.com" always_nxdomain
 local-zone: "widget.reviews.co.uk" always_nxdomain
 local-zone: "widgets.business.com" always_nxdomain
 local-zone: "widgets.carsaver.com" always_nxdomain
+local-zone: "widgets.kinopoisk.ru" always_nxdomain
 local-zone: "widget.solvemate.com" always_nxdomain
 local-zone: "widgets.vinaudit.com" always_nxdomain
 local-zone: "winads.eraofecom.org" always_nxdomain
