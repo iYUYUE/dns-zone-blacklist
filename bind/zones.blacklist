@@ -1577,6 +1577,7 @@ zone "acento.com" { type master; notify no; file "null.zone.file"; };
 zone "acertb.com" { type master; notify no; file "null.zone.file"; };
 zone "ackhoo.com" { type master; notify no; file "null.zone.file"; };
 zone "acooss.com" { type master; notify no; file "null.zone.file"; };
+zone "acscdn.com" { type master; notify no; file "null.zone.file"; };
 zone "ad2mix.com" { type master; notify no; file "null.zone.file"; };
 zone "ad2.zcj.ro" { type master; notify no; file "null.zone.file"; };
 zone "ad.3sol.cz" { type master; notify no; file "null.zone.file"; };

@@ -1577,6 +1577,7 @@ local-zone: "acento.com" always_nxdomain
 local-zone: "acertb.com" always_nxdomain
 local-zone: "ackhoo.com" always_nxdomain
 local-zone: "acooss.com" always_nxdomain
+local-zone: "acscdn.com" always_nxdomain
 local-zone: "ad2mix.com" always_nxdomain
 local-zone: "ad2.zcj.ro" always_nxdomain
 local-zone: "ad.3sol.cz" always_nxdomain
