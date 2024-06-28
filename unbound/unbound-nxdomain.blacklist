@@ -12795,6 +12795,7 @@ local-zone: "rads.robox.agency" always_nxdomain
 local-zone: "r-advertising.com" always_nxdomain
 local-zone: "ra.majorgeeks.com" always_nxdomain
 local-zone: "ratesadagency.com" always_nxdomain
+local-zone: "rating-widget.com" always_nxdomain
 local-zone: "ra.wellsmedia.com" always_nxdomain
 local-zone: "rdr.wargaming.net" always_nxdomain
 local-zone: "reachjunction.com" always_nxdomain

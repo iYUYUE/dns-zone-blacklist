@@ -12795,6 +12795,7 @@ local-zone: "rads.robox.agency" always_refuse
 local-zone: "r-advertising.com" always_refuse
 local-zone: "ra.majorgeeks.com" always_refuse
 local-zone: "ratesadagency.com" always_refuse
+local-zone: "rating-widget.com" always_refuse
 local-zone: "ra.wellsmedia.com" always_refuse
 local-zone: "rdr.wargaming.net" always_refuse
 local-zone: "reachjunction.com" always_refuse

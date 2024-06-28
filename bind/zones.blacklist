@@ -12795,6 +12795,7 @@ zone "rads.robox.agency" { type master; notify no; file "null.zone.file"; };
 zone "r-advertising.com" { type master; notify no; file "null.zone.file"; };
 zone "ra.majorgeeks.com" { type master; notify no; file "null.zone.file"; };
 zone "ratesadagency.com" { type master; notify no; file "null.zone.file"; };
+zone "rating-widget.com" { type master; notify no; file "null.zone.file"; };
 zone "ra.wellsmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "rdr.wargaming.net" { type master; notify no; file "null.zone.file"; };
 zone "reachjunction.com" { type master; notify no; file "null.zone.file"; };
