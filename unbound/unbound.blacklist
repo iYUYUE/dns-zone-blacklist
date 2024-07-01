@@ -520,6 +520,7 @@ local-zone: "p2l.info" always_refuse
 local-zone: "pega.com" always_refuse
 local-zone: "pega.net" always_refuse
 local-zone: "piads.vn" always_refuse
+local-zone: "pixel.ad" always_refuse
 local-zone: "plezi.co" always_refuse
 local-zone: "pmsrv.co" always_refuse
 local-zone: "polar.me" always_refuse
@@ -18185,6 +18186,7 @@ local-zone: "adserver.quintessence-publishing.com" always_refuse
 local-zone: "ads.randomexp.net.cdn.cloudflare.net" always_refuse
 local-zone: "api-notification-service.inpixio.com" always_refuse
 local-zone: "digitalmarketingagencyinpakistan.com" always_refuse
+local-zone: "f4820863aa87c160a3ba03a2a4c91c01.com" always_refuse
 local-zone: "notification-prod.svc.gearsofwar.net" always_refuse
 local-zone: "params.prod.mwx.ext.mobilityware.com" always_refuse
 local-zone: "reliableonlineadvertisingservice.com" always_refuse

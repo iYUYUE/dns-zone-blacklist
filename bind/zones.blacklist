@@ -520,6 +520,7 @@ zone "p2l.info" { type master; notify no; file "null.zone.file"; };
 zone "pega.com" { type master; notify no; file "null.zone.file"; };
 zone "pega.net" { type master; notify no; file "null.zone.file"; };
 zone "piads.vn" { type master; notify no; file "null.zone.file"; };
+zone "pixel.ad" { type master; notify no; file "null.zone.file"; };
 zone "plezi.co" { type master; notify no; file "null.zone.file"; };
 zone "pmsrv.co" { type master; notify no; file "null.zone.file"; };
 zone "polar.me" { type master; notify no; file "null.zone.file"; };
@@ -18185,6 +18186,7 @@ zone "adserver.quintessence-publishing.com" { type master; notify no; file "null
 zone "ads.randomexp.net.cdn.cloudflare.net" { type master; notify no; file "null.zone.file"; };
 zone "api-notification-service.inpixio.com" { type master; notify no; file "null.zone.file"; };
 zone "digitalmarketingagencyinpakistan.com" { type master; notify no; file "null.zone.file"; };
+zone "f4820863aa87c160a3ba03a2a4c91c01.com" { type master; notify no; file "null.zone.file"; };
 zone "notification-prod.svc.gearsofwar.net" { type master; notify no; file "null.zone.file"; };
 zone "params.prod.mwx.ext.mobilityware.com" { type master; notify no; file "null.zone.file"; };
 zone "reliableonlineadvertisingservice.com" { type master; notify no; file "null.zone.file"; };
