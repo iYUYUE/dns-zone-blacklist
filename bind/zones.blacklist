@@ -9534,6 +9534,7 @@ zone "widgets.wp.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.ybug.io" { type master; notify no; file "null.zone.file"; };
 zone "wigetmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "wild-plant.pro" { type master; notify no; file "null.zone.file"; };
+zone "wmptengate.com" { type master; notify no; file "null.zone.file"; };
 zone "wolqundera.com" { type master; notify no; file "null.zone.file"; };
 zone "wondermars.com" { type master; notify no; file "null.zone.file"; };
 zone "wonderpush.com" { type master; notify no; file "null.zone.file"; };
