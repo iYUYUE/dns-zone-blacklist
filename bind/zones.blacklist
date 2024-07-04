@@ -2246,6 +2246,7 @@ zone "emxdgt.com" { type master; notify no; file "null.zone.file"; };
 zone "enbpvt.com" { type master; notify no; file "null.zone.file"; };
 zone "enfads.com" { type master; notify no; file "null.zone.file"; };
 zone "envybox.io" { type master; notify no; file "null.zone.file"; };
+zone "enzuzo.com" { type master; notify no; file "null.zone.file"; };
 zone "eonads.com" { type master; notify no; file "null.zone.file"; };
 zone "epaaab.com" { type master; notify no; file "null.zone.file"; };
 zone "epmads.com" { type master; notify no; file "null.zone.file"; };
