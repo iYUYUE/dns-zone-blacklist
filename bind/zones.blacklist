@@ -7088,6 +7088,7 @@ zone "breezeads.com" { type master; notify no; file "null.zone.file"; };
 zone "bricks-co.com" { type master; notify no; file "null.zone.file"; };
 zone "brightcom.com" { type master; notify no; file "null.zone.file"; };
 zone "brightline.tv" { type master; notify no; file "null.zone.file"; };
+zone "brighttoe.com" { type master; notify no; file "null.zone.file"; };
 zone "brillmedia.co" { type master; notify no; file "null.zone.file"; };
 zone "britopush.com" { type master; notify no; file "null.zone.file"; };
 zone "btchoopla.com" { type master; notify no; file "null.zone.file"; };
