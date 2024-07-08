@@ -7966,6 +7966,7 @@ zone "theplus91.com" { type master; notify no; file "null.zone.file"; };
 zone "thickcash.com" { type master; notify no; file "null.zone.file"; };
 zone "thisisdax.com" { type master; notify no; file "null.zone.file"; };
 zone "tick-tock.net" { type master; notify no; file "null.zone.file"; };
+zone "tinyswans.com" { type master; notify no; file "null.zone.file"; };
 zone "titanads1.com" { type master; notify no; file "null.zone.file"; };
 zone "titanads2.com" { type master; notify no; file "null.zone.file"; };
 zone "tizerclik.com" { type master; notify no; file "null.zone.file"; };
@@ -18178,6 +18179,7 @@ zone "webapplicationstreamingnetwork.info" { type master; notify no; file "null.
 zone "wixlabs-adsense-v3.uc.r.appspot.com" { type master; notify no; file "null.zone.file"; };
 zone "xpjtu7.oss-cn-hangzhou.aliyuncs.com" { type master; notify no; file "null.zone.file"; };
 zone "079301eaff0975107716716fd1cb0dcd.com" { type master; notify no; file "null.zone.file"; };
+zone "304a65933acfa9b058df4a7478bdd237.com" { type master; notify no; file "null.zone.file"; };
 zone "4b614f51ad499fe05baf3c22f48a64e1.com" { type master; notify no; file "null.zone.file"; };
 zone "5774b10bf0db063040a5b06a56fb2cb9.com" { type master; notify no; file "null.zone.file"; };
 zone "6a29f2964719025ed21ad70eada81a50.com" { type master; notify no; file "null.zone.file"; };
