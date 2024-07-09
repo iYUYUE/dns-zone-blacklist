@@ -2780,6 +2780,7 @@ local-zone: "psma02.com" always_refuse
 local-zone: "psma03.com" always_refuse
 local-zone: "pstatp.com" always_refuse
 local-zone: "ptadsrv.de" always_refuse
+local-zone: "pubadx.one" always_refuse
 local-zone: "publir.com" always_refuse
 local-zone: "pubwise.io" always_refuse
 local-zone: "push365.co" always_refuse
@@ -5642,6 +5643,8 @@ local-zone: "freakads.com" always_refuse
 local-zone: "freewheel.tv" always_refuse
 local-zone: "fringe81.com" always_refuse
 local-zone: "frstlead.com" always_refuse
+local-zone: "fstsrv11.com" always_refuse
+local-zone: "ftstatic.com" always_refuse
 local-zone: "fuhykici.xyz" always_refuse
 local-zone: "fullscoop.in" always_refuse
 local-zone: "fumacrom.com" always_refuse
@@ -17220,6 +17223,7 @@ local-zone: "ads.motejlekskocdopole.com" always_refuse
 local-zone: "ads.motorsport-magazin.com" always_refuse
 local-zone: "ads.oldenburger-pferde.net" always_refuse
 local-zone: "ads.pinbusinessnetwork.com" always_refuse
+local-zone: "adsqtungsten.a9.amazon.dev" always_refuse
 local-zone: "adsrv.rotlicht-werbung.net" always_refuse
 local-zone: "ads.shiift.blockgemini.net" always_refuse
 local-zone: "ads.sicherheits-berater.de" always_refuse
