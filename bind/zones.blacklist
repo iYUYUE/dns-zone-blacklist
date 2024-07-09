@@ -7122,6 +7122,7 @@ zone "chernovik.net" { type master; notify no; file "null.zone.file"; };
 zone "chinesean.com" { type master; notify no; file "null.zone.file"; };
 zone "chirpyweb.com" { type master; notify no; file "null.zone.file"; };
 zone "churchads.net" { type master; notify no; file "null.zone.file"; };
+zone "clbirdcod.com" { type master; notify no; file "null.zone.file"; };
 zone "cleverads.com" { type master; notify no; file "null.zone.file"; };
 zone "click2sell.eu" { type master; notify no; file "null.zone.file"; };
 zone "clickaine.com" { type master; notify no; file "null.zone.file"; };
