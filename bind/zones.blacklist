@@ -9218,6 +9218,7 @@ zone "platform-a.com" { type master; notify no; file "null.zone.file"; };
 zone "playbuy.agency" { type master; notify no; file "null.zone.file"; };
 zone "playground.xyz" { type master; notify no; file "null.zone.file"; };
 zone "pleighties.com" { type master; notify no; file "null.zone.file"; };
+zone "plhhisqiem.com" { type master; notify no; file "null.zone.file"; };
 zone "plutoclean.com" { type master; notify no; file "null.zone.file"; };
 zone "pointreach.com" { type master; notify no; file "null.zone.file"; };
 zone "poorstress.pro" { type master; notify no; file "null.zone.file"; };
