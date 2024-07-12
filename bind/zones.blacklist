@@ -8836,6 +8836,7 @@ zone "erasercash.com" { type master; notify no; file "null.zone.file"; };
 zone "etargetnet.com" { type master; notify no; file "null.zone.file"; };
 zone "eumaxindia.com" { type master; notify no; file "null.zone.file"; };
 zone "europacash.com" { type master; notify no; file "null.zone.file"; };
+zone "evasivejar.com" { type master; notify no; file "null.zone.file"; };
 zone "everestads.net" { type master; notify no; file "null.zone.file"; };
 zone "exactdrive.com" { type master; notify no; file "null.zone.file"; };
 zone "exchangead.com" { type master; notify no; file "null.zone.file"; };
