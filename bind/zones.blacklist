@@ -9057,6 +9057,7 @@ zone "maru-studio.lu" { type master; notify no; file "null.zone.file"; };
 zone "matchcraft.com" { type master; notify no; file "null.zone.file"; };
 zone "matterkind.com" { type master; notify no; file "null.zone.file"; };
 zone "maxtraffic.com" { type master; notify no; file "null.zone.file"; };
+zone "maxvaluead.com" { type master; notify no; file "null.zone.file"; };
 zone "mediaalpha.com" { type master; notify no; file "null.zone.file"; };
 zone "media.bmpas.cz" { type master; notify no; file "null.zone.file"; };
 zone "media-clic.com" { type master; notify no; file "null.zone.file"; };
