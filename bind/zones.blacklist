@@ -13454,7 +13454,6 @@ zone "c.stat100.ameba.jp" { type master; notify no; file "null.zone.file"; };
 zone "cyberwavemedia.com" { type master; notify no; file "null.zone.file"; };
 zone "danarimediappc.com" { type master; notify no; file "null.zone.file"; };
 zone "das.epochtimes.com" { type master; notify no; file "null.zone.file"; };
-zone "dash.sparkloop.app" { type master; notify no; file "null.zone.file"; };
 zone "davidnudescash.com" { type master; notify no; file "null.zone.file"; };
 zone "deepdivead.zum.com" { type master; notify no; file "null.zone.file"; };
 zone "defaultapeclix.com" { type master; notify no; file "null.zone.file"; };
