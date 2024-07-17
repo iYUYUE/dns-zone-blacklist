@@ -12050,6 +12050,7 @@ zone "8686865554893.com" { type master; notify no; file "null.zone.file"; };
 zone "a01.korrelate.net" { type master; notify no; file "null.zone.file"; };
 zone "a614.masslive.com" { type master; notify no; file "null.zone.file"; };
 zone "a614.pennlive.com" { type master; notify no; file "null.zone.file"; };
+zone "aan.amazon.com.au" { type master; notify no; file "null.zone.file"; };
 zone "abclefabletor.com" { type master; notify no; file "null.zone.file"; };
 zone "abconsultingg.com" { type master; notify no; file "null.zone.file"; };
 zone "abelsontaylor.com" { type master; notify no; file "null.zone.file"; };
