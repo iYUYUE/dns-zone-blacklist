@@ -182,7 +182,6 @@ local-zone: "exad.jp" always_nxdomain
 local-zone: "exe.bid" always_nxdomain
 local-zone: "fave.co" always_nxdomain
 local-zone: "fout.jp" always_nxdomain
-local-zone: "gmx.net" always_nxdomain
 local-zone: "gng.net" always_nxdomain
 local-zone: "grow.me" always_nxdomain
 local-zone: "gsfn.us" always_nxdomain

@@ -182,7 +182,6 @@ zone "exad.jp" { type master; notify no; file "null.zone.file"; };
 zone "exe.bid" { type master; notify no; file "null.zone.file"; };
 zone "fave.co" { type master; notify no; file "null.zone.file"; };
 zone "fout.jp" { type master; notify no; file "null.zone.file"; };
-zone "gmx.net" { type master; notify no; file "null.zone.file"; };
 zone "gng.net" { type master; notify no; file "null.zone.file"; };
 zone "grow.me" { type master; notify no; file "null.zone.file"; };
 zone "gsfn.us" { type master; notify no; file "null.zone.file"; };
