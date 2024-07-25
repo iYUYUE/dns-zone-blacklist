@@ -10816,6 +10816,7 @@ local-zone: "thurnflfant.com" always_refuse
 local-zone: "tic-tic-bam.com" always_refuse
 local-zone: "tic-tic-toc.com" always_refuse
 local-zone: "tm.hdmtools.com" always_refuse
+local-zone: "toolcapital.com" always_refuse
 local-zone: "topadserver.com" always_refuse
 local-zone: "topvidstore.com" always_refuse
 local-zone: "tpcdnde88de.com" always_refuse
@@ -16656,6 +16657,7 @@ local-zone: "news.worldsportlife.com" always_refuse
 local-zone: "nexusmediamarketing.com" always_refuse
 local-zone: "notads.111supjavcom.xyz" always_refuse
 local-zone: "notifications.skype.com" always_refuse
+local-zone: "ogads-pa.googleapis.com" always_refuse
 local-zone: "olivethedesignplace.com" always_refuse
 local-zone: "onlinebanneradverts.com" always_refuse
 local-zone: "optimistic-pleasure.pro" always_refuse

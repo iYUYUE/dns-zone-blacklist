@@ -10816,6 +10816,7 @@ local-zone: "thurnflfant.com" always_nxdomain
 local-zone: "tic-tic-bam.com" always_nxdomain
 local-zone: "tic-tic-toc.com" always_nxdomain
 local-zone: "tm.hdmtools.com" always_nxdomain
+local-zone: "toolcapital.com" always_nxdomain
 local-zone: "topadserver.com" always_nxdomain
 local-zone: "topvidstore.com" always_nxdomain
 local-zone: "tpcdnde88de.com" always_nxdomain
@@ -16656,6 +16657,7 @@ local-zone: "news.worldsportlife.com" always_nxdomain
 local-zone: "nexusmediamarketing.com" always_nxdomain
 local-zone: "notads.111supjavcom.xyz" always_nxdomain
 local-zone: "notifications.skype.com" always_nxdomain
+local-zone: "ogads-pa.googleapis.com" always_nxdomain
 local-zone: "olivethedesignplace.com" always_nxdomain
 local-zone: "onlinebanneradverts.com" always_nxdomain
 local-zone: "optimistic-pleasure.pro" always_nxdomain
