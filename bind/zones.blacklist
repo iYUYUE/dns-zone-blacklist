@@ -5997,6 +5997,7 @@ zone "olimptds.com" { type master; notify no; file "null.zone.file"; };
 zone "omasatra.com" { type master; notify no; file "null.zone.file"; };
 zone "omclacrv.com" { type master; notify no; file "null.zone.file"; };
 zone "omeletla.com" { type master; notify no; file "null.zone.file"; };
+zone "omgthink.com" { type master; notify no; file "null.zone.file"; };
 zone "omnivirt.com" { type master; notify no; file "null.zone.file"; };
 zone "onboard24.ru" { type master; notify no; file "null.zone.file"; };
 zone "onclarck.com" { type master; notify no; file "null.zone.file"; };
