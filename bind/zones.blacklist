@@ -1293,6 +1293,7 @@ zone "poyou.xyz" { type master; notify no; file "null.zone.file"; };
 zone "ppcnt.pro" { type master; notify no; file "null.zone.file"; };
 zone "pppbr.com" { type master; notify no; file "null.zone.file"; };
 zone "ppr.media" { type master; notify no; file "null.zone.file"; };
+zone "probid.ai" { type master; notify no; file "null.zone.file"; };
 zone "prodmp.ru" { type master; notify no; file "null.zone.file"; };
 zone "proper.io" { type master; notify no; file "null.zone.file"; };
 zone "psser.com" { type master; notify no; file "null.zone.file"; };
@@ -18149,6 +18150,7 @@ zone "seal-westernpennsylvania.bbb.org" { type master; notify no; file "null.zon
 zone "service-ad-image-ga.prd.pluto.tv" { type master; notify no; file "null.zone.file"; };
 zone "smart-widget-assets.ekomiapps.de" { type master; notify no; file "null.zone.file"; };
 zone "s-static.innovid.com.edgekey.net" { type master; notify no; file "null.zone.file"; };
+zone "static-assets.bleacherreport.net" { type master; notify no; file "null.zone.file"; };
 zone "static.tabmo.io.s3.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "video-premionmedia.akamaized.net" { type master; notify no; file "null.zone.file"; };
 zone "widgets.stores-bloomingdales.com" { type master; notify no; file "null.zone.file"; };

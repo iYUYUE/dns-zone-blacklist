@@ -1293,6 +1293,7 @@ local-zone: "poyou.xyz" always_nxdomain
 local-zone: "ppcnt.pro" always_nxdomain
 local-zone: "pppbr.com" always_nxdomain
 local-zone: "ppr.media" always_nxdomain
+local-zone: "probid.ai" always_nxdomain
 local-zone: "prodmp.ru" always_nxdomain
 local-zone: "proper.io" always_nxdomain
 local-zone: "psser.com" always_nxdomain
@@ -18149,6 +18150,7 @@ local-zone: "seal-westernpennsylvania.bbb.org" always_nxdomain
 local-zone: "service-ad-image-ga.prd.pluto.tv" always_nxdomain
 local-zone: "smart-widget-assets.ekomiapps.de" always_nxdomain
 local-zone: "s-static.innovid.com.edgekey.net" always_nxdomain
+local-zone: "static-assets.bleacherreport.net" always_nxdomain
 local-zone: "static.tabmo.io.s3.amazonaws.com" always_nxdomain
 local-zone: "video-premionmedia.akamaized.net" always_nxdomain
 local-zone: "widgets.stores-bloomingdales.com" always_nxdomain
