@@ -4867,6 +4867,7 @@ local-zone: "5visions.com" always_nxdomain
 local-zone: "66667aaa.com" always_nxdomain
 local-zone: "66885aaa.com" always_nxdomain
 local-zone: "66888aaa.com" always_nxdomain
+local-zone: "66pusher.com" always_nxdomain
 local-zone: "7isu18su.org" always_nxdomain
 local-zone: "7media.co.ke" always_nxdomain
 local-zone: "81517801.com" always_nxdomain
@@ -11851,6 +11852,7 @@ local-zone: "redviewmedia.com" always_nxdomain
 local-zone: "reklamaction.com" always_nxdomain
 local-zone: "reklamnative.com" always_nxdomain
 local-zone: "relationrest.com" always_nxdomain
+local-zone: "rentinfinity.com" always_nxdomain
 local-zone: "responsemine.com" always_nxdomain
 local-zone: "retailtime.cloud" always_nxdomain
 local-zone: "revive.agenda.ge" always_nxdomain
@@ -12876,6 +12878,7 @@ local-zone: "pressekompass.net" always_nxdomain
 local-zone: "pristine-dark.pro" always_nxdomain
 local-zone: "privacymanager.io" always_nxdomain
 local-zone: "pr.messe-essen.de" always_nxdomain
+local-zone: "productsurfer.com" always_nxdomain
 local-zone: "programatik.email" always_nxdomain
 local-zone: "promo.cazillo.com" always_nxdomain
 local-zone: "promo.purlive.com" always_nxdomain

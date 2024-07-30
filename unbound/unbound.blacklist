@@ -4867,6 +4867,7 @@ local-zone: "5visions.com" always_refuse
 local-zone: "66667aaa.com" always_refuse
 local-zone: "66885aaa.com" always_refuse
 local-zone: "66888aaa.com" always_refuse
+local-zone: "66pusher.com" always_refuse
 local-zone: "7isu18su.org" always_refuse
 local-zone: "7media.co.ke" always_refuse
 local-zone: "81517801.com" always_refuse
@@ -11851,6 +11852,7 @@ local-zone: "redviewmedia.com" always_refuse
 local-zone: "reklamaction.com" always_refuse
 local-zone: "reklamnative.com" always_refuse
 local-zone: "relationrest.com" always_refuse
+local-zone: "rentinfinity.com" always_refuse
 local-zone: "responsemine.com" always_refuse
 local-zone: "retailtime.cloud" always_refuse
 local-zone: "revive.agenda.ge" always_refuse
@@ -12876,6 +12878,7 @@ local-zone: "pressekompass.net" always_refuse
 local-zone: "pristine-dark.pro" always_refuse
 local-zone: "privacymanager.io" always_refuse
 local-zone: "pr.messe-essen.de" always_refuse
+local-zone: "productsurfer.com" always_refuse
 local-zone: "programatik.email" always_refuse
 local-zone: "promo.cazillo.com" always_refuse
 local-zone: "promo.purlive.com" always_refuse
