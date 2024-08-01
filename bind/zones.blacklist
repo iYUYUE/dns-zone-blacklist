@@ -7096,6 +7096,7 @@ zone "blkditsup.com" { type master; notify no; file "null.zone.file"; };
 zone "bloblohub.com" { type master; notify no; file "null.zone.file"; };
 zone "blu5fdclr.com" { type master; notify no; file "null.zone.file"; };
 zone "blue-shark.nl" { type master; notify no; file "null.zone.file"; };
+zone "bnmmnb.online" { type master; notify no; file "null.zone.file"; };
 zone "bnservers.com" { type master; notify no; file "null.zone.file"; };
 zone "bodyclick.net" { type master; notify no; file "null.zone.file"; };
 zone "bongacams.com" { type master; notify no; file "null.zone.file"; };
