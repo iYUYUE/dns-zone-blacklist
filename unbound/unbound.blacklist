@@ -7547,6 +7547,7 @@ local-zone: "mastertms.com" always_refuse
 local-zone: "match2one.com" always_refuse
 local-zone: "maxbounty.com" always_refuse
 local-zone: "maxfullad.com" always_refuse
+local-zone: "mayyam.online" always_refuse
 local-zone: "mbbagency.com" always_refuse
 local-zone: "mbt3st3r1.com" always_refuse
 local-zone: "mbt3st3r2.com" always_refuse
@@ -10831,6 +10832,7 @@ local-zone: "thenextwave.biz" always_refuse
 local-zone: "therepublik.net" always_refuse
 local-zone: "thesharpener.co" always_refuse
 local-zone: "theuncommons.in" always_refuse
+local-zone: "thinkitwice.com" always_refuse
 local-zone: "thisisarray.com" always_refuse
 local-zone: "thisiswaldo.com" always_refuse
 local-zone: "thunderhead.com" always_refuse
@@ -11791,6 +11793,7 @@ local-zone: "pk.adlandpro.com" always_refuse
 local-zone: "platform29.co.nz" always_refuse
 local-zone: "play4traffic.com" always_refuse
 local-zone: "playersagency.ru" always_refuse
+local-zone: "playfulriver.com" always_refuse
 local-zone: "playmmogames.com" always_refuse
 local-zone: "pmpublicidad.com" always_refuse
 local-zone: "pointtopoint.com" always_refuse
@@ -11913,6 +11916,7 @@ local-zone: "siteprotects.net" always_refuse
 local-zone: "skalden-media.de" always_refuse
 local-zone: "slideawesome.com" always_refuse
 local-zone: "slimcutmedia.com" always_refuse
+local-zone: "smallershops.com" always_refuse
 local-zone: "smartadserver.de" always_refuse
 local-zone: "smartadserver.es" always_refuse
 local-zone: "smartadserver.fr" always_refuse
