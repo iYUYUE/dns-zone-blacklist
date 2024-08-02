@@ -5713,6 +5713,7 @@ local-zone: "guruleads.ru" always_refuse
 local-zone: "gyanwave.com" always_refuse
 local-zone: "hacch.online" always_refuse
 local-zone: "hankyu-ad.jp" always_refuse
+local-zone: "haqqa.online" always_refuse
 local-zone: "hashtagd.net" always_refuse
 local-zone: "hats-47b.com" always_refuse
 local-zone: "hawkhubs.net" always_refuse
@@ -14428,6 +14429,7 @@ local-zone: "delightful-page.pro" always_refuse
 local-zone: "demannenvandelft.nl" always_refuse
 local-zone: "derangeddollars.com" always_refuse
 local-zone: "designfoundry.co.in" always_refuse
+local-zone: "differentfinish.pro" always_refuse
 local-zone: "digitaladagency.com" always_refuse
 local-zone: "digitalsquad.com.au" always_refuse
 local-zone: "digitalthrottle.com" always_refuse
