@@ -4725,7 +4725,6 @@ zone "uppyads.com" { type master; notify no; file "null.zone.file"; };
 zone "uprival.com" { type master; notify no; file "null.zone.file"; };
 zone "urechar.com" { type master; notify no; file "null.zone.file"; };
 zone "urlcash.net" { type master; notify no; file "null.zone.file"; };
-zone "userway.org" { type master; notify no; file "null.zone.file"; };
 zone "utarget.pro" { type master; notify no; file "null.zone.file"; };
 zone "utkv6nyu.de" { type master; notify no; file "null.zone.file"; };
 zone "uvertise.pk" { type master; notify no; file "null.zone.file"; };
