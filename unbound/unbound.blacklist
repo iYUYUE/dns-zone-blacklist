@@ -3120,6 +3120,7 @@ local-zone: "winadx.com" always_refuse
 local-zone: "win-now.co" always_refuse
 local-zone: "wishabi.ca" always_refuse
 local-zone: "wishfi.com" always_refuse
+local-zone: "wmcdpt.com" always_refuse
 local-zone: "woobox.com" always_refuse
 local-zone: "wordads.co" always_refuse
 local-zone: "wosool.com" always_refuse
@@ -4017,6 +4018,7 @@ local-zone: "effectv.com" always_refuse
 local-zone: "efsharp.com" always_refuse
 local-zone: "eggflow.com" always_refuse
 local-zone: "ekofelj.xyz" always_refuse
+local-zone: "embwmpt.com" always_refuse
 local-zone: "emediate.dk" always_refuse
 local-zone: "emediate.eu" always_refuse
 local-zone: "emeryad.com" always_refuse
@@ -6602,6 +6604,7 @@ local-zone: "ad.fedsun.org" always_refuse
 local-zone: "ad.findic.com" always_refuse
 local-zone: "adfingers.com" always_refuse
 local-zone: "adfluence.com" always_refuse
+local-zone: "adforcast.com" always_refuse
 local-zone: "adformdsp.net" always_refuse
 local-zone: "ad-fusion.com" always_refuse
 local-zone: "ad.gadalka.eu" always_refuse
@@ -14230,6 +14233,7 @@ local-zone: "ads.firstnews.co.uk" always_refuse
 local-zone: "ads.fodraszinfo.com" always_refuse
 local-zone: "ads.foundrygate.com" always_refuse
 local-zone: "ads.frankenradar.de" always_refuse
+local-zone: "ads.freepimphost.pl" always_refuse
 local-zone: "ads.gamberorosso.it" always_refuse
 local-zone: "ads.gayanzeigen.net" always_refuse
 local-zone: "adsgen.bangbros.com" always_refuse

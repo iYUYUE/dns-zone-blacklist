@@ -3120,6 +3120,7 @@ local-zone: "winadx.com" always_nxdomain
 local-zone: "win-now.co" always_nxdomain
 local-zone: "wishabi.ca" always_nxdomain
 local-zone: "wishfi.com" always_nxdomain
+local-zone: "wmcdpt.com" always_nxdomain
 local-zone: "woobox.com" always_nxdomain
 local-zone: "wordads.co" always_nxdomain
 local-zone: "wosool.com" always_nxdomain
@@ -4017,6 +4018,7 @@ local-zone: "effectv.com" always_nxdomain
 local-zone: "efsharp.com" always_nxdomain
 local-zone: "eggflow.com" always_nxdomain
 local-zone: "ekofelj.xyz" always_nxdomain
+local-zone: "embwmpt.com" always_nxdomain
 local-zone: "emediate.dk" always_nxdomain
 local-zone: "emediate.eu" always_nxdomain
 local-zone: "emeryad.com" always_nxdomain
@@ -6602,6 +6604,7 @@ local-zone: "ad.fedsun.org" always_nxdomain
 local-zone: "ad.findic.com" always_nxdomain
 local-zone: "adfingers.com" always_nxdomain
 local-zone: "adfluence.com" always_nxdomain
+local-zone: "adforcast.com" always_nxdomain
 local-zone: "adformdsp.net" always_nxdomain
 local-zone: "ad-fusion.com" always_nxdomain
 local-zone: "ad.gadalka.eu" always_nxdomain
@@ -14230,6 +14233,7 @@ local-zone: "ads.firstnews.co.uk" always_nxdomain
 local-zone: "ads.fodraszinfo.com" always_nxdomain
 local-zone: "ads.foundrygate.com" always_nxdomain
 local-zone: "ads.frankenradar.de" always_nxdomain
+local-zone: "ads.freepimphost.pl" always_nxdomain
 local-zone: "ads.gamberorosso.it" always_nxdomain
 local-zone: "ads.gayanzeigen.net" always_nxdomain
 local-zone: "adsgen.bangbros.com" always_nxdomain
