@@ -13630,6 +13630,7 @@ zone "huddled-masses.com" { type master; notify no; file "null.zone.file"; };
 zone "hulkprod.anm.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "husky-tomorrow.pro" { type master; notify no; file "null.zone.file"; };
 zone "hustlecreative.com" { type master; notify no; file "null.zone.file"; };
+zone "hzqcqbmbhzjjbw.com" { type master; notify no; file "null.zone.file"; };
 zone "icodealers.kbb.com" { type master; notify no; file "null.zone.file"; };
 zone "iframe.inews24.com" { type master; notify no; file "null.zone.file"; };
 zone "ignorantmethod.pro" { type master; notify no; file "null.zone.file"; };
@@ -18377,6 +18378,7 @@ zone "hb-rollcall.s3.us-east-2.amazonaws.com" { type master; notify no; file "nu
 zone "interact-quiz-public-api.herokuapp.com" { type master; notify no; file "null.zone.file"; };
 zone "kytupian1.oss-cn-hongkong.aliyuncs.com" { type master; notify no; file "null.zone.file"; };
 zone "mediatradecraft-com.videoplayerhub.com" { type master; notify no; file "null.zone.file"; };
+zone "native-ads-events-api2.c4s-rd.services" { type master; notify no; file "null.zone.file"; };
 zone "nudiepromo.nyc3.digitaloceanspaces.com" { type master; notify no; file "null.zone.file"; };
 zone "push-notification-aca6f.firebaseio.com" { type master; notify no; file "null.zone.file"; };
 zone "redbutton-adproxy-lb-prod.redbutton.de" { type master; notify no; file "null.zone.file"; };

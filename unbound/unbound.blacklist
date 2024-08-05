@@ -13630,6 +13630,7 @@ local-zone: "huddled-masses.com" always_refuse
 local-zone: "hulkprod.anm.co.uk" always_refuse
 local-zone: "husky-tomorrow.pro" always_refuse
 local-zone: "hustlecreative.com" always_refuse
+local-zone: "hzqcqbmbhzjjbw.com" always_refuse
 local-zone: "icodealers.kbb.com" always_refuse
 local-zone: "iframe.inews24.com" always_refuse
 local-zone: "ignorantmethod.pro" always_refuse
@@ -18377,6 +18378,7 @@ local-zone: "hb-rollcall.s3.us-east-2.amazonaws.com" always_refuse
 local-zone: "interact-quiz-public-api.herokuapp.com" always_refuse
 local-zone: "kytupian1.oss-cn-hongkong.aliyuncs.com" always_refuse
 local-zone: "mediatradecraft-com.videoplayerhub.com" always_refuse
+local-zone: "native-ads-events-api2.c4s-rd.services" always_refuse
 local-zone: "nudiepromo.nyc3.digitaloceanspaces.com" always_refuse
 local-zone: "push-notification-aca6f.firebaseio.com" always_refuse
 local-zone: "redbutton-adproxy-lb-prod.redbutton.de" always_refuse
