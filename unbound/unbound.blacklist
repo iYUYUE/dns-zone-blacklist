@@ -4476,6 +4476,7 @@ local-zone: "prisasd.com" always_refuse
 local-zone: "promoads.de" always_refuse
 local-zone: "propush.net" always_refuse
 local-zone: "prosply.com" always_refuse
+local-zone: "protizer.ru" always_refuse
 local-zone: "provers.pro" always_refuse
 local-zone: "psmardr.com" always_refuse
 local-zone: "ptapjmp.com" always_refuse
@@ -10377,6 +10378,7 @@ local-zone: "geoaddicted.net" always_refuse
 local-zone: "geoadserver.com" always_refuse
 local-zone: "germaniavid.com" always_refuse
 local-zone: "getadfinity.com" always_refuse
+local-zone: "getdigilant.com" always_refuse
 local-zone: "getpopunder.com" always_refuse
 local-zone: "getrichcash.com" always_refuse
 local-zone: "gigabitadex.com" always_refuse
@@ -13086,6 +13088,7 @@ local-zone: "widget.smsinfo.io" always_refuse
 local-zone: "winbox-adsmkt.com" always_refuse
 local-zone: "wingardiumads.com" always_refuse
 local-zone: "winscreatives.com" always_refuse
+local-zone: "withmedinacom.com" always_refuse
 local-zone: "wonderlandads.com" always_refuse
 local-zone: "wopsedoaltuwo.com" always_refuse
 local-zone: "wordstreamcdn.com" always_refuse
