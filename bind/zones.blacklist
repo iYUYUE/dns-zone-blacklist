@@ -4893,6 +4893,7 @@ zone "aafakron.com" { type master; notify no; file "null.zone.file"; };
 zone "aapliweb.com" { type master; notify no; file "null.zone.file"; };
 zone "aarthpro.com" { type master; notify no; file "null.zone.file"; };
 zone "abeeb.online" { type master; notify no; file "null.zone.file"; };
+zone "abhbb.online" { type master; notify no; file "null.zone.file"; };
 zone "aboutbwf.com" { type master; notify no; file "null.zone.file"; };
 zone "abw.fraza.ua" { type master; notify no; file "null.zone.file"; };
 zone "acrosspf.com" { type master; notify no; file "null.zone.file"; };
