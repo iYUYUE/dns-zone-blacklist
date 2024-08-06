@@ -10185,6 +10185,7 @@ zone "boffoadsapi.com" { type master; notify no; file "null.zone.file"; };
 zone "boingomedia.com" { type master; notify no; file "null.zone.file"; };
 zone "bonnie-clyde.ro" { type master; notify no; file "null.zone.file"; };
 zone "boodlewrite.com" { type master; notify no; file "null.zone.file"; };
+zone "bookadslots.com" { type master; notify no; file "null.zone.file"; };
 zone "booster-vax.com" { type master; notify no; file "null.zone.file"; };
 zone "boostingads.com" { type master; notify no; file "null.zone.file"; };
 zone "bop-bop-bam.com" { type master; notify no; file "null.zone.file"; };
