@@ -5981,6 +5981,7 @@ local-zone: "newsadst.com" always_refuse
 local-zone: "nextclick.pl" always_refuse
 local-zone: "nextlevel.sl" always_refuse
 local-zone: "nextperf.net" always_refuse
+local-zone: "ngffn.online" always_refuse
 local-zone: "nico.digital" always_refuse
 local-zone: "niddocks.com" always_refuse
 local-zone: "nitropay.com" always_refuse
@@ -9204,6 +9205,7 @@ local-zone: "n161adserv.com" always_refuse
 local-zone: "n272adserv.com" always_refuse
 local-zone: "na0z0thlap.com" always_refuse
 local-zone: "nacdigital.net" always_refuse
+local-zone: "nag.norton.com" always_refuse
 local-zone: "nanoadbite.com" always_refuse
 local-zone: "nano-visor.biz" always_refuse
 local-zone: "nano-visor.com" always_refuse
