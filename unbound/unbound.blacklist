@@ -15424,6 +15424,15 @@ local-zone: "unlimitedtextads.com" always_refuse
 local-zone: "upscaleworldwide.com" always_refuse
 local-zone: "vendiadvertising.com" always_refuse
 local-zone: "verdantsculpture.com" always_refuse
+local-zone: "videocdnmetrika1.com" always_refuse
+local-zone: "videocdnmetrika2.com" always_refuse
+local-zone: "videocdnmetrika3.com" always_refuse
+local-zone: "videocdnmetrika4.com" always_refuse
+local-zone: "videocdnmetrika5.com" always_refuse
+local-zone: "videocdnmetrika6.com" always_refuse
+local-zone: "videocdnmetrika7.com" always_refuse
+local-zone: "videocdnmetrika8.com" always_refuse
+local-zone: "videocdnmetrika9.com" always_refuse
 local-zone: "vppgamingnetwork.com" always_refuse
 local-zone: "wahooadvertising.com" always_refuse
 local-zone: "wbbanner.mrn-news.de" always_refuse
@@ -15959,6 +15968,7 @@ local-zone: "unicomadvertising.com" always_refuse
 local-zone: "valueclick-europe.com" always_refuse
 local-zone: "valueclickmedia.co.uk" always_refuse
 local-zone: "venalem.pcekspert.com" always_refuse
+local-zone: "videocdnmetrika10.com" always_refuse
 local-zone: "vmrcommunications.com" always_refuse
 local-zone: "web-oao.ssp.yahoo.com" always_refuse
 local-zone: "webtrafficsystems.net" always_refuse

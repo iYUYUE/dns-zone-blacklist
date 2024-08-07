@@ -15424,6 +15424,15 @@ local-zone: "unlimitedtextads.com" always_nxdomain
 local-zone: "upscaleworldwide.com" always_nxdomain
 local-zone: "vendiadvertising.com" always_nxdomain
 local-zone: "verdantsculpture.com" always_nxdomain
+local-zone: "videocdnmetrika1.com" always_nxdomain
+local-zone: "videocdnmetrika2.com" always_nxdomain
+local-zone: "videocdnmetrika3.com" always_nxdomain
+local-zone: "videocdnmetrika4.com" always_nxdomain
+local-zone: "videocdnmetrika5.com" always_nxdomain
+local-zone: "videocdnmetrika6.com" always_nxdomain
+local-zone: "videocdnmetrika7.com" always_nxdomain
+local-zone: "videocdnmetrika8.com" always_nxdomain
+local-zone: "videocdnmetrika9.com" always_nxdomain
 local-zone: "vppgamingnetwork.com" always_nxdomain
 local-zone: "wahooadvertising.com" always_nxdomain
 local-zone: "wbbanner.mrn-news.de" always_nxdomain
@@ -15959,6 +15968,7 @@ local-zone: "unicomadvertising.com" always_nxdomain
 local-zone: "valueclick-europe.com" always_nxdomain
 local-zone: "valueclickmedia.co.uk" always_nxdomain
 local-zone: "venalem.pcekspert.com" always_nxdomain
+local-zone: "videocdnmetrika10.com" always_nxdomain
 local-zone: "vmrcommunications.com" always_nxdomain
 local-zone: "web-oao.ssp.yahoo.com" always_nxdomain
 local-zone: "webtrafficsystems.net" always_nxdomain
