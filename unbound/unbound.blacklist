@@ -10823,6 +10823,7 @@ local-zone: "sunmediaads.com" always_refuse
 local-zone: "suntcontent.com" always_refuse
 local-zone: "superawesome.tv" always_refuse
 local-zone: "superpromo24.de" always_refuse
+local-zone: "tacojournal.com" always_refuse
 local-zone: "tagcombiner.com" always_refuse
 local-zone: "tagdelivery.com" always_refuse
 local-zone: "tag.regieci.com" always_refuse
@@ -15456,6 +15457,7 @@ local-zone: "widget.solvemate.com" always_refuse
 local-zone: "widgets.vinaudit.com" always_refuse
 local-zone: "winads.eraofecom.org" always_refuse
 local-zone: "worldoffersdaily.com" always_refuse
+local-zone: "worstconsequence.pro" always_refuse
 local-zone: "worthless-living.pro" always_refuse
 local-zone: "worthwelldigital.com" always_refuse
 local-zone: "www1.cap-cap-pop.com" always_refuse
