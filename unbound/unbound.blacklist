@@ -5231,6 +5231,7 @@ local-zone: "ads.vecer.mk" always_refuse
 local-zone: "ads.vomay.pl" always_refuse
 local-zone: "ads.wish.com" always_refuse
 local-zone: "ads.witi.com" always_refuse
+local-zone: "adsword.site" always_refuse
 local-zone: "ads.xmov.net" always_refuse
 local-zone: "ads.xprog.de" always_refuse
 local-zone: "ads.xumo.com" always_refuse
@@ -10020,6 +10021,7 @@ local-zone: "adsupplyads.com" always_refuse
 local-zone: "adsupplyads.net" always_refuse
 local-zone: "adsupplyssl.com" always_refuse
 local-zone: "ads.vantosh.com" always_refuse
+local-zone: "ads.vecer.press" always_refuse
 local-zone: "ads.virelin.com" always_refuse
 local-zone: "ads.v-lazer.com" always_refuse
 local-zone: "ads.warnowfm.de" always_refuse
@@ -11260,6 +11262,7 @@ local-zone: "ads.litnet.co.za" always_refuse
 local-zone: "ads.livepoker.fr" always_refuse
 local-zone: "ads.livetv539.me" always_refuse
 local-zone: "ads.locafilm.com" always_refuse
+local-zone: "adslotmarket.com" always_refuse
 local-zone: "ads.makfudbal.mk" always_refuse
 local-zone: "ads.makhsoft.com" always_refuse
 local-zone: "ad.smartnews.net" always_refuse
@@ -13325,6 +13328,7 @@ local-zone: "ads.kapitankox.com" always_refuse
 local-zone: "ads-kesselhaus.com" always_refuse
 local-zone: "ads.krestandnes.cz" always_refuse
 local-zone: "ads.lifehealth.com" always_refuse
+local-zone: "adslotcreative.com" always_refuse
 local-zone: "ads.lpm.lab325.com" always_refuse
 local-zone: "ads.madcheddar.net" always_refuse
 local-zone: "ads.madridiario.es" always_refuse
@@ -17406,6 +17410,7 @@ local-zone: "ads.oldenburger-pferde.net" always_refuse
 local-zone: "ads.pinbusinessnetwork.com" always_refuse
 local-zone: "adsqtungsten.a9.amazon.dev" always_refuse
 local-zone: "adsrv.rotlicht-werbung.net" always_refuse
+local-zone: "ads.samartdigitalmedia.com" always_refuse
 local-zone: "ads.shiift.blockgemini.net" always_refuse
 local-zone: "ads.sicherheits-berater.de" always_refuse
 local-zone: "adstream.cardboardfish.com" always_refuse
