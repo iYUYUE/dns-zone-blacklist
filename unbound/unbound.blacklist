@@ -3568,6 +3568,7 @@ local-zone: "adserver.pl" always_refuse
 local-zone: "adserver.pm" always_refuse
 local-zone: "adserver.ro" always_refuse
 local-zone: "adserver.si" always_refuse
+local-zone: "adserv.live" always_refuse
 local-zone: "adservme.co" always_refuse
 local-zone: "adserv.mobi" always_refuse
 local-zone: "ad.setn.com" always_refuse
@@ -9840,6 +9841,7 @@ local-zone: "ads.autochat.uy" always_refuse
 local-zone: "ads.avantage.cc" always_refuse
 local-zone: "ads.aviahub.net" always_refuse
 local-zone: "ads.avtoplus.mk" always_refuse
+local-zone: "ads.baocamau.vn" always_refuse
 local-zone: "ads.beenergy.es" always_refuse
 local-zone: "ads.bgstart.net" always_refuse
 local-zone: "ads.bigup.rocks" always_refuse
@@ -10895,6 +10897,7 @@ local-zone: "trickidesign.in" always_refuse
 local-zone: "trndsttrs.media" always_refuse
 local-zone: "trombocrack.com" always_refuse
 local-zone: "truaudience.com" always_refuse
+local-zone: "trydigilant.com" always_refuse
 local-zone: "tryinteract.com" always_refuse
 local-zone: "tryvoxpopme.com" always_refuse
 local-zone: "turbobanner.com" always_refuse
@@ -11131,6 +11134,7 @@ local-zone: "ads.arenafan.com" always_refuse
 local-zone: "ads.ase-group.at" always_refuse
 local-zone: "ads.asia-net.org" always_refuse
 local-zone: "adsa.socdate.net" always_refuse
+local-zone: "ads.baolongan.vn" always_refuse
 local-zone: "ads.bd24live.org" always_refuse
 local-zone: "ads.biglines.com" always_refuse
 local-zone: "ads.bihorjust.ro" always_refuse
@@ -14990,6 +14994,7 @@ local-zone: "ads.flamencocool.com" always_refuse
 local-zone: "ads.frank-hoefer.com" always_refuse
 local-zone: "adsfs.oppomobile.com" always_refuse
 local-zone: "ads.funkkombiwest.de" always_refuse
+local-zone: "ads.gostivarpress.mk" always_refuse
 local-zone: "ads.govoritmoskva.ru" always_refuse
 local-zone: "ads.hausbau-forum.de" always_refuse
 local-zone: "ads.hestafrettir.com" always_refuse
@@ -16645,6 +16650,7 @@ local-zone: "advertising-alliance.de" always_refuse
 local-zone: "advertising.cgarena.com" always_refuse
 local-zone: "advertising-support.com" always_refuse
 local-zone: "advertising.twitter.com" always_refuse
+local-zone: "advertising.walmart.com" always_refuse
 local-zone: "advert.nw-england.co.uk" always_refuse
 local-zone: "advert.rabaldermedia.se" always_refuse
 local-zone: "adverts.buypakalast.com" always_refuse
@@ -17435,6 +17441,7 @@ local-zone: "delivered-by-madington.com" always_refuse
 local-zone: "druckundwerte-creatives.de" always_refuse
 local-zone: "efgbeajaahjaiahhaach.world" always_refuse
 local-zone: "eubanner.honeywellhome.com" always_refuse
+local-zone: "event.indiantelevision.com" always_refuse
 local-zone: "fetchmediaandmarketing.com" always_refuse
 local-zone: "hardbeatcommunications.com" always_refuse
 local-zone: "hhdjcabafaejaibaaaeg.world" always_refuse

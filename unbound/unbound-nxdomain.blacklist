@@ -3568,6 +3568,7 @@ local-zone: "adserver.pl" always_nxdomain
 local-zone: "adserver.pm" always_nxdomain
 local-zone: "adserver.ro" always_nxdomain
 local-zone: "adserver.si" always_nxdomain
+local-zone: "adserv.live" always_nxdomain
 local-zone: "adservme.co" always_nxdomain
 local-zone: "adserv.mobi" always_nxdomain
 local-zone: "ad.setn.com" always_nxdomain
@@ -9840,6 +9841,7 @@ local-zone: "ads.autochat.uy" always_nxdomain
 local-zone: "ads.avantage.cc" always_nxdomain
 local-zone: "ads.aviahub.net" always_nxdomain
 local-zone: "ads.avtoplus.mk" always_nxdomain
+local-zone: "ads.baocamau.vn" always_nxdomain
 local-zone: "ads.beenergy.es" always_nxdomain
 local-zone: "ads.bgstart.net" always_nxdomain
 local-zone: "ads.bigup.rocks" always_nxdomain
@@ -10895,6 +10897,7 @@ local-zone: "trickidesign.in" always_nxdomain
 local-zone: "trndsttrs.media" always_nxdomain
 local-zone: "trombocrack.com" always_nxdomain
 local-zone: "truaudience.com" always_nxdomain
+local-zone: "trydigilant.com" always_nxdomain
 local-zone: "tryinteract.com" always_nxdomain
 local-zone: "tryvoxpopme.com" always_nxdomain
 local-zone: "turbobanner.com" always_nxdomain
@@ -11131,6 +11134,7 @@ local-zone: "ads.arenafan.com" always_nxdomain
 local-zone: "ads.ase-group.at" always_nxdomain
 local-zone: "ads.asia-net.org" always_nxdomain
 local-zone: "adsa.socdate.net" always_nxdomain
+local-zone: "ads.baolongan.vn" always_nxdomain
 local-zone: "ads.bd24live.org" always_nxdomain
 local-zone: "ads.biglines.com" always_nxdomain
 local-zone: "ads.bihorjust.ro" always_nxdomain
@@ -14990,6 +14994,7 @@ local-zone: "ads.flamencocool.com" always_nxdomain
 local-zone: "ads.frank-hoefer.com" always_nxdomain
 local-zone: "adsfs.oppomobile.com" always_nxdomain
 local-zone: "ads.funkkombiwest.de" always_nxdomain
+local-zone: "ads.gostivarpress.mk" always_nxdomain
 local-zone: "ads.govoritmoskva.ru" always_nxdomain
 local-zone: "ads.hausbau-forum.de" always_nxdomain
 local-zone: "ads.hestafrettir.com" always_nxdomain
@@ -16645,6 +16650,7 @@ local-zone: "advertising-alliance.de" always_nxdomain
 local-zone: "advertising.cgarena.com" always_nxdomain
 local-zone: "advertising-support.com" always_nxdomain
 local-zone: "advertising.twitter.com" always_nxdomain
+local-zone: "advertising.walmart.com" always_nxdomain
 local-zone: "advert.nw-england.co.uk" always_nxdomain
 local-zone: "advert.rabaldermedia.se" always_nxdomain
 local-zone: "adverts.buypakalast.com" always_nxdomain
@@ -17435,6 +17441,7 @@ local-zone: "delivered-by-madington.com" always_nxdomain
 local-zone: "druckundwerte-creatives.de" always_nxdomain
 local-zone: "efgbeajaahjaiahhaach.world" always_nxdomain
 local-zone: "eubanner.honeywellhome.com" always_nxdomain
+local-zone: "event.indiantelevision.com" always_nxdomain
 local-zone: "fetchmediaandmarketing.com" always_nxdomain
 local-zone: "hardbeatcommunications.com" always_nxdomain
 local-zone: "hhdjcabafaejaibaaaeg.world" always_nxdomain
