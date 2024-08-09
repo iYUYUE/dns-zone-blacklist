@@ -5743,6 +5743,7 @@ local-zone: "hrahdmon.com" always_nxdomain
 local-zone: "hyperadx.com" always_nxdomain
 local-zone: "i3lanate.com" always_nxdomain
 local-zone: "iabeurope.eu" always_nxdomain
+local-zone: "iadda.online" always_nxdomain
 local-zone: "ib-broker.co" always_nxdomain
 local-zone: "ibeamads.net" always_nxdomain
 local-zone: "i-clicks.net" always_nxdomain
@@ -10864,6 +10865,7 @@ local-zone: "tic-tic-bam.com" always_nxdomain
 local-zone: "tic-tic-toc.com" always_nxdomain
 local-zone: "tm.hdmtools.com" always_nxdomain
 local-zone: "toolcapital.com" always_nxdomain
+local-zone: "toomanyalts.com" always_nxdomain
 local-zone: "topadserver.com" always_nxdomain
 local-zone: "topvidstore.com" always_nxdomain
 local-zone: "tpcdnde88de.com" always_nxdomain

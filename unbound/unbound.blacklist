@@ -5743,6 +5743,7 @@ local-zone: "hrahdmon.com" always_refuse
 local-zone: "hyperadx.com" always_refuse
 local-zone: "i3lanate.com" always_refuse
 local-zone: "iabeurope.eu" always_refuse
+local-zone: "iadda.online" always_refuse
 local-zone: "ib-broker.co" always_refuse
 local-zone: "ibeamads.net" always_refuse
 local-zone: "i-clicks.net" always_refuse
@@ -10864,6 +10865,7 @@ local-zone: "tic-tic-bam.com" always_refuse
 local-zone: "tic-tic-toc.com" always_refuse
 local-zone: "tm.hdmtools.com" always_refuse
 local-zone: "toolcapital.com" always_refuse
+local-zone: "toomanyalts.com" always_refuse
 local-zone: "topadserver.com" always_refuse
 local-zone: "topvidstore.com" always_refuse
 local-zone: "tpcdnde88de.com" always_refuse
