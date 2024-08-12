@@ -10390,6 +10390,7 @@ local-zone: "bk4mvacawrk.com" always_refuse
 local-zone: "blockadsnot.com" always_refuse
 local-zone: "blog4crypto.com" always_refuse
 local-zone: "blogtelecom.com" always_refuse
+local-zone: "bloomclicks.com" always_refuse
 local-zone: "bluelithium.com" always_refuse
 local-zone: "blueserving.com" always_refuse
 local-zone: "bns.mignews.com" always_refuse
@@ -16146,6 +16147,7 @@ local-zone: "seal-nebraska.bbb.org" always_refuse
 local-zone: "seal-richmond.bbb.org" always_refuse
 local-zone: "seal-sandiego.bbb.org" always_refuse
 local-zone: "sgimage.netmarble.com" always_refuse
+local-zone: "shakunadvertising.com" always_refuse
 local-zone: "sharadadvertising.com" always_refuse
 local-zone: "shimmering-strike.pro" always_refuse
 local-zone: "siloh-ns1.plutotv.net" always_refuse
@@ -16979,7 +16981,6 @@ local-zone: "plsdonblock.supjav.buzz" always_refuse
 local-zone: "policies.warnerbros.com" always_refuse
 local-zone: "popdom.s3.amazonaws.com" always_refuse
 local-zone: "precise-advertising.com" always_refuse
-local-zone: "pricespy-75b8.kxcdn.com" always_refuse
 local-zone: "primeclickmarketing.com" always_refuse
 local-zone: "proelementcreatives.com" always_refuse
 local-zone: "publicidade.sporting.pt" always_refuse
