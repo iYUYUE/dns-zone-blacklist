@@ -107,6 +107,7 @@ local-zone: "vsn.si" always_nxdomain
 local-zone: "1bz.com" always_nxdomain
 local-zone: "1k3.com" always_nxdomain
 local-zone: "23k.com" always_nxdomain
+local-zone: "24th.me" always_nxdomain
 local-zone: "3af.org" always_nxdomain
 local-zone: "4dex.io" always_nxdomain
 local-zone: "4fx.com" always_nxdomain
@@ -3796,6 +3797,7 @@ local-zone: "affilae.com" always_nxdomain
 local-zone: "affilbox.cz" always_nxdomain
 local-zone: "affluent.io" always_nxdomain
 local-zone: "affnads.com" always_nxdomain
+local-zone: "ag0oir9f.de" always_nxdomain
 local-zone: "agency2.com" always_nxdomain
 local-zone: "agency59.ca" always_nxdomain
 local-zone: "agencyp.com" always_nxdomain
@@ -3843,6 +3845,7 @@ local-zone: "aralego.com" always_nxdomain
 local-zone: "arc.msn.com" always_nxdomain
 local-zone: "arkeero.com" always_nxdomain
 local-zone: "arkeleu.com" always_nxdomain
+local-zone: "armf7m02.de" always_nxdomain
 local-zone: "aroscop.com" always_nxdomain
 local-zone: "artkade.com" always_nxdomain
 local-zone: "arunsign.in" always_nxdomain
@@ -3891,6 +3894,7 @@ local-zone: "beeswax.com" always_nxdomain
 local-zone: "beintoo.com" always_nxdomain
 local-zone: "bepolite.eu" always_nxdomain
 local-zone: "bestpush.io" always_nxdomain
+local-zone: "bgal4349.de" always_nxdomain
 local-zone: "bhumido.com" always_nxdomain
 local-zone: "bibblio.org" always_nxdomain
 local-zone: "bidclix.com" always_nxdomain
@@ -4055,6 +4059,7 @@ local-zone: "deijavu.com" always_nxdomain
 local-zone: "dengage.com" always_nxdomain
 local-zone: "devbuddy.ca" always_nxdomain
 local-zone: "devopus.com" always_nxdomain
+local-zone: "df782abg.de" always_nxdomain
 local-zone: "dianomi.com" always_nxdomain
 local-zone: "digipush.io" always_nxdomain
 local-zone: "digitad.com" always_nxdomain
@@ -4124,6 +4129,7 @@ local-zone: "feedify.org" always_nxdomain
 local-zone: "feedmob.com" always_nxdomain
 local-zone: "feedtrk.com" always_nxdomain
 local-zone: "feeldmc.com" always_nxdomain
+local-zone: "ffprhp8r.de" always_nxdomain
 local-zone: "fibonad.com" always_nxdomain
 local-zone: "fiducia.eco" always_nxdomain
 local-zone: "finative.eu" always_nxdomain
@@ -4452,6 +4458,7 @@ local-zone: "newdin.name" always_nxdomain
 local-zone: "newsroom.bi" always_nxdomain
 local-zone: "nextsale.io" always_nxdomain
 local-zone: "nexxen.tech" always_nxdomain
+local-zone: "ngcj589s.de" always_nxdomain
 local-zone: "nhqqv.space" always_nxdomain
 local-zone: "nimbees.com" always_nxdomain
 local-zone: "nlbanner.nl" always_nxdomain
@@ -4713,6 +4720,7 @@ local-zone: "spokeapp.io" always_nxdomain
 local-zone: "spoods.info" always_nxdomain
 local-zone: "sportads.ge" always_nxdomain
 local-zone: "squidad.com" always_nxdomain
+local-zone: "srtmbm8l.de" always_nxdomain
 local-zone: "srv1.tlt.ru" always_nxdomain
 local-zone: "srvmath.com" always_nxdomain
 local-zone: "ssp.igaw.io" always_nxdomain
@@ -4996,8 +5004,13 @@ local-zone: "247media.com" always_nxdomain
 local-zone: "249media.com" always_nxdomain
 local-zone: "24s1b0et1.de" always_nxdomain
 local-zone: "250f0ma86.de" always_nxdomain
+local-zone: "25gsr18e6.de" always_nxdomain
+local-zone: "25nj6j3hn.de" always_nxdomain
 local-zone: "2639iqjkl.de" always_nxdomain
+local-zone: "269sj7k62.de" always_nxdomain
 local-zone: "26q4nn691.de" always_nxdomain
+local-zone: "27ej18n59.de" always_nxdomain
+local-zone: "27l4ginco.de" always_nxdomain
 local-zone: "291hkcido.de" always_nxdomain
 local-zone: "29apfjmg2.de" always_nxdomain
 local-zone: "2a2k3aom6.de" always_nxdomain

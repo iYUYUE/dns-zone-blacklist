@@ -107,6 +107,7 @@ local-zone: "vsn.si" always_refuse
 local-zone: "1bz.com" always_refuse
 local-zone: "1k3.com" always_refuse
 local-zone: "23k.com" always_refuse
+local-zone: "24th.me" always_refuse
 local-zone: "3af.org" always_refuse
 local-zone: "4dex.io" always_refuse
 local-zone: "4fx.com" always_refuse
@@ -3796,6 +3797,7 @@ local-zone: "affilae.com" always_refuse
 local-zone: "affilbox.cz" always_refuse
 local-zone: "affluent.io" always_refuse
 local-zone: "affnads.com" always_refuse
+local-zone: "ag0oir9f.de" always_refuse
 local-zone: "agency2.com" always_refuse
 local-zone: "agency59.ca" always_refuse
 local-zone: "agencyp.com" always_refuse
@@ -3843,6 +3845,7 @@ local-zone: "aralego.com" always_refuse
 local-zone: "arc.msn.com" always_refuse
 local-zone: "arkeero.com" always_refuse
 local-zone: "arkeleu.com" always_refuse
+local-zone: "armf7m02.de" always_refuse
 local-zone: "aroscop.com" always_refuse
 local-zone: "artkade.com" always_refuse
 local-zone: "arunsign.in" always_refuse
@@ -3891,6 +3894,7 @@ local-zone: "beeswax.com" always_refuse
 local-zone: "beintoo.com" always_refuse
 local-zone: "bepolite.eu" always_refuse
 local-zone: "bestpush.io" always_refuse
+local-zone: "bgal4349.de" always_refuse
 local-zone: "bhumido.com" always_refuse
 local-zone: "bibblio.org" always_refuse
 local-zone: "bidclix.com" always_refuse
@@ -4055,6 +4059,7 @@ local-zone: "deijavu.com" always_refuse
 local-zone: "dengage.com" always_refuse
 local-zone: "devbuddy.ca" always_refuse
 local-zone: "devopus.com" always_refuse
+local-zone: "df782abg.de" always_refuse
 local-zone: "dianomi.com" always_refuse
 local-zone: "digipush.io" always_refuse
 local-zone: "digitad.com" always_refuse
@@ -4124,6 +4129,7 @@ local-zone: "feedify.org" always_refuse
 local-zone: "feedmob.com" always_refuse
 local-zone: "feedtrk.com" always_refuse
 local-zone: "feeldmc.com" always_refuse
+local-zone: "ffprhp8r.de" always_refuse
 local-zone: "fibonad.com" always_refuse
 local-zone: "fiducia.eco" always_refuse
 local-zone: "finative.eu" always_refuse
@@ -4452,6 +4458,7 @@ local-zone: "newdin.name" always_refuse
 local-zone: "newsroom.bi" always_refuse
 local-zone: "nextsale.io" always_refuse
 local-zone: "nexxen.tech" always_refuse
+local-zone: "ngcj589s.de" always_refuse
 local-zone: "nhqqv.space" always_refuse
 local-zone: "nimbees.com" always_refuse
 local-zone: "nlbanner.nl" always_refuse
@@ -4713,6 +4720,7 @@ local-zone: "spokeapp.io" always_refuse
 local-zone: "spoods.info" always_refuse
 local-zone: "sportads.ge" always_refuse
 local-zone: "squidad.com" always_refuse
+local-zone: "srtmbm8l.de" always_refuse
 local-zone: "srv1.tlt.ru" always_refuse
 local-zone: "srvmath.com" always_refuse
 local-zone: "ssp.igaw.io" always_refuse
@@ -4996,8 +5004,13 @@ local-zone: "247media.com" always_refuse
 local-zone: "249media.com" always_refuse
 local-zone: "24s1b0et1.de" always_refuse
 local-zone: "250f0ma86.de" always_refuse
+local-zone: "25gsr18e6.de" always_refuse
+local-zone: "25nj6j3hn.de" always_refuse
 local-zone: "2639iqjkl.de" always_refuse
+local-zone: "269sj7k62.de" always_refuse
 local-zone: "26q4nn691.de" always_refuse
+local-zone: "27ej18n59.de" always_refuse
+local-zone: "27l4ginco.de" always_refuse
 local-zone: "291hkcido.de" always_refuse
 local-zone: "29apfjmg2.de" always_refuse
 local-zone: "2a2k3aom6.de" always_refuse
