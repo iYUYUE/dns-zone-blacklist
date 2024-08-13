@@ -2189,6 +2189,7 @@ local-zone: "criteo.xyz" always_refuse
 local-zone: "critoe.com" always_refuse
 local-zone: "critoo.com" always_refuse
 local-zone: "cryteo.com" always_refuse
+local-zone: "ctjdwm.com" always_refuse
 local-zone: "ctjmf3j.de" always_refuse
 local-zone: "ctouid.com" always_refuse
 local-zone: "cualbr.com" always_refuse
@@ -2802,6 +2803,7 @@ local-zone: "psma02.com" always_refuse
 local-zone: "psma03.com" always_refuse
 local-zone: "pstatp.com" always_refuse
 local-zone: "ptadsrv.de" always_refuse
+local-zone: "ptosrd.com" always_refuse
 local-zone: "pubadx.one" always_refuse
 local-zone: "publir.com" always_refuse
 local-zone: "pubwise.io" always_refuse
@@ -3016,6 +3018,7 @@ local-zone: "tmrjmp.com" always_refuse
 local-zone: "tneduf.com" always_refuse
 local-zone: "tnxptj.com" always_refuse
 local-zone: "toaioi.lol" always_refuse
+local-zone: "tomono.com" always_refuse
 local-zone: "topvid.com" always_refuse
 local-zone: "tp.otto.de" always_refuse
 local-zone: "trafban.ru" always_refuse
@@ -3288,6 +3291,7 @@ local-zone: "4co7mbsb.de" always_refuse
 local-zone: "4g0b1inr.de" always_refuse
 local-zone: "4p74i5b6.de" always_refuse
 local-zone: "51north.com" always_refuse
+local-zone: "53f2tlag.de" always_refuse
 local-zone: "56rt2692.de" always_refuse
 local-zone: "5btekl14.de" always_refuse
 local-zone: "5fet4fni.de" always_refuse
@@ -5088,6 +5092,9 @@ local-zone: "2s97637r6.de" always_refuse
 local-zone: "2sglassqe.de" always_refuse
 local-zone: "2smt6mfgo.de" always_refuse
 local-zone: "2spdo6g9h.de" always_refuse
+local-zone: "2t1c1ad7d.de" always_refuse
+local-zone: "2t27sbrk6.de" always_refuse
+local-zone: "2t7s8gspe.de" always_refuse
 local-zone: "2ta5l5rc0.de" always_refuse
 local-zone: "2tfg9bo2i.de" always_refuse
 local-zone: "2tlc698ma.de" always_refuse
@@ -5638,6 +5645,7 @@ local-zone: "avazudsp.net" always_refuse
 local-zone: "avazuinc.com" always_refuse
 local-zone: "avsquad1.com" always_refuse
 local-zone: "awempire.com" always_refuse
+local-zone: "aweproto.com" always_refuse
 local-zone: "awltovhc.com" always_refuse
 local-zone: "b1-media.com" always_refuse
 local-zone: "bablyoon.com" always_refuse
@@ -7743,6 +7751,7 @@ local-zone: "jrs2igoimq.ru" always_refuse
 local-zone: "js.cutlink.de" always_refuse
 local-zone: "js.gotourl.de" always_refuse
 local-zone: "js.linkurl.de" always_refuse
+local-zone: "juicycash.net" always_refuse
 local-zone: "justbidit.xyz" always_refuse
 local-zone: "jux9ms4vc7.ru" always_refuse
 local-zone: "k0r2eokjm6.ru" always_refuse
@@ -12027,6 +12036,7 @@ local-zone: "myhappy-news.com" always_refuse
 local-zone: "myopenware.co.uk" always_refuse
 local-zone: "naiadsystems.com" always_refuse
 local-zone: "naias-conseil.fr" always_refuse
+local-zone: "nastydollars.com" always_refuse
 local-zone: "nativenotify.com" always_refuse
 local-zone: "naughtyshape.pro" always_refuse
 local-zone: "navigaglobal.com" always_refuse
