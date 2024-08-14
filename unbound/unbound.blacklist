@@ -2213,6 +2213,7 @@ local-zone: "daotag.com" always_refuse
 local-zone: "dataxu.com" always_refuse
 local-zone: "dawmal.com" always_refuse
 local-zone: "dcbhub.com" always_refuse
+local-zone: "dcbosf.com" always_refuse
 local-zone: "dcwacl.com" always_refuse
 local-zone: "ddcfzd.com" always_refuse
 local-zone: "ddxmgy.com" always_refuse
@@ -13390,6 +13391,7 @@ local-zone: "travelpayouts.com" always_refuse
 local-zone: "trendzupmedia.com" always_refuse
 local-zone: "trickyneotits.com" always_refuse
 local-zone: "tritondigital.com" always_refuse
+local-zone: "trustedbanana.com" always_refuse
 local-zone: "trustmarkthai.com" always_refuse
 local-zone: "tsadvertising.com" always_refuse
 local-zone: "tubeadnetwork.com" always_refuse
@@ -18850,6 +18852,7 @@ local-zone: "aston-mpr-web-push-notification.s3-us-west-2.amazonaws.com" always_
 local-zone: "adserver-prod-alb-2056226458.eu-central-1.elb.amazonaws.com" always_refuse
 local-zone: "cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com" always_refuse
 local-zone: "millionsviewapi-elb-1796117858.ap-south-1.elb.amazonaws.com" always_refuse
+local-zone: "0063450bb8e5e3369ef8c167a463d15c01527283b79bd266bb19b23e.com" always_refuse
 local-zone: "0df921ae7136d731950edfdd4876e3ee9759a5c2e63fafe0d43f45cf.com" always_refuse
 local-zone: "1a81c87423210199b8232f0bbcc8bd5c6e7e54078768629b407811e9.com" always_refuse
 local-zone: "1eb7c8523c749bfaaa42fe1f841c4b3318cc77cc64d55f34cc9fce8e.com" always_refuse
