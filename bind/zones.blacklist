@@ -10117,6 +10117,7 @@ zone "ad.oficynamm.pl" { type master; notify no; file "null.zone.file"; };
 zone "adoftheyear.com" { type master; notify no; file "null.zone.file"; };
 zone "adopt-media.com" { type master; notify no; file "null.zone.file"; };
 zone "adpathmedia.com" { type master; notify no; file "null.zone.file"; };
+zone "adperfect.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "adperiscope.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.pesbruno.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.phaserep.com" { type master; notify no; file "null.zone.file"; };
