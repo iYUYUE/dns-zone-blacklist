@@ -1987,6 +1987,7 @@ local-zone: "agency.com" always_refuse
 local-zone: "aghutv.com" always_refuse
 local-zone: "agnitas.de" always_refuse
 local-zone: "agulwv.com" always_refuse
+local-zone: "ahdefer.de" always_refuse
 local-zone: "aiactiv.io" always_refuse
 local-zone: "a-i-ad.com" always_refuse
 local-zone: "aimtell.io" always_refuse
@@ -2453,6 +2454,7 @@ local-zone: "inmobi.com" always_refuse
 local-zone: "innity.com" always_refuse
 local-zone: "innity.net" always_refuse
 local-zone: "iogous.com" always_refuse
+local-zone: "ionifty.de" always_refuse
 local-zone: "ipiech.com" always_refuse
 local-zone: "ipixels.in" always_refuse
 local-zone: "ipqolj.com" always_refuse
@@ -2718,6 +2720,7 @@ local-zone: "oicmsf.com" always_refuse
 local-zone: "oijkse.com" always_refuse
 local-zone: "okanjo.com" always_refuse
 local-zone: "okoads.com" always_refuse
+local-zone: "okshiny.de" always_refuse
 local-zone: "ombeaut.de" always_refuse
 local-zone: "omelet.com" always_refuse
 local-zone: "omlover.de" always_refuse
