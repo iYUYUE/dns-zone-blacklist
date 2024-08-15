@@ -4995,6 +4995,8 @@ zone "17do048qm.de" { type master; notify no; file "null.zone.file"; };
 zone "181m2fscr.de" { type master; notify no; file "null.zone.file"; };
 zone "184c4i95p.de" { type master; notify no; file "null.zone.file"; };
 zone "18tlm4jee.de" { type master; notify no; file "null.zone.file"; };
+zone "19hmm4naa.de" { type master; notify no; file "null.zone.file"; };
+zone "19kd6j1qq.de" { type master; notify no; file "null.zone.file"; };
 zone "1a8f9rq9c.de" { type master; notify no; file "null.zone.file"; };
 zone "1afqdhj0a.de" { type master; notify no; file "null.zone.file"; };
 zone "1aqi93ml4.de" { type master; notify no; file "null.zone.file"; };
