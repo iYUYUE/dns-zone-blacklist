@@ -1622,6 +1622,7 @@ local-zone: "adaurum.ru" always_refuse
 local-zone: "ad.avdb.me" always_refuse
 local-zone: "adbalu.com" always_refuse
 local-zone: "adbana.com" always_refuse
+local-zone: "ad.baz.app" always_refuse
 local-zone: "adbaze.com" always_refuse
 local-zone: "adbest.com" always_refuse
 local-zone: "adbest.net" always_refuse
@@ -9769,6 +9770,7 @@ local-zone: "sponsormob.com" always_refuse
 local-zone: "sponsorpay.com" always_refuse
 local-zone: "sponsortag.com" always_refuse
 local-zone: "spread.company" always_refuse
+local-zone: "sprysummit.com" always_refuse
 local-zone: "spunkycash.com" always_refuse
 local-zone: "spykemedia.com" always_refuse
 local-zone: "ssdbkv4qtq.xyz" always_refuse
@@ -16161,6 +16163,7 @@ local-zone: "lemmatechnologies.com" always_refuse
 local-zone: "lemonde.assistpub.com" always_refuse
 local-zone: "localad.homedepot.com" always_refuse
 local-zone: "londonadvertising.com" always_refuse
+local-zone: "luminousboulevard.com" always_refuse
 local-zone: "mangosadvertising.com" always_refuse
 local-zone: "manzellamarketing.com" always_refuse
 local-zone: "mariyforum.3xforum.ro" always_refuse

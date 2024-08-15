@@ -1622,6 +1622,7 @@ local-zone: "adaurum.ru" always_nxdomain
 local-zone: "ad.avdb.me" always_nxdomain
 local-zone: "adbalu.com" always_nxdomain
 local-zone: "adbana.com" always_nxdomain
+local-zone: "ad.baz.app" always_nxdomain
 local-zone: "adbaze.com" always_nxdomain
 local-zone: "adbest.com" always_nxdomain
 local-zone: "adbest.net" always_nxdomain
@@ -9769,6 +9770,7 @@ local-zone: "sponsormob.com" always_nxdomain
 local-zone: "sponsorpay.com" always_nxdomain
 local-zone: "sponsortag.com" always_nxdomain
 local-zone: "spread.company" always_nxdomain
+local-zone: "sprysummit.com" always_nxdomain
 local-zone: "spunkycash.com" always_nxdomain
 local-zone: "spykemedia.com" always_nxdomain
 local-zone: "ssdbkv4qtq.xyz" always_nxdomain
@@ -16161,6 +16163,7 @@ local-zone: "lemmatechnologies.com" always_nxdomain
 local-zone: "lemonde.assistpub.com" always_nxdomain
 local-zone: "localad.homedepot.com" always_nxdomain
 local-zone: "londonadvertising.com" always_nxdomain
+local-zone: "luminousboulevard.com" always_nxdomain
 local-zone: "mangosadvertising.com" always_nxdomain
 local-zone: "manzellamarketing.com" always_nxdomain
 local-zone: "mariyforum.3xforum.ro" always_nxdomain
