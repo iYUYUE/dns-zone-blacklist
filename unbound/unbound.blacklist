@@ -5068,7 +5068,10 @@ local-zone: "1g46ls536.de" always_refuse
 local-zone: "1gbjadpsq.de" always_refuse
 local-zone: "1h2gp10t2.de" always_refuse
 local-zone: "1hkmr7jb0.de" always_refuse
+local-zone: "1hs597km0.de" always_refuse
+local-zone: "1i8sk38gr.de" always_refuse
 local-zone: "1igare0jn.de" always_refuse
+local-zone: "1j4g27f7t.de" always_refuse
 local-zone: "1j771bhgi.de" always_refuse
 local-zone: "1jpbh5iht.de" always_refuse
 local-zone: "1knhg4mmq.de" always_refuse
@@ -14850,6 +14853,7 @@ local-zone: "conversantmedia.com" always_refuse
 local-zone: "conversiongiant.com" always_refuse
 local-zone: "cookieassistant.com" always_refuse
 local-zone: "coordinate.abudhabi" always_refuse
+local-zone: "costly-computer.pro" always_refuse
 local-zone: "crbcdn.jsfiddle.net" always_refuse
 local-zone: "creativecracker.com" always_refuse
 local-zone: "creativecurve.co.za" always_refuse
@@ -18940,6 +18944,7 @@ local-zone: "adserver-prod-alb-2056226458.eu-central-1.elb.amazonaws.com" always
 local-zone: "cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com" always_refuse
 local-zone: "millionsviewapi-elb-1796117858.ap-south-1.elb.amazonaws.com" always_refuse
 local-zone: "0063450bb8e5e3369ef8c167a463d15c01527283b79bd266bb19b23e.com" always_refuse
+local-zone: "04697a0ddea24c610de68229dadbc4390c37813647c2827bbc1f9041.com" always_refuse
 local-zone: "0df921ae7136d731950edfdd4876e3ee9759a5c2e63fafe0d43f45cf.com" always_refuse
 local-zone: "1a81c87423210199b8232f0bbcc8bd5c6e7e54078768629b407811e9.com" always_refuse
 local-zone: "1eb7c8523c749bfaaa42fe1f841c4b3318cc77cc64d55f34cc9fce8e.com" always_refuse
