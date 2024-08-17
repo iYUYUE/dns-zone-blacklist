@@ -5583,6 +5583,7 @@ local-zone: "ads.srds.com" always_nxdomain
 local-zone: "ads.svnt.com" always_nxdomain
 local-zone: "adstartr.com" always_nxdomain
 local-zone: "adstatic.com" always_nxdomain
+local-zone: "adstats.live" always_nxdomain
 local-zone: "adsterra.biz" always_nxdomain
 local-zone: "adsterra.com" always_nxdomain
 local-zone: "adsterra.net" always_nxdomain
@@ -18961,6 +18962,7 @@ local-zone: "cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com" always
 local-zone: "millionsviewapi-elb-1796117858.ap-south-1.elb.amazonaws.com" always_nxdomain
 local-zone: "0063450bb8e5e3369ef8c167a463d15c01527283b79bd266bb19b23e.com" always_nxdomain
 local-zone: "04697a0ddea24c610de68229dadbc4390c37813647c2827bbc1f9041.com" always_nxdomain
+local-zone: "07aa269c0e76550c929640c170af557c7371753ba1b580236d7fa0a4.com" always_nxdomain
 local-zone: "0df921ae7136d731950edfdd4876e3ee9759a5c2e63fafe0d43f45cf.com" always_nxdomain
 local-zone: "1a81c87423210199b8232f0bbcc8bd5c6e7e54078768629b407811e9.com" always_nxdomain
 local-zone: "1eb7c8523c749bfaaa42fe1f841c4b3318cc77cc64d55f34cc9fce8e.com" always_nxdomain
