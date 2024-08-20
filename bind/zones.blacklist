@@ -3382,6 +3382,7 @@ zone "64ikm9ek.de" { type master; notify no; file "null.zone.file"; };
 zone "68amt53h.de" { type master; notify no; file "null.zone.file"; };
 zone "6hk7950r.de" { type master; notify no; file "null.zone.file"; };
 zone "6j296m8k.de" { type master; notify no; file "null.zone.file"; };
+zone "6sirck3r.de" { type master; notify no; file "null.zone.file"; };
 zone "72hdgb5o.de" { type master; notify no; file "null.zone.file"; };
 zone "78bk5iji.de" { type master; notify no; file "null.zone.file"; };
 zone "78tdd75.com" { type master; notify no; file "null.zone.file"; };
