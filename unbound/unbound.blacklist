@@ -166,6 +166,7 @@ local-zone: "bkv.com" always_refuse
 local-zone: "blip.tv" always_refuse
 local-zone: "bvk.com" always_refuse
 local-zone: "b-y.net" always_refuse
+local-zone: "c-1.bid" always_refuse
 local-zone: "c9w.net" always_refuse
 local-zone: "catu.cc" always_refuse
 local-zone: "c-k.com" always_refuse
@@ -573,6 +574,7 @@ local-zone: "srax.com" always_refuse
 local-zone: "srxy.xyz" always_refuse
 local-zone: "stars.pl" always_refuse
 local-zone: "tabmo.io" always_refuse
+local-zone: "tab.name" always_refuse
 local-zone: "tagon.co" always_refuse
 local-zone: "tagoo.cc" always_refuse
 local-zone: "tanx.com" always_refuse
@@ -3964,6 +3966,7 @@ local-zone: "azadv.co.il" always_refuse
 local-zone: "azyi9utz.ru" always_refuse
 local-zone: "b21ywa9a.ru" always_refuse
 local-zone: "baducdn.com" always_refuse
+local-zone: "badword.xyz" always_refuse
 local-zone: "balihoo.com" always_refuse
 local-zone: "bam-ads.com" always_refuse
 local-zone: "bandujo.com" always_refuse
@@ -6928,7 +6931,6 @@ local-zone: "a.acervox.com" always_refuse
 local-zone: "a.andropps.us" always_refuse
 local-zone: "aaxdetect.com" always_refuse
 local-zone: "ababaa.online" always_refuse
-local-zone: "a.badword.xyz" always_refuse
 local-zone: "abburmyer.com" always_refuse
 local-zone: "aboutsage.com" always_refuse
 local-zone: "absinthium.in" always_refuse
