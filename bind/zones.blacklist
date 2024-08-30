@@ -908,6 +908,7 @@ zone "apppl.com" { type master; notify no; file "null.zone.file"; };
 zone "appss.app" { type master; notify no; file "null.zone.file"; };
 zone "appzi.com" { type master; notify no; file "null.zone.file"; };
 zone "aqofl.com" { type master; notify no; file "null.zone.file"; };
+zone "art19.com" { type master; notify no; file "null.zone.file"; };
 zone "asa.co.nz" { type master; notify no; file "null.zone.file"; };
 zone "asapp.com" { type master; notify no; file "null.zone.file"; };
 zone "auihf.com" { type master; notify no; file "null.zone.file"; };

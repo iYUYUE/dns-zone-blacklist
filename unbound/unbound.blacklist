@@ -908,6 +908,7 @@ local-zone: "apppl.com" always_refuse
 local-zone: "appss.app" always_refuse
 local-zone: "appzi.com" always_refuse
 local-zone: "aqofl.com" always_refuse
+local-zone: "art19.com" always_refuse
 local-zone: "asa.co.nz" always_refuse
 local-zone: "asapp.com" always_refuse
 local-zone: "auihf.com" always_refuse

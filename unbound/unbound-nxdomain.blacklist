@@ -908,6 +908,7 @@ local-zone: "apppl.com" always_nxdomain
 local-zone: "appss.app" always_nxdomain
 local-zone: "appzi.com" always_nxdomain
 local-zone: "aqofl.com" always_nxdomain
+local-zone: "art19.com" always_nxdomain
 local-zone: "asa.co.nz" always_nxdomain
 local-zone: "asapp.com" always_nxdomain
 local-zone: "auihf.com" always_nxdomain
