@@ -3683,6 +3683,7 @@ local-zone: "ads.3al.com" always_refuse
 local-zone: "ads4you.xyz" always_refuse
 local-zone: "ads.aae.org" always_refuse
 local-zone: "ads.amna.gr" always_refuse
+local-zone: "ad.santa.lv" always_refuse
 local-zone: "ads.apps.ae" always_refuse
 local-zone: "ads.appy.us" always_refuse
 local-zone: "ads.aspi.cz" always_refuse
@@ -14704,6 +14705,7 @@ local-zone: "ads.freepimphost.pl" always_refuse
 local-zone: "ads.gamberorosso.it" always_refuse
 local-zone: "ads.gayanzeigen.net" always_refuse
 local-zone: "adsgen.bangbros.com" always_refuse
+local-zone: "ads.giaminhmedia.vn" always_refuse
 local-zone: "ads.goldreporter.de" always_refuse
 local-zone: "ads.groupincorp.com" always_refuse
 local-zone: "ads.gsmexchange.com" always_refuse
@@ -15351,6 +15353,7 @@ local-zone: "ads.ccrexplorers.com" always_refuse
 local-zone: "ads.clasificadox.com" always_refuse
 local-zone: "ads.clickdigisol.net" always_refuse
 local-zone: "ads.coopcityinfo.com" always_refuse
+local-zone: "ads.cranenetwork.com" always_refuse
 local-zone: "ads.cxoinsightme.com" always_refuse
 local-zone: "ads.dahoam-kaufen.at" always_refuse
 local-zone: "ads.dhakatimes24.com" always_refuse
