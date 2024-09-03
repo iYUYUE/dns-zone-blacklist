@@ -3704,6 +3704,7 @@ local-zone: "ads.duen.hu" always_refuse
 local-zone: "adsearch.pl" always_refuse
 local-zone: "adsender.us" always_refuse
 local-zone: "adsense.com" always_refuse
+local-zone: "adservc.com" always_refuse
 local-zone: "adservd.com" always_refuse
 local-zone: "adserve.com" always_refuse
 local-zone: "adserve.ltd" always_refuse
@@ -11083,6 +11084,7 @@ local-zone: "povporncash.com" always_refuse
 local-zone: "p.posventa.info" always_refuse
 local-zone: "pre.03porno.com" always_refuse
 local-zone: "prebid.a-mo.net" always_refuse
+local-zone: "prebidserver.io" always_refuse
 local-zone: "premiermedia.pk" always_refuse
 local-zone: "premiumcash.com" always_refuse
 local-zone: "pre.myfuck.club" always_refuse
@@ -16704,6 +16706,7 @@ local-zone: "assets.snapfinance.com" always_refuse
 local-zone: "assurance.sysnetgs.com" always_refuse
 local-zone: "b2bmarketingagency.biz" always_refuse
 local-zone: "baneri.24fudbal.com.mk" always_refuse
+local-zone: "banner1.camsfatale.com" always_refuse
 local-zone: "banner.reteambiente.it" always_refuse
 local-zone: "bannersector.sector.sk" always_refuse
 local-zone: "behaveapi.wpengine.com" always_refuse
