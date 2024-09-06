@@ -8022,6 +8022,7 @@ zone "mqwcuesny6.ru" { type master; notify no; file "null.zone.file"; };
 zone "mrndigital.in" { type master; notify no; file "null.zone.file"; };
 zone "mr-popper.com" { type master; notify no; file "null.zone.file"; };
 zone "msadsense.com" { type master; notify no; file "null.zone.file"; };
+zone "mseeowpm1.xyz" { type master; notify no; file "null.zone.file"; };
 zone "mspaceads.com" { type master; notify no; file "null.zone.file"; };
 zone "mtlbigger.com" { type master; notify no; file "null.zone.file"; };
 zone "mugpothop.com" { type master; notify no; file "null.zone.file"; };
