@@ -13107,6 +13107,7 @@ zone "criteo-direct.com" { type master; notify no; file "null.zone.file"; };
 zone "cruisetourist.com" { type master; notify no; file "null.zone.file"; };
 zone "cryptocoinsad.com" { type master; notify no; file "null.zone.file"; };
 zone "cryptohotinfo.com" { type master; notify no; file "null.zone.file"; };
+zone "crystalstatus.com" { type master; notify no; file "null.zone.file"; };
 zone "customerlobby.com" { type master; notify no; file "null.zone.file"; };
 zone "data-cash.network" { type master; notify no; file "null.zone.file"; };
 zone "datingfactory.com" { type master; notify no; file "null.zone.file"; };
