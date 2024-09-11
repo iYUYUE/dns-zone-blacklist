@@ -6062,6 +6062,7 @@ local-zone: "flux-cdn.com" always_refuse
 local-zone: "freakads.com" always_refuse
 local-zone: "freewheel.tv" always_refuse
 local-zone: "fringe81.com" always_refuse
+local-zone: "frogator.com" always_refuse
 local-zone: "frstlead.com" always_refuse
 local-zone: "fstsrv11.com" always_refuse
 local-zone: "ftstatic.com" always_refuse
@@ -9257,6 +9258,7 @@ local-zone: "crowdsouth.com" always_refuse
 local-zone: "crowdynews.com" always_refuse
 local-zone: "crypto-adz.com" always_refuse
 local-zone: "cryptoklix.com" always_refuse
+local-zone: "cryptvalue.com" always_refuse
 local-zone: "curveqatar.com" always_refuse
 local-zone: "cwrdigital.com" always_refuse
 local-zone: "cyad1.nate.com" always_refuse
@@ -9306,6 +9308,7 @@ local-zone: "dzrs3yuexz.com" always_refuse
 local-zone: "e9geolgzk6.com" always_refuse
 local-zone: "eadultcash.com" always_refuse
 local-zone: "eagerflame.com" always_refuse
+local-zone: "earthyfarm.com" always_refuse
 local-zone: "easyads28.info" always_refuse
 local-zone: "easyads28.mobi" always_refuse
 local-zone: "easyads29.mobi" always_refuse
@@ -9553,6 +9556,7 @@ local-zone: "mamydirect.com" always_refuse
 local-zone: "mansimedia.com" always_refuse
 local-zone: "mapuravity.com" always_refuse
 local-zone: "marfeelrev.com" always_refuse
+local-zone: "markahouse.com" always_refuse
 local-zone: "markandmake.in" always_refuse
 local-zone: "marketgid.info" always_refuse
 local-zone: "marketlinc.com" always_refuse
@@ -9600,6 +9604,7 @@ local-zone: "mobivisits.com" always_refuse
 local-zone: "mobnatives.com" always_refuse
 local-zone: "mobster.agency" always_refuse
 local-zone: "mobsuccess.com" always_refuse
+local-zone: "moki-byu.space" always_refuse
 local-zone: "molypsigry.pro" always_refuse
 local-zone: "monetizead.com" always_refuse
 local-zone: "montantara.top" always_refuse
