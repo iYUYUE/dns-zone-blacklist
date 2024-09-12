@@ -3092,7 +3092,6 @@ local-zone: "thevab.com" always_refuse
 local-zone: "tip-ads.de" always_refuse
 local-zone: "tljivh.com" always_refuse
 local-zone: "tm-ads.net" always_refuse
-local-zone: "tmatch.com" always_refuse
 local-zone: "tmrjmp.com" always_refuse
 local-zone: "tneduf.com" always_refuse
 local-zone: "tnxptj.com" always_refuse
@@ -11472,6 +11471,7 @@ local-zone: "ww2.clkmein.com" always_refuse
 local-zone: "ww2.imgtaxi.com" always_refuse
 local-zone: "wwwpromoter.com" always_refuse
 local-zone: "xel-xel-fie.com" always_refuse
+local-zone: "xi-gy-wai.space" always_refuse
 local-zone: "xml-eu.qksrv.cc" always_refuse
 local-zone: "xml.fastdxr.com" always_refuse
 local-zone: "xml.fstsrv1.com" always_refuse

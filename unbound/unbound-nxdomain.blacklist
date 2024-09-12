@@ -3092,7 +3092,6 @@ local-zone: "thevab.com" always_nxdomain
 local-zone: "tip-ads.de" always_nxdomain
 local-zone: "tljivh.com" always_nxdomain
 local-zone: "tm-ads.net" always_nxdomain
-local-zone: "tmatch.com" always_nxdomain
 local-zone: "tmrjmp.com" always_nxdomain
 local-zone: "tneduf.com" always_nxdomain
 local-zone: "tnxptj.com" always_nxdomain
@@ -11472,6 +11471,7 @@ local-zone: "ww2.clkmein.com" always_nxdomain
 local-zone: "ww2.imgtaxi.com" always_nxdomain
 local-zone: "wwwpromoter.com" always_nxdomain
 local-zone: "xel-xel-fie.com" always_nxdomain
+local-zone: "xi-gy-wai.space" always_nxdomain
 local-zone: "xml-eu.qksrv.cc" always_nxdomain
 local-zone: "xml.fastdxr.com" always_nxdomain
 local-zone: "xml.fstsrv1.com" always_nxdomain
