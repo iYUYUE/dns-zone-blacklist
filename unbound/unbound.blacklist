@@ -9243,6 +9243,7 @@ local-zone: "convertbox.com" always_refuse
 local-zone: "cookies.lmt.lv" always_refuse
 local-zone: "coupling.media" always_refuse
 local-zone: "couponsinc.com" always_refuse
+local-zone: "coverlayer.com" always_refuse
 local-zone: "cowscrayon.com" always_refuse
 local-zone: "cpitraffic.com" always_refuse
 local-zone: "cqubemedia.com" always_refuse
@@ -10061,6 +10062,7 @@ local-zone: "viralsparks.io" always_refuse
 local-zone: "vision6.com.au" always_refuse
 local-zone: "visoon-dai.com" always_refuse
 local-zone: "vivaclicks.com" always_refuse
+local-zone: "vividfrost.com" always_refuse
 local-zone: "vividplume.com" always_refuse
 local-zone: "vlexokrako.com" always_refuse
 local-zone: "v.postimees.ee" always_refuse
@@ -11990,6 +11992,7 @@ local-zone: "bouncy-wheel.pro" always_refuse
 local-zone: "brandbazooka.com" always_refuse
 local-zone: "breaktime.com.tw" always_refuse
 local-zone: "brkmarketing.com" always_refuse
+local-zone: "brunchforher.com" always_refuse
 local-zone: "bubbleads.com.au" always_refuse
 local-zone: "buildtraffic.com" always_refuse
 local-zone: "bulletprofit.com" always_refuse
@@ -14081,6 +14084,7 @@ local-zone: "b.xfreeservice.com" always_refuse
 local-zone: "c3medianetwork.com" always_refuse
 local-zone: "cactusadagency.com" always_refuse
 local-zone: "campaign.adobe.com" always_refuse
+local-zone: "canvasandsocks.com" always_refuse
 local-zone: "carnivalmobile.com" always_refuse
 local-zone: "cdn2.avanquest.com" always_refuse
 local-zone: "cdn3.avanquest.com" always_refuse
@@ -19249,6 +19253,7 @@ local-zone: "ab87cc9ec2c76f1c4f6d2703ef9e0d56008bc98b157cc3af10a5bfbd.com" alway
 local-zone: "bf53f4f482ba8b1513d570a748dcbee90cde062c8c91eae4304f2b57.com" always_refuse
 local-zone: "c0c3eda58e8cefc764eb2be4a530e2a91bb1edb958be470aa94443d8.com" always_refuse
 local-zone: "dab342ab8887461995aad393cb294948a5ce800ca279cd1027026d47.com" always_refuse
+local-zone: "ec493033cd4df851f1b6e08aed8098776469a6baee4a4ebb78974a7e.com" always_refuse
 local-zone: "uxt-supplier-financed-middle-banner-prod.shpp.ext.zooplus.io" always_refuse
 local-zone: "adserver-prod-alb-1558369296.ap-southeast-1.elb.amazonaws.com" always_refuse
 local-zone: "caltimes-sdut-marketing-assets-dev.s3-us-west-2.amazonaws.com" always_refuse
