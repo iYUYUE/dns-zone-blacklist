@@ -10905,6 +10905,7 @@ zone "go.tadamads.com" { type master; notify no; file "null.zone.file"; };
 zone "gotechnology.io" { type master; notify no; file "null.zone.file"; };
 zone "gpartner.com.pl" { type master; notify no; file "null.zone.file"; };
 zone "gpsecureads.com" { type master; notify no; file "null.zone.file"; };
+zone "gravitykick.com" { type master; notify no; file "null.zone.file"; };
 zone "greedcdnads.com" { type master; notify no; file "null.zone.file"; };
 zone "greedseed.world" { type master; notify no; file "null.zone.file"; };
 zone "grimy-store.pro" { type master; notify no; file "null.zone.file"; };
