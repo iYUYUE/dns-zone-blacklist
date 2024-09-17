@@ -5982,6 +5982,7 @@ local-zone: "dmsgroup.com" always_refuse
 local-zone: "doersadv.com" always_refuse
 local-zone: "dogwrite.com" always_refuse
 local-zone: "dooeeads.com" always_refuse
+local-zone: "dortmark.net" always_refuse
 local-zone: "dotandad.com" always_refuse
 local-zone: "dotbanner.dk" always_refuse
 local-zone: "dpchica.mobi" always_refuse
@@ -9077,6 +9078,7 @@ local-zone: "arends-inc.com" always_refuse
 local-zone: "armedialab.com" always_refuse
 local-zone: "aronsonads.com" always_refuse
 local-zone: "arti-media.net" always_refuse
+local-zone: "artthevoid.com" always_refuse
 local-zone: "asdf.eldos.xyz" always_refuse
 local-zone: "asg.laivue.com" always_refuse
 local-zone: "asg.srvtax.com" always_refuse
@@ -9307,6 +9309,7 @@ local-zone: "dlv.itmedia.jp" always_refuse
 local-zone: "dnmscmedia.com" always_refuse
 local-zone: "doflygonan.com" always_refuse
 local-zone: "dongwangya.com" always_refuse
+local-zone: "dota-xii.space" always_refuse
 local-zone: "dotdigital.com" always_refuse
 local-zone: "dotmedia.co.in" always_refuse
 local-zone: "doubleclick.be" always_refuse
@@ -9809,6 +9812,7 @@ local-zone: "pub.webview.pt" always_refuse
 local-zone: "pulsepoint.com" always_refuse
 local-zone: "punystudio.pro" always_refuse
 local-zone: "puppytooth.com" always_refuse
+local-zone: "purple-hit.com" always_refuse
 local-zone: "push.anews.one" always_refuse
 local-zone: "push.apple.com" always_refuse
 local-zone: "pushassist.com" always_refuse
