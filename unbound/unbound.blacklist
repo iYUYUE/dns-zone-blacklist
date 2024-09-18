@@ -2314,6 +2314,7 @@ local-zone: "easyadv.eu" always_refuse
 local-zone: "ebis.ne.jp" always_refuse
 local-zone: "ebumps.com" always_refuse
 local-zone: "echoru.net" always_refuse
+local-zone: "ecircle.it" always_refuse
 local-zone: "ecookie.nl" always_refuse
 local-zone: "edicoo.com" always_refuse
 local-zone: "eeqrlc.com" always_refuse
@@ -3045,6 +3046,7 @@ local-zone: "step121.it" always_refuse
 local-zone: "stipat.com" always_refuse
 local-zone: "stpd.cloud" always_refuse
 local-zone: "stroeer.de" always_refuse
+local-zone: "stroeer.eu" always_refuse
 local-zone: "stroeer.nl" always_refuse
 local-zone: "stryde.com" always_refuse
 local-zone: "subxpk.com" always_refuse
@@ -4945,6 +4947,7 @@ local-zone: "vd.7vid.net" always_refuse
 local-zone: "vdvv.online" always_refuse
 local-zone: "veeplay.com" always_refuse
 local-zone: "vendexo.com" always_refuse
+local-zone: "viafora.com" always_refuse
 local-zone: "viafoura.co" always_refuse
 local-zone: "viaqoo.tech" always_refuse
 local-zone: "vidazoo.com" always_refuse
@@ -5034,6 +5037,8 @@ local-zone: "zemanta.com" always_refuse
 local-zone: "zentrick.io" always_refuse
 local-zone: "zergnet.net" always_refuse
 local-zone: "zetadeo.com" always_refuse
+local-zone: "zeus38.shop" always_refuse
+local-zone: "zeus38.site" always_refuse
 local-zone: "zeusadx.com" always_refuse
 local-zone: "zigpoll.com" always_refuse
 local-zone: "zipporm.com" always_refuse
@@ -6354,6 +6359,7 @@ local-zone: "mortonad.com" always_refuse
 local-zone: "mosesinc.com" always_refuse
 local-zone: "mo.spaces.ru" always_refuse
 local-zone: "moviead55.ru" always_refuse
+local-zone: "mowgoats.com" always_refuse
 local-zone: "mps.cnbc.com" always_refuse
 local-zone: "mrmserve.com" always_refuse
 local-zone: "mross011.com" always_refuse
@@ -6688,6 +6694,7 @@ local-zone: "soosooka.com" always_refuse
 local-zone: "sorucall.com" always_refuse
 local-zone: "soundcast.fm" always_refuse
 local-zone: "spacepush.ru" always_refuse
+local-zone: "spareapp.com" always_refuse
 local-zone: "speedppc.com" always_refuse
 local-zone: "spe-roll.com" always_refuse
 local-zone: "sphereup.com" always_refuse
@@ -6892,6 +6899,7 @@ local-zone: "zepazupi.com" always_refuse
 local-zone: "zepihoju.xyz" always_refuse
 local-zone: "zeropark.com" always_refuse
 local-zone: "zesty.market" always_refuse
+local-zone: "zeus38.cloud" always_refuse
 local-zone: "ziffprod.com" always_refuse
 local-zone: "zingyads.com" always_refuse
 local-zone: "zinturax.com" always_refuse
@@ -10157,7 +10165,9 @@ local-zone: "z2adigital.com" always_refuse
 local-zone: "zeenite.online" always_refuse
 local-zone: "zelllwrite.com" always_refuse
 local-zone: "zemogli5.click" always_refuse
+local-zone: "zeus38.website" always_refuse
 local-zone: "zeusclicks.com" always_refuse
+local-zone: "zeusmain.store" always_refuse
 local-zone: "ziffstatic.com" always_refuse
 local-zone: "zippypromo.com" always_refuse
 local-zone: "zysheptany.com" always_refuse
@@ -11221,6 +11231,7 @@ local-zone: "push-engage.com" always_refuse
 local-zone: "pushenhance.com" always_refuse
 local-zone: "pushnetwork.com" always_refuse
 local-zone: "pushologies.com" always_refuse
+local-zone: "pushpinlabs.com" always_refuse
 local-zone: "push.rollout.io" always_refuse
 local-zone: "push.tagged.com" always_refuse
 local-zone: "q.azcentral.com" always_refuse
@@ -11261,6 +11272,7 @@ local-zone: "revive.plays.bg" always_refuse
 local-zone: "revive.vidal.fr" always_refuse
 local-zone: "rockcontent.com" always_refuse
 local-zone: "rocket-push.com" always_refuse
+local-zone: "rockpebbles.com" always_refuse
 local-zone: "rogersmedia.com" always_refuse
 local-zone: "romance-net.com" always_refuse
 local-zone: "rooksagency.com" always_refuse
@@ -12122,6 +12134,7 @@ local-zone: "djaxadserver.com" always_refuse
 local-zone: "dnsdelegation.io" always_refuse
 local-zone: "dogsonclouds.com" always_refuse
 local-zone: "dogystylefor.com" always_refuse
+local-zone: "doubledefend.com" always_refuse
 local-zone: "doubleverify.com" always_refuse
 local-zone: "downloads1qwe.ru" always_refuse
 local-zone: "dragonstatic.com" always_refuse
@@ -14558,6 +14571,7 @@ local-zone: "url.isimsepeti.net" always_refuse
 local-zone: "uze-mobility.group" always_refuse
 local-zone: "valerie.forbes.com" always_refuse
 local-zone: "vibrantideas.co.in" always_refuse
+local-zone: "vidasdefamosos.com" always_refuse
 local-zone: "videoads.newsy.com" always_refuse
 local-zone: "videologygroup.com" always_refuse
 local-zone: "viraladnetwork.net" always_refuse

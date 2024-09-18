@@ -2314,6 +2314,7 @@ local-zone: "easyadv.eu" always_nxdomain
 local-zone: "ebis.ne.jp" always_nxdomain
 local-zone: "ebumps.com" always_nxdomain
 local-zone: "echoru.net" always_nxdomain
+local-zone: "ecircle.it" always_nxdomain
 local-zone: "ecookie.nl" always_nxdomain
 local-zone: "edicoo.com" always_nxdomain
 local-zone: "eeqrlc.com" always_nxdomain
@@ -3045,6 +3046,7 @@ local-zone: "step121.it" always_nxdomain
 local-zone: "stipat.com" always_nxdomain
 local-zone: "stpd.cloud" always_nxdomain
 local-zone: "stroeer.de" always_nxdomain
+local-zone: "stroeer.eu" always_nxdomain
 local-zone: "stroeer.nl" always_nxdomain
 local-zone: "stryde.com" always_nxdomain
 local-zone: "subxpk.com" always_nxdomain
@@ -4945,6 +4947,7 @@ local-zone: "vd.7vid.net" always_nxdomain
 local-zone: "vdvv.online" always_nxdomain
 local-zone: "veeplay.com" always_nxdomain
 local-zone: "vendexo.com" always_nxdomain
+local-zone: "viafora.com" always_nxdomain
 local-zone: "viafoura.co" always_nxdomain
 local-zone: "viaqoo.tech" always_nxdomain
 local-zone: "vidazoo.com" always_nxdomain
@@ -5034,6 +5037,8 @@ local-zone: "zemanta.com" always_nxdomain
 local-zone: "zentrick.io" always_nxdomain
 local-zone: "zergnet.net" always_nxdomain
 local-zone: "zetadeo.com" always_nxdomain
+local-zone: "zeus38.shop" always_nxdomain
+local-zone: "zeus38.site" always_nxdomain
 local-zone: "zeusadx.com" always_nxdomain
 local-zone: "zigpoll.com" always_nxdomain
 local-zone: "zipporm.com" always_nxdomain
@@ -6354,6 +6359,7 @@ local-zone: "mortonad.com" always_nxdomain
 local-zone: "mosesinc.com" always_nxdomain
 local-zone: "mo.spaces.ru" always_nxdomain
 local-zone: "moviead55.ru" always_nxdomain
+local-zone: "mowgoats.com" always_nxdomain
 local-zone: "mps.cnbc.com" always_nxdomain
 local-zone: "mrmserve.com" always_nxdomain
 local-zone: "mross011.com" always_nxdomain
@@ -6688,6 +6694,7 @@ local-zone: "soosooka.com" always_nxdomain
 local-zone: "sorucall.com" always_nxdomain
 local-zone: "soundcast.fm" always_nxdomain
 local-zone: "spacepush.ru" always_nxdomain
+local-zone: "spareapp.com" always_nxdomain
 local-zone: "speedppc.com" always_nxdomain
 local-zone: "spe-roll.com" always_nxdomain
 local-zone: "sphereup.com" always_nxdomain
@@ -6892,6 +6899,7 @@ local-zone: "zepazupi.com" always_nxdomain
 local-zone: "zepihoju.xyz" always_nxdomain
 local-zone: "zeropark.com" always_nxdomain
 local-zone: "zesty.market" always_nxdomain
+local-zone: "zeus38.cloud" always_nxdomain
 local-zone: "ziffprod.com" always_nxdomain
 local-zone: "zingyads.com" always_nxdomain
 local-zone: "zinturax.com" always_nxdomain
@@ -10157,7 +10165,9 @@ local-zone: "z2adigital.com" always_nxdomain
 local-zone: "zeenite.online" always_nxdomain
 local-zone: "zelllwrite.com" always_nxdomain
 local-zone: "zemogli5.click" always_nxdomain
+local-zone: "zeus38.website" always_nxdomain
 local-zone: "zeusclicks.com" always_nxdomain
+local-zone: "zeusmain.store" always_nxdomain
 local-zone: "ziffstatic.com" always_nxdomain
 local-zone: "zippypromo.com" always_nxdomain
 local-zone: "zysheptany.com" always_nxdomain
@@ -11221,6 +11231,7 @@ local-zone: "push-engage.com" always_nxdomain
 local-zone: "pushenhance.com" always_nxdomain
 local-zone: "pushnetwork.com" always_nxdomain
 local-zone: "pushologies.com" always_nxdomain
+local-zone: "pushpinlabs.com" always_nxdomain
 local-zone: "push.rollout.io" always_nxdomain
 local-zone: "push.tagged.com" always_nxdomain
 local-zone: "q.azcentral.com" always_nxdomain
@@ -11261,6 +11272,7 @@ local-zone: "revive.plays.bg" always_nxdomain
 local-zone: "revive.vidal.fr" always_nxdomain
 local-zone: "rockcontent.com" always_nxdomain
 local-zone: "rocket-push.com" always_nxdomain
+local-zone: "rockpebbles.com" always_nxdomain
 local-zone: "rogersmedia.com" always_nxdomain
 local-zone: "romance-net.com" always_nxdomain
 local-zone: "rooksagency.com" always_nxdomain
@@ -12122,6 +12134,7 @@ local-zone: "djaxadserver.com" always_nxdomain
 local-zone: "dnsdelegation.io" always_nxdomain
 local-zone: "dogsonclouds.com" always_nxdomain
 local-zone: "dogystylefor.com" always_nxdomain
+local-zone: "doubledefend.com" always_nxdomain
 local-zone: "doubleverify.com" always_nxdomain
 local-zone: "downloads1qwe.ru" always_nxdomain
 local-zone: "dragonstatic.com" always_nxdomain
@@ -14558,6 +14571,7 @@ local-zone: "url.isimsepeti.net" always_nxdomain
 local-zone: "uze-mobility.group" always_nxdomain
 local-zone: "valerie.forbes.com" always_nxdomain
 local-zone: "vibrantideas.co.in" always_nxdomain
+local-zone: "vidasdefamosos.com" always_nxdomain
 local-zone: "videoads.newsy.com" always_nxdomain
 local-zone: "videologygroup.com" always_nxdomain
 local-zone: "viraladnetwork.net" always_nxdomain
