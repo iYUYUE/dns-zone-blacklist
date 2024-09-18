@@ -4689,6 +4689,7 @@ local-zone: "puboise.com" always_nxdomain
 local-zone: "pubstack.io" always_nxdomain
 local-zone: "push-ad.com" always_nxdomain
 local-zone: "pushads.biz" always_nxdomain
+local-zone: "pushaja.com" always_nxdomain
 local-zone: "pushcode.jp" always_nxdomain
 local-zone: "pushfan.com" always_nxdomain
 local-zone: "pushfire.de" always_nxdomain
@@ -6898,6 +6899,7 @@ local-zone: "zentrick.com" always_nxdomain
 local-zone: "zepazupi.com" always_nxdomain
 local-zone: "zepihoju.xyz" always_nxdomain
 local-zone: "zeropark.com" always_nxdomain
+local-zone: "zestpush.com" always_nxdomain
 local-zone: "zesty.market" always_nxdomain
 local-zone: "zeus38.cloud" always_nxdomain
 local-zone: "ziffprod.com" always_nxdomain
@@ -9825,11 +9827,13 @@ local-zone: "push.anews.one" always_nxdomain
 local-zone: "push.apple.com" always_nxdomain
 local-zone: "pushassist.com" always_nxdomain
 local-zone: "pushatomic.com" always_nxdomain
+local-zone: "pushbeacon.com" always_nxdomain
 local-zone: "push.detik.com" always_nxdomain
 local-zone: "pushengage.com" always_nxdomain
 local-zone: "pushground.com" always_nxdomain
 local-zone: "pushmyapps.com" always_nxdomain
 local-zone: "pushnative.com" always_nxdomain
+local-zone: "pushnotify.xyz" always_nxdomain
 local-zone: "pushprofit.net" always_nxdomain
 local-zone: "pushpushgo.com" always_nxdomain
 local-zone: "pushrocket.one" always_nxdomain
@@ -13328,7 +13332,6 @@ local-zone: "hash-hash-tag.com" always_nxdomain
 local-zone: "hdcadserver.co.uk" always_nxdomain
 local-zone: "hds-api.hearst.io" always_nxdomain
 local-zone: "hearstmediact.com" always_nxdomain
-local-zone: "henkinschultz.com" always_nxdomain
 local-zone: "highburyads.co.za" always_nxdomain
 local-zone: "highfivemedia.com" always_nxdomain
 local-zone: "hkg1.aastocks.com" always_nxdomain
@@ -14325,7 +14328,6 @@ local-zone: "jenniferspivak.com" always_nxdomain
 local-zone: "johannes.voith.com" always_nxdomain
 local-zone: "joyous-storage.pro" always_nxdomain
 local-zone: "jrmadvertising.com" always_nxdomain
-local-zone: "js.createsend1.com" always_nxdomain
 local-zone: "kindadnetworks.com" always_nxdomain
 local-zone: "kingyonlendir.link" always_nxdomain
 local-zone: "kinkledunendly.com" always_nxdomain

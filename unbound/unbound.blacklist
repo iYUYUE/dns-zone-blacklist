@@ -4689,6 +4689,7 @@ local-zone: "puboise.com" always_refuse
 local-zone: "pubstack.io" always_refuse
 local-zone: "push-ad.com" always_refuse
 local-zone: "pushads.biz" always_refuse
+local-zone: "pushaja.com" always_refuse
 local-zone: "pushcode.jp" always_refuse
 local-zone: "pushfan.com" always_refuse
 local-zone: "pushfire.de" always_refuse
@@ -6898,6 +6899,7 @@ local-zone: "zentrick.com" always_refuse
 local-zone: "zepazupi.com" always_refuse
 local-zone: "zepihoju.xyz" always_refuse
 local-zone: "zeropark.com" always_refuse
+local-zone: "zestpush.com" always_refuse
 local-zone: "zesty.market" always_refuse
 local-zone: "zeus38.cloud" always_refuse
 local-zone: "ziffprod.com" always_refuse
@@ -9825,11 +9827,13 @@ local-zone: "push.anews.one" always_refuse
 local-zone: "push.apple.com" always_refuse
 local-zone: "pushassist.com" always_refuse
 local-zone: "pushatomic.com" always_refuse
+local-zone: "pushbeacon.com" always_refuse
 local-zone: "push.detik.com" always_refuse
 local-zone: "pushengage.com" always_refuse
 local-zone: "pushground.com" always_refuse
 local-zone: "pushmyapps.com" always_refuse
 local-zone: "pushnative.com" always_refuse
+local-zone: "pushnotify.xyz" always_refuse
 local-zone: "pushprofit.net" always_refuse
 local-zone: "pushpushgo.com" always_refuse
 local-zone: "pushrocket.one" always_refuse
@@ -13328,7 +13332,6 @@ local-zone: "hash-hash-tag.com" always_refuse
 local-zone: "hdcadserver.co.uk" always_refuse
 local-zone: "hds-api.hearst.io" always_refuse
 local-zone: "hearstmediact.com" always_refuse
-local-zone: "henkinschultz.com" always_refuse
 local-zone: "highburyads.co.za" always_refuse
 local-zone: "highfivemedia.com" always_refuse
 local-zone: "hkg1.aastocks.com" always_refuse
@@ -14325,7 +14328,6 @@ local-zone: "jenniferspivak.com" always_refuse
 local-zone: "johannes.voith.com" always_refuse
 local-zone: "joyous-storage.pro" always_refuse
 local-zone: "jrmadvertising.com" always_refuse
-local-zone: "js.createsend1.com" always_refuse
 local-zone: "kindadnetworks.com" always_refuse
 local-zone: "kingyonlendir.link" always_refuse
 local-zone: "kinkledunendly.com" always_refuse
