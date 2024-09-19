@@ -11272,6 +11272,7 @@ local-zone: "reklamstore.com" always_refuse
 local-zone: "reklamstore.net" always_refuse
 local-zone: "relaunchapp.com" always_refuse
 local-zone: "releaseadvt.com" always_refuse
+local-zone: "reloadphoto.com" always_refuse
 local-zone: "remarketing.com" always_refuse
 local-zone: "remedyfilms.com" always_refuse
 local-zone: "resetdigital.co" always_refuse
