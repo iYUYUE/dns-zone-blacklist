@@ -11315,6 +11315,7 @@ local-zone: "reklamstore.com" always_refuse
 local-zone: "reklamstore.net" always_refuse
 local-zone: "relaunchapp.com" always_refuse
 local-zone: "releaseadvt.com" always_refuse
+local-zone: "releasepath.com" always_refuse
 local-zone: "reloadphoto.com" always_refuse
 local-zone: "re-ly-goe.space" always_refuse
 local-zone: "remarketing.com" always_refuse
@@ -14322,6 +14323,7 @@ local-zone: "edmarketing.agency" always_refuse
 local-zone: "egyptadvertise.com" always_refuse
 local-zone: "elinfinitoindia.in" always_refuse
 local-zone: "elitebannerads.com" always_refuse
+local-zone: "elusivecascade.com" always_refuse
 local-zone: "emailsubmitters.us" always_refuse
 local-zone: "empire-media.co.uk" always_refuse
 local-zone: "engagednetwork.net" always_refuse
