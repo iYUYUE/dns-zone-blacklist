@@ -1575,6 +1575,7 @@ local-zone: "zlkbo.com" always_refuse
 local-zone: "zmeda.com" always_refuse
 local-zone: "zoomd.com" always_refuse
 local-zone: "zopim.com" always_refuse
+local-zone: "zowpo.com" always_refuse
 local-zone: "zpush.biz" always_refuse
 local-zone: "zrcir.com" always_refuse
 local-zone: "zrlcr.com" always_refuse
@@ -6177,6 +6178,7 @@ local-zone: "indexssp.com" always_refuse
 local-zone: "indirads.org" always_refuse
 local-zone: "influads.com" always_refuse
 local-zone: "ingretor.com" always_refuse
+local-zone: "inlugiar.com" always_refuse
 local-zone: "inmarket.com" always_refuse
 local-zone: "innorame.com" always_refuse
 local-zone: "innoshow.com" always_refuse
