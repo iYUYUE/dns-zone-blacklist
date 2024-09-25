@@ -4778,6 +4778,7 @@ local-zone: "rtbmarkt.de" always_refuse
 local-zone: "rtbpopd.com" always_refuse
 local-zone: "rtbtraf.com" always_refuse
 local-zone: "rtpdn15.com" always_refuse
+local-zone: "rtxfeed.com" always_refuse
 local-zone: "ruamupr.com" always_refuse
 local-zone: "rvadnet.com" always_refuse
 local-zone: "rvmnews.com" always_refuse

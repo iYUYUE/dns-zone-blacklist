@@ -4778,6 +4778,7 @@ local-zone: "rtbmarkt.de" always_nxdomain
 local-zone: "rtbpopd.com" always_nxdomain
 local-zone: "rtbtraf.com" always_nxdomain
 local-zone: "rtpdn15.com" always_nxdomain
+local-zone: "rtxfeed.com" always_nxdomain
 local-zone: "ruamupr.com" always_nxdomain
 local-zone: "rvadnet.com" always_nxdomain
 local-zone: "rvmnews.com" always_nxdomain

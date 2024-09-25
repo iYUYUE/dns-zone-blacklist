@@ -4778,6 +4778,7 @@ zone "rtbmarkt.de" { type master; notify no; file "null.zone.file"; };
 zone "rtbpopd.com" { type master; notify no; file "null.zone.file"; };
 zone "rtbtraf.com" { type master; notify no; file "null.zone.file"; };
 zone "rtpdn15.com" { type master; notify no; file "null.zone.file"; };
+zone "rtxfeed.com" { type master; notify no; file "null.zone.file"; };
 zone "ruamupr.com" { type master; notify no; file "null.zone.file"; };
 zone "rvadnet.com" { type master; notify no; file "null.zone.file"; };
 zone "rvmnews.com" { type master; notify no; file "null.zone.file"; };
