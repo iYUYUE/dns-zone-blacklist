@@ -17796,6 +17796,7 @@ zone "ads.nativodigital.com.mx" { type master; notify no; file "null.zone.file";
 zone "ads.oralequechiquito.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.otakuusamagazine.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.palletenterprise.com" { type master; notify no; file "null.zone.file"; };
+zone "ads.papertreedigital.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.partnerscreative.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.pirantisofthouse.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.poradnikbudowlany.eu" { type master; notify no; file "null.zone.file"; };
