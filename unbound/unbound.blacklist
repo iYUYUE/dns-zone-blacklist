@@ -2500,6 +2500,7 @@ local-zone: "icyads.com" always_refuse
 local-zone: "ideadia.mx" always_refuse
 local-zone: "idfive.com" always_refuse
 local-zone: "idvert.com" always_refuse
+local-zone: "iengage.in" always_refuse
 local-zone: "iexqhm.com" always_refuse
 local-zone: "iframes.us" always_refuse
 local-zone: "igexin.com" always_refuse
@@ -7856,6 +7857,7 @@ local-zone: "greenhaus.com" always_refuse
 local-zone: "greenlight.ie" always_refuse
 local-zone: "green-red.com" always_refuse
 local-zone: "greenstick.io" always_refuse
+local-zone: "groovyadz.com" always_refuse
 local-zone: "growebads.com" always_refuse
 local-zone: "growemail.com" always_refuse
 local-zone: "gruebleen.com" always_refuse
@@ -18729,6 +18731,7 @@ local-zone: "personalizedappsequencer.com" always_refuse
 local-zone: "personalizedappsequencer.net" always_refuse
 local-zone: "prod.appnexus.map.fastly.net" always_refuse
 local-zone: "promote-subscribe.forbes.com" always_refuse
+local-zone: "pushblush.magicleafstore.com" always_refuse
 local-zone: "pushnotifications.pusher.com" always_refuse
 local-zone: "rs-stripe.americandigest.com" always_refuse
 local-zone: "rs-stripe.americanupdate.com" always_refuse

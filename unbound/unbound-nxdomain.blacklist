@@ -2500,6 +2500,7 @@ local-zone: "icyads.com" always_nxdomain
 local-zone: "ideadia.mx" always_nxdomain
 local-zone: "idfive.com" always_nxdomain
 local-zone: "idvert.com" always_nxdomain
+local-zone: "iengage.in" always_nxdomain
 local-zone: "iexqhm.com" always_nxdomain
 local-zone: "iframes.us" always_nxdomain
 local-zone: "igexin.com" always_nxdomain
@@ -7856,6 +7857,7 @@ local-zone: "greenhaus.com" always_nxdomain
 local-zone: "greenlight.ie" always_nxdomain
 local-zone: "green-red.com" always_nxdomain
 local-zone: "greenstick.io" always_nxdomain
+local-zone: "groovyadz.com" always_nxdomain
 local-zone: "growebads.com" always_nxdomain
 local-zone: "growemail.com" always_nxdomain
 local-zone: "gruebleen.com" always_nxdomain
@@ -18729,6 +18731,7 @@ local-zone: "personalizedappsequencer.com" always_nxdomain
 local-zone: "personalizedappsequencer.net" always_nxdomain
 local-zone: "prod.appnexus.map.fastly.net" always_nxdomain
 local-zone: "promote-subscribe.forbes.com" always_nxdomain
+local-zone: "pushblush.magicleafstore.com" always_nxdomain
 local-zone: "pushnotifications.pusher.com" always_nxdomain
 local-zone: "rs-stripe.americandigest.com" always_nxdomain
 local-zone: "rs-stripe.americanupdate.com" always_nxdomain
