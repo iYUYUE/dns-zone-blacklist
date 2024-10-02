@@ -17114,6 +17114,7 @@ zone "consciousadnetwork.org" { type master; notify no; file "null.zone.file"; }
 zone "consent.radiotimes.com" { type master; notify no; file "null.zone.file"; };
 zone "consent.spieletipps.de" { type master; notify no; file "null.zone.file"; };
 zone "console.hour-media.com" { type master; notify no; file "null.zone.file"; };
+zone "console.imagineobx.com" { type master; notify no; file "null.zone.file"; };
 zone "constructionad.network" { type master; notify no; file "null.zone.file"; };
 zone "contributor.google.com" { type master; notify no; file "null.zone.file"; };
 zone "conventional-nurse.pro" { type master; notify no; file "null.zone.file"; };
@@ -18049,6 +18050,7 @@ zone "ad4989.xcache.kinxcdn.com" { type master; notify no; file "null.zone.file"
 zone "ad-approvals.happycog.com" { type master; notify no; file "null.zone.file"; };
 zone "adcampaigns.sharewood.org" { type master; notify no; file "null.zone.file"; };
 zone "adclick.snipesearch.co.uk" { type master; notify no; file "null.zone.file"; };
+zone "adconsole.lot-tissimo.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.editorasegmento.com.br" { type master; notify no; file "null.zone.file"; };
 zone "ad.getlocalsalesleads.com" { type master; notify no; file "null.zone.file"; };
 zone "a.digitalgiftshopping.com" { type master; notify no; file "null.zone.file"; };
@@ -18530,6 +18532,8 @@ zone "cf-trickplay.aux.pv-cdn.net" { type master; notify no; file "null.zone.fil
 zone "code.adsales.snidigital.com" { type master; notify no; file "null.zone.file"; };
 zone "comfortable-preparation.pro" { type master; notify no; file "null.zone.file"; };
 zone "commercial.daznservices.com" { type master; notify no; file "null.zone.file"; };
+zone "console.livingmagonline.com" { type master; notify no; file "null.zone.file"; };
+zone "console.mannixmarketing.com" { type master; notify no; file "null.zone.file"; };
 zone "dealswidget.bestreviews.com" { type master; notify no; file "null.zone.file"; };
 zone "dnderkfeab66.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "expertinternetmarketing.com" { type master; notify no; file "null.zone.file"; };
