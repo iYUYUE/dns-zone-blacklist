@@ -1961,9 +1961,13 @@ local-zone: "adt356.com" always_refuse
 local-zone: "adt357.net" always_refuse
 local-zone: "adt361.com" always_refuse
 local-zone: "adt511.net" always_refuse
+local-zone: "adt512.com" always_refuse
 local-zone: "adt523.net" always_refuse
 local-zone: "adt532.com" always_refuse
+local-zone: "adt558.com" always_refuse
 local-zone: "adt567.net" always_refuse
+local-zone: "adt574.com" always_refuse
+local-zone: "adt585.net" always_refuse
 local-zone: "adt598.com" always_refuse
 local-zone: "ad-tag.biz" always_refuse
 local-zone: "adtaily.pl" always_refuse
@@ -10695,6 +10699,7 @@ local-zone: "app.coocent.net" always_refuse
 local-zone: "appliedmind.com" always_refuse
 local-zone: "appmessages.com" always_refuse
 local-zone: "appmultiple.net" always_refuse
+local-zone: "app.swashapp.io" always_refuse
 local-zone: "appvirality.com" always_refuse
 local-zone: "apttechsols.com" always_refuse
 local-zone: "aquariusppl.com" always_refuse

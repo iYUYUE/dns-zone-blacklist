@@ -1961,9 +1961,13 @@ local-zone: "adt356.com" always_nxdomain
 local-zone: "adt357.net" always_nxdomain
 local-zone: "adt361.com" always_nxdomain
 local-zone: "adt511.net" always_nxdomain
+local-zone: "adt512.com" always_nxdomain
 local-zone: "adt523.net" always_nxdomain
 local-zone: "adt532.com" always_nxdomain
+local-zone: "adt558.com" always_nxdomain
 local-zone: "adt567.net" always_nxdomain
+local-zone: "adt574.com" always_nxdomain
+local-zone: "adt585.net" always_nxdomain
 local-zone: "adt598.com" always_nxdomain
 local-zone: "ad-tag.biz" always_nxdomain
 local-zone: "adtaily.pl" always_nxdomain
@@ -10695,6 +10699,7 @@ local-zone: "app.coocent.net" always_nxdomain
 local-zone: "appliedmind.com" always_nxdomain
 local-zone: "appmessages.com" always_nxdomain
 local-zone: "appmultiple.net" always_nxdomain
+local-zone: "app.swashapp.io" always_nxdomain
 local-zone: "appvirality.com" always_nxdomain
 local-zone: "apttechsols.com" always_nxdomain
 local-zone: "aquariusppl.com" always_nxdomain
