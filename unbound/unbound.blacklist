@@ -1792,6 +1792,7 @@ local-zone: "admeld.com" always_refuse
 local-zone: "admeme.net" always_refuse
 local-zone: "admeta.com" always_refuse
 local-zone: "admicro.vn" always_refuse
+local-zone: "admile.com" always_refuse
 local-zone: "admixer.ge" always_refuse
 local-zone: "admixer.ua" always_refuse
 local-zone: "admob.mobi" always_refuse
@@ -10481,6 +10482,7 @@ local-zone: "adserverus.info" always_refuse
 local-zone: "adserver.vxb.pl" always_refuse
 local-zone: "adserve.systems" always_refuse
 local-zone: "adserv.prsa.org" always_refuse
+local-zone: "ads.esomall.com" always_refuse
 local-zone: "ads.etrmedia.in" always_refuse
 local-zone: "ads.etudiant.ma" always_refuse
 local-zone: "ads.fast-srv.de" always_refuse
@@ -11873,6 +11875,7 @@ local-zone: "adserver.sviv.se" always_refuse
 local-zone: "adservices91.com" always_refuse
 local-zone: "adserv.webter.hu" always_refuse
 local-zone: "ads.esteriol.com" always_refuse
+local-zone: "ads.ezyhostr.com" always_refuse
 local-zone: "ads.fakulteti.mk" always_refuse
 local-zone: "ads.farmwest.com" always_refuse
 local-zone: "ads.fashionel.mk" always_refuse
@@ -19290,6 +19293,8 @@ local-zone: "woohoo.sfo2.digitaloceanspaces.com" always_refuse
 local-zone: "adserver.dev.mortar.tovarnaidej.com" always_refuse
 local-zone: "adserver.magyarmezogazdasagkiado.hu" always_refuse
 local-zone: "adserver.newmarketwebdevelopers.com" always_refuse
+local-zone: "adserver-prd-ccip.ippon-hosting.com" always_refuse
+local-zone: "ads.i3network.net.d03.i3network.net" always_refuse
 local-zone: "ads-image.production-public.tubi.io" always_refuse
 local-zone: "ads-oss.howansem.com.w.kunlunca.com" always_refuse
 local-zone: "ads.zsezt.com.cname2039.yjs-cdn.com" always_refuse

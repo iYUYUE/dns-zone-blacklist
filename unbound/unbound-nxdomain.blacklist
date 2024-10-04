@@ -1792,6 +1792,7 @@ local-zone: "admeld.com" always_nxdomain
 local-zone: "admeme.net" always_nxdomain
 local-zone: "admeta.com" always_nxdomain
 local-zone: "admicro.vn" always_nxdomain
+local-zone: "admile.com" always_nxdomain
 local-zone: "admixer.ge" always_nxdomain
 local-zone: "admixer.ua" always_nxdomain
 local-zone: "admob.mobi" always_nxdomain
@@ -10481,6 +10482,7 @@ local-zone: "adserverus.info" always_nxdomain
 local-zone: "adserver.vxb.pl" always_nxdomain
 local-zone: "adserve.systems" always_nxdomain
 local-zone: "adserv.prsa.org" always_nxdomain
+local-zone: "ads.esomall.com" always_nxdomain
 local-zone: "ads.etrmedia.in" always_nxdomain
 local-zone: "ads.etudiant.ma" always_nxdomain
 local-zone: "ads.fast-srv.de" always_nxdomain
@@ -11873,6 +11875,7 @@ local-zone: "adserver.sviv.se" always_nxdomain
 local-zone: "adservices91.com" always_nxdomain
 local-zone: "adserv.webter.hu" always_nxdomain
 local-zone: "ads.esteriol.com" always_nxdomain
+local-zone: "ads.ezyhostr.com" always_nxdomain
 local-zone: "ads.fakulteti.mk" always_nxdomain
 local-zone: "ads.farmwest.com" always_nxdomain
 local-zone: "ads.fashionel.mk" always_nxdomain
@@ -19290,6 +19293,8 @@ local-zone: "woohoo.sfo2.digitaloceanspaces.com" always_nxdomain
 local-zone: "adserver.dev.mortar.tovarnaidej.com" always_nxdomain
 local-zone: "adserver.magyarmezogazdasagkiado.hu" always_nxdomain
 local-zone: "adserver.newmarketwebdevelopers.com" always_nxdomain
+local-zone: "adserver-prd-ccip.ippon-hosting.com" always_nxdomain
+local-zone: "ads.i3network.net.d03.i3network.net" always_nxdomain
 local-zone: "ads-image.production-public.tubi.io" always_nxdomain
 local-zone: "ads-oss.howansem.com.w.kunlunca.com" always_nxdomain
 local-zone: "ads.zsezt.com.cname2039.yjs-cdn.com" always_nxdomain
