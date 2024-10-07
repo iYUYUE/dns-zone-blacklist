@@ -8446,6 +8446,7 @@ local-zone: "soldigital.in" always_refuse
 local-zone: "solomon89.xyz" always_refuse
 local-zone: "sparkflow.net" always_refuse
 local-zone: "sparkgoal.com" always_refuse
+local-zone: "spearad.video" always_refuse
 local-zone: "speedyads.com" always_refuse
 local-zone: "spicecash.com" always_refuse
 local-zone: "spirit-me.com" always_refuse
@@ -14388,6 +14389,7 @@ local-zone: "evolvemediallc.com" always_refuse
 local-zone: "expmediadirect.com" always_refuse
 local-zone: "eyeviewdigital.com" always_refuse
 local-zone: "fatchillimedia.com" always_refuse
+local-zone: "fcm.googleapis.com" always_refuse
 local-zone: "fgjhxldtbgxmid.com" always_refuse
 local-zone: "fidelity-media.com" always_refuse
 local-zone: "fireflycreative.in" always_refuse
@@ -15850,6 +15852,7 @@ local-zone: "ads.tattooawards.com" always_refuse
 local-zone: "ads.tbwa-entelia.com" always_refuse
 local-zone: "ads.technojobs.co.uk" always_refuse
 local-zone: "ads.thebeautybiz.com" always_refuse
+local-zone: "ads.thebftonline.com" always_refuse
 local-zone: "ads.the-saleroom.com" always_refuse
 local-zone: "ads.tirol-erleben.at" always_refuse
 local-zone: "ads.todaysharing.com" always_refuse
@@ -16463,6 +16466,7 @@ local-zone: "ads.publiservicio.com" always_refuse
 local-zone: "ads.publishared.co.za" always_refuse
 local-zone: "ads.redmoonstudios.de" always_refuse
 local-zone: "adsrv2.moebelmarkt.tv" always_refuse
+local-zone: "adsrv.actionforex.com" always_refuse
 local-zone: "adsrv.mediabenefit.ch" always_refuse
 local-zone: "ads.searchmagazine.se" always_refuse
 local-zone: "ads.sheridanmedia.com" always_refuse
@@ -17594,6 +17598,8 @@ local-zone: "enginemediaexchange.com" always_refuse
 local-zone: "ethniconlinenetwork.com" always_refuse
 local-zone: "ex.instanttvchannel.com" always_refuse
 local-zone: "facilitatebreakfast.com" always_refuse
+local-zone: "fcmtoken.googleapis.com" always_refuse
+local-zone: "fcm-xmpp.googleapis.com" always_refuse
 local-zone: "fireworkadservices1.com" always_refuse
 local-zone: "flourishingendeavor.com" always_refuse
 local-zone: "freememes.desiceleb.top" always_refuse

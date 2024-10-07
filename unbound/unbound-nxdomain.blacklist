@@ -8446,6 +8446,7 @@ local-zone: "soldigital.in" always_nxdomain
 local-zone: "solomon89.xyz" always_nxdomain
 local-zone: "sparkflow.net" always_nxdomain
 local-zone: "sparkgoal.com" always_nxdomain
+local-zone: "spearad.video" always_nxdomain
 local-zone: "speedyads.com" always_nxdomain
 local-zone: "spicecash.com" always_nxdomain
 local-zone: "spirit-me.com" always_nxdomain
@@ -14388,6 +14389,7 @@ local-zone: "evolvemediallc.com" always_nxdomain
 local-zone: "expmediadirect.com" always_nxdomain
 local-zone: "eyeviewdigital.com" always_nxdomain
 local-zone: "fatchillimedia.com" always_nxdomain
+local-zone: "fcm.googleapis.com" always_nxdomain
 local-zone: "fgjhxldtbgxmid.com" always_nxdomain
 local-zone: "fidelity-media.com" always_nxdomain
 local-zone: "fireflycreative.in" always_nxdomain
@@ -15850,6 +15852,7 @@ local-zone: "ads.tattooawards.com" always_nxdomain
 local-zone: "ads.tbwa-entelia.com" always_nxdomain
 local-zone: "ads.technojobs.co.uk" always_nxdomain
 local-zone: "ads.thebeautybiz.com" always_nxdomain
+local-zone: "ads.thebftonline.com" always_nxdomain
 local-zone: "ads.the-saleroom.com" always_nxdomain
 local-zone: "ads.tirol-erleben.at" always_nxdomain
 local-zone: "ads.todaysharing.com" always_nxdomain
@@ -16463,6 +16466,7 @@ local-zone: "ads.publiservicio.com" always_nxdomain
 local-zone: "ads.publishared.co.za" always_nxdomain
 local-zone: "ads.redmoonstudios.de" always_nxdomain
 local-zone: "adsrv2.moebelmarkt.tv" always_nxdomain
+local-zone: "adsrv.actionforex.com" always_nxdomain
 local-zone: "adsrv.mediabenefit.ch" always_nxdomain
 local-zone: "ads.searchmagazine.se" always_nxdomain
 local-zone: "ads.sheridanmedia.com" always_nxdomain
@@ -17594,6 +17598,8 @@ local-zone: "enginemediaexchange.com" always_nxdomain
 local-zone: "ethniconlinenetwork.com" always_nxdomain
 local-zone: "ex.instanttvchannel.com" always_nxdomain
 local-zone: "facilitatebreakfast.com" always_nxdomain
+local-zone: "fcmtoken.googleapis.com" always_nxdomain
+local-zone: "fcm-xmpp.googleapis.com" always_nxdomain
 local-zone: "fireworkadservices1.com" always_nxdomain
 local-zone: "flourishingendeavor.com" always_nxdomain
 local-zone: "freememes.desiceleb.top" always_nxdomain
