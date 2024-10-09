@@ -18973,6 +18973,7 @@ zone "na-library.klarnaservices.com" { type master; notify no; file "null.zone.f
 zone "payperclickadvertising.org.uk" { type master; notify no; file "null.zone.file"; };
 zone "prodmg2.blob.core.windows.net" { type master; notify no; file "null.zone.file"; };
 zone "publicidade.regiaodeleiria.pt" { type master; notify no; file "null.zone.file"; };
+zone "revive-adserver.celcen.com.pl" { type master; notify no; file "null.zone.file"; };
 zone "revive-adserver.lapreprod.com" { type master; notify no; file "null.zone.file"; };
 zone "revive.thebusinessjournal.com" { type master; notify no; file "null.zone.file"; };
 zone "rockriverag.o.bushelsites.com" { type master; notify no; file "null.zone.file"; };
