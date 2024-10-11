@@ -8263,6 +8263,7 @@ zone "pstreetma.com" { type master; notify no; file "null.zone.file"; };
 zone "psydyrony.com" { type master; notify no; file "null.zone.file"; };
 zone "pt0zhwhc26.ru" { type master; notify no; file "null.zone.file"; };
 zone "pub2.naiz.eus" { type master; notify no; file "null.zone.file"; };
+zone "pub.bayard.io" { type master; notify no; file "null.zone.file"; };
 zone "pubfinity.com" { type master; notify no; file "null.zone.file"; };
 zone "pubnation.com" { type master; notify no; file "null.zone.file"; };
 zone "pubnative.net" { type master; notify no; file "null.zone.file"; };
