@@ -463,6 +463,7 @@ local-zone: "kliks.nl" always_refuse
 local-zone: "kps3.com" always_refuse
 local-zone: "kpub.app" always_refuse
 local-zone: "kurry.ai" always_refuse
+local-zone: "ladsp.jp" always_refuse
 local-zone: "leads.su" always_refuse
 local-zone: "lkqd.com" always_refuse
 local-zone: "lkqd.net" always_refuse
@@ -885,6 +886,7 @@ local-zone: "affzen.ru" always_refuse
 local-zone: "afi-b.com" always_refuse
 local-zone: "aflink.rw" always_refuse
 local-zone: "afr4g5.de" always_refuse
+local-zone: "afy11.net" always_refuse
 local-zone: "agqrz.com" always_refuse
 local-zone: "agraba.io" always_refuse
 local-zone: "aiclk.com" always_refuse
@@ -1136,6 +1138,7 @@ local-zone: "ijgs5i.ru" always_refuse
 local-zone: "ikkxw.com" always_refuse
 local-zone: "ikroh.com" always_refuse
 local-zone: "ileads.ru" always_refuse
+local-zone: "imedia.cz" always_refuse
 local-zone: "imgbum.ru" always_refuse
 local-zone: "imsow.com" always_refuse
 local-zone: "inappi.me" always_refuse
@@ -4925,6 +4928,7 @@ local-zone: "tptp.online" always_refuse
 local-zone: "tptt.online" always_refuse
 local-zone: "tracead.com" always_refuse
 local-zone: "tracead.net" always_refuse
+local-zone: "tradelab.fr" always_refuse
 local-zone: "traffox.net" always_refuse
 local-zone: "trafmag.com" always_refuse
 local-zone: "traktrk.com" always_refuse
@@ -6539,6 +6543,7 @@ local-zone: "plugrush.com" always_refuse
 local-zone: "plymedia.com" always_refuse
 local-zone: "pmmapads.com" always_refuse
 local-zone: "pocketads.pl" always_refuse
+local-zone: "polarcdn.com" always_refuse
 local-zone: "pomscloud.ie" always_refuse
 local-zone: "popads.media" always_refuse
 local-zone: "popmyads.com" always_refuse
@@ -8458,6 +8463,7 @@ local-zone: "speedyads.com" always_refuse
 local-zone: "spicecash.com" always_refuse
 local-zone: "spirit-me.com" always_refuse
 local-zone: "splashnova.de" always_refuse
+local-zone: "sponsorads.de" always_refuse
 local-zone: "spotfront.com" always_refuse
 local-zone: "spotim.market" always_refuse
 local-zone: "spotsniper.ru" always_refuse
@@ -8466,7 +8472,6 @@ local-zone: "sprout-ad.com" always_refuse
 local-zone: "s.remonti.org" always_refuse
 local-zone: "srv.goadx.com" always_refuse
 local-zone: "ssliivuqpm.ru" always_refuse
-local-zone: "ssp.imedia.cz" always_refuse
 local-zone: "stageflag.com" always_refuse
 local-zone: "stained-a.pro" always_refuse
 local-zone: "static.adf.ly" always_refuse
@@ -10019,6 +10024,7 @@ local-zone: "smartstream.tv" always_refuse
 local-zone: "snacktoken.com" always_refuse
 local-zone: "snapengage.com" always_refuse
 local-zone: "snapwidget.com" always_refuse
+local-zone: "snidigital.com" always_refuse
 local-zone: "snoopytown.pro" always_refuse
 local-zone: "snowmentor.com" always_refuse
 local-zone: "socialblue.com" always_refuse
@@ -12402,6 +12408,7 @@ local-zone: "kaleidomedia.com" always_refuse
 local-zone: "karammedia.co.uk" always_refuse
 local-zone: "karma.mdpcdn.com" always_refuse
 local-zone: "kendallmedia.com" always_refuse
+local-zone: "kickoffpages.com" always_refuse
 local-zone: "kleinkreativ.com" always_refuse
 local-zone: "kraigcontent.com" always_refuse
 local-zone: "krioskcreata.com" always_refuse
@@ -12442,6 +12449,7 @@ local-zone: "mediabigsail.com" always_refuse
 local-zone: "mediashakers.com" always_refuse
 local-zone: "mediatraffic.com" always_refuse
 local-zone: "media.ttnews.com" always_refuse
+local-zone: "megdexchange.com" always_refuse
 local-zone: "mergetraffic.com" always_refuse
 local-zone: "metallicgrey.com" always_refuse
 local-zone: "methodgroupe.com" always_refuse
@@ -12793,6 +12801,7 @@ local-zone: "usemedinacom.com" always_refuse
 local-zone: "uze-mobility.com" always_refuse
 local-zone: "vacaneedasap.com" always_refuse
 local-zone: "vanishmemory.com" always_refuse
+local-zone: "venatusmedia.com" always_refuse
 local-zone: "veominfotech.com" always_refuse
 local-zone: "vibrantmedia.com" always_refuse
 local-zone: "videocdnshop.com" always_refuse
@@ -18562,7 +18571,6 @@ local-zone: "buyersguideforeducators.com" always_refuse
 local-zone: "c0914.global.ssl.fastly.net" always_refuse
 local-zone: "c683207.ssl.cf2.rackcdn.com" always_refuse
 local-zone: "cf-trickplay.aux.pv-cdn.net" always_refuse
-local-zone: "code.adsales.snidigital.com" always_refuse
 local-zone: "comfortable-preparation.pro" always_refuse
 local-zone: "commercial.daznservices.com" always_refuse
 local-zone: "console.livingmagonline.com" always_refuse
