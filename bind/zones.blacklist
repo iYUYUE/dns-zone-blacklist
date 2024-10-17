@@ -12732,6 +12732,7 @@ zone "tags.news.com.au" { type master; notify no; file "null.zone.file"; };
 zone "take2content.com" { type master; notify no; file "null.zone.file"; };
 zone "talkingmetal.com" { type master; notify no; file "null.zone.file"; };
 zone "targetpush.co.kr" { type master; notify no; file "null.zone.file"; };
+zone "tarteaucitron.io" { type master; notify no; file "null.zone.file"; };
 zone "tastyholiday.pro" { type master; notify no; file "null.zone.file"; };
 zone "teamdigilant.com" { type master; notify no; file "null.zone.file"; };
 zone "techadsmedia.com" { type master; notify no; file "null.zone.file"; };
