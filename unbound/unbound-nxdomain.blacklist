@@ -1934,6 +1934,7 @@ local-zone: "adsplay.in" always_nxdomain
 local-zone: "adsplus.vn" always_nxdomain
 local-zone: "ads.prw.pl" always_nxdomain
 local-zone: "adspsp.com" always_nxdomain
+local-zone: "ads.qrz.ru" always_nxdomain
 local-zone: "adsquad.co" always_nxdomain
 local-zone: "adsraja.in" always_nxdomain
 local-zone: "adsrt.live" always_nxdomain
@@ -10586,6 +10587,7 @@ local-zone: "ads.metronom.ge" always_nxdomain
 local-zone: "ads.modamoda.mk" always_nxdomain
 local-zone: "ads.montfiz.com" always_nxdomain
 local-zone: "ads.navymwr.org" always_nxdomain
+local-zone: "ads.neomedia.sk" always_nxdomain
 local-zone: "ads.netimage.pl" always_nxdomain
 local-zone: "ads.newideas.kz" always_nxdomain
 local-zone: "ads.nfbusty.com" always_nxdomain
@@ -13091,6 +13093,7 @@ local-zone: "ads.gurutrade.com" always_nxdomain
 local-zone: "ads.hansespace.de" always_nxdomain
 local-zone: "ads.huginmedia.dk" always_nxdomain
 local-zone: "ads.hussverlag.de" always_nxdomain
+local-zone: "ads.i3network.net" always_nxdomain
 local-zone: "adsimg.kompas.com" always_nxdomain
 local-zone: "ads.imgsrc.com.ar" always_nxdomain
 local-zone: "ads.imprezzer.com" always_nxdomain
@@ -16466,6 +16469,7 @@ local-zone: "adserver.citymesh.com" always_nxdomain
 local-zone: "adserver.clikcoin.com" always_nxdomain
 local-zone: "adserver.consaltex.pl" always_nxdomain
 local-zone: "adserver.creationx.de" always_nxdomain
+local-zone: "adserver.credifil.com" always_nxdomain
 local-zone: "adserver.crescendo.ma" always_nxdomain
 local-zone: "adserver.dobrodruh.sk" always_nxdomain
 local-zone: "adserver.dotfusion.ro" always_nxdomain
@@ -17030,6 +17034,7 @@ local-zone: "adserver.arbtalk.co.uk" always_nxdomain
 local-zone: "adserver.asia-city.com" always_nxdomain
 local-zone: "adserver.becomeyoo.com" always_nxdomain
 local-zone: "adserver.bl-portal.com" always_nxdomain
+local-zone: "adserver.broumovsko.cz" always_nxdomain
 local-zone: "adserver.caixinhui.com" always_nxdomain
 local-zone: "adserver.cdnstream.com" always_nxdomain
 local-zone: "adserver.cenebchile.cl" always_nxdomain
@@ -17047,6 +17052,7 @@ local-zone: "adserver.gunsite.co.za" always_nxdomain
 local-zone: "adserver.gurusoccer.eu" always_nxdomain
 local-zone: "adserver.hajdupress.hu" always_nxdomain
 local-zone: "adserver.inbestmen.com" always_nxdomain
+local-zone: "adserver.ivz-medien.de" always_nxdomain
 local-zone: "adserver.jp.olli.world" always_nxdomain
 local-zone: "adserver.kipuworks.com" always_nxdomain
 local-zone: "adserver.kiteforum.com" always_nxdomain
@@ -17894,6 +17900,7 @@ local-zone: "adserver.biz-media.co.uk" always_nxdomain
 local-zone: "adserver.cenyrolnicze.pl" always_nxdomain
 local-zone: "adserver.cpnet-works.com" always_nxdomain
 local-zone: "adserver.daandelange.com" always_nxdomain
+local-zone: "adserver.declikmedia.com" always_nxdomain
 local-zone: "adserver.designagency.gr" always_nxdomain
 local-zone: "adserver.designitnow.ltd" always_nxdomain
 local-zone: "adserver-dev.erhebung.at" always_nxdomain
@@ -18610,6 +18617,7 @@ local-zone: "adserver.generationiron.com" always_nxdomain
 local-zone: "adserver.iartechnologies.pl" always_nxdomain
 local-zone: "adserver.image.bompresse.fr" always_nxdomain
 local-zone: "adserver.jetsetmagazine.net" always_nxdomain
+local-zone: "adserver.kuhn-fachmedien.de" always_nxdomain
 local-zone: "adserver.marathisrushti.com" always_nxdomain
 local-zone: "adserver.matthaesmedien.net" always_nxdomain
 local-zone: "adserver.moneysavingmom.com" always_nxdomain
@@ -18931,6 +18939,7 @@ local-zone: "adserver1.conectaindustria.es" always_nxdomain
 local-zone: "adserver1.lujanenlinea.com.ar" always_nxdomain
 local-zone: "adserver.adigitalrepublic.com" always_nxdomain
 local-zone: "adserver.cmsparamedios.com.ar" always_nxdomain
+local-zone: "adserver.consultoriomovil.net" always_nxdomain
 local-zone: "adserver.discoursehosting.com" always_nxdomain
 local-zone: "adserver.espritcampingcar.com" always_nxdomain
 local-zone: "adserver.imusiciandigital.com" always_nxdomain
