@@ -6127,6 +6127,7 @@ local-zone: "fuhykici.xyz" always_nxdomain
 local-zone: "fullscoop.in" always_nxdomain
 local-zone: "fumacrom.com" always_nxdomain
 local-zone: "funkhaus.com" always_nxdomain
+local-zone: "futureads.io" always_nxdomain
 local-zone: "g13media.com" always_nxdomain
 local-zone: "gajja.online" always_nxdomain
 local-zone: "gameleads.ru" always_nxdomain
@@ -12496,6 +12497,7 @@ local-zone: "mcityadslink.com" always_nxdomain
 local-zone: "mcloudglobal.com" always_nxdomain
 local-zone: "media-agency.com" always_nxdomain
 local-zone: "mediabigsail.com" always_nxdomain
+local-zone: "mediakitlabs.com" always_nxdomain
 local-zone: "mediashakers.com" always_nxdomain
 local-zone: "mediatraffic.com" always_nxdomain
 local-zone: "media.ttnews.com" always_nxdomain
@@ -15915,7 +15917,6 @@ local-zone: "ads.lifesitenews.com" always_nxdomain
 local-zone: "ads.ligaolahraga.com" always_nxdomain
 local-zone: "ads.lokalnypoznan.pl" always_nxdomain
 local-zone: "ads.madtoromedia.com" always_nxdomain
-local-zone: "ads.mediakitlabs.com" always_nxdomain
 local-zone: "ads.metropolis.co.jp" always_nxdomain
 local-zone: "ads.mkstecnologia.mx" always_nxdomain
 local-zone: "ads.mobillegends.net" always_nxdomain

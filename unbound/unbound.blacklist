@@ -6127,6 +6127,7 @@ local-zone: "fuhykici.xyz" always_refuse
 local-zone: "fullscoop.in" always_refuse
 local-zone: "fumacrom.com" always_refuse
 local-zone: "funkhaus.com" always_refuse
+local-zone: "futureads.io" always_refuse
 local-zone: "g13media.com" always_refuse
 local-zone: "gajja.online" always_refuse
 local-zone: "gameleads.ru" always_refuse
@@ -12496,6 +12497,7 @@ local-zone: "mcityadslink.com" always_refuse
 local-zone: "mcloudglobal.com" always_refuse
 local-zone: "media-agency.com" always_refuse
 local-zone: "mediabigsail.com" always_refuse
+local-zone: "mediakitlabs.com" always_refuse
 local-zone: "mediashakers.com" always_refuse
 local-zone: "mediatraffic.com" always_refuse
 local-zone: "media.ttnews.com" always_refuse
@@ -15915,7 +15917,6 @@ local-zone: "ads.lifesitenews.com" always_refuse
 local-zone: "ads.ligaolahraga.com" always_refuse
 local-zone: "ads.lokalnypoznan.pl" always_refuse
 local-zone: "ads.madtoromedia.com" always_refuse
-local-zone: "ads.mediakitlabs.com" always_refuse
 local-zone: "ads.metropolis.co.jp" always_refuse
 local-zone: "ads.mkstecnologia.mx" always_refuse
 local-zone: "ads.mobillegends.net" always_refuse
