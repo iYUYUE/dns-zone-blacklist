@@ -1943,6 +1943,7 @@ local-zone: "ad-srv.net" always_refuse
 local-zone: "adsrvr.org" always_refuse
 local-zone: "adsrvs.com" always_refuse
 local-zone: "ads.scb.ch" always_refuse
+local-zone: "ads.smn.rs" always_refuse
 local-zone: "ads.ss.com" always_refuse
 local-zone: "adsstar.in" always_refuse
 local-zone: "ads.syd.tn" always_refuse
@@ -5730,6 +5731,7 @@ local-zone: "adxsrver.com" always_refuse
 local-zone: "adxv.zum.com" always_refuse
 local-zone: "adyapper.com" always_refuse
 local-zone: "ad.yicai.com" always_refuse
+local-zone: "ad.yna.co.kr" always_refuse
 local-zone: "ad.yp.com.hk" always_refuse
 local-zone: "ad.yphao.com" always_refuse
 local-zone: "adzbazar.com" always_refuse
@@ -8824,6 +8826,7 @@ local-zone: "ad.ettoday.net" always_refuse
 local-zone: "adexport.tt.cn" always_refuse
 local-zone: "ad.ezday.co.kr" always_refuse
 local-zone: "adfeelgood.com" always_refuse
+local-zone: "ad.finetech.cz" always_refuse
 local-zone: "adforgames.com" always_refuse
 local-zone: "ad.fpncash.com" always_refuse
 local-zone: "ad.froster.org" always_refuse
@@ -14284,6 +14287,7 @@ local-zone: "adverts.wine.co.za" always_refuse
 local-zone: "advert.uzdaily.com" always_refuse
 local-zone: "advertyoureyes.com" always_refuse
 local-zone: "adv.ilsole24ore.it" always_refuse
+local-zone: "adv.unionesarda.it" always_refuse
 local-zone: "advvideostream.com" always_refuse
 local-zone: "adv.zdravnitza.com" always_refuse
 local-zone: "ad.webtelligent.de" always_refuse
@@ -14986,6 +14990,7 @@ local-zone: "adserver.infoabi.ee" always_refuse
 local-zone: "adserver.iteisa.com" always_refuse
 local-zone: "adserver.jyanet.com" always_refuse
 local-zone: "adserver.koza.press" always_refuse
+local-zone: "adserver.kozoom.com" always_refuse
 local-zone: "adserver.lecool.com" always_refuse
 local-zone: "adserver.ltnurl.com" always_refuse
 local-zone: "adserver.magazyn.pl" always_refuse
@@ -17083,6 +17088,7 @@ local-zone: "adserver.rheinpfalz.de" always_refuse
 local-zone: "adserver.sciflicks.com" always_refuse
 local-zone: "adserver.ship2yard.com" always_refuse
 local-zone: "adserver.sigma-foto.de" always_refuse
+local-zone: "adserver.smartframe.io" always_refuse
 local-zone: "adserver.sonicplug.com" always_refuse
 local-zone: "adserver.speeda360.com" always_refuse
 local-zone: "adserver.stadtrevue.de" always_refuse

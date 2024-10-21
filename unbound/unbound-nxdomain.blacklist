@@ -1943,6 +1943,7 @@ local-zone: "ad-srv.net" always_nxdomain
 local-zone: "adsrvr.org" always_nxdomain
 local-zone: "adsrvs.com" always_nxdomain
 local-zone: "ads.scb.ch" always_nxdomain
+local-zone: "ads.smn.rs" always_nxdomain
 local-zone: "ads.ss.com" always_nxdomain
 local-zone: "adsstar.in" always_nxdomain
 local-zone: "ads.syd.tn" always_nxdomain
@@ -5730,6 +5731,7 @@ local-zone: "adxsrver.com" always_nxdomain
 local-zone: "adxv.zum.com" always_nxdomain
 local-zone: "adyapper.com" always_nxdomain
 local-zone: "ad.yicai.com" always_nxdomain
+local-zone: "ad.yna.co.kr" always_nxdomain
 local-zone: "ad.yp.com.hk" always_nxdomain
 local-zone: "ad.yphao.com" always_nxdomain
 local-zone: "adzbazar.com" always_nxdomain
@@ -8824,6 +8826,7 @@ local-zone: "ad.ettoday.net" always_nxdomain
 local-zone: "adexport.tt.cn" always_nxdomain
 local-zone: "ad.ezday.co.kr" always_nxdomain
 local-zone: "adfeelgood.com" always_nxdomain
+local-zone: "ad.finetech.cz" always_nxdomain
 local-zone: "adforgames.com" always_nxdomain
 local-zone: "ad.fpncash.com" always_nxdomain
 local-zone: "ad.froster.org" always_nxdomain
@@ -14284,6 +14287,7 @@ local-zone: "adverts.wine.co.za" always_nxdomain
 local-zone: "advert.uzdaily.com" always_nxdomain
 local-zone: "advertyoureyes.com" always_nxdomain
 local-zone: "adv.ilsole24ore.it" always_nxdomain
+local-zone: "adv.unionesarda.it" always_nxdomain
 local-zone: "advvideostream.com" always_nxdomain
 local-zone: "adv.zdravnitza.com" always_nxdomain
 local-zone: "ad.webtelligent.de" always_nxdomain
@@ -14986,6 +14990,7 @@ local-zone: "adserver.infoabi.ee" always_nxdomain
 local-zone: "adserver.iteisa.com" always_nxdomain
 local-zone: "adserver.jyanet.com" always_nxdomain
 local-zone: "adserver.koza.press" always_nxdomain
+local-zone: "adserver.kozoom.com" always_nxdomain
 local-zone: "adserver.lecool.com" always_nxdomain
 local-zone: "adserver.ltnurl.com" always_nxdomain
 local-zone: "adserver.magazyn.pl" always_nxdomain
@@ -17083,6 +17088,7 @@ local-zone: "adserver.rheinpfalz.de" always_nxdomain
 local-zone: "adserver.sciflicks.com" always_nxdomain
 local-zone: "adserver.ship2yard.com" always_nxdomain
 local-zone: "adserver.sigma-foto.de" always_nxdomain
+local-zone: "adserver.smartframe.io" always_nxdomain
 local-zone: "adserver.sonicplug.com" always_nxdomain
 local-zone: "adserver.speeda360.com" always_nxdomain
 local-zone: "adserver.stadtrevue.de" always_nxdomain
