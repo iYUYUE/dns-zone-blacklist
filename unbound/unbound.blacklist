@@ -7965,6 +7965,7 @@ local-zone: "ioadserve.com" always_refuse
 local-zone: "ip-casual.com" always_refuse
 local-zone: "iprospect.com" always_refuse
 local-zone: "ipsowrite.com" always_refuse
+local-zone: "ironclick.net" always_refuse
 local-zone: "isboost.co.jp" always_refuse
 local-zone: "itemslice.com" always_refuse
 local-zone: "itpatratr.com" always_refuse
@@ -10075,6 +10076,7 @@ local-zone: "sponsormob.com" always_refuse
 local-zone: "sponsorpay.com" always_refuse
 local-zone: "sponsortag.com" always_refuse
 local-zone: "spread.company" always_refuse
+local-zone: "sprintrade.com" always_refuse
 local-zone: "sprysummit.com" always_refuse
 local-zone: "spunkycash.com" always_refuse
 local-zone: "spykemedia.com" always_refuse
