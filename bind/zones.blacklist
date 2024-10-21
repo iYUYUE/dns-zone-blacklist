@@ -12116,6 +12116,7 @@ zone "adworthmedia.org" { type master; notify no; file "null.zone.file"; };
 zone "adx.baolongan.vn" { type master; notify no; file "null.zone.file"; };
 zone "adyourservice.nl" { type master; notify no; file "null.zone.file"; };
 zone "adzens.vluxo.com" { type master; notify no; file "null.zone.file"; };
+zone "adzonestatic.com" { type master; notify no; file "null.zone.file"; };
 zone "a.famestporn.com" { type master; notify no; file "null.zone.file"; };
 zone "agencyapollo.com" { type master; notify no; file "null.zone.file"; };
 zone "agencyfinder.com" { type master; notify no; file "null.zone.file"; };
