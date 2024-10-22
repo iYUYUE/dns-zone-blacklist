@@ -5991,6 +5991,7 @@ local-zone: "craft.net.in" always_nxdomain
 local-zone: "credentia.in" always_nxdomain
 local-zone: "cribstore.in" always_nxdomain
 local-zone: "crispads.com" always_nxdomain
+local-zone: "criteo.co.at" always_nxdomain
 local-zone: "criteo.co.in" always_nxdomain
 local-zone: "criteo.co.uk" always_nxdomain
 local-zone: "criteo.paris" always_nxdomain
@@ -9725,6 +9726,7 @@ local-zone: "mediastream.am" always_nxdomain
 local-zone: "mediawayss.com" always_nxdomain
 local-zone: "meendocash.com" always_nxdomain
 local-zone: "meiji-ad.co.jp" always_nxdomain
+local-zone: "mellowhush.com" always_nxdomain
 local-zone: "memeglobal.com" always_nxdomain
 local-zone: "merryvault.com" always_nxdomain
 local-zone: "meta247ads.com" always_nxdomain
@@ -16257,6 +16259,7 @@ local-zone: "prospectsolutions.ca" always_nxdomain
 local-zone: "proventusquantum.com" always_nxdomain
 local-zone: "proxena-adserver.com" always_nxdomain
 local-zone: "pubs2.latinspots.com" always_nxdomain
+local-zone: "push.diariovasco.com" always_nxdomain
 local-zone: "push.esputnik.com.ua" always_nxdomain
 local-zone: "pushmonetization.com" always_nxdomain
 local-zone: "pushnotifications.io" always_nxdomain
@@ -18312,6 +18315,7 @@ local-zone: "dontblock.jaaavjavs1.buzz" always_nxdomain
 local-zone: "ecommerce.iap.unity3d.com" always_nxdomain
 local-zone: "e-healthcaresolutions.com" always_nxdomain
 local-zone: "entitlements.jwplayer.com" always_nxdomain
+local-zone: "ethicalads.ochsavidare.nu" always_nxdomain
 local-zone: "exchange.consumabletv.com" always_nxdomain
 local-zone: "flourishinginnovation.com" always_nxdomain
 local-zone: "foundationadvertising.com" always_nxdomain
@@ -19033,6 +19037,7 @@ local-zone: "d1npnstlfekkfz.cloudfront.net" always_nxdomain
 local-zone: "d1otoma47x30pg.cloudfront.net" always_nxdomain
 local-zone: "d1pr3sk5xr0dce.cloudfront.net" always_nxdomain
 local-zone: "d1r3ddyrqrmcjv.cloudfront.net" always_nxdomain
+local-zone: "d1rind1mbgys5l.cloudfront.net" always_nxdomain
 local-zone: "d1tprjo2w7krrh.cloudfront.net" always_nxdomain
 local-zone: "d1upt0rqzff34l.cloudfront.net" always_nxdomain
 local-zone: "d1ux8fwkxchynl.cloudfront.net" always_nxdomain
@@ -19267,6 +19272,7 @@ local-zone: "ads.prd.ie.internal.unity3d.com" always_nxdomain
 local-zone: "ads.prod.webservices.mozgcp.net" always_nxdomain
 local-zone: "advertising.christiansunite.com" always_nxdomain
 local-zone: "affiliates.advertisingboost.com" always_nxdomain
+local-zone: "ams.londonschoolofmarketing.com" always_nxdomain
 local-zone: "a-us-west.rfihub.com.akadns.net" always_nxdomain
 local-zone: "banner.freshgrassfoundation.org" always_nxdomain
 local-zone: "banner.historiadealagoas.com.br" always_nxdomain

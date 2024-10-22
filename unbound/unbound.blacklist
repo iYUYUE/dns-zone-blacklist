@@ -5991,6 +5991,7 @@ local-zone: "craft.net.in" always_refuse
 local-zone: "credentia.in" always_refuse
 local-zone: "cribstore.in" always_refuse
 local-zone: "crispads.com" always_refuse
+local-zone: "criteo.co.at" always_refuse
 local-zone: "criteo.co.in" always_refuse
 local-zone: "criteo.co.uk" always_refuse
 local-zone: "criteo.paris" always_refuse
@@ -9725,6 +9726,7 @@ local-zone: "mediastream.am" always_refuse
 local-zone: "mediawayss.com" always_refuse
 local-zone: "meendocash.com" always_refuse
 local-zone: "meiji-ad.co.jp" always_refuse
+local-zone: "mellowhush.com" always_refuse
 local-zone: "memeglobal.com" always_refuse
 local-zone: "merryvault.com" always_refuse
 local-zone: "meta247ads.com" always_refuse
@@ -16257,6 +16259,7 @@ local-zone: "prospectsolutions.ca" always_refuse
 local-zone: "proventusquantum.com" always_refuse
 local-zone: "proxena-adserver.com" always_refuse
 local-zone: "pubs2.latinspots.com" always_refuse
+local-zone: "push.diariovasco.com" always_refuse
 local-zone: "push.esputnik.com.ua" always_refuse
 local-zone: "pushmonetization.com" always_refuse
 local-zone: "pushnotifications.io" always_refuse
@@ -18312,6 +18315,7 @@ local-zone: "dontblock.jaaavjavs1.buzz" always_refuse
 local-zone: "ecommerce.iap.unity3d.com" always_refuse
 local-zone: "e-healthcaresolutions.com" always_refuse
 local-zone: "entitlements.jwplayer.com" always_refuse
+local-zone: "ethicalads.ochsavidare.nu" always_refuse
 local-zone: "exchange.consumabletv.com" always_refuse
 local-zone: "flourishinginnovation.com" always_refuse
 local-zone: "foundationadvertising.com" always_refuse
@@ -19033,6 +19037,7 @@ local-zone: "d1npnstlfekkfz.cloudfront.net" always_refuse
 local-zone: "d1otoma47x30pg.cloudfront.net" always_refuse
 local-zone: "d1pr3sk5xr0dce.cloudfront.net" always_refuse
 local-zone: "d1r3ddyrqrmcjv.cloudfront.net" always_refuse
+local-zone: "d1rind1mbgys5l.cloudfront.net" always_refuse
 local-zone: "d1tprjo2w7krrh.cloudfront.net" always_refuse
 local-zone: "d1upt0rqzff34l.cloudfront.net" always_refuse
 local-zone: "d1ux8fwkxchynl.cloudfront.net" always_refuse
@@ -19267,6 +19272,7 @@ local-zone: "ads.prd.ie.internal.unity3d.com" always_refuse
 local-zone: "ads.prod.webservices.mozgcp.net" always_refuse
 local-zone: "advertising.christiansunite.com" always_refuse
 local-zone: "affiliates.advertisingboost.com" always_refuse
+local-zone: "ams.londonschoolofmarketing.com" always_refuse
 local-zone: "a-us-west.rfihub.com.akadns.net" always_refuse
 local-zone: "banner.freshgrassfoundation.org" always_refuse
 local-zone: "banner.historiadealagoas.com.br" always_refuse
