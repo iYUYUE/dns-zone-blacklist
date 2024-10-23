@@ -556,6 +556,7 @@ local-zone: "relap.io" always_nxdomain
 local-zone: "retai.ly" always_nxdomain
 local-zone: "rg35.net" always_nxdomain
 local-zone: "rgrd.xyz" always_nxdomain
+local-zone: "r.lsm.lv" always_nxdomain
 local-zone: "rmbn.net" always_nxdomain
 local-zone: "r.muu.ee" always_nxdomain
 local-zone: "ropx.xyz" always_nxdomain
@@ -1375,6 +1376,7 @@ local-zone: "questa.uz" always_nxdomain
 local-zone: "qwapi.com" always_nxdomain
 local-zone: "qwocz.com" always_nxdomain
 local-zone: "qxyam.com" always_nxdomain
+local-zone: "ra.gdi.cz" always_nxdomain
 local-zone: "red1r.com" always_nxdomain
 local-zone: "rfhhd.com" always_nxdomain
 local-zone: "rfity.com" always_nxdomain

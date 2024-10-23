@@ -556,6 +556,7 @@ local-zone: "relap.io" always_refuse
 local-zone: "retai.ly" always_refuse
 local-zone: "rg35.net" always_refuse
 local-zone: "rgrd.xyz" always_refuse
+local-zone: "r.lsm.lv" always_refuse
 local-zone: "rmbn.net" always_refuse
 local-zone: "r.muu.ee" always_refuse
 local-zone: "ropx.xyz" always_refuse
@@ -1375,6 +1376,7 @@ local-zone: "questa.uz" always_refuse
 local-zone: "qwapi.com" always_refuse
 local-zone: "qwocz.com" always_refuse
 local-zone: "qxyam.com" always_refuse
+local-zone: "ra.gdi.cz" always_refuse
 local-zone: "red1r.com" always_refuse
 local-zone: "rfhhd.com" always_refuse
 local-zone: "rfity.com" always_refuse
