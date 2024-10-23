@@ -4534,8 +4534,6 @@ local-zone: "misspkl.com" always_refuse
 local-zone: "mixx-ad.net" always_refuse
 local-zone: "mkazanc.com" always_refuse
 local-zone: "mkjmdsc.xyz" always_refuse
-local-zone: "mktossl.com" always_refuse
-local-zone: "mktoweb.com" always_refuse
 local-zone: "mmapiws.com" always_refuse
 local-zone: "mmctsvc.com" always_refuse
 local-zone: "mme-365.com" always_refuse

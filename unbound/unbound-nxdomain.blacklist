@@ -4534,8 +4534,6 @@ local-zone: "misspkl.com" always_nxdomain
 local-zone: "mixx-ad.net" always_nxdomain
 local-zone: "mkazanc.com" always_nxdomain
 local-zone: "mkjmdsc.xyz" always_nxdomain
-local-zone: "mktossl.com" always_nxdomain
-local-zone: "mktoweb.com" always_nxdomain
 local-zone: "mmapiws.com" always_nxdomain
 local-zone: "mmctsvc.com" always_nxdomain
 local-zone: "mme-365.com" always_nxdomain

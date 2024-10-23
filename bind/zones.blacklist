@@ -4534,8 +4534,6 @@ zone "misspkl.com" { type master; notify no; file "null.zone.file"; };
 zone "mixx-ad.net" { type master; notify no; file "null.zone.file"; };
 zone "mkazanc.com" { type master; notify no; file "null.zone.file"; };
 zone "mkjmdsc.xyz" { type master; notify no; file "null.zone.file"; };
-zone "mktossl.com" { type master; notify no; file "null.zone.file"; };
-zone "mktoweb.com" { type master; notify no; file "null.zone.file"; };
 zone "mmapiws.com" { type master; notify no; file "null.zone.file"; };
 zone "mmctsvc.com" { type master; notify no; file "null.zone.file"; };
 zone "mme-365.com" { type master; notify no; file "null.zone.file"; };
