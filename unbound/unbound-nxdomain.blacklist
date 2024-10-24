@@ -240,7 +240,6 @@ local-zone: "sdqk.me" always_nxdomain
 local-zone: "sele.co" always_nxdomain
 local-zone: "sfbx.io" always_nxdomain
 local-zone: "sift.co" always_nxdomain
-local-zone: "sks.com" always_nxdomain
 local-zone: "smct.io" always_nxdomain
 local-zone: "soom.la" always_nxdomain
 local-zone: "srv.fyi" always_nxdomain
@@ -3317,6 +3316,7 @@ local-zone: "yieldr.com" always_nxdomain
 local-zone: "yjxtaz.com" always_nxdomain
 local-zone: "ylesmn.com" always_nxdomain
 local-zone: "ymjfhg.com" always_nxdomain
+local-zone: "ymmobi.com" always_nxdomain
 local-zone: "yoggrt.com" always_nxdomain
 local-zone: "yomedia.vn" always_nxdomain
 local-zone: "yomzba.com" always_nxdomain
@@ -3930,7 +3930,6 @@ local-zone: "affbeat.com" always_nxdomain
 local-zone: "affhits.com" always_nxdomain
 local-zone: "affiadz.com" always_nxdomain
 local-zone: "affilae.com" always_nxdomain
-local-zone: "affilbox.cz" always_nxdomain
 local-zone: "affluent.io" always_nxdomain
 local-zone: "affnads.com" always_nxdomain
 local-zone: "ag0oir9f.de" always_nxdomain
@@ -4107,8 +4106,6 @@ local-zone: "cdn.gallery" always_nxdomain
 local-zone: "cdn.jifo.co" always_nxdomain
 local-zone: "c.down.tube" always_nxdomain
 local-zone: "cdsbnrs.com" always_nxdomain
-local-zone: "cedexis.com" always_nxdomain
-local-zone: "cedexis.net" always_nxdomain
 local-zone: "cetoftit.ru" always_nxdomain
 local-zone: "checkm8.com" always_nxdomain
 local-zone: "choozle.com" always_nxdomain
@@ -4159,6 +4156,7 @@ local-zone: "cpa3iqcp.de" always_nxdomain
 local-zone: "cpabone.com" always_nxdomain
 local-zone: "cpagrip.com" always_nxdomain
 local-zone: "cpalead.com" always_nxdomain
+local-zone: "cp.focus.de" always_nxdomain
 local-zone: "cpmatic.com" always_nxdomain
 local-zone: "cpmstar.com" always_nxdomain
 local-zone: "cpstatic.ch" always_nxdomain
@@ -5984,6 +5982,7 @@ local-zone: "cookiebox.ro" always_nxdomain
 local-zone: "corp.aol.com" always_nxdomain
 local-zone: "corwrite.com" always_nxdomain
 local-zone: "cozydusk.com" always_nxdomain
+local-zone: "cp.0180.info" always_nxdomain
 local-zone: "cpamatica.io" always_nxdomain
 local-zone: "cpaprism.com" always_nxdomain
 local-zone: "cpidroid.com" always_nxdomain
@@ -8434,6 +8433,7 @@ local-zone: "seoingage.com" always_nxdomain
 local-zone: "servads.co.za" always_nxdomain
 local-zone: "serverbid.com" always_nxdomain
 local-zone: "serverside.ai" always_nxdomain
+local-zone: "serveteck.com" always_nxdomain
 local-zone: "sgdmobile.com" always_nxdomain
 local-zone: "shakamech.com" always_nxdomain
 local-zone: "sharethru.com" always_nxdomain
@@ -8675,7 +8675,6 @@ local-zone: "wisetoweb.com" always_nxdomain
 local-zone: "wondocash.com" always_nxdomain
 local-zone: "wordyhall.pro" always_nxdomain
 local-zone: "wowyowapi.com" always_nxdomain
-local-zone: "wsoversea.com" always_nxdomain
 local-zone: "wxwf9klazp.ru" always_nxdomain
 local-zone: "xdisplay.site" always_nxdomain
 local-zone: "xekychacu.com" always_nxdomain
@@ -8712,6 +8711,7 @@ local-zone: "zhibo128x.xyz" always_nxdomain
 local-zone: "zitaptugo.com" always_nxdomain
 local-zone: "zodiacare.com" always_nxdomain
 local-zone: "zswzri7ju3.ru" always_nxdomain
+local-zone: "zuukeeper.com" always_nxdomain
 local-zone: "zvlqhlbar.com" always_nxdomain
 local-zone: "07.hagalil.com" always_nxdomain
 local-zone: "1000mercis.com" always_nxdomain
@@ -9592,6 +9592,7 @@ local-zone: "i-mobile.co.jp" always_nxdomain
 local-zone: "impactslam.com" always_nxdomain
 local-zone: "inawemedia.com" always_nxdomain
 local-zone: "inbornbird.pro" always_nxdomain
+local-zone: "incrementx.com" always_nxdomain
 local-zone: "indieclick.com" always_nxdomain
 local-zone: "indigitall.com" always_nxdomain
 local-zone: "indigitall.net" always_nxdomain
@@ -11103,6 +11104,7 @@ local-zone: "heavydetail.com" always_nxdomain
 local-zone: "hello.cvent.com" always_nxdomain
 local-zone: "hellscdnusa.com" always_nxdomain
 local-zone: "helltraffic.com" always_nxdomain
+local-zone: "hicandidate.com" always_nxdomain
 local-zone: "hightower.video" always_nxdomain
 local-zone: "hitadsmedia.com" always_nxdomain
 local-zone: "homeads.home.pl" always_nxdomain
@@ -11381,6 +11383,7 @@ local-zone: "pubexchange.com" always_nxdomain
 local-zone: "publisher.house" always_nxdomain
 local-zone: "pubserver.xl.pt" always_nxdomain
 local-zone: "pureamplify.com" always_nxdomain
+local-zone: "pur.oekotest.de" always_nxdomain
 local-zone: "pushamplify.com" always_nxdomain
 local-zone: "pushcentric.com" always_nxdomain
 local-zone: "push-engage.com" always_nxdomain
@@ -12213,7 +12216,6 @@ local-zone: "blackstrap.media" always_nxdomain
 local-zone: "blanco-adv.co.il" always_nxdomain
 local-zone: "bland-factor.pro" always_nxdomain
 local-zone: "blockthrough.com" always_nxdomain
-local-zone: "bluebillywig.com" always_nxdomain
 local-zone: "blueparrot.media" always_nxdomain
 local-zone: "bolderlouder.com" always_nxdomain
 local-zone: "bolt.dropbox.com" always_nxdomain
@@ -12284,6 +12286,8 @@ local-zone: "convertifier.com" always_nxdomain
 local-zone: "copyandartny.com" always_nxdomain
 local-zone: "corollamedia.com" always_nxdomain
 local-zone: "cpainventory.com" always_nxdomain
+local-zone: "cpass.wetter.com" always_nxdomain
+local-zone: "cp.autoflotte.de" always_nxdomain
 local-zone: "creativejolt.com" always_nxdomain
 local-zone: "creativespace.es" always_nxdomain
 local-zone: "creativespot.com" always_nxdomain
@@ -13254,6 +13258,7 @@ local-zone: "adv.metamarket.ua" always_nxdomain
 local-zone: "advs.hankyung.com" always_nxdomain
 local-zone: "adways-studio.com" always_nxdomain
 local-zone: "adwolvesmedia.com" always_nxdomain
+local-zone: "adwordsagentur.at" always_nxdomain
 local-zone: "adzone.temp.co.za" always_nxdomain
 local-zone: "adz.rashflash.com" always_nxdomain
 local-zone: "adzsquadmedia.com" always_nxdomain
@@ -14418,6 +14423,7 @@ local-zone: "cookie.nokeweb.net" always_nxdomain
 local-zone: "cosmicsculptor.com" always_nxdomain
 local-zone: "cover3creative.com" always_nxdomain
 local-zone: "cpmaffiliation.com" always_nxdomain
+local-zone: "cp.tagesspiegel.de" always_nxdomain
 local-zone: "cpxinteractive.com" always_nxdomain
 local-zone: "creative.cmrdr.com" always_nxdomain
 local-zone: "creativemonkeys.in" always_nxdomain
@@ -14544,6 +14550,7 @@ local-zone: "impressiondesk.com" always_nxdomain
 local-zone: "impressionmedia.cz" always_nxdomain
 local-zone: "improvedigital.com" always_nxdomain
 local-zone: "impulsemediaco.com" always_nxdomain
+local-zone: "incrementxplay.com" always_nxdomain
 local-zone: "incrementxserv.com" always_nxdomain
 local-zone: "indeliblestill.com" always_nxdomain
 local-zone: "industrybrains.com" always_nxdomain
@@ -14597,7 +14604,6 @@ local-zone: "medals.bizrate.com" always_nxdomain
 local-zone: "medialiveindia.com" always_nxdomain
 local-zone: "mediasmiths.com.au" always_nxdomain
 local-zone: "medicineteaser.org" always_nxdomain
-local-zone: "metaffiliation.com" always_nxdomain
 local-zone: "metrovalleyadv.com" always_nxdomain
 local-zone: "mh-advertising.com" always_nxdomain
 local-zone: "millenialmedia.com" always_nxdomain
@@ -16905,6 +16911,7 @@ local-zone: "technical-service.net" always_nxdomain
 local-zone: "technoparkbahrain.com" always_nxdomain
 local-zone: "t.email.archant.co.uk" always_nxdomain
 local-zone: "tempestadvertising.in" always_nxdomain
+local-zone: "tg1.atunwadigital.com" always_nxdomain
 local-zone: "thebloggernetwork.com" always_nxdomain
 local-zone: "thebutterflyeffect.co" always_nxdomain
 local-zone: "thefilewebcourage.com" always_nxdomain
@@ -17367,6 +17374,7 @@ local-zone: "pegasus.unifygroup.com" always_nxdomain
 local-zone: "pleasedonotblockme.com" always_nxdomain
 local-zone: "pointeradvertising.com" always_nxdomain
 local-zone: "predictinteractive.com" always_nxdomain
+local-zone: "prop.celticnewsnow.com" always_nxdomain
 local-zone: "publicidad.cibeles.net" always_nxdomain
 local-zone: "puresilvercreative.com" always_nxdomain
 local-zone: "pushnotify1.sermon.net" always_nxdomain
@@ -18558,6 +18566,7 @@ local-zone: "pmc-com.videoplayerhub.com" always_nxdomain
 local-zone: "pnpjceawvmeu.cdnvideo3.com" always_nxdomain
 local-zone: "prestanciatechnologies.com" always_nxdomain
 local-zone: "privacy.trustcommander.net" always_nxdomain
+local-zone: "prop.nottinghamforest.news" always_nxdomain
 local-zone: "prostoimya.kino-o-voine.ru" always_nxdomain
 local-zone: "psvpromo.psvgamestudio.com" always_nxdomain
 local-zone: "pushlist-yjapp.yahoo.co.jp" always_nxdomain
@@ -19279,6 +19288,7 @@ local-zone: "banner.historiadealagoas.com.br" always_nxdomain
 local-zone: "bannershotlink.perfectgonzo.com" always_nxdomain
 local-zone: "cmod452.live.streamtheworld.com" always_nxdomain
 local-zone: "contactus.blob.core.windows.net" always_nxdomain
+local-zone: "cp.wir-in-der-zahnarztpraxis.de" always_nxdomain
 local-zone: "extras.prairiemountainmedia.com" always_nxdomain
 local-zone: "fare-adserver.resourcestack.com" always_nxdomain
 local-zone: "gdpr-legal-cookie.beeclever.app" always_nxdomain
