@@ -4237,6 +4237,7 @@ local-zone: "emrgods.com" always_nxdomain
 local-zone: "eppmedia.si" always_nxdomain
 local-zone: "erandex.com" always_nxdomain
 local-zone: "eratead.com" always_nxdomain
+local-zone: "erate.co.il" always_nxdomain
 local-zone: "eravage.com" always_nxdomain
 local-zone: "erisrvr.com" always_nxdomain
 local-zone: "erosads.com" always_nxdomain
@@ -6850,6 +6851,7 @@ local-zone: "tvadsync.com" always_nxdomain
 local-zone: "twinfill.com" always_nxdomain
 local-zone: "t.winpbn.com" always_nxdomain
 local-zone: "twinplan.com" always_nxdomain
+local-zone: "twitchads.tv" always_nxdomain
 local-zone: "ubadvert.com" always_nxdomain
 local-zone: "u.djicdn.com" always_nxdomain
 local-zone: "udookrou.com" always_nxdomain
@@ -12918,6 +12920,7 @@ local-zone: "ws75.aptoide.com" always_nxdomain
 local-zone: "wsicorporate.com" always_nxdomain
 local-zone: "ww2.cachefly.com" always_nxdomain
 local-zone: "www5.technews.tw" always_nxdomain
+local-zone: "xml.fstsrv10.com" always_nxdomain
 local-zone: "xml.netload1.com" always_nxdomain
 local-zone: "xml.netload2.com" always_nxdomain
 local-zone: "xperienceads.com" always_nxdomain
@@ -16794,6 +16797,7 @@ local-zone: "leadgeneration.com.au" always_nxdomain
 local-zone: "leadsbrandconnect.com" always_nxdomain
 local-zone: "lemmatechnologies.com" always_nxdomain
 local-zone: "lemonde.assistpub.com" always_nxdomain
+local-zone: "li.trumptrainnews.com" always_nxdomain
 local-zone: "localad.homedepot.com" always_nxdomain
 local-zone: "londonadvertising.com" always_nxdomain
 local-zone: "luminousboulevard.com" always_nxdomain
@@ -17733,6 +17737,7 @@ local-zone: "creative-preview-an.com" always_nxdomain
 local-zone: "d2-as-web-azn.glosel.pl" always_nxdomain
 local-zone: "dadispapi.auction.co.kr" always_nxdomain
 local-zone: "dadispapi.gmarket.co.kr" always_nxdomain
+local-zone: "dbt.dopascalls.1und1.de" always_nxdomain
 local-zone: "directresponsegroup.com" always_nxdomain
 local-zone: "directus.libertycdn.com" always_nxdomain
 local-zone: "display.lawbulletin.com" always_nxdomain
@@ -17900,6 +17905,7 @@ local-zone: "worldbannerexchange.com" always_nxdomain
 local-zone: "worldwidedigitalads.com" always_nxdomain
 local-zone: "xenmediamarketing.co.uk" always_nxdomain
 local-zone: "xml-eu.craftviking-2.co" always_nxdomain
+local-zone: "xml.safesearchguard.com" always_nxdomain
 local-zone: "xml-v4.craftviking-2.co" always_nxdomain
 local-zone: "yellowish-yesterday.pro" always_nxdomain
 local-zone: "youngstersworldwide.com" always_nxdomain
