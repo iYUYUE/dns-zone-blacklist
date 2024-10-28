@@ -1383,6 +1383,7 @@ local-zone: "richad.in" always_refuse
 local-zone: "rktch.com" always_refuse
 local-zone: "rmvin.com" always_refuse
 local-zone: "ro3sf.com" always_refuse
+local-zone: "r.pzwl.pl" always_refuse
 local-zone: "rtbiq.com" always_refuse
 local-zone: "rtrgt.com" always_refuse
 local-zone: "rutrk.org" always_refuse
@@ -8304,6 +8305,7 @@ local-zone: "pt0zhwhc26.ru" always_refuse
 local-zone: "pub2.naiz.eus" always_refuse
 local-zone: "pub.bayard.io" always_refuse
 local-zone: "pubfinity.com" always_refuse
+local-zone: "pub.indice.eu" always_refuse
 local-zone: "pubnation.com" always_refuse
 local-zone: "pubnative.net" always_refuse
 local-zone: "pub.oumma.com" always_refuse
@@ -11084,6 +11086,7 @@ local-zone: "go.ad2upapp.com" always_refuse
 local-zone: "goblin.hupu.com" always_refuse
 local-zone: "go.data1rtb.com" always_refuse
 local-zone: "go.delmovip.com" always_refuse
+local-zone: "go.dotcom.co.il" always_refuse
 local-zone: "goldmineltd.com" always_refuse
 local-zone: "go.mobiflyc.com" always_refuse
 local-zone: "go.mobiflyd.com" always_refuse
@@ -11268,6 +11271,7 @@ local-zone: "myadsmantra.com" always_refuse
 local-zone: "mybasilsoup.com" always_refuse
 local-zone: "mydataninja.com" always_refuse
 local-zone: "n1275adserv.xyz" always_refuse
+local-zone: "nad.247media.cz" always_refuse
 local-zone: "naftemporiki.gr" always_refuse
 local-zone: "nano-visor.info" always_refuse
 local-zone: "nativetouch.com" always_refuse
@@ -11530,6 +11534,7 @@ local-zone: "softonicads.com" always_refuse
 local-zone: "soma.3xforum.ro" always_refuse
 local-zone: "sos.ssooss.site" always_refuse
 local-zone: "sourcepoint.com" always_refuse
+local-zone: "sp01.masmar.com" always_refuse
 local-zone: "sparkstudios.in" always_refuse
 local-zone: "spire.aarki.net" always_refuse
 local-zone: "spotxchange.com" always_refuse
@@ -12586,6 +12591,7 @@ local-zone: "onvictinitor.com" always_refuse
 local-zone: "open.oneplus.net" always_refuse
 local-zone: "openvideoads.com" always_refuse
 local-zone: "openx2.kytary.cz" always_refuse
+local-zone: "openx.babinet.cz" always_refuse
 local-zone: "openx.bergfex.at" always_refuse
 local-zone: "openx.kgmedia.eu" always_refuse
 local-zone: "openxmarket.asia" always_refuse
@@ -13003,6 +13009,7 @@ local-zone: "ad.diaosiquan.com" always_refuse
 local-zone: "ad.dl.mainpost.de" always_refuse
 local-zone: "ad.ec-masters.net" always_refuse
 local-zone: "ad.e-consulta.com" always_refuse
+local-zone: "ad.elektrika.info" always_refuse
 local-zone: "adexchangesrv.com" always_refuse
 local-zone: "ad.firestorage.jp" always_refuse
 local-zone: "adfunkyserver.com" always_refuse
@@ -13818,8 +13825,10 @@ local-zone: "registermedia.com" always_refuse
 local-zone: "rek5.savefrom.net" always_refuse
 local-zone: "reklama.gazeta.pl" always_refuse
 local-zone: "reklama.silnet.pl" always_refuse
+local-zone: "reklama.szopus.pl" always_refuse
 local-zone: "reklama.wisdom.bg" always_refuse
 local-zone: "reklame.sbplus.hr" always_refuse
+local-zone: "reklam.lkd.org.tr" always_refuse
 local-zone: "repentanthate.com" always_refuse
 local-zone: "republicmedia.com" always_refuse
 local-zone: "responsiveads.com" always_refuse
@@ -16255,6 +16264,7 @@ local-zone: "openx.anonymouse.org" always_refuse
 local-zone: "openx.camelmedia.net" always_refuse
 local-zone: "openx.guidesocial.be" always_refuse
 local-zone: "openx.koprivnica.biz" always_refuse
+local-zone: "openx.radiofabrik.at" always_refuse
 local-zone: "orangeclickmedia.com" always_refuse
 local-zone: "overcooked-count.com" always_refuse
 local-zone: "oxygenmediagroup.com" always_refuse
@@ -17396,6 +17406,7 @@ local-zone: "pointeradvertising.com" always_refuse
 local-zone: "predictinteractive.com" always_refuse
 local-zone: "prop.celticnewsnow.com" always_refuse
 local-zone: "publicidad.cibeles.net" always_refuse
+local-zone: "publi.tkscreativos.com" always_refuse
 local-zone: "puresilvercreative.com" always_refuse
 local-zone: "pushnotify1.sermon.net" always_refuse
 local-zone: "push-sdk.mattel163.com" always_refuse
@@ -18103,6 +18114,7 @@ local-zone: "norwegianadvertising.com" always_refuse
 local-zone: "notification.tubecup.net" always_refuse
 local-zone: "oathmidiadigitalltda.com" always_refuse
 local-zone: "openx2.cpitrademedia.com" always_refuse
+local-zone: "openx.galiciadigital.com" always_refuse
 local-zone: "orangeadvertisingllc.com" always_refuse
 local-zone: "overview2.virtuagirl.com" always_refuse
 local-zone: "pamspringadvertising.com" always_refuse

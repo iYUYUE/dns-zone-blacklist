@@ -1383,6 +1383,7 @@ local-zone: "richad.in" always_nxdomain
 local-zone: "rktch.com" always_nxdomain
 local-zone: "rmvin.com" always_nxdomain
 local-zone: "ro3sf.com" always_nxdomain
+local-zone: "r.pzwl.pl" always_nxdomain
 local-zone: "rtbiq.com" always_nxdomain
 local-zone: "rtrgt.com" always_nxdomain
 local-zone: "rutrk.org" always_nxdomain
@@ -8304,6 +8305,7 @@ local-zone: "pt0zhwhc26.ru" always_nxdomain
 local-zone: "pub2.naiz.eus" always_nxdomain
 local-zone: "pub.bayard.io" always_nxdomain
 local-zone: "pubfinity.com" always_nxdomain
+local-zone: "pub.indice.eu" always_nxdomain
 local-zone: "pubnation.com" always_nxdomain
 local-zone: "pubnative.net" always_nxdomain
 local-zone: "pub.oumma.com" always_nxdomain
@@ -11084,6 +11086,7 @@ local-zone: "go.ad2upapp.com" always_nxdomain
 local-zone: "goblin.hupu.com" always_nxdomain
 local-zone: "go.data1rtb.com" always_nxdomain
 local-zone: "go.delmovip.com" always_nxdomain
+local-zone: "go.dotcom.co.il" always_nxdomain
 local-zone: "goldmineltd.com" always_nxdomain
 local-zone: "go.mobiflyc.com" always_nxdomain
 local-zone: "go.mobiflyd.com" always_nxdomain
@@ -11268,6 +11271,7 @@ local-zone: "myadsmantra.com" always_nxdomain
 local-zone: "mybasilsoup.com" always_nxdomain
 local-zone: "mydataninja.com" always_nxdomain
 local-zone: "n1275adserv.xyz" always_nxdomain
+local-zone: "nad.247media.cz" always_nxdomain
 local-zone: "naftemporiki.gr" always_nxdomain
 local-zone: "nano-visor.info" always_nxdomain
 local-zone: "nativetouch.com" always_nxdomain
@@ -11530,6 +11534,7 @@ local-zone: "softonicads.com" always_nxdomain
 local-zone: "soma.3xforum.ro" always_nxdomain
 local-zone: "sos.ssooss.site" always_nxdomain
 local-zone: "sourcepoint.com" always_nxdomain
+local-zone: "sp01.masmar.com" always_nxdomain
 local-zone: "sparkstudios.in" always_nxdomain
 local-zone: "spire.aarki.net" always_nxdomain
 local-zone: "spotxchange.com" always_nxdomain
@@ -12586,6 +12591,7 @@ local-zone: "onvictinitor.com" always_nxdomain
 local-zone: "open.oneplus.net" always_nxdomain
 local-zone: "openvideoads.com" always_nxdomain
 local-zone: "openx2.kytary.cz" always_nxdomain
+local-zone: "openx.babinet.cz" always_nxdomain
 local-zone: "openx.bergfex.at" always_nxdomain
 local-zone: "openx.kgmedia.eu" always_nxdomain
 local-zone: "openxmarket.asia" always_nxdomain
@@ -13003,6 +13009,7 @@ local-zone: "ad.diaosiquan.com" always_nxdomain
 local-zone: "ad.dl.mainpost.de" always_nxdomain
 local-zone: "ad.ec-masters.net" always_nxdomain
 local-zone: "ad.e-consulta.com" always_nxdomain
+local-zone: "ad.elektrika.info" always_nxdomain
 local-zone: "adexchangesrv.com" always_nxdomain
 local-zone: "ad.firestorage.jp" always_nxdomain
 local-zone: "adfunkyserver.com" always_nxdomain
@@ -13818,8 +13825,10 @@ local-zone: "registermedia.com" always_nxdomain
 local-zone: "rek5.savefrom.net" always_nxdomain
 local-zone: "reklama.gazeta.pl" always_nxdomain
 local-zone: "reklama.silnet.pl" always_nxdomain
+local-zone: "reklama.szopus.pl" always_nxdomain
 local-zone: "reklama.wisdom.bg" always_nxdomain
 local-zone: "reklame.sbplus.hr" always_nxdomain
+local-zone: "reklam.lkd.org.tr" always_nxdomain
 local-zone: "repentanthate.com" always_nxdomain
 local-zone: "republicmedia.com" always_nxdomain
 local-zone: "responsiveads.com" always_nxdomain
@@ -16255,6 +16264,7 @@ local-zone: "openx.anonymouse.org" always_nxdomain
 local-zone: "openx.camelmedia.net" always_nxdomain
 local-zone: "openx.guidesocial.be" always_nxdomain
 local-zone: "openx.koprivnica.biz" always_nxdomain
+local-zone: "openx.radiofabrik.at" always_nxdomain
 local-zone: "orangeclickmedia.com" always_nxdomain
 local-zone: "overcooked-count.com" always_nxdomain
 local-zone: "oxygenmediagroup.com" always_nxdomain
@@ -17396,6 +17406,7 @@ local-zone: "pointeradvertising.com" always_nxdomain
 local-zone: "predictinteractive.com" always_nxdomain
 local-zone: "prop.celticnewsnow.com" always_nxdomain
 local-zone: "publicidad.cibeles.net" always_nxdomain
+local-zone: "publi.tkscreativos.com" always_nxdomain
 local-zone: "puresilvercreative.com" always_nxdomain
 local-zone: "pushnotify1.sermon.net" always_nxdomain
 local-zone: "push-sdk.mattel163.com" always_nxdomain
@@ -18103,6 +18114,7 @@ local-zone: "norwegianadvertising.com" always_nxdomain
 local-zone: "notification.tubecup.net" always_nxdomain
 local-zone: "oathmidiadigitalltda.com" always_nxdomain
 local-zone: "openx2.cpitrademedia.com" always_nxdomain
+local-zone: "openx.galiciadigital.com" always_nxdomain
 local-zone: "orangeadvertisingllc.com" always_nxdomain
 local-zone: "overview2.virtuagirl.com" always_nxdomain
 local-zone: "pamspringadvertising.com" always_nxdomain
