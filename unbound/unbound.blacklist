@@ -9433,6 +9433,7 @@ local-zone: "dpinspire.mobi" always_refuse
 local-zone: "dr2.yandex.net" always_refuse
 local-zone: "dream-cash.com" always_refuse
 local-zone: "dreamentia.com" always_refuse
+local-zone: "dreamsdome.com" always_refuse
 local-zone: "drevniicdn.com" always_refuse
 local-zone: "driftpizza.com" always_refuse
 local-zone: "drollwharf.com" always_refuse
@@ -11839,6 +11840,7 @@ local-zone: "ad.mogelpower.de" always_refuse
 local-zone: "admp-tc.delfi.ee" always_refuse
 local-zone: "ad.nasimlearn.ir" always_refuse
 local-zone: "adnerdsmedia.com" always_refuse
+local-zone: "ad.netventure.pl" always_refuse
 local-zone: "ad.noorlogic.com" always_refuse
 local-zone: "adnxs-simple.com" always_refuse
 local-zone: "a.doganburda.com" always_refuse
@@ -13342,6 +13344,7 @@ local-zone: "blogantivirus.com" always_refuse
 local-zone: "bluemoonmedia.net" always_refuse
 local-zone: "bms2.medicover.pl" always_refuse
 local-zone: "boffoadsfeeds.com" always_refuse
+local-zone: "boiledegglabs.com" always_refuse
 local-zone: "bonabanners.co.uk" always_refuse
 local-zone: "bonertraffic.info" always_refuse
 local-zone: "bonertraffic.mobi" always_refuse
