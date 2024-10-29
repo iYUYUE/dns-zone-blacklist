@@ -2028,6 +2028,7 @@ local-zone: "adview.com" always_nxdomain
 local-zone: "advifi.com" always_nxdomain
 local-zone: "advista.no" always_nxdomain
 local-zone: "adviva.net" always_nxdomain
+local-zone: "adv.muz.uz" always_nxdomain
 local-zone: "adv.r7.com" always_nxdomain
 local-zone: "advsnx.net" always_nxdomain
 local-zone: "advurl.com" always_nxdomain
@@ -12094,6 +12095,8 @@ local-zone: "ads.swissolar.ch" always_nxdomain
 local-zone: "ads.tabuflix.com" always_nxdomain
 local-zone: "ads.taonline.com" always_nxdomain
 local-zone: "ads.techads.info" always_nxdomain
+local-zone: "ads.techtunes.co" always_nxdomain
+local-zone: "ads.techtunes.io" always_nxdomain
 local-zone: "ads.thaiware.com" always_nxdomain
 local-zone: "ads.thesun.co.uk" always_nxdomain
 local-zone: "ads.tmhosting.se" always_nxdomain
@@ -13293,6 +13296,7 @@ local-zone: "advs.hankyung.com" always_nxdomain
 local-zone: "adways-studio.com" always_nxdomain
 local-zone: "adwolvesmedia.com" always_nxdomain
 local-zone: "adwordsagentur.at" always_nxdomain
+local-zone: "adx.shvoong.co.il" always_nxdomain
 local-zone: "adzone.temp.co.za" always_nxdomain
 local-zone: "adz.rashflash.com" always_nxdomain
 local-zone: "adzsquadmedia.com" always_nxdomain
@@ -16675,6 +16679,7 @@ local-zone: "advert.robotmeedia.ee" always_nxdomain
 local-zone: "advmanager.techfun.pl" always_nxdomain
 local-zone: "adv.office-partner.de" always_nxdomain
 local-zone: "ad-widget.wordpay.dev" always_nxdomain
+local-zone: "adworks.pixelworks.gr" always_nxdomain
 local-zone: "ad.yannloussouarn.com" always_nxdomain
 local-zone: "aestheticpatients.com" always_nxdomain
 local-zone: "affiliate.dtiserv.com" always_nxdomain
@@ -18053,6 +18058,7 @@ local-zone: "advertising.gammassp.com" always_nxdomain
 local-zone: "advertising.goldseek.com" always_nxdomain
 local-zone: "advertising.jornadabc.mx" always_nxdomain
 local-zone: "advertising.philstar.com" always_nxdomain
+local-zone: "advertnew.rinnovabili.it" always_nxdomain
 local-zone: "adverts.comms-dealer.com" always_nxdomain
 local-zone: "affiliate.adgtracker.com" always_nxdomain
 local-zone: "affiliates.a2hosting.com" always_nxdomain
@@ -18729,6 +18735,7 @@ local-zone: "advertising.artcity2008.com" always_nxdomain
 local-zone: "advertisingonlineagency.com" always_nxdomain
 local-zone: "advertising.valuedrugco.com" always_nxdomain
 local-zone: "advice-ads.s3.amazonaws.com" always_nxdomain
+local-zone: "adv.luccacomicsandgames.com" always_nxdomain
 local-zone: "affiliate-api.gamingtec.com" always_nxdomain
 local-zone: "affiliates.harvestright.com" always_nxdomain
 local-zone: "affiliates.webrotate360.com" always_nxdomain
