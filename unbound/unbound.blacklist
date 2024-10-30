@@ -7180,6 +7180,7 @@ local-zone: "adplexity.com" always_refuse
 local-zone: "adpopcorn.com" always_refuse
 local-zone: "ad.prohost.pl" always_refuse
 local-zone: "adprotect.net" always_refuse
+local-zone: "adpush.com.tr" always_refuse
 local-zone: "ad.rawasy.com" always_refuse
 local-zone: "adreactor.com" always_refuse
 local-zone: "adrecover.com" always_refuse
@@ -9063,6 +9064,7 @@ local-zone: "adstanding.com" always_refuse
 local-zone: "adstargets.com" always_refuse
 local-zone: "ads.tiktok.com" always_refuse
 local-zone: "ads.tlmshop.ru" always_refuse
+local-zone: "ads.topoin.net" always_refuse
 local-zone: "ads.traders.lt" always_refuse
 local-zone: "adstudio.cloud" always_refuse
 local-zone: "ads.tvmnews.mt" always_refuse
@@ -13008,6 +13010,7 @@ local-zone: "adaptivemedia.com" always_refuse
 local-zone: "ad.aqua-sentio.ch" always_refuse
 local-zone: "ad.autoview.co.kr" always_refuse
 local-zone: "adbutler-ikon.com" always_refuse
+local-zone: "adbutler-zino.com" always_refuse
 local-zone: "adbuttermedia.com" always_refuse
 local-zone: "ad.caijing.com.cn" always_refuse
 local-zone: "ad.casinocity.com" always_refuse
@@ -13523,6 +13526,7 @@ local-zone: "fe4r7k22y68p.info" always_refuse
 local-zone: "fearlessmedia.com" always_refuse
 local-zone: "fearlesstramp.com" always_refuse
 local-zone: "fed2nkspbdnr.info" always_refuse
+local-zone: "feeds.rappler.com" always_refuse
 local-zone: "fendixmedia.co.uk" always_refuse
 local-zone: "fetishdollars.net" always_refuse
 local-zone: "figmentdesign.com" always_refuse
@@ -16475,6 +16479,7 @@ local-zone: "ad.ambitojuridico.com" always_refuse
 local-zone: "adartsadvertising.com" always_refuse
 local-zone: "adbanners.bizland.com" always_refuse
 local-zone: "ad.bench.utorrent.com" always_refuse
+local-zone: "adbutler-chargino.com" always_refuse
 local-zone: "additionaldisplay.com" always_refuse
 local-zone: "ad.eilbote-online.com" always_refuse
 local-zone: "ad.gemeindezeitung.de" always_refuse
@@ -18085,6 +18090,7 @@ local-zone: "banner.pozitivanritam.hr" always_refuse
 local-zone: "banners.swankdollars.com" always_refuse
 local-zone: "beesocialmarketing.co.uk" always_refuse
 local-zone: "behavioural-banner.co.uk" always_refuse
+local-zone: "bemarketingsolutions.com" always_refuse
 local-zone: "bildirim.gazetevatan.com" always_refuse
 local-zone: "bitesized-commission.pro" always_refuse
 local-zone: "blackbearadvertising.com" always_refuse
@@ -19691,6 +19697,7 @@ local-zone: "adserver-1277986481.ap-northeast-1.elb.amazonaws.com" always_refuse
 local-zone: "dev-vertiv-xrwidgets-enh0cfcpfmhwh0az.z01.azurefd.net" always_refuse
 local-zone: "forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com" always_refuse
 local-zone: "prebid-config-open-data.s3.eu-central-1.amazonaws.com" always_refuse
+local-zone: "survey-alb-new-1082488714.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "asia-southeast1-gae-redirector-prod.cloudfunctions.net" always_refuse
 local-zone: "adwombat-services-470191665.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "adserver-prod-alb-2114072997.us-west-2.elb.amazonaws.com" always_refuse

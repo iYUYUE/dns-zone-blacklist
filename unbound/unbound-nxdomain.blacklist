@@ -7180,6 +7180,7 @@ local-zone: "adplexity.com" always_nxdomain
 local-zone: "adpopcorn.com" always_nxdomain
 local-zone: "ad.prohost.pl" always_nxdomain
 local-zone: "adprotect.net" always_nxdomain
+local-zone: "adpush.com.tr" always_nxdomain
 local-zone: "ad.rawasy.com" always_nxdomain
 local-zone: "adreactor.com" always_nxdomain
 local-zone: "adrecover.com" always_nxdomain
@@ -9063,6 +9064,7 @@ local-zone: "adstanding.com" always_nxdomain
 local-zone: "adstargets.com" always_nxdomain
 local-zone: "ads.tiktok.com" always_nxdomain
 local-zone: "ads.tlmshop.ru" always_nxdomain
+local-zone: "ads.topoin.net" always_nxdomain
 local-zone: "ads.traders.lt" always_nxdomain
 local-zone: "adstudio.cloud" always_nxdomain
 local-zone: "ads.tvmnews.mt" always_nxdomain
@@ -13008,6 +13010,7 @@ local-zone: "adaptivemedia.com" always_nxdomain
 local-zone: "ad.aqua-sentio.ch" always_nxdomain
 local-zone: "ad.autoview.co.kr" always_nxdomain
 local-zone: "adbutler-ikon.com" always_nxdomain
+local-zone: "adbutler-zino.com" always_nxdomain
 local-zone: "adbuttermedia.com" always_nxdomain
 local-zone: "ad.caijing.com.cn" always_nxdomain
 local-zone: "ad.casinocity.com" always_nxdomain
@@ -13523,6 +13526,7 @@ local-zone: "fe4r7k22y68p.info" always_nxdomain
 local-zone: "fearlessmedia.com" always_nxdomain
 local-zone: "fearlesstramp.com" always_nxdomain
 local-zone: "fed2nkspbdnr.info" always_nxdomain
+local-zone: "feeds.rappler.com" always_nxdomain
 local-zone: "fendixmedia.co.uk" always_nxdomain
 local-zone: "fetishdollars.net" always_nxdomain
 local-zone: "figmentdesign.com" always_nxdomain
@@ -16475,6 +16479,7 @@ local-zone: "ad.ambitojuridico.com" always_nxdomain
 local-zone: "adartsadvertising.com" always_nxdomain
 local-zone: "adbanners.bizland.com" always_nxdomain
 local-zone: "ad.bench.utorrent.com" always_nxdomain
+local-zone: "adbutler-chargino.com" always_nxdomain
 local-zone: "additionaldisplay.com" always_nxdomain
 local-zone: "ad.eilbote-online.com" always_nxdomain
 local-zone: "ad.gemeindezeitung.de" always_nxdomain
@@ -18085,6 +18090,7 @@ local-zone: "banner.pozitivanritam.hr" always_nxdomain
 local-zone: "banners.swankdollars.com" always_nxdomain
 local-zone: "beesocialmarketing.co.uk" always_nxdomain
 local-zone: "behavioural-banner.co.uk" always_nxdomain
+local-zone: "bemarketingsolutions.com" always_nxdomain
 local-zone: "bildirim.gazetevatan.com" always_nxdomain
 local-zone: "bitesized-commission.pro" always_nxdomain
 local-zone: "blackbearadvertising.com" always_nxdomain
@@ -19691,6 +19697,7 @@ local-zone: "adserver-1277986481.ap-northeast-1.elb.amazonaws.com" always_nxdoma
 local-zone: "dev-vertiv-xrwidgets-enh0cfcpfmhwh0az.z01.azurefd.net" always_nxdomain
 local-zone: "forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com" always_nxdomain
 local-zone: "prebid-config-open-data.s3.eu-central-1.amazonaws.com" always_nxdomain
+local-zone: "survey-alb-new-1082488714.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "asia-southeast1-gae-redirector-prod.cloudfunctions.net" always_nxdomain
 local-zone: "adwombat-services-470191665.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "adserver-prod-alb-2114072997.us-west-2.elb.amazonaws.com" always_nxdomain
