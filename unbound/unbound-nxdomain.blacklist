@@ -1319,6 +1319,7 @@ local-zone: "openap.tv" always_nxdomain
 local-zone: "openx.com" always_nxdomain
 local-zone: "openx.net" always_nxdomain
 local-zone: "openx.org" always_nxdomain
+local-zone: "opoxv.com" always_nxdomain
 local-zone: "optmd.com" always_nxdomain
 local-zone: "orjzy.com" always_nxdomain
 local-zone: "otm-r.com" always_nxdomain
@@ -5776,6 +5777,7 @@ local-zone: "ahernssa.com" always_nxdomain
 local-zone: "ahmedamin.uk" always_nxdomain
 local-zone: "ahrefurl.ink" always_nxdomain
 local-zone: "aiadmobi.com" always_nxdomain
+local-zone: "aimedads.com" always_nxdomain
 local-zone: "akane-ad.com" always_nxdomain
 local-zone: "akara.agency" always_nxdomain
 local-zone: "alfadart.com" always_nxdomain
@@ -6701,6 +6703,7 @@ local-zone: "round2mg.com" always_nxdomain
 local-zone: "royalada.com" always_nxdomain
 local-zone: "royalads.net" always_nxdomain
 local-zone: "rtbpanda.com" always_nxdomain
+local-zone: "rtbrenab.net" always_nxdomain
 local-zone: "ruckusae.com" always_nxdomain
 local-zone: "ruclicks.com" always_nxdomain
 local-zone: "runative.com" always_nxdomain
@@ -18070,6 +18073,7 @@ local-zone: "ads.palletenterprise.com" always_nxdomain
 local-zone: "ads.papertreedigital.com" always_nxdomain
 local-zone: "ads.partnerscreative.com" always_nxdomain
 local-zone: "ads.pirantisofthouse.com" always_nxdomain
+local-zone: "ads.platformbackbone.com" always_nxdomain
 local-zone: "ads.poradnikbudowlany.eu" always_nxdomain
 local-zone: "ads.sportslocalmedia.com" always_nxdomain
 local-zone: "ads.stuttgart-tourist.de" always_nxdomain

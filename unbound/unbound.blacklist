@@ -1319,6 +1319,7 @@ local-zone: "openap.tv" always_refuse
 local-zone: "openx.com" always_refuse
 local-zone: "openx.net" always_refuse
 local-zone: "openx.org" always_refuse
+local-zone: "opoxv.com" always_refuse
 local-zone: "optmd.com" always_refuse
 local-zone: "orjzy.com" always_refuse
 local-zone: "otm-r.com" always_refuse
@@ -5776,6 +5777,7 @@ local-zone: "ahernssa.com" always_refuse
 local-zone: "ahmedamin.uk" always_refuse
 local-zone: "ahrefurl.ink" always_refuse
 local-zone: "aiadmobi.com" always_refuse
+local-zone: "aimedads.com" always_refuse
 local-zone: "akane-ad.com" always_refuse
 local-zone: "akara.agency" always_refuse
 local-zone: "alfadart.com" always_refuse
@@ -6701,6 +6703,7 @@ local-zone: "round2mg.com" always_refuse
 local-zone: "royalada.com" always_refuse
 local-zone: "royalads.net" always_refuse
 local-zone: "rtbpanda.com" always_refuse
+local-zone: "rtbrenab.net" always_refuse
 local-zone: "ruckusae.com" always_refuse
 local-zone: "ruclicks.com" always_refuse
 local-zone: "runative.com" always_refuse
@@ -18070,6 +18073,7 @@ local-zone: "ads.palletenterprise.com" always_refuse
 local-zone: "ads.papertreedigital.com" always_refuse
 local-zone: "ads.partnerscreative.com" always_refuse
 local-zone: "ads.pirantisofthouse.com" always_refuse
+local-zone: "ads.platformbackbone.com" always_refuse
 local-zone: "ads.poradnikbudowlany.eu" always_refuse
 local-zone: "ads.sportslocalmedia.com" always_refuse
 local-zone: "ads.stuttgart-tourist.de" always_refuse
