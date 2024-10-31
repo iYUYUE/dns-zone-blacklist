@@ -15585,6 +15585,7 @@ zone "mozzart.ideaplus.mk" { type master; notify no; file "null.zone.file"; };
 zone "multiprintindia.com" { type master; notify no; file "null.zone.file"; };
 zone "muslimadnetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "myimagetracking.com" { type master; notify no; file "null.zone.file"; };
+zone "mysmartadmirror.com" { type master; notify no; file "null.zone.file"; };
 zone "nad-advertising.com" { type master; notify no; file "null.zone.file"; };
 zone "nationaladsales.com" { type master; notify no; file "null.zone.file"; };
 zone "native-adserver.com" { type master; notify no; file "null.zone.file"; };
