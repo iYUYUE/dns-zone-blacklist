@@ -5594,6 +5594,7 @@ local-zone: "adservice.no" always_refuse
 local-zone: "adservme.com" always_refuse
 local-zone: "adservrs.com" always_refuse
 local-zone: "ads.every.tv" always_refuse
+local-zone: "adsfloow.net" always_refuse
 local-zone: "ads.geofy.de" always_refuse
 local-zone: "ads.gogel.al" always_refuse
 local-zone: "adsgreed.com" always_refuse
@@ -6228,6 +6229,7 @@ local-zone: "idealads.net" always_refuse
 local-zone: "identads.com" always_refuse
 local-zone: "idmgroup.com" always_refuse
 local-zone: "ievolved.com" always_refuse
+local-zone: "ieyri61b.xyz" always_refuse
 local-zone: "ikeyword.com" always_refuse
 local-zone: "ileadetal.nl" always_refuse
 local-zone: "imaxcash.com" always_refuse
@@ -11068,6 +11070,7 @@ local-zone: "fingertip.click" always_refuse
 local-zone: "fireads.network" always_refuse
 local-zone: "firstsponsor.de" always_refuse
 local-zone: "flairadscpc.com" always_refuse
+local-zone: "flaxdescale.com" always_refuse
 local-zone: "fluffychair.pro" always_refuse
 local-zone: "flyersquare.com" always_refuse
 local-zone: "fmportfolio.com" always_refuse
@@ -11291,6 +11294,7 @@ local-zone: "muffdigital.com" always_refuse
 local-zone: "murekkep.com.tr" always_refuse
 local-zone: "myadsmantra.com" always_refuse
 local-zone: "mybasilsoup.com" always_refuse
+local-zone: "mybestclick.net" always_refuse
 local-zone: "mydataninja.com" always_refuse
 local-zone: "n1275adserv.xyz" always_refuse
 local-zone: "nad.247media.cz" always_refuse
@@ -12542,6 +12546,7 @@ local-zone: "looksmartppc.com" always_refuse
 local-zone: "lp.change-jp.com" always_refuse
 local-zone: "lp.stargames.com" always_refuse
 local-zone: "lp.windriver.com" always_refuse
+local-zone: "macan-native.com" always_refuse
 local-zone: "madebyintent.com" always_refuse
 local-zone: "makerstudios.com" always_refuse
 local-zone: "manmarketing.com" always_refuse
@@ -12580,6 +12585,7 @@ local-zone: "mortaragency.com" always_refuse
 local-zone: "moviedollars.com" always_refuse
 local-zone: "mpartner.digital" always_refuse
 local-zone: "mwcm.nytimes.com" always_refuse
+local-zone: "mybestclick.mobi" always_refuse
 local-zone: "mydomainbest.com" always_refuse
 local-zone: "myhappy-news.com" always_refuse
 local-zone: "myopenware.co.uk" always_refuse
@@ -13370,6 +13376,7 @@ local-zone: "banner.finzoom.ro" always_refuse
 local-zone: "banner.gobila.com" always_refuse
 local-zone: "banner.icmedia.eu" always_refuse
 local-zone: "banner.profile.ru" always_refuse
+local-zone: "beanedbounds.shop" always_refuse
 local-zone: "beap-bc.yahoo.com" always_refuse
 local-zone: "bearmoonlodge.com" always_refuse
 local-zone: "bennsolutions.com" always_refuse
