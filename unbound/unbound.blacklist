@@ -250,6 +250,7 @@ local-zone: "sync.tv" always_refuse
 local-zone: "tidd.ly" always_refuse
 local-zone: "tkff.co" always_refuse
 local-zone: "tlpt.ru" always_refuse
+local-zone: "tpmn.io" always_refuse
 local-zone: "tsx.org" always_refuse
 local-zone: "tvty.tv" always_refuse
 local-zone: "twil.it" always_refuse
@@ -2960,6 +2961,7 @@ local-zone: "qprskl.com" always_refuse
 local-zone: "qrex.media" always_refuse
 local-zone: "quotes.com" always_refuse
 local-zone: "quqizo.com" always_refuse
+local-zone: "qushad.com" always_refuse
 local-zone: "qvvoom.com" always_refuse
 local-zone: "qyxwfe.com" always_refuse
 local-zone: "radium1.us" always_refuse
@@ -9906,6 +9908,7 @@ local-zone: "oxygenfuse.com" always_refuse
 local-zone: "oys234w0zq.com" always_refuse
 local-zone: "p1.meituan.net" always_refuse
 local-zone: "pandologic.com" always_refuse
+local-zone: "pangle-ads.com" always_refuse
 local-zone: "parichayad.com" always_refuse
 local-zone: "parsec-ads.com" always_refuse
 local-zone: "partnercash.de" always_refuse

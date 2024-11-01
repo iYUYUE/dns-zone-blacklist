@@ -250,6 +250,7 @@ local-zone: "sync.tv" always_nxdomain
 local-zone: "tidd.ly" always_nxdomain
 local-zone: "tkff.co" always_nxdomain
 local-zone: "tlpt.ru" always_nxdomain
+local-zone: "tpmn.io" always_nxdomain
 local-zone: "tsx.org" always_nxdomain
 local-zone: "tvty.tv" always_nxdomain
 local-zone: "twil.it" always_nxdomain
@@ -2960,6 +2961,7 @@ local-zone: "qprskl.com" always_nxdomain
 local-zone: "qrex.media" always_nxdomain
 local-zone: "quotes.com" always_nxdomain
 local-zone: "quqizo.com" always_nxdomain
+local-zone: "qushad.com" always_nxdomain
 local-zone: "qvvoom.com" always_nxdomain
 local-zone: "qyxwfe.com" always_nxdomain
 local-zone: "radium1.us" always_nxdomain
@@ -9906,6 +9908,7 @@ local-zone: "oxygenfuse.com" always_nxdomain
 local-zone: "oys234w0zq.com" always_nxdomain
 local-zone: "p1.meituan.net" always_nxdomain
 local-zone: "pandologic.com" always_nxdomain
+local-zone: "pangle-ads.com" always_nxdomain
 local-zone: "parichayad.com" always_nxdomain
 local-zone: "parsec-ads.com" always_nxdomain
 local-zone: "partnercash.de" always_nxdomain
