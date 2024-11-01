@@ -12255,6 +12255,7 @@ zone "banner.ws.pho.to" { type master; notify no; file "null.zone.file"; };
 zone "batecrowle.click" { type master; notify no; file "null.zone.file"; };
 zone "bbstatic.ign.com" { type master; notify no; file "null.zone.file"; };
 zone "bestadoffers.com" { type master; notify no; file "null.zone.file"; };
+zone "beta.efund.media" { type master; notify no; file "null.zone.file"; };
 zone "betotodileon.com" { type master; notify no; file "null.zone.file"; };
 zone "b.hubhubhub.name" { type master; notify no; file "null.zone.file"; };
 zone "bid4keywords.com" { type master; notify no; file "null.zone.file"; };
