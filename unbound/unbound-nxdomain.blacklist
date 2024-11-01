@@ -18,6 +18,7 @@ local-zone: "za.pl" always_nxdomain
 local-zone: "24c.co" always_nxdomain
 local-zone: "a8.net" always_nxdomain
 local-zone: "a9.com" always_nxdomain
+local-zone: "a9g.io" always_nxdomain
 local-zone: "acp.gr" always_nxdomain
 local-zone: "ad1.ru" always_nxdomain
 local-zone: "ad1.si" always_nxdomain
@@ -8034,6 +8035,7 @@ local-zone: "kite-wave.com" always_nxdomain
 local-zone: "kkadverts.com" always_nxdomain
 local-zone: "klaustech.com" always_nxdomain
 local-zone: "kloutbuzz.com" always_nxdomain
+local-zone: "koekjes.email" always_nxdomain
 local-zone: "kompasads.com" always_nxdomain
 local-zone: "kontextua.com" always_nxdomain
 local-zone: "kosherads.net" always_nxdomain
