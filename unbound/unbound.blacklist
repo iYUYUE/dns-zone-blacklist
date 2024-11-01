@@ -2269,6 +2269,9 @@ local-zone: "contlo.com" always_refuse
 local-zone: "cordial.io" always_refuse
 local-zone: "cos-rd.com" always_refuse
 local-zone: "covatic.io" always_refuse
+local-zone: "cp.chip.de" always_refuse
+local-zone: "cp.elle.de" always_refuse
+local-zone: "cp.haus.de" always_refuse
 local-zone: "cplone.com" always_refuse
 local-zone: "cplusl.com" always_refuse
 local-zone: "cpm-ad.com" always_refuse
@@ -4167,6 +4170,8 @@ local-zone: "cpa3iqcp.de" always_refuse
 local-zone: "cpabone.com" always_refuse
 local-zone: "cpagrip.com" always_refuse
 local-zone: "cpalead.com" always_refuse
+local-zone: "cp.bunte.de" always_refuse
+local-zone: "cp.elle.com" always_refuse
 local-zone: "cp.focus.de" always_refuse
 local-zone: "cpmatic.com" always_refuse
 local-zone: "cpmstar.com" always_refuse
@@ -7733,7 +7738,9 @@ local-zone: "couponplus.ch" always_refuse
 local-zone: "covivado.club" always_refuse
 local-zone: "cowleyweb.com" always_refuse
 local-zone: "cozysense.com" always_refuse
+local-zone: "cp.esquire.de" always_refuse
 local-zone: "cp.filext.com" always_refuse
+local-zone: "cp.formel1.de" always_refuse
 local-zone: "crakmedia.com" always_refuse
 local-zone: "craterbox.com" always_refuse
 local-zone: "crentgate.com" always_refuse
@@ -9399,6 +9406,11 @@ local-zone: "coupling.media" always_refuse
 local-zone: "couponsinc.com" always_refuse
 local-zone: "coverlayer.com" always_refuse
 local-zone: "cowscrayon.com" always_refuse
+local-zone: "cp.autobild.es" always_refuse
+local-zone: "cp.autoguru.de" always_refuse
+local-zone: "cp.autohaus.de" always_refuse
+local-zone: "cp.eltiempo.es" always_refuse
+local-zone: "cp.freundin.de" always_refuse
 local-zone: "cpitraffic.com" always_refuse
 local-zone: "cqubemedia.com" always_refuse
 local-zone: "craftydish.com" always_refuse
@@ -10974,6 +10986,9 @@ local-zone: "contextuads.com" always_refuse
 local-zone: "cookiefirst.com" always_refuse
 local-zone: "coremotives.com" always_refuse
 local-zone: "couplingads.net" always_refuse
+local-zone: "cp.autofacil.es" always_refuse
+local-zone: "cp.emtb-news.de" always_refuse
+local-zone: "cp.fitforfun.de" always_refuse
 local-zone: "cpmadserver.com" always_refuse
 local-zone: "cpmadvisors.com" always_refuse
 local-zone: "cpx-traffic.com" always_refuse
@@ -12347,6 +12362,9 @@ local-zone: "corollamedia.com" always_refuse
 local-zone: "cpainventory.com" always_refuse
 local-zone: "cpass.wetter.com" always_refuse
 local-zone: "cp.autoflotte.de" always_refuse
+local-zone: "cp.goslarsche.de" always_refuse
+local-zone: "cp.gutekueche.at" always_refuse
+local-zone: "cp.gutekueche.de" always_refuse
 local-zone: "creativejolt.com" always_refuse
 local-zone: "creativespace.es" always_refuse
 local-zone: "creativespot.com" always_refuse
@@ -13469,6 +13487,8 @@ local-zone: "cordlessmedia.com" always_refuse
 local-zone: "corgibeachday.com" always_refuse
 local-zone: "countduhmoney.com" always_refuse
 local-zone: "cpa-adnetwork.com" always_refuse
+local-zone: "cp.diezminutos.es" always_refuse
+local-zone: "cp.free-fonts.com" always_refuse
 local-zone: "craftsmanplus.com" always_refuse
 local-zone: "cream.htvapps.com" always_refuse
 local-zone: "creativehighs.com" always_refuse
@@ -14508,6 +14528,11 @@ local-zone: "conversantmedia.eu" always_refuse
 local-zone: "cookie.nokeweb.net" always_refuse
 local-zone: "cosmicsculptor.com" always_refuse
 local-zone: "cover3creative.com" always_refuse
+local-zone: "cp.computerhoy.com" always_refuse
+local-zone: "cp.donnerwetter.de" always_refuse
+local-zone: "cp.gequo-travel.de" always_refuse
+local-zone: "cp.gladbachlive.de" always_refuse
+local-zone: "cp.iban-rechner.de" always_refuse
 local-zone: "cpmaffiliation.com" always_refuse
 local-zone: "cp.tagesspiegel.de" always_refuse
 local-zone: "cpxinteractive.com" always_refuse
@@ -15437,6 +15462,9 @@ local-zone: "conversiongiant.com" always_refuse
 local-zone: "cookieassistant.com" always_refuse
 local-zone: "coordinate.abudhabi" always_refuse
 local-zone: "costly-computer.pro" always_refuse
+local-zone: "cp.aerztezeitung.de" always_refuse
+local-zone: "cp.caranddriver.com" always_refuse
+local-zone: "cp.harpersbazaar.de" always_refuse
 local-zone: "crbcdn.jsfiddle.net" always_refuse
 local-zone: "creativecracker.com" always_refuse
 local-zone: "creativecurve.co.za" always_refuse
@@ -16178,6 +16206,9 @@ local-zone: "converge-digital.com" always_refuse
 local-zone: "conversionengine.net" always_refuse
 local-zone: "cookieinfoscript.com" always_refuse
 local-zone: "courteous-double.com" always_refuse
+local-zone: "cp.branchen-info.net" always_refuse
+local-zone: "cp.deine-tierwelt.de" always_refuse
+local-zone: "cp.gartenjournal.net" always_refuse
 local-zone: "cpro.baidustatic.com" always_refuse
 local-zone: "creative-serving.com" always_refuse
 local-zone: "creative.spmgroup.in" always_refuse
@@ -16796,6 +16827,10 @@ local-zone: "consent.gameforge.com" always_refuse
 local-zone: "consent.liberation.fr" always_refuse
 local-zone: "conversiongorilla.com" always_refuse
 local-zone: "cookieinformation.com" always_refuse
+local-zone: "cp.businessinsider.de" always_refuse
+local-zone: "cp.businessinsider.es" always_refuse
+local-zone: "cp.das-pta-magazin.de" always_refuse
+local-zone: "cp.ibancalculator.com" always_refuse
 local-zone: "creative.elliemae.com" always_refuse
 local-zone: "creativity-online.com" always_refuse
 local-zone: "criteo-technology.com" always_refuse
@@ -16817,6 +16852,7 @@ local-zone: "display.promosi88.com" always_refuse
 local-zone: "domainadvertising.com" always_refuse
 local-zone: "dom.monitorlatino.com" always_refuse
 local-zone: "drummondcentral.co.uk" always_refuse
+local-zone: "e3lanat.gem-flash.com" always_refuse
 local-zone: "edgecast-vod.yimg.com" always_refuse
 local-zone: "effervescentcoral.com" always_refuse
 local-zone: "egvyg.gamersroom.info" always_refuse
@@ -17365,6 +17401,8 @@ local-zone: "contributor.google.com" always_refuse
 local-zone: "conventional-nurse.pro" always_refuse
 local-zone: "cookiebar.hulkapps.com" always_refuse
 local-zone: "counciladvertising.net" always_refuse
+local-zone: "cp.badische-zeitung.de" always_refuse
+local-zone: "cp.digitalfernsehen.de" always_refuse
 local-zone: "creativedimensions.com" always_refuse
 local-zone: "creativeparamedics.com" always_refuse
 local-zone: "criteo-accounts-go.com" always_refuse
@@ -17814,6 +17852,8 @@ local-zone: "commission-junction.com" always_refuse
 local-zone: "commission-junction.net" always_refuse
 local-zone: "conversionsondemand.com" always_refuse
 local-zone: "cookiebanner.phusion.nl" always_refuse
+local-zone: "cp.autoservicepraxis.de" always_refuse
+local-zone: "cp.elektroauto-news.net" always_refuse
 local-zone: "creativecirclemedia.com" always_refuse
 local-zone: "creativehouse.marketing" always_refuse
 local-zone: "creative-preview-an.com" always_refuse
@@ -18640,6 +18680,7 @@ local-zone: "clipcentric-a.akamaihd.net" always_refuse
 local-zone: "cmpv2.faroutmagazine.co.uk" always_refuse
 local-zone: "commercemediaplatform.asia" always_refuse
 local-zone: "commercemediaplatform.tech" always_refuse
+local-zone: "cp.faszination-fankurve.de" always_refuse
 local-zone: "dawnnationaladvertiser.com" always_refuse
 local-zone: "de-advertising.weather.com" always_refuse
 local-zone: "delivered-by-madington.com" always_refuse
@@ -18814,6 +18855,7 @@ local-zone: "comfortable-preparation.pro" always_refuse
 local-zone: "commercial.daznservices.com" always_refuse
 local-zone: "console.livingmagonline.com" always_refuse
 local-zone: "console.mannixmarketing.com" always_refuse
+local-zone: "cp.backenmachtgluecklich.de" always_refuse
 local-zone: "dealswidget.bestreviews.com" always_refuse
 local-zone: "delivery-ci360.infos.dkb.de" always_refuse
 local-zone: "dnderkfeab66.cloudfront.net" always_refuse
@@ -18967,6 +19009,7 @@ local-zone: "brandsdeservebettermedia.com" always_refuse
 local-zone: "brandsdeservebettermedia.org" always_refuse
 local-zone: "console.sacommunications.com" always_refuse
 local-zone: "contile.services.mozilla.com" always_refuse
+local-zone: "cp.habe-ich-selbstgemacht.de" always_refuse
 local-zone: "d1cgrmilfgg1y.cloudfront.net" always_refuse
 local-zone: "d1qv75s97cbp4.cloudfront.net" always_refuse
 local-zone: "d2uap9jskdzp2.cloudfront.net" always_refuse
