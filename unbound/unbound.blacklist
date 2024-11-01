@@ -2472,6 +2472,7 @@ local-zone: "go-srv.com" always_refuse
 local-zone: "grmtas.com" always_refuse
 local-zone: "grobyo.com" always_refuse
 local-zone: "groupm.com" always_refuse
+local-zone: "growave.io" always_refuse
 local-zone: "grumft.com" always_refuse
 local-zone: "gsspcln.jp" always_refuse
 local-zone: "gswtol.com" always_refuse
@@ -7902,6 +7903,7 @@ local-zone: "go.ashhgo.com" always_refuse
 local-zone: "godigipro.com" always_refuse
 local-zone: "goldadvert.cz" always_refuse
 local-zone: "goldclick.xyz" always_refuse
+local-zone: "goldendev.win" always_refuse
 local-zone: "go.metabet.io" always_refuse
 local-zone: "go.mhadsd.com" always_refuse
 local-zone: "go.mhadst.com" always_refuse
@@ -12627,6 +12629,7 @@ local-zone: "ocsrest.ebay.com" always_refuse
 local-zone: "offers.avira.com" always_refuse
 local-zone: "ogilvi.medium.al" always_refuse
 local-zone: "ogl.primorske.si" always_refuse
+local-zone: "omnisnippet1.com" always_refuse
 local-zone: "ondeerlingan.com" always_refuse
 local-zone: "onedigitalad.com" always_refuse
 local-zone: "onvictinitor.com" always_refuse
@@ -15824,6 +15827,7 @@ local-zone: "wildgroei.amsterdam" always_refuse
 local-zone: "wingardcreative.com" always_refuse
 local-zone: "wizardclicks.com.au" always_refuse
 local-zone: "wopsedoaltuwipp.com" always_refuse
+local-zone: "wt.omnisendlink.com" always_refuse
 local-zone: "www9.downloadani.me" always_refuse
 local-zone: "xenethmarketing.com" always_refuse
 local-zone: "xml-eu.netload1.com" always_refuse
@@ -19218,6 +19222,7 @@ local-zone: "d3mr7y154d2qg5.cloudfront.net" always_refuse
 local-zone: "d3mzokty951c5w.cloudfront.net" always_refuse
 local-zone: "d3nvrqlo8rj1kw.cloudfront.net" always_refuse
 local-zone: "d3plfjw9uod7ab.cloudfront.net" always_refuse
+local-zone: "d3pqayu4fds1ps.cloudfront.net" always_refuse
 local-zone: "d3qrz9uuaxc8ej.cloudfront.net" always_refuse
 local-zone: "d3rr3d0n31t48m.cloudfront.net" always_refuse
 local-zone: "d3tglifpd8whs6.cloudfront.net" always_refuse
