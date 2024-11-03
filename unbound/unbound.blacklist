@@ -9317,7 +9317,6 @@ local-zone: "buysellads.com" always_refuse
 local-zone: "buysellads.net" always_refuse
 local-zone: "bycelebian.com" always_refuse
 local-zone: "byobglobal.com" always_refuse
-local-zone: "c6.patreon.com" always_refuse
 local-zone: "campartner.com" always_refuse
 local-zone: "cappumedia.com" always_refuse
 local-zone: "cappushino.com" always_refuse
@@ -11756,6 +11755,7 @@ local-zone: "westseven.media" always_refuse
 local-zone: "whamuthygle.com" always_refuse
 local-zone: "whitbyspace.com" always_refuse
 local-zone: "widget.1688.com" always_refuse
+local-zone: "widgetlogic.org" always_refuse
 local-zone: "wikiwakywoo.com" always_refuse
 local-zone: "wisernotify.com" always_refuse
 local-zone: "wns.windows.com" always_refuse

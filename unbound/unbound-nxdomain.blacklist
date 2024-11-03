@@ -9317,7 +9317,6 @@ local-zone: "buysellads.com" always_nxdomain
 local-zone: "buysellads.net" always_nxdomain
 local-zone: "bycelebian.com" always_nxdomain
 local-zone: "byobglobal.com" always_nxdomain
-local-zone: "c6.patreon.com" always_nxdomain
 local-zone: "campartner.com" always_nxdomain
 local-zone: "cappumedia.com" always_nxdomain
 local-zone: "cappushino.com" always_nxdomain
@@ -11756,6 +11755,7 @@ local-zone: "westseven.media" always_nxdomain
 local-zone: "whamuthygle.com" always_nxdomain
 local-zone: "whitbyspace.com" always_nxdomain
 local-zone: "widget.1688.com" always_nxdomain
+local-zone: "widgetlogic.org" always_nxdomain
 local-zone: "wikiwakywoo.com" always_nxdomain
 local-zone: "wisernotify.com" always_nxdomain
 local-zone: "wns.windows.com" always_nxdomain
