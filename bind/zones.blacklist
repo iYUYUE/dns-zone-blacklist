@@ -18294,6 +18294,7 @@ zone "orangeadvertisingllc.com" { type master; notify no; file "null.zone.file";
 zone "overview2.virtuagirl.com" { type master; notify no; file "null.zone.file"; };
 zone "pamspringadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "partnerads.ysm.yahoo.com" { type master; notify no; file "null.zone.file"; };
+zone "partner.elektroonline.pl" { type master; notify no; file "null.zone.file"; };
 zone "paywall-prod.appspot.com" { type master; notify no; file "null.zone.file"; };
 zone "pinnacle-advertising.com" { type master; notify no; file "null.zone.file"; };
 zone "poweredbyliquidfire.mobi" { type master; notify no; file "null.zone.file"; };
