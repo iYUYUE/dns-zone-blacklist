@@ -1770,6 +1770,7 @@ local-zone: "adhost.com" always_nxdomain
 local-zone: "adhouse.ca" always_nxdomain
 local-zone: "adhslx.com" always_nxdomain
 local-zone: "adhunt.net" always_nxdomain
+local-zone: "adiam.tech" always_nxdomain
 local-zone: "adiant.com" always_nxdomain
 local-zone: "adicio.com" always_nxdomain
 local-zone: "adinch.com" always_nxdomain
@@ -5972,7 +5973,6 @@ local-zone: "catwrite.com" always_nxdomain
 local-zone: "cayo.systems" always_nxdomain
 local-zone: "cb-killer.ru" always_nxdomain
 local-zone: "cbproads.com" always_nxdomain
-local-zone: "cc.sersh.com" always_nxdomain
 local-zone: "ccube.ind.in" always_nxdomain
 local-zone: "cd.101vn.com" always_nxdomain
 local-zone: "cdn.piano.io" always_nxdomain
@@ -7560,6 +7560,7 @@ local-zone: "akerolabs.com" always_nxdomain
 local-zone: "aklamator.com" always_nxdomain
 local-zone: "akm-media.com" always_nxdomain
 local-zone: "akvertise.com" always_nxdomain
+local-zone: "al-adtech.com" always_nxdomain
 local-zone: "aldesigns.com" always_nxdomain
 local-zone: "a.letsjerk.tv" always_nxdomain
 local-zone: "alfasense.com" always_nxdomain
@@ -8189,6 +8190,7 @@ local-zone: "mediaplex.com" always_nxdomain
 local-zone: "mediasmart.es" always_nxdomain
 local-zone: "mediasmart.io" always_nxdomain
 local-zone: "mediative.com" always_nxdomain
+local-zone: "mediatoday.ru" always_nxdomain
 local-zone: "mediavine.com" always_nxdomain
 local-zone: "medicalads.cz" always_nxdomain
 local-zone: "medinacom.com" always_nxdomain
@@ -8657,6 +8659,7 @@ local-zone: "telebijoux.ca" always_nxdomain
 local-zone: "telebijoux.fr" always_nxdomain
 local-zone: "teleproff.com" always_nxdomain
 local-zone: "teosredic.com" always_nxdomain
+local-zone: "terratraf.com" always_nxdomain
 local-zone: "tharbadir.com" always_nxdomain
 local-zone: "the3rdeye.com" always_nxdomain
 local-zone: "theadmoji.com" always_nxdomain
@@ -11028,7 +11031,6 @@ local-zone: "c0.ifengimg.com" always_nxdomain
 local-zone: "c4n.xxxbold.com" always_nxdomain
 local-zone: "cab-too-low.com" always_nxdomain
 local-zone: "cafelead.agency" always_nxdomain
-local-zone: "ca.infomix.best" always_nxdomain
 local-zone: "callahan.agency" always_nxdomain
 local-zone: "callalelel.info" always_nxdomain
 local-zone: "calltheczar.com" always_nxdomain
@@ -15759,7 +15761,6 @@ local-zone: "experientialetc.com" always_nxdomain
 local-zone: "expmediadirect1.com" always_nxdomain
 local-zone: "extads.gameloft.com" always_nxdomain
 local-zone: "faktoryshowroom.com" always_nxdomain
-local-zone: "faq.brandnewapp.pro" always_nxdomain
 local-zone: "fearless-middle.pro" always_nxdomain
 local-zone: "fenixadvertising.in" always_nxdomain
 local-zone: "firstsportmedia.com" always_nxdomain
@@ -19898,7 +19899,6 @@ local-zone: "static-17.sinclairstoryline.com" always_nxdomain
 local-zone: "twitter-badges.s3.amazonaws.com" always_nxdomain
 local-zone: "wildcard.betrad.com.edgekey.net" always_nxdomain
 local-zone: "wildcard.evidon.com.edgekey.net" always_nxdomain
-local-zone: "1qrsumhcuudhkt4c.brandnewapp.pro" always_nxdomain
 local-zone: "701.oss-cn-hongkong.aliyuncs.com" always_nxdomain
 local-zone: "7q1z79gxsi.global.ssl.fastly.net" always_nxdomain
 local-zone: "adserver-admin.kl-youniverse.com" always_nxdomain
@@ -19915,7 +19915,6 @@ local-zone: "affilitybanners.s3.amazonaws.com" always_nxdomain
 local-zone: "apple-resources.s3.amazonaws.com" always_nxdomain
 local-zone: "baxter-cdn.production.olxssa.com" always_nxdomain
 local-zone: "copyrightregistrationservice.com" always_nxdomain
-local-zone: "cza4wopwcvdiq6sg.brandnewapp.pro" always_nxdomain
 local-zone: "dai-scope010.timewarnercable.com" always_nxdomain
 local-zone: "desktop-adv-banners.freemake.com" always_nxdomain
 local-zone: "floorforce.streetinteractive.com" always_nxdomain

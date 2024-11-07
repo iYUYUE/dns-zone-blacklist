@@ -1770,6 +1770,7 @@ local-zone: "adhost.com" always_refuse
 local-zone: "adhouse.ca" always_refuse
 local-zone: "adhslx.com" always_refuse
 local-zone: "adhunt.net" always_refuse
+local-zone: "adiam.tech" always_refuse
 local-zone: "adiant.com" always_refuse
 local-zone: "adicio.com" always_refuse
 local-zone: "adinch.com" always_refuse
@@ -5972,7 +5973,6 @@ local-zone: "catwrite.com" always_refuse
 local-zone: "cayo.systems" always_refuse
 local-zone: "cb-killer.ru" always_refuse
 local-zone: "cbproads.com" always_refuse
-local-zone: "cc.sersh.com" always_refuse
 local-zone: "ccube.ind.in" always_refuse
 local-zone: "cd.101vn.com" always_refuse
 local-zone: "cdn.piano.io" always_refuse
@@ -7560,6 +7560,7 @@ local-zone: "akerolabs.com" always_refuse
 local-zone: "aklamator.com" always_refuse
 local-zone: "akm-media.com" always_refuse
 local-zone: "akvertise.com" always_refuse
+local-zone: "al-adtech.com" always_refuse
 local-zone: "aldesigns.com" always_refuse
 local-zone: "a.letsjerk.tv" always_refuse
 local-zone: "alfasense.com" always_refuse
@@ -8189,6 +8190,7 @@ local-zone: "mediaplex.com" always_refuse
 local-zone: "mediasmart.es" always_refuse
 local-zone: "mediasmart.io" always_refuse
 local-zone: "mediative.com" always_refuse
+local-zone: "mediatoday.ru" always_refuse
 local-zone: "mediavine.com" always_refuse
 local-zone: "medicalads.cz" always_refuse
 local-zone: "medinacom.com" always_refuse
@@ -8657,6 +8659,7 @@ local-zone: "telebijoux.ca" always_refuse
 local-zone: "telebijoux.fr" always_refuse
 local-zone: "teleproff.com" always_refuse
 local-zone: "teosredic.com" always_refuse
+local-zone: "terratraf.com" always_refuse
 local-zone: "tharbadir.com" always_refuse
 local-zone: "the3rdeye.com" always_refuse
 local-zone: "theadmoji.com" always_refuse
@@ -11028,7 +11031,6 @@ local-zone: "c0.ifengimg.com" always_refuse
 local-zone: "c4n.xxxbold.com" always_refuse
 local-zone: "cab-too-low.com" always_refuse
 local-zone: "cafelead.agency" always_refuse
-local-zone: "ca.infomix.best" always_refuse
 local-zone: "callahan.agency" always_refuse
 local-zone: "callalelel.info" always_refuse
 local-zone: "calltheczar.com" always_refuse
@@ -15759,7 +15761,6 @@ local-zone: "experientialetc.com" always_refuse
 local-zone: "expmediadirect1.com" always_refuse
 local-zone: "extads.gameloft.com" always_refuse
 local-zone: "faktoryshowroom.com" always_refuse
-local-zone: "faq.brandnewapp.pro" always_refuse
 local-zone: "fearless-middle.pro" always_refuse
 local-zone: "fenixadvertising.in" always_refuse
 local-zone: "firstsportmedia.com" always_refuse
@@ -19898,7 +19899,6 @@ local-zone: "static-17.sinclairstoryline.com" always_refuse
 local-zone: "twitter-badges.s3.amazonaws.com" always_refuse
 local-zone: "wildcard.betrad.com.edgekey.net" always_refuse
 local-zone: "wildcard.evidon.com.edgekey.net" always_refuse
-local-zone: "1qrsumhcuudhkt4c.brandnewapp.pro" always_refuse
 local-zone: "701.oss-cn-hongkong.aliyuncs.com" always_refuse
 local-zone: "7q1z79gxsi.global.ssl.fastly.net" always_refuse
 local-zone: "adserver-admin.kl-youniverse.com" always_refuse
@@ -19915,7 +19915,6 @@ local-zone: "affilitybanners.s3.amazonaws.com" always_refuse
 local-zone: "apple-resources.s3.amazonaws.com" always_refuse
 local-zone: "baxter-cdn.production.olxssa.com" always_refuse
 local-zone: "copyrightregistrationservice.com" always_refuse
-local-zone: "cza4wopwcvdiq6sg.brandnewapp.pro" always_refuse
 local-zone: "dai-scope010.timewarnercable.com" always_refuse
 local-zone: "desktop-adv-banners.freemake.com" always_refuse
 local-zone: "floorforce.streetinteractive.com" always_refuse
