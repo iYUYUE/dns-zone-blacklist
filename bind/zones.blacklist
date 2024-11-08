@@ -15862,6 +15862,7 @@ zone "litchfieldmedia.org" { type master; notify no; file "null.zone.file"; };
 zone "longislandmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "lonsdalesaatchi.com" { type master; notify no; file "null.zone.file"; };
 zone "loose-chemistry.pro" { type master; notify no; file "null.zone.file"; };
+zone "lsnp.flashscore.com" { type master; notify no; file "null.zone.file"; };
 zone "mab.data.tm-awx.com" { type master; notify no; file "null.zone.file"; };
 zone "macedomarketing.com" { type master; notify no; file "null.zone.file"; };
 zone "mail-ads.google.com" { type master; notify no; file "null.zone.file"; };
