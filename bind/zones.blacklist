@@ -4418,6 +4418,7 @@ zone "impetus.one" { type master; notify no; file "null.zone.file"; };
 zone "inclick.net" { type master; notify no; file "null.zone.file"; };
 zone "indexww.com" { type master; notify no; file "null.zone.file"; };
 zone "indiads.com" { type master; notify no; file "null.zone.file"; };
+zone "ingage.tech" { type master; notify no; file "null.zone.file"; };
 zone "innovid.com" { type master; notify no; file "null.zone.file"; };
 zone "instinct.az" { type master; notify no; file "null.zone.file"; };
 zone "intango.com" { type master; notify no; file "null.zone.file"; };
