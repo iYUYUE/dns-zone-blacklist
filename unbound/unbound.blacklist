@@ -3958,6 +3958,7 @@ local-zone: "agencyp.com" always_refuse
 local-zone: "ahalogy.com" always_refuse
 local-zone: "aimtell.com" always_refuse
 local-zone: "air-ads.net" always_refuse
+local-zone: "airfind.com" always_refuse
 local-zone: "airpush.com" always_refuse
 local-zone: "airship.com" always_refuse
 local-zone: "airtory.com" always_refuse
@@ -10032,6 +10033,7 @@ local-zone: "quickalert.org" always_refuse
 local-zone: "quilldraws.com" always_refuse
 local-zone: "r16kff9ug2.com" always_refuse
 local-zone: "r2gdigital.com" always_refuse
+local-zone: "r.2merkato.com" always_refuse
 local-zone: "rabelmedia.com" always_refuse
 local-zone: "ra.biz-gid.com" always_refuse
 local-zone: "radiumone.info" always_refuse
@@ -13247,6 +13249,7 @@ local-zone: "ads.rc-network.de" always_refuse
 local-zone: "ads.reempresa.org" always_refuse
 local-zone: "ads.rejsestart.dk" always_refuse
 local-zone: "ads.rivnefish.com" always_refuse
+local-zone: "ads.rtvonline.com" always_refuse
 local-zone: "ads.russmedia.com" always_refuse
 local-zone: "ads.satwakita.com" always_refuse
 local-zone: "ads.semerkand.com" always_refuse
