@@ -726,6 +726,7 @@ local-zone: "adcpm.com" always_refuse
 local-zone: "adcrew.co" always_refuse
 local-zone: "adcrew.us" always_refuse
 local-zone: "adcryp.to" always_refuse
+local-zone: "adctv.com" always_refuse
 local-zone: "addkt.com" always_refuse
 local-zone: "adeaz.com" always_refuse
 local-zone: "adecn.com" always_refuse
@@ -1860,6 +1861,7 @@ local-zone: "adquick.nl" always_refuse
 local-zone: "ad.qzin.jp" always_refuse
 local-zone: "adreque.st" always_refuse
 local-zone: "adright.co" always_refuse
+local-zone: "adrise.com" always_refuse
 local-zone: "adrite.com" always_refuse
 local-zone: "adriver.ru" always_refuse
 local-zone: "adrivo.com" always_refuse
@@ -1873,6 +1875,7 @@ local-zone: "ads24h.net" always_refuse
 local-zone: "ads2dc.com" always_refuse
 local-zone: "ads.2tk.pl" always_refuse
 local-zone: "ads.365.mk" always_refuse
+local-zone: "ads724.com" always_refuse
 local-zone: "ads.abv.mk" always_refuse
 local-zone: "adsage.com" always_refuse
 local-zone: "adsaide.cn" always_refuse
@@ -2024,6 +2027,7 @@ local-zone: "adtrue.com" always_refuse
 local-zone: "adtype.com" always_refuse
 local-zone: "aduhads.us" always_refuse
 local-zone: "adunion.de" always_refuse
+local-zone: "adup.co.il" always_refuse
 local-zone: "adv.abv.bg" always_refuse
 local-zone: "adveasy.ru" always_refuse
 local-zone: "adverma.de" always_refuse
@@ -3701,6 +3705,7 @@ local-zone: "adpiler.com" always_refuse
 local-zone: "adplacer.de" always_refuse
 local-zone: "adplan7.com" always_refuse
 local-zone: "adplayer.pl" always_refuse
+local-zone: "adplenty.io" always_refuse
 local-zone: "adplugg.com" always_refuse
 local-zone: "adpop-1.com" always_refuse
 local-zone: "adpopts.top" always_refuse
@@ -5394,6 +5399,7 @@ local-zone: "adavenue.com" always_refuse
 local-zone: "adaxis.media" always_refuse
 local-zone: "ad.bandao.cn" always_refuse
 local-zone: "adbarker.com" always_refuse
+local-zone: "adbeat.co.kr" always_refuse
 local-zone: "ad.beheer.eu" always_refuse
 local-zone: "adbookee.com" always_refuse
 local-zone: "adboomic.com" always_refuse
@@ -7402,6 +7408,7 @@ local-zone: "ad.unimhk.com" always_refuse
 local-zone: "adup-tech.com" always_refuse
 local-zone: "advancedtv.io" always_refuse
 local-zone: "advancets.org" always_refuse
+local-zone: "advantipro.de" always_refuse
 local-zone: "advarkads.com" always_refuse
 local-zone: "advclicks.net" always_refuse
 local-zone: "adveloper.com" always_refuse
@@ -8388,6 +8395,7 @@ local-zone: "radriches.com" always_refuse
 local-zone: "rainmakers.in" always_refuse
 local-zone: "rainyzinc.com" always_refuse
 local-zone: "rapidfire.com" always_refuse
+local-zone: "rapidhits.net" always_refuse
 local-zone: "rapidzebra.io" always_refuse
 local-zone: "ra.ranker.com" always_refuse
 local-zone: "ravalamin.com" always_refuse
@@ -8848,6 +8856,7 @@ local-zone: "ad.carnews.com" always_refuse
 local-zone: "adcascade.tech" always_refuse
 local-zone: "adcastplus.net" always_refuse
 local-zone: "ad.ccement.com" always_refuse
+local-zone: "adcharriot.com" always_refuse
 local-zone: "adc.interia.pl" always_refuse
 local-zone: "ad.citynews.it" always_refuse
 local-zone: "adclickpro.com" always_refuse
@@ -14351,6 +14360,7 @@ local-zone: "adulttraffic69.com" always_refuse
 local-zone: "ad.universcine.com" always_refuse
 local-zone: "advanced-store.com" always_refuse
 local-zone: "advapi.playtem.com" always_refuse
+local-zone: "advativeonline.com" always_refuse
 local-zone: "adventurefeeds.com" always_refuse
 local-zone: "adventurefeeds.net" always_refuse
 local-zone: "advenuemedia.co.uk" always_refuse
