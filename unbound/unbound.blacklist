@@ -434,7 +434,6 @@ local-zone: "elama.ru" always_refuse
 local-zone: "epom.com" always_refuse
 local-zone: "etarg.ru" always_refuse
 local-zone: "evyy.net" always_refuse
-local-zone: "ezoic.ai" always_refuse
 local-zone: "festi.io" always_refuse
 local-zone: "finad.de" always_refuse
 local-zone: "fixel.ai" always_refuse
@@ -1079,7 +1078,6 @@ local-zone: "exads.com" always_refuse
 local-zone: "extend.tv" always_refuse
 local-zone: "ezadz.net" always_refuse
 local-zone: "ezmob.com" always_refuse
-local-zone: "ezoic.net" always_refuse
 local-zone: "fbappi.co" always_refuse
 local-zone: "fdzev.com" always_refuse
 local-zone: "feathr.co" always_refuse
