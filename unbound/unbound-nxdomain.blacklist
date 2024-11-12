@@ -281,7 +281,6 @@ local-zone: "1emn.com" always_nxdomain
 local-zone: "1qqg.xyz" always_nxdomain
 local-zone: "1xbtc.io" always_nxdomain
 local-zone: "2htg.com" always_nxdomain
-local-zone: "2mdn.net" always_nxdomain
 local-zone: "2nvs.com" always_nxdomain
 local-zone: "2wins.in" always_nxdomain
 local-zone: "2xc8.net" always_nxdomain
@@ -922,7 +921,6 @@ local-zone: "apppl.com" always_nxdomain
 local-zone: "appss.app" always_nxdomain
 local-zone: "appzi.com" always_nxdomain
 local-zone: "aqofl.com" always_nxdomain
-local-zone: "art19.com" always_nxdomain
 local-zone: "asa.co.nz" always_nxdomain
 local-zone: "asapp.com" always_nxdomain
 local-zone: "auihf.com" always_nxdomain
@@ -4926,7 +4924,6 @@ local-zone: "s.zkcdn.net" always_nxdomain
 local-zone: "taboola.com" always_nxdomain
 local-zone: "tabsite.com" always_nxdomain
 local-zone: "tadapi.info" always_nxdomain
-local-zone: "tag.wknd.ai" always_nxdomain
 local-zone: "taiwtp1.com" always_nxdomain
 local-zone: "takelnk.com" always_nxdomain
 local-zone: "takoomi.com" always_nxdomain
@@ -5037,7 +5034,6 @@ local-zone: "vidsrev.com" always_nxdomain
 local-zone: "vidverto.io" always_nxdomain
 local-zone: "viewbix.com" always_nxdomain
 local-zone: "viewlnk.com" always_nxdomain
-local-zone: "viglink.com" always_nxdomain
 local-zone: "vincodo.com" always_nxdomain
 local-zone: "vionito.com" always_nxdomain
 local-zone: "viously.com" always_nxdomain
@@ -5916,7 +5912,6 @@ local-zone: "brainyad.com" always_nxdomain
 local-zone: "brandads.net" always_nxdomain
 local-zone: "brandcdn.com" always_nxdomain
 local-zone: "brandwand.in" always_nxdomain
-local-zone: "brickinc.net" always_nxdomain
 local-zone: "brinkads.com" always_nxdomain
 local-zone: "brsrv-id.com" always_nxdomain
 local-zone: "bruceads.com" always_nxdomain
@@ -7890,6 +7885,7 @@ local-zone: "galaksion.com" always_nxdomain
 local-zone: "gamepills.com" always_nxdomain
 local-zone: "gamespipe.com" always_nxdomain
 local-zone: "gbotvisit.com" always_nxdomain
+local-zone: "gcdn.2mdn.net" always_nxdomain
 local-zone: "gecdwmkee.com" always_nxdomain
 local-zone: "genieessp.com" always_nxdomain
 local-zone: "genieesspv.jp" always_nxdomain
@@ -11443,7 +11439,6 @@ local-zone: "promo-kovrov.ru" always_nxdomain
 local-zone: "prooffactor.com" always_nxdomain
 local-zone: "propelmedia.com" always_nxdomain
 local-zone: "propholicad.com" always_nxdomain
-local-zone: "provenpixel.com" always_nxdomain
 local-zone: "provenpixel.net" always_nxdomain
 local-zone: "pu5hk1n2020.com" always_nxdomain
 local-zone: "pubexchange.com" always_nxdomain

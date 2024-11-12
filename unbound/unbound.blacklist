@@ -281,7 +281,6 @@ local-zone: "1emn.com" always_refuse
 local-zone: "1qqg.xyz" always_refuse
 local-zone: "1xbtc.io" always_refuse
 local-zone: "2htg.com" always_refuse
-local-zone: "2mdn.net" always_refuse
 local-zone: "2nvs.com" always_refuse
 local-zone: "2wins.in" always_refuse
 local-zone: "2xc8.net" always_refuse
@@ -922,7 +921,6 @@ local-zone: "apppl.com" always_refuse
 local-zone: "appss.app" always_refuse
 local-zone: "appzi.com" always_refuse
 local-zone: "aqofl.com" always_refuse
-local-zone: "art19.com" always_refuse
 local-zone: "asa.co.nz" always_refuse
 local-zone: "asapp.com" always_refuse
 local-zone: "auihf.com" always_refuse
@@ -4926,7 +4924,6 @@ local-zone: "s.zkcdn.net" always_refuse
 local-zone: "taboola.com" always_refuse
 local-zone: "tabsite.com" always_refuse
 local-zone: "tadapi.info" always_refuse
-local-zone: "tag.wknd.ai" always_refuse
 local-zone: "taiwtp1.com" always_refuse
 local-zone: "takelnk.com" always_refuse
 local-zone: "takoomi.com" always_refuse
@@ -5037,7 +5034,6 @@ local-zone: "vidsrev.com" always_refuse
 local-zone: "vidverto.io" always_refuse
 local-zone: "viewbix.com" always_refuse
 local-zone: "viewlnk.com" always_refuse
-local-zone: "viglink.com" always_refuse
 local-zone: "vincodo.com" always_refuse
 local-zone: "vionito.com" always_refuse
 local-zone: "viously.com" always_refuse
@@ -5916,7 +5912,6 @@ local-zone: "brainyad.com" always_refuse
 local-zone: "brandads.net" always_refuse
 local-zone: "brandcdn.com" always_refuse
 local-zone: "brandwand.in" always_refuse
-local-zone: "brickinc.net" always_refuse
 local-zone: "brinkads.com" always_refuse
 local-zone: "brsrv-id.com" always_refuse
 local-zone: "bruceads.com" always_refuse
@@ -7890,6 +7885,7 @@ local-zone: "galaksion.com" always_refuse
 local-zone: "gamepills.com" always_refuse
 local-zone: "gamespipe.com" always_refuse
 local-zone: "gbotvisit.com" always_refuse
+local-zone: "gcdn.2mdn.net" always_refuse
 local-zone: "gecdwmkee.com" always_refuse
 local-zone: "genieessp.com" always_refuse
 local-zone: "genieesspv.jp" always_refuse
@@ -11443,7 +11439,6 @@ local-zone: "promo-kovrov.ru" always_refuse
 local-zone: "prooffactor.com" always_refuse
 local-zone: "propelmedia.com" always_refuse
 local-zone: "propholicad.com" always_refuse
-local-zone: "provenpixel.com" always_refuse
 local-zone: "provenpixel.net" always_refuse
 local-zone: "pu5hk1n2020.com" always_refuse
 local-zone: "pubexchange.com" always_refuse
