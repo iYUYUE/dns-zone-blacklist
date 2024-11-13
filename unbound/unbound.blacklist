@@ -57,6 +57,7 @@ local-zone: "arx.gr" always_refuse
 local-zone: "cad.pl" always_refuse
 local-zone: "cav.ai" always_refuse
 local-zone: "cj.com" always_refuse
+local-zone: "cq0.co" always_refuse
 local-zone: "dao.ad" always_refuse
 local-zone: "deg.kr" always_refuse
 local-zone: "ds1.nl" always_refuse
@@ -10079,6 +10080,7 @@ local-zone: "pushbeacon.com" always_refuse
 local-zone: "push.detik.com" always_refuse
 local-zone: "pushengage.com" always_refuse
 local-zone: "pushground.com" always_refuse
+local-zone: "push.m-t.space" always_refuse
 local-zone: "pushmyapps.com" always_refuse
 local-zone: "pushnative.com" always_refuse
 local-zone: "pushnotify.xyz" always_refuse
@@ -14931,6 +14933,7 @@ local-zone: "publicisgroupe.com" always_refuse
 local-zone: "pundr.esexa.online" always_refuse
 local-zone: "pursuanthealth.com" always_refuse
 local-zone: "pushcollection.net" always_refuse
+local-zone: "push.marketcat.net" always_refuse
 local-zone: "push.netmarble.com" always_refuse
 local-zone: "pushserver.mfms.ru" always_refuse
 local-zone: "qrushaffiliate.com" always_refuse

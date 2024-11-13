@@ -57,6 +57,7 @@ local-zone: "arx.gr" always_nxdomain
 local-zone: "cad.pl" always_nxdomain
 local-zone: "cav.ai" always_nxdomain
 local-zone: "cj.com" always_nxdomain
+local-zone: "cq0.co" always_nxdomain
 local-zone: "dao.ad" always_nxdomain
 local-zone: "deg.kr" always_nxdomain
 local-zone: "ds1.nl" always_nxdomain
@@ -10079,6 +10080,7 @@ local-zone: "pushbeacon.com" always_nxdomain
 local-zone: "push.detik.com" always_nxdomain
 local-zone: "pushengage.com" always_nxdomain
 local-zone: "pushground.com" always_nxdomain
+local-zone: "push.m-t.space" always_nxdomain
 local-zone: "pushmyapps.com" always_nxdomain
 local-zone: "pushnative.com" always_nxdomain
 local-zone: "pushnotify.xyz" always_nxdomain
@@ -14931,6 +14933,7 @@ local-zone: "publicisgroupe.com" always_nxdomain
 local-zone: "pundr.esexa.online" always_nxdomain
 local-zone: "pursuanthealth.com" always_nxdomain
 local-zone: "pushcollection.net" always_nxdomain
+local-zone: "push.marketcat.net" always_nxdomain
 local-zone: "push.netmarble.com" always_nxdomain
 local-zone: "pushserver.mfms.ru" always_nxdomain
 local-zone: "qrushaffiliate.com" always_nxdomain
