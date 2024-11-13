@@ -673,6 +673,7 @@ local-zone: "a2.zdg.de" always_nxdomain
 local-zone: "a3.zdg.de" always_nxdomain
 local-zone: "a4bbd.com" always_nxdomain
 local-zone: "a8723.com" always_nxdomain
+local-zone: "aa.1gr.cz" always_nxdomain
 local-zone: "a-ads.com" always_nxdomain
 local-zone: "aaf10.org" always_nxdomain
 local-zone: "aarth.com" always_nxdomain
@@ -14963,6 +14964,8 @@ local-zone: "revive.politika.rs" always_nxdomain
 local-zone: "rockcontent.com.br" always_nxdomain
 local-zone: "row.volksstimme.de" always_nxdomain
 local-zone: "rs-stripe.amny.com" always_nxdomain
+local-zone: "rs-stripe.aopa.org" always_nxdomain
+local-zone: "rs-stripe.ems1.com" always_nxdomain
 local-zone: "rs-stripe.nola.com" always_nxdomain
 local-zone: "rs-stripe.oann.com" always_nxdomain
 local-zone: "rs-stripe.usnn.com" always_nxdomain
@@ -18170,12 +18173,14 @@ local-zone: "rs-stripe.360trivia.com" always_nxdomain
 local-zone: "rs-stripe.anytrivia.com" always_nxdomain
 local-zone: "rs-stripe.astrovibe.com" always_nxdomain
 local-zone: "rs-stripe.dayofhist.com" always_nxdomain
+local-zone: "rs-stripe.email.rbj.net" always_nxdomain
 local-zone: "rs-stripe.enews-bnp.com" always_nxdomain
 local-zone: "rs-stripe.genomeweb.com" always_nxdomain
 local-zone: "rs-stripe.jlconline.com" always_nxdomain
 local-zone: "rs-stripe.newsready.com" always_nxdomain
 local-zone: "rs-stripe.nwaonline.com" always_nxdomain
 local-zone: "rs-stripe.rightwing.org" always_nxdomain
+local-zone: "rs-stripe.rs-3826-a.com" always_nxdomain
 local-zone: "rs-stripe.rvl-email.com" always_nxdomain
 local-zone: "rs-stripe.shawlocal.com" always_nxdomain
 local-zone: "rs-stripe.spotcrime.com" always_nxdomain
@@ -18488,10 +18493,12 @@ local-zone: "rs-stripe.bosnerdley.com" always_nxdomain
 local-zone: "rs-stripe.braingasms.com" always_nxdomain
 local-zone: "rs-stripe.clashdaily.com" always_nxdomain
 local-zone: "rs-stripe.desantishq.com" always_nxdomain
+local-zone: "rs-stripe.dictionary.com" always_nxdomain
 local-zone: "rs-stripe.easiereats.com" always_nxdomain
 local-zone: "rs-stripe.email.cpbj.com" always_nxdomain
 local-zone: "rs-stripe.empirenews.net" always_nxdomain
 local-zone: "rs-stripe.fivenation.com" always_nxdomain
+local-zone: "rs-stripe.marketgrow.com" always_nxdomain
 local-zone: "rs-stripe.modemobile.com" always_nxdomain
 local-zone: "rs-stripe.onewordday.com" always_nxdomain
 local-zone: "rs-stripe.ourpatriot.com" always_nxdomain
@@ -18499,6 +18506,7 @@ local-zone: "rs-stripe.potustoast.com" always_nxdomain
 local-zone: "rs-stripe.refinery29.com" always_nxdomain
 local-zone: "rs-stripe.shopisrael.com" always_nxdomain
 local-zone: "rs-stripe.thedailybs.com" always_nxdomain
+local-zone: "rs-stripe.tourtrivia.com" always_nxdomain
 local-zone: "rs-stripe.triviaboat.com" always_nxdomain
 local-zone: "rs-stripe.truthpress.com" always_nxdomain
 local-zone: "rs-stripe.wordthirst.com" always_nxdomain
@@ -18759,6 +18767,7 @@ local-zone: "rs-stripe.blackdoctor.org" always_nxdomain
 local-zone: "rs-stripe.buzzamerica.com" always_nxdomain
 local-zone: "rs-stripe.email.njbiz.com" always_nxdomain
 local-zone: "rs-stripe.farmjournal.com" always_nxdomain
+local-zone: "rs-stripe.firerescue1.com" always_nxdomain
 local-zone: "rs-stripe.funnyeditor.com" always_nxdomain
 local-zone: "rs-stripe.gaycitynews.com" always_nxdomain
 local-zone: "rs-stripe.headlineusa.com" always_nxdomain
@@ -18956,6 +18965,7 @@ local-zone: "questions.freshclick.co.uk" always_nxdomain
 local-zone: "risingflourishadsmedia.com" always_nxdomain
 local-zone: "rs-stripe.disneydining.com" always_nxdomain
 local-zone: "rs-stripe.drnewsemails.com" always_nxdomain
+local-zone: "rs-stripe.fearandblood.com" always_nxdomain
 local-zone: "rs-stripe.featurednews.com" always_nxdomain
 local-zone: "rs-stripe.flagandcross.com" always_nxdomain
 local-zone: "rs-stripe.freedomclash.com" always_nxdomain
@@ -19299,11 +19309,13 @@ local-zone: "pushblush.magicleafstore.com" always_nxdomain
 local-zone: "pushnotifications.pusher.com" always_nxdomain
 local-zone: "rs-stripe.americandigest.com" always_nxdomain
 local-zone: "rs-stripe.americanupdate.com" always_nxdomain
+local-zone: "rs-stripe.americasurveys.com" always_nxdomain
 local-zone: "rs-stripe.arkansasonline.com" always_nxdomain
 local-zone: "rs-stripe.billingsreport.com" always_nxdomain
 local-zone: "rs-stripe.commandcooking.com" always_nxdomain
 local-zone: "rs-stripe.dcdailyjournal.com" always_nxdomain
 local-zone: "rs-stripe.doityourselves.com" always_nxdomain
+local-zone: "rs-stripe.explainitdaily.com" always_nxdomain
 local-zone: "rs-stripe.feelyoung4life.com" always_nxdomain
 local-zone: "rs-stripe.fieldandstream.com" always_nxdomain
 local-zone: "rs-stripe.goodcleanhumor.com" always_nxdomain
@@ -19691,6 +19703,7 @@ local-zone: "rs-stripe.crainsgrandrapids.com" always_nxdomain
 local-zone: "rs-stripe.dailyopinionpolls.com" always_nxdomain
 local-zone: "rs-stripe.deepstatetribunal.com" always_nxdomain
 local-zone: "rs-stripe.email.giftsanddec.com" always_nxdomain
+local-zone: "rs-stripe.independentminute.com" always_nxdomain
 local-zone: "rs-stripe.patriotnewsalerts.com" always_nxdomain
 local-zone: "rs-stripe.patriotunitednews.com" always_nxdomain
 local-zone: "rs-stripe.prophecynewswatch.com" always_nxdomain
