@@ -8956,6 +8956,7 @@ local-zone: "ad.bomtoon.com" always_nxdomain
 local-zone: "adbrand.com.tr" always_nxdomain
 local-zone: "adbrands.co.il" always_nxdomain
 local-zone: "adcaffeine.com" always_nxdomain
+local-zone: "ad.cainiao.com" always_nxdomain
 local-zone: "adcanadian.com" always_nxdomain
 local-zone: "adcannyads.com" always_nxdomain
 local-zone: "adcannybid.com" always_nxdomain
@@ -13628,6 +13629,7 @@ local-zone: "cdn2.picyield.com" always_nxdomain
 local-zone: "cdn3.r34comix.com" always_nxdomain
 local-zone: "cdn-3.tstatic.net" always_nxdomain
 local-zone: "cdn-cookieyes.com" always_nxdomain
+local-zone: "cdn.sentinelp.com" always_nxdomain
 local-zone: "cdn.trblocked.com" always_nxdomain
 local-zone: "cent.up-click.xyz" always_nxdomain
 local-zone: "centurionmedia.co" always_nxdomain
@@ -14726,6 +14728,7 @@ local-zone: "cdn5.avanquest.com" always_nxdomain
 local-zone: "cdn.autoketing.org" always_nxdomain
 local-zone: "cdn.datateam.co.uk" always_nxdomain
 local-zone: "cdn.megadata.co.kr" always_nxdomain
+local-zone: "cdn.sentinelbi.com" always_nxdomain
 local-zone: "cdn-ssl.vidible.tv" always_nxdomain
 local-zone: "cdn.triboomedia.it" always_nxdomain
 local-zone: "cgiadvertising.com" always_nxdomain
@@ -18396,6 +18399,7 @@ local-zone: "static.miningweekly.com" always_nxdomain
 local-zone: "static.schrotundkorn.de" always_nxdomain
 local-zone: "static.the-saleroom.com" always_nxdomain
 local-zone: "stream.ezanvaktipro.com" always_nxdomain
+local-zone: "sync.ortb.152media.info" always_nxdomain
 local-zone: "targetmediapartners.com" always_nxdomain
 local-zone: "theaffiliategateway.com" always_nxdomain
 local-zone: "tools.mojpieknyogrod.pl" always_nxdomain
