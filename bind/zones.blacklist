@@ -1335,6 +1335,7 @@ zone "otm-r.com" { type master; notify no; file "null.zone.file"; };
 zone "ottera.tv" { type master; notify no; file "null.zone.file"; };
 zone "outbra.in" { type master; notify no; file "null.zone.file"; };
 zone "outfox.ai" { type master; notify no; file "null.zone.file"; };
+zone "oveeo.com" { type master; notify no; file "null.zone.file"; };
 zone "oxado.com" { type master; notify no; file "null.zone.file"; };
 zone "oxiads.fr" { type master; notify no; file "null.zone.file"; };
 zone "ozjga.top" { type master; notify no; file "null.zone.file"; };
