@@ -13659,6 +13659,7 @@ local-zone: "c.gazetevatan.com" always_refuse
 local-zone: "c.gotoxxxtube.com" always_refuse
 local-zone: "chasesoftware.biz" always_refuse
 local-zone: "chilledliquid.com" always_refuse
+local-zone: "circulation.bd.nl" always_refuse
 local-zone: "cityadspix.com.br" always_refuse
 local-zone: "cjmediasource.com" always_refuse
 local-zone: "cleanmediaads.com" always_refuse
@@ -14758,6 +14759,7 @@ local-zone: "cdn-ssl.vidible.tv" always_refuse
 local-zone: "cdn.triboomedia.it" always_refuse
 local-zone: "cgiadvertising.com" always_refuse
 local-zone: "chemekbrothers.com" always_refuse
+local-zone: "circulation.hln.be" always_refuse
 local-zone: "civiccomputing.com" always_refuse
 local-zone: "cksync.yahoo.co.jp" always_refuse
 local-zone: "clarifidigital.com" always_refuse
@@ -15729,6 +15731,7 @@ local-zone: "chattercreative.com" always_refuse
 local-zone: "cheerscreatives.com" always_refuse
 local-zone: "cheproximity.com.au" always_refuse
 local-zone: "chitrapublicity.com" always_refuse
+local-zone: "circulation.humo.be" always_refuse
 local-zone: "classifieds2000.com" always_refuse
 local-zone: "cleverecommerce.com" always_refuse
 local-zone: "clever-redirect.com" always_refuse
@@ -16525,6 +16528,9 @@ local-zone: "cdn1.buffalochip.com" always_refuse
 local-zone: "cdn.myadsmyanmar.com" always_refuse
 local-zone: "cdn.personare.com.br" always_refuse
 local-zone: "christiefountain.com" always_refuse
+local-zone: "circulation.flair.nl" always_refuse
+local-zone: "circulation.story.nl" always_refuse
+local-zone: "circulation.trouw.nl" always_refuse
 local-zone: "clickredirection.com" always_refuse
 local-zone: "click.rev-stripe.com" always_refuse
 local-zone: "clicksondelivery.com" always_refuse
@@ -17191,6 +17197,7 @@ local-zone: "cdn.userdatatrust.com" always_refuse
 local-zone: "chameleoncreation.com" always_refuse
 local-zone: "chocolateplatform.com" always_refuse
 local-zone: "cicntn.produbanco.com" always_refuse
+local-zone: "circulation.parool.nl" always_refuse
 local-zone: "clc.stackoverflow.com" always_refuse
 local-zone: "cleveradvertising.com" always_refuse
 local-zone: "cloud9-advertising.eu" always_refuse
@@ -17793,6 +17800,7 @@ local-zone: "cdnjs.buymeacoffee.com" always_refuse
 local-zone: "cdn-promote.weebly.com" always_refuse
 local-zone: "cdn.trustcommander.net" always_refuse
 local-zone: "circulars.foodcity.com" always_refuse
+local-zone: "circulation.libelle.nl" always_refuse
 local-zone: "clarkeandkingmedia.com" always_refuse
 local-zone: "click.couponfollow.com" always_refuse
 local-zone: "click.freepopnews.skin" always_refuse
@@ -18280,6 +18288,8 @@ local-zone: "cdn-jinjutupian-cdn.com" always_refuse
 local-zone: "cdn-yudietupian-cdn.com" always_refuse
 local-zone: "champagne.futurecdn.net" always_refuse
 local-zone: "circulars.lewisdrug.com" always_refuse
+local-zone: "circulation.demorgen.be" always_refuse
+local-zone: "circulation.tubantia.nl" always_refuse
 local-zone: "clickc4n.pornharlot.com" always_refuse
 local-zone: "clickc4n.pornharlot.net" always_refuse
 local-zone: "cloudads-a.akamaihd.net" always_refuse
@@ -18642,6 +18652,7 @@ local-zone: "cdnads.geeksforgeeks.org" always_refuse
 local-zone: "cdn-assets.hswstatic.com" always_refuse
 local-zone: "cdn-plus.roxot-panel.com" always_refuse
 local-zone: "cdntugadeikn8564adgs.com" always_refuse
+local-zone: "circulation.destentor.nl" always_refuse
 local-zone: "clubstatic.excelhome.net" always_refuse
 local-zone: "come.to.adsrv.mlncdn.com" always_refuse
 local-zone: "commercemediaplatform.io" always_refuse
@@ -18930,6 +18941,7 @@ local-zone: "cbanners.virtuagirlhd.com" always_refuse
 local-zone: "cc.sexgeschichten-xxx.com" always_refuse
 local-zone: "cc.sexverhalen-gratis.com" always_refuse
 local-zone: "cdaas.americanexpress.com" always_refuse
+local-zone: "circulation.volkskrant.nl" always_refuse
 local-zone: "cloudpushnotification.com" always_refuse
 local-zone: "cmp.dmgmediaprivacy.co.uk" always_refuse
 local-zone: "cobblestonemediagroup.com" always_refuse
@@ -19683,6 +19695,7 @@ local-zone: "casalemedia.com.edgesuite.net" always_refuse
 local-zone: "cash.littlecaprice-dreams.com" always_refuse
 local-zone: "cc.relatoseroticos-gratis.com" always_refuse
 local-zone: "charlottemarketingcompany.com" always_refuse
+local-zone: "circulation.degelderlander.nl" always_refuse
 local-zone: "comercial.multipublicacoes.pt" always_refuse
 local-zone: "consentdeliveryfd.azurefd.net" always_refuse
 local-zone: "content-ci360.clubpremier.com" always_refuse
