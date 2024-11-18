@@ -6091,6 +6091,7 @@ local-zone: "criteo.sucks" always_nxdomain
 local-zone: "crjugate.com" always_nxdomain
 local-zone: "crowlinc.com" always_nxdomain
 local-zone: "crushads.com" always_nxdomain
+local-zone: "ctamedia.net" always_nxdomain
 local-zone: "ctsst.online" always_nxdomain
 local-zone: "cubepins.com" always_nxdomain
 local-zone: "curulate.com" always_nxdomain
@@ -6117,6 +6118,7 @@ local-zone: "di6stero.com" always_nxdomain
 local-zone: "di7stero.com" always_nxdomain
 local-zone: "digilant.com" always_nxdomain
 local-zone: "digiquals.in" always_nxdomain
+local-zone: "digislots.in" always_nxdomain
 local-zone: "digitizer.ae" always_nxdomain
 local-zone: "dishacom.com" always_nxdomain
 local-zone: "districtm.ca" always_nxdomain
@@ -7628,6 +7630,7 @@ local-zone: "arcaneads.com" always_nxdomain
 local-zone: "aredirect.net" always_nxdomain
 local-zone: "arianelab.com" always_nxdomain
 local-zone: "arrnaught.com" always_nxdomain
+local-zone: "artbuzz.co.in" always_nxdomain
 local-zone: "ascentads.com" always_nxdomain
 local-zone: "ascraftan.com" always_nxdomain
 local-zone: "asdfdeals.com" always_nxdomain
@@ -9354,6 +9357,7 @@ local-zone: "arends-inc.com" always_nxdomain
 local-zone: "armedialab.com" always_nxdomain
 local-zone: "aronsonads.com" always_nxdomain
 local-zone: "arti-media.net" always_nxdomain
+local-zone: "artpeediya.com" always_nxdomain
 local-zone: "artthevoid.com" always_nxdomain
 local-zone: "asdf.eldos.xyz" always_nxdomain
 local-zone: "asg.laivue.com" always_nxdomain
@@ -16606,6 +16610,7 @@ local-zone: "ewebmarketing.com.au" always_nxdomain
 local-zone: "exchange-traffic.com" always_nxdomain
 local-zone: "expired-targeted.com" always_nxdomain
 local-zone: "facemap.foldlife.net" always_nxdomain
+local-zone: "factorycreatives.com" always_nxdomain
 local-zone: "fe34.sieglinde22.xyz" always_nxdomain
 local-zone: "femanmediaagency.com" always_nxdomain
 local-zone: "fifthadvertising.com" always_nxdomain
@@ -20218,6 +20223,7 @@ local-zone: "adserver.interstateelectricsupply.com" always_nxdomain
 local-zone: "adserver-public-cdn.afd.azureedge.net" always_nxdomain
 local-zone: "advertising-module.api.dpgmedia.cloud" always_nxdomain
 local-zone: "ccpa-no-script.psg.nexstardigital.net" always_nxdomain
+local-zone: "factor-service.prod.voltaxservices.io" always_nxdomain
 local-zone: "media-us-am-crackle-com.akamaized.net" always_nxdomain
 local-zone: "modal-widget.services.dealerspike.net" always_nxdomain
 local-zone: "rs-branding.conservative.blabber.buzz" always_nxdomain
