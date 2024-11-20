@@ -16962,6 +16962,7 @@ local-zone: "superflypartners.net" always_nxdomain
 local-zone: "swissfoodfestival.ch" always_nxdomain
 local-zone: "sync.app.copper6.com" always_nxdomain
 local-zone: "sync.partyetalon.com" always_nxdomain
+local-zone: "teads.tv.edgekey.net" always_nxdomain
 local-zone: "testpublisher009.com" always_nxdomain
 local-zone: "tg1.playstream.media" always_nxdomain
 local-zone: "thecreativebreed.com" always_nxdomain
@@ -19189,7 +19190,6 @@ local-zone: "sponsors.compactequip.com" always_nxdomain
 local-zone: "static-cache.tezfiles.com" always_nxdomain
 local-zone: "static.insideradverts.com" always_nxdomain
 local-zone: "sync.etalonconsulting.com" always_nxdomain
-local-zone: "sync.teads.tv.edgekey.net" always_nxdomain
 local-zone: "technews.infogalactic.com" always_nxdomain
 local-zone: "tenmax-static.cacafly.net" always_nxdomain
 local-zone: "thesilverbackcreative.com" always_nxdomain

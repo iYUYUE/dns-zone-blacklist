@@ -16962,6 +16962,7 @@ local-zone: "superflypartners.net" always_refuse
 local-zone: "swissfoodfestival.ch" always_refuse
 local-zone: "sync.app.copper6.com" always_refuse
 local-zone: "sync.partyetalon.com" always_refuse
+local-zone: "teads.tv.edgekey.net" always_refuse
 local-zone: "testpublisher009.com" always_refuse
 local-zone: "tg1.playstream.media" always_refuse
 local-zone: "thecreativebreed.com" always_refuse
@@ -19189,7 +19190,6 @@ local-zone: "sponsors.compactequip.com" always_refuse
 local-zone: "static-cache.tezfiles.com" always_refuse
 local-zone: "static.insideradverts.com" always_refuse
 local-zone: "sync.etalonconsulting.com" always_refuse
-local-zone: "sync.teads.tv.edgekey.net" always_refuse
 local-zone: "technews.infogalactic.com" always_refuse
 local-zone: "tenmax-static.cacafly.net" always_refuse
 local-zone: "thesilverbackcreative.com" always_refuse

@@ -16962,6 +16962,7 @@ zone "superflypartners.net" { type master; notify no; file "null.zone.file"; };
 zone "swissfoodfestival.ch" { type master; notify no; file "null.zone.file"; };
 zone "sync.app.copper6.com" { type master; notify no; file "null.zone.file"; };
 zone "sync.partyetalon.com" { type master; notify no; file "null.zone.file"; };
+zone "teads.tv.edgekey.net" { type master; notify no; file "null.zone.file"; };
 zone "testpublisher009.com" { type master; notify no; file "null.zone.file"; };
 zone "tg1.playstream.media" { type master; notify no; file "null.zone.file"; };
 zone "thecreativebreed.com" { type master; notify no; file "null.zone.file"; };
@@ -19189,7 +19190,6 @@ zone "sponsors.compactequip.com" { type master; notify no; file "null.zone.file"
 zone "static-cache.tezfiles.com" { type master; notify no; file "null.zone.file"; };
 zone "static.insideradverts.com" { type master; notify no; file "null.zone.file"; };
 zone "sync.etalonconsulting.com" { type master; notify no; file "null.zone.file"; };
-zone "sync.teads.tv.edgekey.net" { type master; notify no; file "null.zone.file"; };
 zone "technews.infogalactic.com" { type master; notify no; file "null.zone.file"; };
 zone "tenmax-static.cacafly.net" { type master; notify no; file "null.zone.file"; };
 zone "thesilverbackcreative.com" { type master; notify no; file "null.zone.file"; };

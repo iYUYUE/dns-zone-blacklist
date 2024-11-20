@@ -33930,6 +33930,8 @@ sync.app.copper6.com CNAME .
 *.sync.app.copper6.com CNAME .
 sync.partyetalon.com CNAME .
 *.sync.partyetalon.com CNAME .
+teads.tv.edgekey.net CNAME .
+*.teads.tv.edgekey.net CNAME .
 testpublisher009.com CNAME .
 *.testpublisher009.com CNAME .
 tg1.playstream.media CNAME .
@@ -38384,8 +38386,6 @@ static.insideradverts.com CNAME .
 *.static.insideradverts.com CNAME .
 sync.etalonconsulting.com CNAME .
 *.sync.etalonconsulting.com CNAME .
-sync.teads.tv.edgekey.net CNAME .
-*.sync.teads.tv.edgekey.net CNAME .
 technews.infogalactic.com CNAME .
 *.technews.infogalactic.com CNAME .
 tenmax-static.cacafly.net CNAME .
