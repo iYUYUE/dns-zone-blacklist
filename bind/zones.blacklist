@@ -19050,6 +19050,7 @@ zone "banner.radiocacula.com.br" { type master; notify no; file "null.zone.file"
 zone "banners.bakerstreetsf.com" { type master; notify no; file "null.zone.file"; };
 zone "banners.homeofthebrave.nl" { type master; notify no; file "null.zone.file"; };
 zone "banners.webmasterplan.com" { type master; notify no; file "null.zone.file"; };
+zone "beneficialapplication.com" { type master; notify no; file "null.zone.file"; };
 zone "bidder-imp.novabeyond.com" { type master; notify no; file "null.zone.file"; };
 zone "burlingtonadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "campaigns.asianetnews.com" { type master; notify no; file "null.zone.file"; };
