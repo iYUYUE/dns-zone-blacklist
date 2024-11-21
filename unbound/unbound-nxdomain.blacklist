@@ -91,6 +91,7 @@ local-zone: "oan.pl" always_nxdomain
 local-zone: "ofg.it" always_nxdomain
 local-zone: "okj.io" always_nxdomain
 local-zone: "oms.eu" always_nxdomain
+local-zone: "ops.co" always_nxdomain
 local-zone: "pmg.co" always_nxdomain
 local-zone: "p-n.io" always_nxdomain
 local-zone: "pzm.me" always_nxdomain
@@ -582,6 +583,7 @@ local-zone: "spotx.tv" always_nxdomain
 local-zone: "srax.com" always_nxdomain
 local-zone: "srxy.xyz" always_nxdomain
 local-zone: "stars.pl" always_nxdomain
+local-zone: "stbid.ru" always_nxdomain
 local-zone: "tabmo.io" always_nxdomain
 local-zone: "tab.name" always_nxdomain
 local-zone: "tagon.co" always_nxdomain
@@ -1558,6 +1560,7 @@ local-zone: "vhsrv.com" always_nxdomain
 local-zone: "viads.net" always_nxdomain
 local-zone: "vidads.gr" always_nxdomain
 local-zone: "vidads.in" always_nxdomain
+local-zone: "videoo.tv" always_nxdomain
 local-zone: "vimmy.com" always_nxdomain
 local-zone: "vipads.cc" always_nxdomain
 local-zone: "vlyby.com" always_nxdomain
@@ -1841,6 +1844,7 @@ local-zone: "admail.net" always_nxdomain
 local-zone: "ad.mail.ru" always_nxdomain
 local-zone: "admana.net" always_nxdomain
 local-zone: "admaru.com" always_nxdomain
+local-zone: "admatic.de" always_nxdomain
 local-zone: "admaym.com" always_nxdomain
 local-zone: "admedia.io" always_nxdomain
 local-zone: "admedia.ro" always_nxdomain
@@ -7389,6 +7393,7 @@ local-zone: "adsareads.com" always_nxdomain
 local-zone: "adsarefun.com" always_nxdomain
 local-zone: "adsarerad.com" always_nxdomain
 local-zone: "ads.as-lan.eu" always_nxdomain
+local-zone: "ad.saybuzz.io" always_nxdomain
 local-zone: "ads.bagft.org" always_nxdomain
 local-zone: "adsbar.online" always_nxdomain
 local-zone: "ads.bgitv.net" always_nxdomain
@@ -8685,6 +8690,8 @@ local-zone: "serverside.ai" always_nxdomain
 local-zone: "serveteck.com" always_nxdomain
 local-zone: "sgdmobile.com" always_nxdomain
 local-zone: "shakamech.com" always_nxdomain
+local-zone: "sharethis.com" always_nxdomain
+local-zone: "sharethis.net" always_nxdomain
 local-zone: "sharethru.com" always_nxdomain
 local-zone: "sharpmedia.eu" always_nxdomain
 local-zone: "shestrozo.com" always_nxdomain
@@ -11660,6 +11667,7 @@ local-zone: "peer2profit.com" always_nxdomain
 local-zone: "pegasystems.com" always_nxdomain
 local-zone: "pensarmedia.com" always_nxdomain
 local-zone: "perfoserver.com" always_nxdomain
+local-zone: "personizely.net" always_nxdomain
 local-zone: "phohothiptu.pro" always_nxdomain
 local-zone: "pihappiness.com" always_nxdomain
 local-zone: "pinkadmedia.com" always_nxdomain
@@ -14045,6 +14053,7 @@ local-zone: "leadgenfinder.com" always_nxdomain
 local-zone: "legolas-media.com" always_nxdomain
 local-zone: "lem.nouvelobs.com" always_nxdomain
 local-zone: "lightningcast.net" always_nxdomain
+local-zone: "likevertising.com" always_nxdomain
 local-zone: "limelightmedia.ng" always_nxdomain
 local-zone: "livesportmedia.eu" always_nxdomain
 local-zone: "lockerdomecdn.com" always_nxdomain
@@ -14289,6 +14298,7 @@ local-zone: "sequenceindia.com" always_nxdomain
 local-zone: "servedby.bsc.news" always_nxdomain
 local-zone: "servedby.o2.co.uk" always_nxdomain
 local-zone: "servedbyopenx.com" always_nxdomain
+local-zone: "servedbysmart.com" always_nxdomain
 local-zone: "server.idreams.pl" always_nxdomain
 local-zone: "servicedirect.com" always_nxdomain
 local-zone: "sfwe.tjaard11.xyz" always_nxdomain
@@ -18809,6 +18819,7 @@ local-zone: "eastcoastadvertising.net" always_nxdomain
 local-zone: "ehealthcaresolutions.com" always_nxdomain
 local-zone: "elevationadvertising.com" always_nxdomain
 local-zone: "encontextadvertising.com" always_nxdomain
+local-zone: "equativ-match.dotomi.com" always_nxdomain
 local-zone: "fght3322.sieglinde22.xyz" always_nxdomain
 local-zone: "fgr3edff.sieglinde22.xyz" always_nxdomain
 local-zone: "flamingostrategies.co.uk" always_nxdomain

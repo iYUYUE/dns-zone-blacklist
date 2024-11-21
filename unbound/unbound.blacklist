@@ -91,6 +91,7 @@ local-zone: "oan.pl" always_refuse
 local-zone: "ofg.it" always_refuse
 local-zone: "okj.io" always_refuse
 local-zone: "oms.eu" always_refuse
+local-zone: "ops.co" always_refuse
 local-zone: "pmg.co" always_refuse
 local-zone: "p-n.io" always_refuse
 local-zone: "pzm.me" always_refuse
@@ -582,6 +583,7 @@ local-zone: "spotx.tv" always_refuse
 local-zone: "srax.com" always_refuse
 local-zone: "srxy.xyz" always_refuse
 local-zone: "stars.pl" always_refuse
+local-zone: "stbid.ru" always_refuse
 local-zone: "tabmo.io" always_refuse
 local-zone: "tab.name" always_refuse
 local-zone: "tagon.co" always_refuse
@@ -1558,6 +1560,7 @@ local-zone: "vhsrv.com" always_refuse
 local-zone: "viads.net" always_refuse
 local-zone: "vidads.gr" always_refuse
 local-zone: "vidads.in" always_refuse
+local-zone: "videoo.tv" always_refuse
 local-zone: "vimmy.com" always_refuse
 local-zone: "vipads.cc" always_refuse
 local-zone: "vlyby.com" always_refuse
@@ -1841,6 +1844,7 @@ local-zone: "admail.net" always_refuse
 local-zone: "ad.mail.ru" always_refuse
 local-zone: "admana.net" always_refuse
 local-zone: "admaru.com" always_refuse
+local-zone: "admatic.de" always_refuse
 local-zone: "admaym.com" always_refuse
 local-zone: "admedia.io" always_refuse
 local-zone: "admedia.ro" always_refuse
@@ -7389,6 +7393,7 @@ local-zone: "adsareads.com" always_refuse
 local-zone: "adsarefun.com" always_refuse
 local-zone: "adsarerad.com" always_refuse
 local-zone: "ads.as-lan.eu" always_refuse
+local-zone: "ad.saybuzz.io" always_refuse
 local-zone: "ads.bagft.org" always_refuse
 local-zone: "adsbar.online" always_refuse
 local-zone: "ads.bgitv.net" always_refuse
@@ -8685,6 +8690,8 @@ local-zone: "serverside.ai" always_refuse
 local-zone: "serveteck.com" always_refuse
 local-zone: "sgdmobile.com" always_refuse
 local-zone: "shakamech.com" always_refuse
+local-zone: "sharethis.com" always_refuse
+local-zone: "sharethis.net" always_refuse
 local-zone: "sharethru.com" always_refuse
 local-zone: "sharpmedia.eu" always_refuse
 local-zone: "shestrozo.com" always_refuse
@@ -11660,6 +11667,7 @@ local-zone: "peer2profit.com" always_refuse
 local-zone: "pegasystems.com" always_refuse
 local-zone: "pensarmedia.com" always_refuse
 local-zone: "perfoserver.com" always_refuse
+local-zone: "personizely.net" always_refuse
 local-zone: "phohothiptu.pro" always_refuse
 local-zone: "pihappiness.com" always_refuse
 local-zone: "pinkadmedia.com" always_refuse
@@ -14045,6 +14053,7 @@ local-zone: "leadgenfinder.com" always_refuse
 local-zone: "legolas-media.com" always_refuse
 local-zone: "lem.nouvelobs.com" always_refuse
 local-zone: "lightningcast.net" always_refuse
+local-zone: "likevertising.com" always_refuse
 local-zone: "limelightmedia.ng" always_refuse
 local-zone: "livesportmedia.eu" always_refuse
 local-zone: "lockerdomecdn.com" always_refuse
@@ -14289,6 +14298,7 @@ local-zone: "sequenceindia.com" always_refuse
 local-zone: "servedby.bsc.news" always_refuse
 local-zone: "servedby.o2.co.uk" always_refuse
 local-zone: "servedbyopenx.com" always_refuse
+local-zone: "servedbysmart.com" always_refuse
 local-zone: "server.idreams.pl" always_refuse
 local-zone: "servicedirect.com" always_refuse
 local-zone: "sfwe.tjaard11.xyz" always_refuse
@@ -18809,6 +18819,7 @@ local-zone: "eastcoastadvertising.net" always_refuse
 local-zone: "ehealthcaresolutions.com" always_refuse
 local-zone: "elevationadvertising.com" always_refuse
 local-zone: "encontextadvertising.com" always_refuse
+local-zone: "equativ-match.dotomi.com" always_refuse
 local-zone: "fght3322.sieglinde22.xyz" always_refuse
 local-zone: "fgr3edff.sieglinde22.xyz" always_refuse
 local-zone: "flamingostrategies.co.uk" always_refuse
