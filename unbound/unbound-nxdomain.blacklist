@@ -2103,6 +2103,7 @@ local-zone: "adzerk.com" always_nxdomain
 local-zone: "adzerk.net" always_nxdomain
 local-zone: "adziff.com" always_nxdomain
 local-zone: "ad.zing.vn" always_nxdomain
+local-zone: "adziyo.com" always_nxdomain
 local-zone: "adzouk.com" always_nxdomain
 local-zone: "adztec.com" always_nxdomain
 local-zone: "adzumo.net" always_nxdomain
@@ -12454,6 +12455,7 @@ local-zone: "adwidecenter.com" always_nxdomain
 local-zone: "adworldmedia.com" always_nxdomain
 local-zone: "adworthmedia.org" always_nxdomain
 local-zone: "adx.baolongan.vn" always_nxdomain
+local-zone: "adx.techtunes.io" always_nxdomain
 local-zone: "adyourservice.nl" always_nxdomain
 local-zone: "adzens.vluxo.com" always_nxdomain
 local-zone: "adzonestatic.com" always_nxdomain

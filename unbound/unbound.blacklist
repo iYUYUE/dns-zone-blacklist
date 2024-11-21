@@ -2103,6 +2103,7 @@ local-zone: "adzerk.com" always_refuse
 local-zone: "adzerk.net" always_refuse
 local-zone: "adziff.com" always_refuse
 local-zone: "ad.zing.vn" always_refuse
+local-zone: "adziyo.com" always_refuse
 local-zone: "adzouk.com" always_refuse
 local-zone: "adztec.com" always_refuse
 local-zone: "adzumo.net" always_refuse
@@ -12454,6 +12455,7 @@ local-zone: "adwidecenter.com" always_refuse
 local-zone: "adworldmedia.com" always_refuse
 local-zone: "adworthmedia.org" always_refuse
 local-zone: "adx.baolongan.vn" always_refuse
+local-zone: "adx.techtunes.io" always_refuse
 local-zone: "adyourservice.nl" always_refuse
 local-zone: "adzens.vluxo.com" always_refuse
 local-zone: "adzonestatic.com" always_refuse
