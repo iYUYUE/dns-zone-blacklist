@@ -15822,6 +15822,7 @@ local-zone: "capptivemarkets.com" always_refuse
 local-zone: "caravelmedia.com.au" always_refuse
 local-zone: "cat11.gimmeporn.xyz" always_refuse
 local-zone: "cdn3.hentaihand.com" always_refuse
+local-zone: "cdn.bestreviews.com" always_refuse
 local-zone: "cdn.pinktriangle.ca" always_refuse
 local-zone: "central.gjirafa.com" always_refuse
 local-zone: "centurymedia360.com" always_refuse
@@ -16101,6 +16102,7 @@ local-zone: "popundertraffic.com" always_refuse
 local-zone: "popupdomination.com" always_refuse
 local-zone: "popups.landingi.com" always_refuse
 local-zone: "potatoadsupport.com" always_refuse
+local-zone: "pr-bh.ybp.yahoo.com" always_refuse
 local-zone: "primate-digital.com" always_refuse
 local-zone: "privacy.gomovix.com" always_refuse
 local-zone: "privateadserver.com" always_refuse
@@ -18143,6 +18145,7 @@ local-zone: "taboola.map.fastly.net" always_refuse
 local-zone: "taboolasyndication.com" always_refuse
 local-zone: "takepointmarketing.com" always_refuse
 local-zone: "targetedwebtraffic.com" always_refuse
+local-zone: "teamappadvertising.com" always_refuse
 local-zone: "theinternetworks.co.uk" always_refuse
 local-zone: "thequixoticstudios.com" always_refuse
 local-zone: "therelevancegraph.mobi" always_refuse
