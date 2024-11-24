@@ -6305,6 +6305,7 @@ zone "fluidads.com" { type master; notify no; file "null.zone.file"; };
 zone "flux-cdn.com" { type master; notify no; file "null.zone.file"; };
 zone "freakads.com" { type master; notify no; file "null.zone.file"; };
 zone "freewheel.tv" { type master; notify no; file "null.zone.file"; };
+zone "friedone.com" { type master; notify no; file "null.zone.file"; };
 zone "fringe81.com" { type master; notify no; file "null.zone.file"; };
 zone "frogator.com" { type master; notify no; file "null.zone.file"; };
 zone "frstlead.com" { type master; notify no; file "null.zone.file"; };
@@ -19263,6 +19264,7 @@ zone "servedby.schrotundkorn.de" { type master; notify no; file "null.zone.file"
 zone "services.freizeitalpin.at" { type master; notify no; file "null.zone.file"; };
 zone "silverbackadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "smallbusinessmiracles.com" { type master; notify no; file "null.zone.file"; };
+zone "smarthub-revive.mpcnet.de" { type master; notify no; file "null.zone.file"; };
 zone "sp1.freeonlinegayporn.com" { type master; notify no; file "null.zone.file"; };
 zone "sparkasse-vorderpfalz.com" { type master; notify no; file "null.zone.file"; };
 zone "sponsors.compactequip.com" { type master; notify no; file "null.zone.file"; };
