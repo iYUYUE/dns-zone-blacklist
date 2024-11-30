@@ -57,7 +57,6 @@ zone "arx.gr" { type master; notify no; file "null.zone.file"; };
 zone "cad.pl" { type master; notify no; file "null.zone.file"; };
 zone "cav.ai" { type master; notify no; file "null.zone.file"; };
 zone "cj.com" { type master; notify no; file "null.zone.file"; };
-zone "cq0.co" { type master; notify no; file "null.zone.file"; };
 zone "dao.ad" { type master; notify no; file "null.zone.file"; };
 zone "deg.kr" { type master; notify no; file "null.zone.file"; };
 zone "ds1.nl" { type master; notify no; file "null.zone.file"; };
