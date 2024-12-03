@@ -3063,6 +3063,7 @@ zone "reajyu.net" { type master; notify no; file "null.zone.file"; };
 zone "reashr.com" { type master; notify no; file "null.zone.file"; };
 zone "redmas.com" { type master; notify no; file "null.zone.file"; };
 zone "reelnk.com" { type master; notify no; file "null.zone.file"; };
+zone "refiner.io" { type master; notify no; file "null.zone.file"; };
 zone "reforge.in" { type master; notify no; file "null.zone.file"; };
 zone "reimbi.com" { type master; notify no; file "null.zone.file"; };
 zone "rekmob.com" { type master; notify no; file "null.zone.file"; };
