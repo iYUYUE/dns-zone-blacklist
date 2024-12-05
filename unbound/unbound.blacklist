@@ -4030,6 +4030,7 @@ local-zone: "a.dylop.xyz" always_refuse
 local-zone: "adywind.com" always_refuse
 local-zone: "adz2you.com" always_refuse
 local-zone: "adz2you.net" always_refuse
+local-zone: "adzappy.com" always_refuse
 local-zone: "adzicon.com" always_refuse
 local-zone: "adzilla.icu" always_refuse
 local-zone: "adzmath.com" always_refuse

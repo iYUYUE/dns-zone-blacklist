@@ -4030,6 +4030,7 @@ zone "a.dylop.xyz" { type master; notify no; file "null.zone.file"; };
 zone "adywind.com" { type master; notify no; file "null.zone.file"; };
 zone "adz2you.com" { type master; notify no; file "null.zone.file"; };
 zone "adz2you.net" { type master; notify no; file "null.zone.file"; };
+zone "adzappy.com" { type master; notify no; file "null.zone.file"; };
 zone "adzicon.com" { type master; notify no; file "null.zone.file"; };
 zone "adzilla.icu" { type master; notify no; file "null.zone.file"; };
 zone "adzmath.com" { type master; notify no; file "null.zone.file"; };

@@ -4030,6 +4030,7 @@ local-zone: "a.dylop.xyz" always_nxdomain
 local-zone: "adywind.com" always_nxdomain
 local-zone: "adz2you.com" always_nxdomain
 local-zone: "adz2you.net" always_nxdomain
+local-zone: "adzappy.com" always_nxdomain
 local-zone: "adzicon.com" always_nxdomain
 local-zone: "adzilla.icu" always_nxdomain
 local-zone: "adzmath.com" always_nxdomain
