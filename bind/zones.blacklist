@@ -12867,6 +12867,7 @@ zone "jobs.jobvite.com" { type master; notify no; file "null.zone.file"; };
 zone "joinbidvance.com" { type master; notify no; file "null.zone.file"; };
 zone "joinzeropark.com" { type master; notify no; file "null.zone.file"; };
 zone "joyous-north.pro" { type master; notify no; file "null.zone.file"; };
+zone "jscdn.greeter.me" { type master; notify no; file "null.zone.file"; };
 zone "js.manga1000.top" { type master; notify no; file "null.zone.file"; };
 zone "js.manga1001.win" { type master; notify no; file "null.zone.file"; };
 zone "js.mangalove.top" { type master; notify no; file "null.zone.file"; };
