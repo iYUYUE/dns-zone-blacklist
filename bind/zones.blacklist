@@ -2151,6 +2151,7 @@ zone "amcmpn.com" { type master; notify no; file "null.zone.file"; };
 zone "amebaad.jp" { type master; notify no; file "null.zone.file"; };
 zone "amobee.com" { type master; notify no; file "null.zone.file"; };
 zone "amrytt.com" { type master; notify no; file "null.zone.file"; };
+zone "amspbs.com" { type master; notify no; file "null.zone.file"; };
 zone "amxrtb.com" { type master; notify no; file "null.zone.file"; };
 zone "amyfc.link" { type master; notify no; file "null.zone.file"; };
 zone "analik.icu" { type master; notify no; file "null.zone.file"; };
