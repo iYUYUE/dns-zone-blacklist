@@ -6285,7 +6285,6 @@ zone "fancybar.net" { type master; notify no; file "null.zone.file"; };
 zone "fappa.online" { type master; notify no; file "null.zone.file"; };
 zone "fasttony.com" { type master; notify no; file "null.zone.file"; };
 zone "faunaads.com" { type master; notify no; file "null.zone.file"; };
-zone "fc.yahoo.com" { type master; notify no; file "null.zone.file"; };
 zone "feedify.info" { type master; notify no; file "null.zone.file"; };
 zone "fidelitix.ca" { type master; notify no; file "null.zone.file"; };
 zone "fieldday.com" { type master; notify no; file "null.zone.file"; };
