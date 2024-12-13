@@ -17434,6 +17434,7 @@ local-zone: "edgecast-vod.yimg.com" always_refuse
 local-zone: "effervescentcoral.com" always_refuse
 local-zone: "egvyg.gamersroom.info" always_refuse
 local-zone: "elementary-travel.pro" always_refuse
+local-zone: "embeds.nerdwallet.com" always_refuse
 local-zone: "enchanted-stretch.pro" always_refuse
 local-zone: "engine-cm.hqscene.com" always_refuse
 local-zone: "engine.traceparts.com" always_refuse
@@ -19333,6 +19334,7 @@ local-zone: "adserver.thesportsnewz.com" always_refuse
 local-zone: "adserver.topdestination.tv" always_refuse
 local-zone: "adserver.vipar.devvela.net" always_refuse
 local-zone: "adserver.waggonerguide.com" always_refuse
+local-zone: "adservice.cm.bloomberg.com" always_refuse
 local-zone: "ads.flughafen-stuttgart.de" always_refuse
 local-zone: "ad.shinjuku-mens-chuoh.com" always_refuse
 local-zone: "ads.iterativemarketing.net" always_refuse

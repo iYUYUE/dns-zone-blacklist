@@ -17434,6 +17434,7 @@ zone "edgecast-vod.yimg.com" { type master; notify no; file "null.zone.file"; };
 zone "effervescentcoral.com" { type master; notify no; file "null.zone.file"; };
 zone "egvyg.gamersroom.info" { type master; notify no; file "null.zone.file"; };
 zone "elementary-travel.pro" { type master; notify no; file "null.zone.file"; };
+zone "embeds.nerdwallet.com" { type master; notify no; file "null.zone.file"; };
 zone "enchanted-stretch.pro" { type master; notify no; file "null.zone.file"; };
 zone "engine-cm.hqscene.com" { type master; notify no; file "null.zone.file"; };
 zone "engine.traceparts.com" { type master; notify no; file "null.zone.file"; };
@@ -19333,6 +19334,7 @@ zone "adserver.thesportsnewz.com" { type master; notify no; file "null.zone.file
 zone "adserver.topdestination.tv" { type master; notify no; file "null.zone.file"; };
 zone "adserver.vipar.devvela.net" { type master; notify no; file "null.zone.file"; };
 zone "adserver.waggonerguide.com" { type master; notify no; file "null.zone.file"; };
+zone "adservice.cm.bloomberg.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.flughafen-stuttgart.de" { type master; notify no; file "null.zone.file"; };
 zone "ad.shinjuku-mens-chuoh.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.iterativemarketing.net" { type master; notify no; file "null.zone.file"; };
