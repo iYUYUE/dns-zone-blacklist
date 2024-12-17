@@ -10476,6 +10476,7 @@ zone "thevibrand.com" { type master; notify no; file "null.zone.file"; };
 zone "thewebpush.com" { type master; notify no; file "null.zone.file"; };
 zone "thinkflipp.com" { type master; notify no; file "null.zone.file"; };
 zone "thismoment.com" { type master; notify no; file "null.zone.file"; };
+zone "thisobject.pro" { type master; notify no; file "null.zone.file"; };
 zone "threebears.com" { type master; notify no; file "null.zone.file"; };
 zone "thunderurl.com" { type master; notify no; file "null.zone.file"; };
 zone "thygrepuwo.pro" { type master; notify no; file "null.zone.file"; };
