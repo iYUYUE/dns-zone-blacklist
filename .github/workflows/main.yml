@@ -32,7 +32,7 @@ jobs:
     - name: 'Build Blacklists'
       run: node build.js
     - name: 'Setup Docker'
-      uses: docker-practice/actions-setup-docker@master
+      uses: docker/setup-docker-action@v4
     - name: 'Run Tests'
       run: |
         set -x
