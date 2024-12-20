@@ -13486,6 +13486,7 @@ local-zone: "ads.blupurple.com" always_refuse
 local-zone: "ads.boostbank.com" always_refuse
 local-zone: "ads.brattysis.com" always_refuse
 local-zone: "ads.bremennost.bg" always_refuse
+local-zone: "adsbyt1.titus.one" always_refuse
 local-zone: "ads.canalrcn.tech" always_refuse
 local-zone: "ads.cdotrends.com" always_refuse
 local-zone: "ads.cgchannel.com" always_refuse
@@ -14774,6 +14775,7 @@ local-zone: "advativeonline.com" always_refuse
 local-zone: "adventurefeeds.com" always_refuse
 local-zone: "adventurefeeds.net" always_refuse
 local-zone: "advenuemedia.co.uk" always_refuse
+local-zone: "advert.ainvest.com" always_refuse
 local-zone: "advert.balkanec.bg" always_refuse
 local-zone: "advert.bilight.biz" always_refuse
 local-zone: "adverterenbijnh.nl" always_refuse
