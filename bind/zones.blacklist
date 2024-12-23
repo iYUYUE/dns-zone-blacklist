@@ -9566,6 +9566,7 @@ zone "buysellads.net" { type master; notify no; file "null.zone.file"; };
 zone "b.xlineker.com" { type master; notify no; file "null.zone.file"; };
 zone "bycelebian.com" { type master; notify no; file "null.zone.file"; };
 zone "byobglobal.com" { type master; notify no; file "null.zone.file"; };
+zone "bzgmcqqfxd.com" { type master; notify no; file "null.zone.file"; };
 zone "c1.neoncdn.com" { type master; notify no; file "null.zone.file"; };
 zone "c22x1.xcdn.ovh" { type master; notify no; file "null.zone.file"; };
 zone "c2.neoncdn.com" { type master; notify no; file "null.zone.file"; };
