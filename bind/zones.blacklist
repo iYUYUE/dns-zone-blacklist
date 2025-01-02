@@ -11936,6 +11936,7 @@ zone "tecnocoches.com" { type master; notify no; file "null.zone.file"; };
 zone "teenrevenue.com" { type master; notify no; file "null.zone.file"; };
 zone "tektokmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "tel-tel-fie.com" { type master; notify no; file "null.zone.file"; };
+zone "tendermarch.pro" { type master; notify no; file "null.zone.file"; };
 zone "tgpxmanager.com" { type master; notify no; file "null.zone.file"; };
 zone "tgtg-alerts.com" { type master; notify no; file "null.zone.file"; };
 zone "thankswrite.com" { type master; notify no; file "null.zone.file"; };
