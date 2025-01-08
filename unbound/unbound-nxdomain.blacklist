@@ -4821,6 +4821,7 @@ local-zone: "patgsrv.com" always_nxdomain
 local-zone: "paytunes.in" always_nxdomain
 local-zone: "pazzfun.com" always_nxdomain
 local-zone: "p.barlo.xyz" always_nxdomain
+local-zone: "pbc.wsj.com" always_nxdomain
 local-zone: "pbterra.com" always_nxdomain
 local-zone: "p.buram.xyz" always_nxdomain
 local-zone: "p.cjlph.com" always_nxdomain

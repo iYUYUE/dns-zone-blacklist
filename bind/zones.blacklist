@@ -4821,6 +4821,7 @@ zone "patgsrv.com" { type master; notify no; file "null.zone.file"; };
 zone "paytunes.in" { type master; notify no; file "null.zone.file"; };
 zone "pazzfun.com" { type master; notify no; file "null.zone.file"; };
 zone "p.barlo.xyz" { type master; notify no; file "null.zone.file"; };
+zone "pbc.wsj.com" { type master; notify no; file "null.zone.file"; };
 zone "pbterra.com" { type master; notify no; file "null.zone.file"; };
 zone "p.buram.xyz" { type master; notify no; file "null.zone.file"; };
 zone "p.cjlph.com" { type master; notify no; file "null.zone.file"; };

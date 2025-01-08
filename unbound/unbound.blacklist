@@ -4821,6 +4821,7 @@ local-zone: "patgsrv.com" always_refuse
 local-zone: "paytunes.in" always_refuse
 local-zone: "pazzfun.com" always_refuse
 local-zone: "p.barlo.xyz" always_refuse
+local-zone: "pbc.wsj.com" always_refuse
 local-zone: "pbterra.com" always_refuse
 local-zone: "p.buram.xyz" always_refuse
 local-zone: "p.cjlph.com" always_refuse
