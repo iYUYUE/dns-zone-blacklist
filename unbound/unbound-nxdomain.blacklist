@@ -7735,6 +7735,7 @@ local-zone: "as.lencdn.com" always_nxdomain
 local-zone: "as.pomcdn.com" always_nxdomain
 local-zone: "aswpsdkeu.com" always_nxdomain
 local-zone: "aswpsdkus.com" always_nxdomain
+local-zone: "asyncpush.com" always_nxdomain
 local-zone: "atomicmkt.com" always_nxdomain
 local-zone: "atomicptc.com" always_nxdomain
 local-zone: "atozadvert.ae" always_nxdomain
@@ -13346,6 +13347,7 @@ local-zone: "xratedbanner.com" always_nxdomain
 local-zone: "xserve.zapurl.cc" always_nxdomain
 local-zone: "xylemdigital.com" always_nxdomain
 local-zone: "yads.yahoo.co.jp" always_nxdomain
+local-zone: "ybb-network4.com" always_nxdomain
 local-zone: "yh20230625tu.vip" always_nxdomain
 local-zone: "yieldmanager.com" always_nxdomain
 local-zone: "yieldmanager.net" always_nxdomain
@@ -18531,6 +18533,7 @@ local-zone: "freesoftwarestation.com" always_nxdomain
 local-zone: "gemtun.ctnewsjunkie.com" always_nxdomain
 local-zone: "genesiscreatescolor.com" always_nxdomain
 local-zone: "glacier-advertising.com" always_nxdomain
+local-zone: "goodnewsadvertising.com" always_nxdomain
 local-zone: "greenstickmarketing.com" always_nxdomain
 local-zone: "hardcoreadvertising.com" always_nxdomain
 local-zone: "hb.lifecycle.norton.com" always_nxdomain

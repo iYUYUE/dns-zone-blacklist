@@ -7735,6 +7735,7 @@ local-zone: "as.lencdn.com" always_refuse
 local-zone: "as.pomcdn.com" always_refuse
 local-zone: "aswpsdkeu.com" always_refuse
 local-zone: "aswpsdkus.com" always_refuse
+local-zone: "asyncpush.com" always_refuse
 local-zone: "atomicmkt.com" always_refuse
 local-zone: "atomicptc.com" always_refuse
 local-zone: "atozadvert.ae" always_refuse
@@ -13346,6 +13347,7 @@ local-zone: "xratedbanner.com" always_refuse
 local-zone: "xserve.zapurl.cc" always_refuse
 local-zone: "xylemdigital.com" always_refuse
 local-zone: "yads.yahoo.co.jp" always_refuse
+local-zone: "ybb-network4.com" always_refuse
 local-zone: "yh20230625tu.vip" always_refuse
 local-zone: "yieldmanager.com" always_refuse
 local-zone: "yieldmanager.net" always_refuse
@@ -18531,6 +18533,7 @@ local-zone: "freesoftwarestation.com" always_refuse
 local-zone: "gemtun.ctnewsjunkie.com" always_refuse
 local-zone: "genesiscreatescolor.com" always_refuse
 local-zone: "glacier-advertising.com" always_refuse
+local-zone: "goodnewsadvertising.com" always_refuse
 local-zone: "greenstickmarketing.com" always_refuse
 local-zone: "hardcoreadvertising.com" always_refuse
 local-zone: "hb.lifecycle.norton.com" always_refuse
