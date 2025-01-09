@@ -6846,6 +6846,7 @@ zone "radium1.info" { type master; notify no; file "null.zone.file"; };
 zone "radiumone.us" { type master; notify no; file "null.zone.file"; };
 zone "ravalads.com" { type master; notify no; file "null.zone.file"; };
 zone "ravenapp.dev" { type master; notify no; file "null.zone.file"; };
+zone "raw-help.pro" { type master; notify no; file "null.zone.file"; };
 zone "razwrite.com" { type master; notify no; file "null.zone.file"; };
 zone "rbopromo.com" { type master; notify no; file "null.zone.file"; };
 zone "r.dizibox.cc" { type master; notify no; file "null.zone.file"; };
