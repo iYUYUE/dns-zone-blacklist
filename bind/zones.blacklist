@@ -1430,6 +1430,7 @@ zone "rmvin.com" { type master; notify no; file "null.zone.file"; };
 zone "ro3sf.com" { type master; notify no; file "null.zone.file"; };
 zone "r.pzwl.pl" { type master; notify no; file "null.zone.file"; };
 zone "rqwel.com" { type master; notify no; file "null.zone.file"; };
+zone "rtb.ex.co" { type master; notify no; file "null.zone.file"; };
 zone "rtbiq.com" { type master; notify no; file "null.zone.file"; };
 zone "rtrgt.com" { type master; notify no; file "null.zone.file"; };
 zone "rutrk.org" { type master; notify no; file "null.zone.file"; };
