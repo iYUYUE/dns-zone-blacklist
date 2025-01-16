@@ -11253,6 +11253,7 @@ local-zone: "clkfeed1009.com" always_refuse
 local-zone: "clovenmedia.com" always_refuse
 local-zone: "cm.usatoday.com" always_refuse
 local-zone: "coadvertise.com" always_refuse
+local-zone: "coalkitchen.com" always_refuse
 local-zone: "cobiasonymy.top" always_refuse
 local-zone: "code-fuel.co.uk" always_refuse
 local-zone: "collectcent.com" always_refuse
@@ -15733,6 +15734,7 @@ local-zone: "ads.gustoacademy.cz" always_refuse
 local-zone: "ads.hellocroatia.eu" always_refuse
 local-zone: "ads.ib5knetwork.com" always_refuse
 local-zone: "ads.ilmonferrato.it" always_refuse
+local-zone: "ads-img.mozilla.org" always_refuse
 local-zone: "ads.independent.cat" always_refuse
 local-zone: "ads.indie-click.com" always_refuse
 local-zone: "ads.inka-magazin.de" always_refuse
