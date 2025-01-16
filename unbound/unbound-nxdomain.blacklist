@@ -5585,6 +5585,7 @@ local-zone: "adduplex.com" always_nxdomain
 local-zone: "addynamo.com" always_nxdomain
 local-zone: "addynamo.net" always_nxdomain
 local-zone: "ad.dzwww.com" always_nxdomain
+local-zone: "ad.ehello.jp" always_nxdomain
 local-zone: "adelphic.com" always_nxdomain
 local-zone: "ad.e-mara.us" always_nxdomain
 local-zone: "adengage.com" always_nxdomain
@@ -6897,6 +6898,7 @@ local-zone: "ruckusae.com" always_nxdomain
 local-zone: "ruclicks.com" always_nxdomain
 local-zone: "runative.com" always_nxdomain
 local-zone: "r.vistats.eu" always_nxdomain
+local-zone: "rv.ntl.cloud" always_nxdomain
 local-zone: "rvv.emol.com" always_nxdomain
 local-zone: "s.1010jz.com" always_nxdomain
 local-zone: "s1-adfly.com" always_nxdomain
@@ -11965,6 +11967,7 @@ local-zone: "tm.hdmtools.com" always_nxdomain
 local-zone: "to-dy-roe.space" always_nxdomain
 local-zone: "toodles.itv.com" always_nxdomain
 local-zone: "toolcapital.com" always_nxdomain
+local-zone: "tools.niania.pl" always_nxdomain
 local-zone: "toomanyalts.com" always_nxdomain
 local-zone: "topadserver.com" always_nxdomain
 local-zone: "topvidstore.com" always_nxdomain
@@ -12318,6 +12321,7 @@ local-zone: "adservers.com.br" always_nxdomain
 local-zone: "adserver.sfin.ro" always_nxdomain
 local-zone: "adserver.support" always_nxdomain
 local-zone: "adserver.sviv.se" always_nxdomain
+local-zone: "adserver.xnea.eu" always_nxdomain
 local-zone: "adservices91.com" always_nxdomain
 local-zone: "adserv.webter.hu" always_nxdomain
 local-zone: "ads.esteriol.com" always_nxdomain
@@ -13098,6 +13102,7 @@ local-zone: "realpush.digital" always_nxdomain
 local-zone: "realpush.network" always_nxdomain
 local-zone: "rebootrewire.com" always_nxdomain
 local-zone: "rec.banggood.com" always_nxdomain
+local-zone: "redbricksoap.com" always_nxdomain
 local-zone: "redrooster.media" always_nxdomain
 local-zone: "redviewmedia.com" always_nxdomain
 local-zone: "reklamaction.com" always_nxdomain
@@ -14639,6 +14644,7 @@ local-zone: "adserver.piksel.mk" always_nxdomain
 local-zone: "adserver.solutions" always_nxdomain
 local-zone: "adserver.sparkk.fr" always_nxdomain
 local-zone: "adserver.thepit.gg" always_nxdomain
+local-zone: "adserver-tolega.ch" always_nxdomain
 local-zone: "adserver.tsl247.tv" always_nxdomain
 local-zone: "adserver.vanso.com" always_nxdomain
 local-zone: "adserver.vipar.com" always_nxdomain
@@ -16244,6 +16250,7 @@ local-zone: "seal-tucson.bbb.org" always_nxdomain
 local-zone: "seal-vawest.bbb.org" always_nxdomain
 local-zone: "searchads.apple.com" always_nxdomain
 local-zone: "secondstreetapp.com" always_nxdomain
+local-zone: "secretivesponge.com" always_nxdomain
 local-zone: "secure.studieren.de" always_nxdomain
 local-zone: "seeding-alliance.de" always_nxdomain
 local-zone: "selectablemedia.com" always_nxdomain
@@ -16406,6 +16413,7 @@ local-zone: "adbutler-tachyon.com" always_nxdomain
 local-zone: "adcdn.holmesmind.com" always_nxdomain
 local-zone: "ad.charltonmedia.com" always_nxdomain
 local-zone: "adclient1.tucows.com" always_nxdomain
+local-zone: "adconsole.kozoom.com" always_nxdomain
 local-zone: "adcreator.mobpro.com" always_nxdomain
 local-zone: "adcryptocoin.website" always_nxdomain
 local-zone: "ad.dev.smartnews.net" always_nxdomain
@@ -19309,6 +19317,7 @@ local-zone: "ab163949.adbutler-kaon.com" always_nxdomain
 local-zone: "a.bettercontentservice.top" always_nxdomain
 local-zone: "activationsadvertising.com" always_nxdomain
 local-zone: "ad4989-4in.img.daoucdn.com" always_nxdomain
+local-zone: "adconsole.bidspotter.co.uk" always_nxdomain
 local-zone: "ad.eloan.co.jp.edgekey.net" always_nxdomain
 local-zone: "ad.kids-model-audition.com" always_nxdomain
 local-zone: "ad.magokoro-care-shoku.com" always_nxdomain
@@ -19962,6 +19971,7 @@ local-zone: "d20u24a0cw7x43.cloudfront.net" always_nxdomain
 local-zone: "d25dfknw9ghxs6.cloudfront.net" always_nxdomain
 local-zone: "d26xw8rp6mlgfg.cloudfront.net" always_nxdomain
 local-zone: "d275im4r3zngba.cloudfront.net" always_nxdomain
+local-zone: "d2a2l5qrvi6kxt.cloudfront.net" always_nxdomain
 local-zone: "d2c4ylitp1qu24.cloudfront.net" always_nxdomain
 local-zone: "d2cgumzzqhgmdu.cloudfront.net" always_nxdomain
 local-zone: "d2cmvbq7sxx33j.cloudfront.net" always_nxdomain
