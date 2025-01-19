@@ -4316,6 +4316,7 @@ local-zone: "critteo.com" always_refuse
 local-zone: "crystall.io" always_refuse
 local-zone: "ctalyst.com" always_refuse
 local-zone: "ctasnet.com" always_refuse
+local-zone: "ctraffic.io" always_refuse
 local-zone: "cyberads.io" always_refuse
 local-zone: "d47wgg8.com" always_refuse
 local-zone: "dadofad.com" always_refuse
@@ -4505,6 +4506,7 @@ local-zone: "httpool.com" always_refuse
 local-zone: "hubvisor.io" always_refuse
 local-zone: "hvjudtzf.ru" always_refuse
 local-zone: "hypeads.net" always_refuse
+local-zone: "hypelab.com" always_refuse
 local-zone: "i279709.net" always_refuse
 local-zone: "iasds01.com" always_refuse
 local-zone: "ibroad7.com" always_refuse
@@ -7410,6 +7412,7 @@ local-zone: "ads.aland.com" always_refuse
 local-zone: "ads.alive.com" always_refuse
 local-zone: "ads.amm.cloud" always_refuse
 local-zone: "ad.samnytt.se" always_refuse
+local-zone: "ads-api.x.com" always_refuse
 local-zone: "ads.ar8ar.com" always_refuse
 local-zone: "adsareads.com" always_refuse
 local-zone: "adsarefun.com" always_refuse
