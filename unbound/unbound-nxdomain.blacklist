@@ -4126,6 +4126,7 @@ local-zone: "asmrica.com" always_nxdomain
 local-zone: "asmwall.com" always_nxdomain
 local-zone: "a.svtrd.com" always_nxdomain
 local-zone: "ateam-ad.jp" always_nxdomain
+local-zone: "atimaze.com" always_nxdomain
 local-zone: "ats.otto.de" always_nxdomain
 local-zone: "audienzz.ch" always_nxdomain
 local-zone: "audiogo.com" always_nxdomain
@@ -12930,6 +12931,7 @@ local-zone: "looksmartppc.com" always_nxdomain
 local-zone: "lp.stargames.com" always_nxdomain
 local-zone: "macan-native.com" always_nxdomain
 local-zone: "madebyintent.com" always_nxdomain
+local-zone: "mainadcenter.com" always_nxdomain
 local-zone: "makerstudios.com" always_nxdomain
 local-zone: "manmarketing.com" always_nxdomain
 local-zone: "marenacosmos.com" always_nxdomain

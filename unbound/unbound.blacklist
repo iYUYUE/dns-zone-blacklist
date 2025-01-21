@@ -4126,6 +4126,7 @@ local-zone: "asmrica.com" always_refuse
 local-zone: "asmwall.com" always_refuse
 local-zone: "a.svtrd.com" always_refuse
 local-zone: "ateam-ad.jp" always_refuse
+local-zone: "atimaze.com" always_refuse
 local-zone: "ats.otto.de" always_refuse
 local-zone: "audienzz.ch" always_refuse
 local-zone: "audiogo.com" always_refuse
@@ -12930,6 +12931,7 @@ local-zone: "looksmartppc.com" always_refuse
 local-zone: "lp.stargames.com" always_refuse
 local-zone: "macan-native.com" always_refuse
 local-zone: "madebyintent.com" always_refuse
+local-zone: "mainadcenter.com" always_refuse
 local-zone: "makerstudios.com" always_refuse
 local-zone: "manmarketing.com" always_refuse
 local-zone: "marenacosmos.com" always_refuse
