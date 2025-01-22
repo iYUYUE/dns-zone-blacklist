@@ -16952,6 +16952,7 @@ zone "probable-holiday.com" { type master; notify no; file "null.zone.file"; };
 zone "projectagoralibs.com" { type master; notify no; file "null.zone.file"; };
 zone "projects.newsday.com" { type master; notify no; file "null.zone.file"; };
 zone "projectwonderful.com" { type master; notify no; file "null.zone.file"; };
+zone "promos.investing.com" { type master; notify no; file "null.zone.file"; };
 zone "promos.ogdennews.com" { type master; notify no; file "null.zone.file"; };
 zone "promotools.islive.nl" { type master; notify no; file "null.zone.file"; };
 zone "prontotrafficads.xyz" { type master; notify no; file "null.zone.file"; };
@@ -19644,6 +19645,7 @@ zone "local.metropolistribune.com" { type master; notify no; file "null.zone.fil
 zone "mamamia.vintageporno.stream" { type master; notify no; file "null.zone.file"; };
 zone "marvelousmediasolutions.com" { type master; notify no; file "null.zone.file"; };
 zone "media.fayettevilleflyer.com" { type master; notify no; file "null.zone.file"; };
+zone "monetization.prod.invmed.co" { type master; notify no; file "null.zone.file"; };
 zone "mooieplaatjes.bierdopje.com" { type master; notify no; file "null.zone.file"; };
 zone "na61-rmbsync-upaas.quark.cn" { type master; notify no; file "null.zone.file"; };
 zone "nsx-e.np.dl.playstation.net" { type master; notify no; file "null.zone.file"; };
