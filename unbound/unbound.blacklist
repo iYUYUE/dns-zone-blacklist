@@ -11248,8 +11248,10 @@ local-zone: "cbccreative.com" always_refuse
 local-zone: "c.cgmission.com" always_refuse
 local-zone: "cdn3.hentok.com" always_refuse
 local-zone: "cdn.mequoda.com" always_refuse
+local-zone: "cdn.nejxdoy.com" always_refuse
 local-zone: "cdn.sdtraff.com" always_refuse
 local-zone: "cdn-server.info" always_refuse
+local-zone: "cdn.tazlo.cloud" always_refuse
 local-zone: "cdn.tech426.com" always_refuse
 local-zone: "cdn.thehinh.com" always_refuse
 local-zone: "ceylonmedia.com" always_refuse
