@@ -20139,6 +20139,7 @@ zone "makumva.all-usanomination.com" { type master; notify no; file "null.zone.f
 zone "media-mobadserver.fbiz.com.br" { type master; notify no; file "null.zone.file"; };
 zone "miexperienciastarbucks.com.co" { type master; notify no; file "null.zone.file"; };
 zone "na-library.klarnaservices.com" { type master; notify no; file "null.zone.file"; };
+zone "osm-ads-aka.delivery.roku.com" { type master; notify no; file "null.zone.file"; };
 zone "partners.olybetaffiliates.com" { type master; notify no; file "null.zone.file"; };
 zone "partner.streetinteractive.com" { type master; notify no; file "null.zone.file"; };
 zone "payperclickadvertising.org.uk" { type master; notify no; file "null.zone.file"; };
