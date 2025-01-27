@@ -12225,6 +12225,7 @@ zone "ade.clmbtech.com" { type master; notify no; file "null.zone.file"; };
 zone "adexservices.com" { type master; notify no; file "null.zone.file"; };
 zone "adfilmmakers.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.filmpalota.hu" { type master; notify no; file "null.zone.file"; };
+zone "ad.flipboard.com" { type master; notify no; file "null.zone.file"; };
 zone "adforecaster.com" { type master; notify no; file "null.zone.file"; };
 zone "ad-generation.jp" { type master; notify no; file "null.zone.file"; };
 zone "adgirl.yes24.com" { type master; notify no; file "null.zone.file"; };
