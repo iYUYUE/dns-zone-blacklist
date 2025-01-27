@@ -19211,6 +19211,7 @@ local-zone: "adserver.zeichensetzen.de" always_nxdomain
 local-zone: "adserv.interactivebit.com" always_nxdomain
 local-zone: "ads.filezilla-project.org" always_nxdomain
 local-zone: "ads.gentedeopiniao.com.br" always_nxdomain
+local-zone: "ads.global.ssl.fastly.net" always_nxdomain
 local-zone: "ads.gunownersresource.com" always_nxdomain
 local-zone: "ads.ifolharegional.com.br" always_nxdomain
 local-zone: "adsintelligence.marketing" always_nxdomain

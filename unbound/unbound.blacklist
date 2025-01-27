@@ -19211,6 +19211,7 @@ local-zone: "adserver.zeichensetzen.de" always_refuse
 local-zone: "adserv.interactivebit.com" always_refuse
 local-zone: "ads.filezilla-project.org" always_refuse
 local-zone: "ads.gentedeopiniao.com.br" always_refuse
+local-zone: "ads.global.ssl.fastly.net" always_refuse
 local-zone: "ads.gunownersresource.com" always_refuse
 local-zone: "ads.ifolharegional.com.br" always_refuse
 local-zone: "adsintelligence.marketing" always_refuse
