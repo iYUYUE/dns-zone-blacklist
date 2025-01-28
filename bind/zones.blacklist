@@ -19003,6 +19003,7 @@ zone "lcx-widgets.bambuser.com" { type master; notify no; file "null.zone.file";
 zone "magneticaadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "makefirstimpressions.com" { type master; notify no; file "null.zone.file"; };
 zone "matthewjamescreative.com" { type master; notify no; file "null.zone.file"; };
+zone "medialink-adx.moomoo.com" { type master; notify no; file "null.zone.file"; };
 zone "migqw56nfi.zzaqqwecd.lat" { type master; notify no; file "null.zone.file"; };
 zone "mobileads.indiatimes.com" { type master; notify no; file "null.zone.file"; };
 zone "msadsscale.azureedge.net" { type master; notify no; file "null.zone.file"; };
@@ -19528,6 +19529,7 @@ zone "imbdemfjjduu.cdnvideo3.com" { type master; notify no; file "null.zone.file
 zone "intermedia-advertising.com" { type master; notify no; file "null.zone.file"; };
 zone "logos1-cashback.mbna.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "mediablueads.trafficman.io" { type master; notify no; file "null.zone.file"; };
+zone "medialink-jssdk.moomoo.com" { type master; notify no; file "null.zone.file"; };
 zone "mediavisionadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "mercury.dl.playstation.net" { type master; notify no; file "null.zone.file"; };
 zone "mficlyxgvfsp.cdnvideo3.com" { type master; notify no; file "null.zone.file"; };
