@@ -10166,6 +10166,7 @@ local-zone: "msecure122.com" always_refuse
 local-zone: "msecure127.com" always_refuse
 local-zone: "msecure128.com" always_refuse
 local-zone: "msecure129.com" always_refuse
+local-zone: "mtgglobals.com" always_refuse
 local-zone: "muddyquote.pro" always_refuse
 local-zone: "multimania.com" always_refuse
 local-zone: "musicradio.com" always_refuse
@@ -20443,6 +20444,7 @@ local-zone: "rs-stripe.thepatriotnation.net" always_refuse
 local-zone: "rs-stripe.thesimplifydaily.com" always_refuse
 local-zone: "rs-stripe.uspoliticaldaily.com" always_refuse
 local-zone: "rs-stripe.wellnesspursuits.com" always_refuse
+local-zone: "s3-ca-crosspromo.easybrain.com" always_refuse
 local-zone: "seal-central-westernma.bbb.org" always_refuse
 local-zone: "seal-maritimeprovinces.bbb.org" always_refuse
 local-zone: "seal-southwestmissouri.bbb.org" always_refuse
@@ -20630,6 +20632,7 @@ local-zone: "cc.histoires-de-sexe-gratuites.com" always_refuse
 local-zone: "ccpa-script.psg.nexstardigital.net" always_refuse
 local-zone: "citi.bridgetrack.com.edgesuite.net" always_refuse
 local-zone: "cp187540-pd-aetv-com.akamaized.net" always_refuse
+local-zone: "cross-promo-provider.easybrain.com" always_refuse
 local-zone: "digitalmarketingspecialists.com.au" always_refuse
 local-zone: "friends2follow-us.s3.amazonaws.com" always_refuse
 local-zone: "hb-obv2.s3.us-east-2.amazonaws.com" always_refuse
@@ -20799,6 +20802,7 @@ local-zone: "courier-sandbox-push-apple.com.akadns.net" always_refuse
 local-zone: "ebistoppan1.kyowahakko-bio-campaign-1.com" always_refuse
 local-zone: "groove-widget-production.s3.amazonaws.com" always_refuse
 local-zone: "minotaur-production.global.ssl.fastly.net" always_refuse
+local-zone: "o-iab-notifications.mediation.unity3d.com" always_refuse
 local-zone: "partners.nationalmortgageprofessional.com" always_refuse
 local-zone: "push-monetization-images.s3.amazonaws.com" always_refuse
 local-zone: "r3-live-assets.s3.eu-west-1.amazonaws.com" always_refuse

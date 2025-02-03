@@ -10166,6 +10166,7 @@ zone "msecure122.com" { type master; notify no; file "null.zone.file"; };
 zone "msecure127.com" { type master; notify no; file "null.zone.file"; };
 zone "msecure128.com" { type master; notify no; file "null.zone.file"; };
 zone "msecure129.com" { type master; notify no; file "null.zone.file"; };
+zone "mtgglobals.com" { type master; notify no; file "null.zone.file"; };
 zone "muddyquote.pro" { type master; notify no; file "null.zone.file"; };
 zone "multimania.com" { type master; notify no; file "null.zone.file"; };
 zone "musicradio.com" { type master; notify no; file "null.zone.file"; };
@@ -20443,6 +20444,7 @@ zone "rs-stripe.thepatriotnation.net" { type master; notify no; file "null.zone.
 zone "rs-stripe.thesimplifydaily.com" { type master; notify no; file "null.zone.file"; };
 zone "rs-stripe.uspoliticaldaily.com" { type master; notify no; file "null.zone.file"; };
 zone "rs-stripe.wellnesspursuits.com" { type master; notify no; file "null.zone.file"; };
+zone "s3-ca-crosspromo.easybrain.com" { type master; notify no; file "null.zone.file"; };
 zone "seal-central-westernma.bbb.org" { type master; notify no; file "null.zone.file"; };
 zone "seal-maritimeprovinces.bbb.org" { type master; notify no; file "null.zone.file"; };
 zone "seal-southwestmissouri.bbb.org" { type master; notify no; file "null.zone.file"; };
@@ -20630,6 +20632,7 @@ zone "cc.histoires-de-sexe-gratuites.com" { type master; notify no; file "null.z
 zone "ccpa-script.psg.nexstardigital.net" { type master; notify no; file "null.zone.file"; };
 zone "citi.bridgetrack.com.edgesuite.net" { type master; notify no; file "null.zone.file"; };
 zone "cp187540-pd-aetv-com.akamaized.net" { type master; notify no; file "null.zone.file"; };
+zone "cross-promo-provider.easybrain.com" { type master; notify no; file "null.zone.file"; };
 zone "digitalmarketingspecialists.com.au" { type master; notify no; file "null.zone.file"; };
 zone "friends2follow-us.s3.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "hb-obv2.s3.us-east-2.amazonaws.com" { type master; notify no; file "null.zone.file"; };
@@ -20799,6 +20802,7 @@ zone "courier-sandbox-push-apple.com.akadns.net" { type master; notify no; file 
 zone "ebistoppan1.kyowahakko-bio-campaign-1.com" { type master; notify no; file "null.zone.file"; };
 zone "groove-widget-production.s3.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "minotaur-production.global.ssl.fastly.net" { type master; notify no; file "null.zone.file"; };
+zone "o-iab-notifications.mediation.unity3d.com" { type master; notify no; file "null.zone.file"; };
 zone "partners.nationalmortgageprofessional.com" { type master; notify no; file "null.zone.file"; };
 zone "push-monetization-images.s3.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "r3-live-assets.s3.eu-west-1.amazonaws.com" { type master; notify no; file "null.zone.file"; };
