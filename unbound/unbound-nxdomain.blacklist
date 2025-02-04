@@ -10382,6 +10382,7 @@ local-zone: "rdrctgoweb.com" always_nxdomain
 local-zone: "readserver.net" always_nxdomain
 local-zone: "realpopbid.com" always_nxdomain
 local-zone: "realpush.media" always_nxdomain
+local-zone: "receptivity.io" always_nxdomain
 local-zone: "recruitics.com" always_nxdomain
 local-zone: "rediffusion.in" always_nxdomain
 local-zone: "redonetype.com" always_nxdomain
@@ -11004,6 +11005,7 @@ local-zone: "adsmedium001.pl" always_nxdomain
 local-zone: "ads.metronom.ge" always_nxdomain
 local-zone: "ads.modamoda.mk" always_nxdomain
 local-zone: "ads.montfiz.com" always_nxdomain
+local-zone: "ads.mozilla.org" always_nxdomain
 local-zone: "ads.navymwr.org" always_nxdomain
 local-zone: "ads.neomedia.sk" always_nxdomain
 local-zone: "ads.netimage.pl" always_nxdomain
@@ -20270,6 +20272,7 @@ local-zone: "d1pr3sk5xr0dce.cloudfront.net" always_nxdomain
 local-zone: "d1r3ddyrqrmcjv.cloudfront.net" always_nxdomain
 local-zone: "d1rind1mbgys5l.cloudfront.net" always_nxdomain
 local-zone: "d1tprjo2w7krrh.cloudfront.net" always_nxdomain
+local-zone: "d1tru86qrby720.cloudfront.net" always_nxdomain
 local-zone: "d1upt0rqzff34l.cloudfront.net" always_nxdomain
 local-zone: "d1ux8fwkxchynl.cloudfront.net" always_nxdomain
 local-zone: "d1voyiv1eh2vzr.cloudfront.net" always_nxdomain
