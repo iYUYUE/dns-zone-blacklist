@@ -4219,6 +4219,7 @@ local-zone: "bokeden.com" always_refuse
 local-zone: "boo-box.com" always_refuse
 local-zone: "boomads.com" always_refuse
 local-zone: "boostify.ai" always_refuse
+local-zone: "b-p.academy" always_refuse
 local-zone: "brand2d.com" always_refuse
 local-zone: "bravads.com" always_refuse
 local-zone: "braveki.xyz" always_refuse
@@ -10656,6 +10657,7 @@ local-zone: "webkingads.net" always_refuse
 local-zone: "webklipper.com" always_refuse
 local-zone: "weblargest.com" always_refuse
 local-zone: "webtools.media" always_refuse
+local-zone: "weirdideal.pro" always_refuse
 local-zone: "welllwrite.com" always_refuse
 local-zone: "wherabygry.com" always_refuse
 local-zone: "whirlclick.com" always_refuse
@@ -12161,6 +12163,7 @@ local-zone: "websponsors.com" always_refuse
 local-zone: "webtradehub.com" always_refuse
 local-zone: "webvisitors.net" always_refuse
 local-zone: "wegotohouse.com" always_refuse
+local-zone: "weird-speed.pro" always_refuse
 local-zone: "welcomeneat.pro" always_refuse
 local-zone: "wellbc6.website" always_refuse
 local-zone: "wel-wel-fie.com" always_refuse
@@ -17764,6 +17767,7 @@ local-zone: "mcad.mods-clinic.info" always_refuse
 local-zone: "meaningfulcontent.org" always_refuse
 local-zone: "media01.cgchannel.com" always_refuse
 local-zone: "media.on.betrivers.ca" always_refuse
+local-zone: "mediation.unity3d.com" always_refuse
 local-zone: "melodioussymphony.com" always_refuse
 local-zone: "merchantadmanager.com" always_refuse
 local-zone: "merchantadmanager.net" always_refuse
@@ -20833,7 +20837,6 @@ local-zone: "courier-sandbox-push-apple.com.akadns.net" always_refuse
 local-zone: "ebistoppan1.kyowahakko-bio-campaign-1.com" always_refuse
 local-zone: "groove-widget-production.s3.amazonaws.com" always_refuse
 local-zone: "minotaur-production.global.ssl.fastly.net" always_refuse
-local-zone: "o-iab-notifications.mediation.unity3d.com" always_refuse
 local-zone: "partners.nationalmortgageprofessional.com" always_refuse
 local-zone: "push-monetization-images.s3.amazonaws.com" always_refuse
 local-zone: "r3-live-assets.s3.eu-west-1.amazonaws.com" always_refuse

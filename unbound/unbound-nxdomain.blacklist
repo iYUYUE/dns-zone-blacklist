@@ -4219,6 +4219,7 @@ local-zone: "bokeden.com" always_nxdomain
 local-zone: "boo-box.com" always_nxdomain
 local-zone: "boomads.com" always_nxdomain
 local-zone: "boostify.ai" always_nxdomain
+local-zone: "b-p.academy" always_nxdomain
 local-zone: "brand2d.com" always_nxdomain
 local-zone: "bravads.com" always_nxdomain
 local-zone: "braveki.xyz" always_nxdomain
@@ -10656,6 +10657,7 @@ local-zone: "webkingads.net" always_nxdomain
 local-zone: "webklipper.com" always_nxdomain
 local-zone: "weblargest.com" always_nxdomain
 local-zone: "webtools.media" always_nxdomain
+local-zone: "weirdideal.pro" always_nxdomain
 local-zone: "welllwrite.com" always_nxdomain
 local-zone: "wherabygry.com" always_nxdomain
 local-zone: "whirlclick.com" always_nxdomain
@@ -12161,6 +12163,7 @@ local-zone: "websponsors.com" always_nxdomain
 local-zone: "webtradehub.com" always_nxdomain
 local-zone: "webvisitors.net" always_nxdomain
 local-zone: "wegotohouse.com" always_nxdomain
+local-zone: "weird-speed.pro" always_nxdomain
 local-zone: "welcomeneat.pro" always_nxdomain
 local-zone: "wellbc6.website" always_nxdomain
 local-zone: "wel-wel-fie.com" always_nxdomain
@@ -17764,6 +17767,7 @@ local-zone: "mcad.mods-clinic.info" always_nxdomain
 local-zone: "meaningfulcontent.org" always_nxdomain
 local-zone: "media01.cgchannel.com" always_nxdomain
 local-zone: "media.on.betrivers.ca" always_nxdomain
+local-zone: "mediation.unity3d.com" always_nxdomain
 local-zone: "melodioussymphony.com" always_nxdomain
 local-zone: "merchantadmanager.com" always_nxdomain
 local-zone: "merchantadmanager.net" always_nxdomain
@@ -20833,7 +20837,6 @@ local-zone: "courier-sandbox-push-apple.com.akadns.net" always_nxdomain
 local-zone: "ebistoppan1.kyowahakko-bio-campaign-1.com" always_nxdomain
 local-zone: "groove-widget-production.s3.amazonaws.com" always_nxdomain
 local-zone: "minotaur-production.global.ssl.fastly.net" always_nxdomain
-local-zone: "o-iab-notifications.mediation.unity3d.com" always_nxdomain
 local-zone: "partners.nationalmortgageprofessional.com" always_nxdomain
 local-zone: "push-monetization-images.s3.amazonaws.com" always_nxdomain
 local-zone: "r3-live-assets.s3.eu-west-1.amazonaws.com" always_nxdomain
