@@ -205,7 +205,6 @@ zone "jads.co" { type master; notify no; file "null.zone.file"; };
 zone "jink.de" { type master; notify no; file "null.zone.file"; };
 zone "jipo.io" { type master; notify no; file "null.zone.file"; };
 zone "kiip.me" { type master; notify no; file "null.zone.file"; };
-zone "kit.com" { type master; notify no; file "null.zone.file"; };
 zone "kost.tv" { type master; notify no; file "null.zone.file"; };
 zone "loox.io" { type master; notify no; file "null.zone.file"; };
 zone "m19.com" { type master; notify no; file "null.zone.file"; };
