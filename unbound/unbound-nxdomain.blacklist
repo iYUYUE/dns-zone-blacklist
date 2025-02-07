@@ -17634,6 +17634,7 @@ local-zone: "commissionfactory.com" always_nxdomain
 local-zone: "connected-stories.com" always_nxdomain
 local-zone: "consent.gameforge.com" always_nxdomain
 local-zone: "consent.liberation.fr" always_nxdomain
+local-zone: "consent-notice.ft.com" always_nxdomain
 local-zone: "content-ci360.knvb.nl" always_nxdomain
 local-zone: "content-ci360.rbfa.be" always_nxdomain
 local-zone: "conversiongorilla.com" always_nxdomain
@@ -18268,6 +18269,7 @@ local-zone: "communicationcrafts.in" always_nxdomain
 local-zone: "connected.county10.com" always_nxdomain
 local-zone: "consciousadnetwork.com" always_nxdomain
 local-zone: "consciousadnetwork.org" always_nxdomain
+local-zone: "consent-manager.ft.com" always_nxdomain
 local-zone: "consent.radiotimes.com" always_nxdomain
 local-zone: "consent.spieletipps.de" always_nxdomain
 local-zone: "console.datateam.co.uk" always_nxdomain

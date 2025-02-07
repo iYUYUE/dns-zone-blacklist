@@ -17634,6 +17634,7 @@ zone "commissionfactory.com" { type master; notify no; file "null.zone.file"; };
 zone "connected-stories.com" { type master; notify no; file "null.zone.file"; };
 zone "consent.gameforge.com" { type master; notify no; file "null.zone.file"; };
 zone "consent.liberation.fr" { type master; notify no; file "null.zone.file"; };
+zone "consent-notice.ft.com" { type master; notify no; file "null.zone.file"; };
 zone "content-ci360.knvb.nl" { type master; notify no; file "null.zone.file"; };
 zone "content-ci360.rbfa.be" { type master; notify no; file "null.zone.file"; };
 zone "conversiongorilla.com" { type master; notify no; file "null.zone.file"; };
@@ -18268,6 +18269,7 @@ zone "communicationcrafts.in" { type master; notify no; file "null.zone.file"; }
 zone "connected.county10.com" { type master; notify no; file "null.zone.file"; };
 zone "consciousadnetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "consciousadnetwork.org" { type master; notify no; file "null.zone.file"; };
+zone "consent-manager.ft.com" { type master; notify no; file "null.zone.file"; };
 zone "consent.radiotimes.com" { type master; notify no; file "null.zone.file"; };
 zone "consent.spieletipps.de" { type master; notify no; file "null.zone.file"; };
 zone "console.datateam.co.uk" { type master; notify no; file "null.zone.file"; };

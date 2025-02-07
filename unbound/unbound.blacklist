@@ -17634,6 +17634,7 @@ local-zone: "commissionfactory.com" always_refuse
 local-zone: "connected-stories.com" always_refuse
 local-zone: "consent.gameforge.com" always_refuse
 local-zone: "consent.liberation.fr" always_refuse
+local-zone: "consent-notice.ft.com" always_refuse
 local-zone: "content-ci360.knvb.nl" always_refuse
 local-zone: "content-ci360.rbfa.be" always_refuse
 local-zone: "conversiongorilla.com" always_refuse
@@ -18268,6 +18269,7 @@ local-zone: "communicationcrafts.in" always_refuse
 local-zone: "connected.county10.com" always_refuse
 local-zone: "consciousadnetwork.com" always_refuse
 local-zone: "consciousadnetwork.org" always_refuse
+local-zone: "consent-manager.ft.com" always_refuse
 local-zone: "consent.radiotimes.com" always_refuse
 local-zone: "consent.spieletipps.de" always_refuse
 local-zone: "console.datateam.co.uk" always_refuse
