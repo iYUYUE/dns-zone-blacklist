@@ -12009,6 +12009,7 @@ zone "ssl2anyone2.com" { type master; notify no; file "null.zone.file"; };
 zone "standartnews.eu" { type master; notify no; file "null.zone.file"; };
 zone "startercost.com" { type master; notify no; file "null.zone.file"; };
 zone "static.vic-m.co" { type master; notify no; file "null.zone.file"; };
+zone "steeltackle.pro" { type master; notify no; file "null.zone.file"; };
 zone "stevesandco.com" { type master; notify no; file "null.zone.file"; };
 zone "stewartmktg.com" { type master; notify no; file "null.zone.file"; };
 zone "s.thepornbin.us" { type master; notify no; file "null.zone.file"; };
