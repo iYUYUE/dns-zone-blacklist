@@ -13652,6 +13652,7 @@ zone "ads.dev.diveba.se" { type master; notify no; file "null.zone.file"; };
 zone "ads.dialmyapp.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.digitalbee.al" { type master; notify no; file "null.zone.file"; };
 zone "ads.digitalcmo.fr" { type master; notify no; file "null.zone.file"; };
+zone "adsdk.menaapp.net" { type master; notify no; file "null.zone.file"; };
 zone "ads.dmdmax.com.pk" { type master; notify no; file "null.zone.file"; };
 zone "ads.dobremedia.sk" { type master; notify no; file "null.zone.file"; };
 zone "ads.dsavltd.co.uk" { type master; notify no; file "null.zone.file"; };

@@ -13652,6 +13652,7 @@ local-zone: "ads.dev.diveba.se" always_refuse
 local-zone: "ads.dialmyapp.com" always_refuse
 local-zone: "ads.digitalbee.al" always_refuse
 local-zone: "ads.digitalcmo.fr" always_refuse
+local-zone: "adsdk.menaapp.net" always_refuse
 local-zone: "ads.dmdmax.com.pk" always_refuse
 local-zone: "ads.dobremedia.sk" always_refuse
 local-zone: "ads.dsavltd.co.uk" always_refuse

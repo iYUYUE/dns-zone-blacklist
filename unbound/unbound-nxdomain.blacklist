@@ -13652,6 +13652,7 @@ local-zone: "ads.dev.diveba.se" always_nxdomain
 local-zone: "ads.dialmyapp.com" always_nxdomain
 local-zone: "ads.digitalbee.al" always_nxdomain
 local-zone: "ads.digitalcmo.fr" always_nxdomain
+local-zone: "adsdk.menaapp.net" always_nxdomain
 local-zone: "ads.dmdmax.com.pk" always_nxdomain
 local-zone: "ads.dobremedia.sk" always_nxdomain
 local-zone: "ads.dsavltd.co.uk" always_nxdomain
