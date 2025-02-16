@@ -10873,6 +10873,7 @@ local-zone: "ads2.gelsen.net" always_refuse
 local-zone: "ads2.westca.com" always_refuse
 local-zone: "ads.actc.org.ar" always_refuse
 local-zone: "ads.aelieve.com" always_refuse
+local-zone: "adsalliance.xyz" always_refuse
 local-zone: "ads.almakos.com" always_refuse
 local-zone: "ads.alobacsi.vn" always_refuse
 local-zone: "ads.alpha-it.nl" always_refuse
@@ -12941,6 +12942,7 @@ local-zone: "go.domccktop.com" always_refuse
 local-zone: "go.intnative.com" always_refuse
 local-zone: "go.mobiprotg.com" always_refuse
 local-zone: "goodwaygroup.com" always_refuse
+local-zone: "gossamerwing.com" always_refuse
 local-zone: "go.tamdamads.com" always_refuse
 local-zone: "gracefulmilk.com" always_refuse
 local-zone: "grave-orange.pro" always_refuse
@@ -20936,6 +20938,7 @@ local-zone: "adserver-prod-alb-1558369296.ap-southeast-1.elb.amazonaws.com" alwa
 local-zone: "caltimes-sdut-marketing-assets-dev.s3-us-west-2.amazonaws.com" always_refuse
 local-zone: "foureyes-adpearance-com-440548151.us-west-2.elb.amazonaws.com" always_refuse
 local-zone: "ad-interactions-prod-lb-1606894468.us-east-1.elb.amazonaws.com" always_refuse
+local-zone: "a.e68eaebc30768a673848927c2b8c8e38c38fd42312e367bca04fc622.com" always_refuse
 local-zone: "opinionadsadserverelbvpc-1611782868.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "ad2fa947ed15011e8bb8b02d1070e819-87904156.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "portal-ad-prod-cread-com-679410734.cn-northwest-1.elb.amazonaws.com.cn" always_refuse
