@@ -7388,6 +7388,7 @@ local-zone: "ad.ipolska.pl" always_refuse
 local-zone: "ad.iskonet.de" always_refuse
 local-zone: "adjuggler.com" always_refuse
 local-zone: "adjust-net.jp" always_refuse
+local-zone: "adkaora.space" always_refuse
 local-zone: "ad.khan.co.kr" always_refuse
 local-zone: "ad.kmib.co.kr" always_refuse
 local-zone: "adkontekst.pl" always_refuse
@@ -17200,6 +17201,7 @@ local-zone: "relevant-digital.com" always_refuse
 local-zone: "renegadeinternet.com" always_refuse
 local-zone: "reseller-hosting.xyz" always_refuse
 local-zone: "rev.contractoruk.com" always_refuse
+local-zone: "revenuemakerdata.com" always_refuse
 local-zone: "reviveadservices.com" always_refuse
 local-zone: "revive.connection.fr" always_refuse
 local-zone: "revive.futura.net.mk" always_refuse
