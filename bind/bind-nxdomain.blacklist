@@ -41790,6 +41790,8 @@ video-previews-cdn.production-public.tubi.io CNAME .
 *.2betadservice.s3.ap-northeast-1.amazonaws.com CNAME .
 adv-pubmanager-dev.s3-sa-east-1.amazonaws.com CNAME .
 *.adv-pubmanager-dev.s3-sa-east-1.amazonaws.com CNAME .
+beehiiv-adnetwork-production.s3.amazonaws.com CNAME .
+*.beehiiv-adnetwork-production.s3.amazonaws.com CNAME .
 seal-central-northern-western-arizona.bbb.org CNAME .
 *.seal-central-northern-western-arizona.bbb.org CNAME .
 ams-ads-cornerstone-creatives.s3.amazonaws.com CNAME .
