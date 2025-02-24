@@ -20010,6 +20010,7 @@ local-zone: "sasinator.realestate.com.au" always_nxdomain
 local-zone: "seal-centralalabama.bbb.org" always_nxdomain
 local-zone: "seal-centralflorida.bbb.org" always_nxdomain
 local-zone: "seal-centralgeorgia.bbb.org" always_nxdomain
+local-zone: "seal-contralflorida.bbb.org" always_nxdomain
 local-zone: "seal-southeasttexas.bbb.org" always_nxdomain
 local-zone: "seal-southernnevada.bbb.org" always_nxdomain
 local-zone: "seal.websecurity.norton.com" always_nxdomain
@@ -20512,6 +20513,7 @@ local-zone: "rs-stripe.wellnesspursuits.com" always_nxdomain
 local-zone: "s3-ca-crosspromo.easybrain.com" always_nxdomain
 local-zone: "seal-central-westernma.bbb.org" always_nxdomain
 local-zone: "seal-maritimeprovinces.bbb.org" always_nxdomain
+local-zone: "seal-_southerncolorado.bbb.org" always_nxdomain
 local-zone: "seal-southwestmissouri.bbb.org" always_nxdomain
 local-zone: "servedby.engineeringnews.co.za" always_nxdomain
 local-zone: "setupad-com.videoplayerhub.com" always_nxdomain
