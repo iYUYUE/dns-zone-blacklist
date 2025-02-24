@@ -12967,6 +12967,7 @@ zone "heads-fa.scdn.co" { type master; notify no; file "null.zone.file"; };
 zone "heykickstand.com" { type master; notify no; file "null.zone.file"; };
 zone "hide-and-seek.nl" { type master; notify no; file "null.zone.file"; };
 zone "highstreetad.com" { type master; notify no; file "null.zone.file"; };
+zone "homebizplaza.com" { type master; notify no; file "null.zone.file"; };
 zone "honeywhipped.com" { type master; notify no; file "null.zone.file"; };
 zone "hookcommerce.com" { type master; notify no; file "null.zone.file"; };
 zone "hookcommerce.net" { type master; notify no; file "null.zone.file"; };
