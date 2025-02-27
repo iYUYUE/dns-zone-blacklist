@@ -3368,6 +3368,7 @@ local-zone: "we3red.com" always_refuse
 local-zone: "webdogs.in" always_refuse
 local-zone: "webpush.jp" always_refuse
 local-zone: "webpush.vn" always_refuse
+local-zone: "wemass.com" always_refuse
 local-zone: "whewsv.com" always_refuse
 local-zone: "whois3.com" always_refuse
 local-zone: "winadx.com" always_refuse
@@ -13211,6 +13212,7 @@ local-zone: "play4traffic.com" always_refuse
 local-zone: "playersagency.ru" always_refuse
 local-zone: "playfulriver.com" always_refuse
 local-zone: "playmmogames.com" always_refuse
+local-zone: "plush-region.pro" always_refuse
 local-zone: "pmpublicidad.com" always_refuse
 local-zone: "pointtopoint.com" always_refuse
 local-zone: "polishedwing.pro" always_refuse
@@ -17920,6 +17922,7 @@ local-zone: "s2s.cncpt-central.com" always_refuse
 local-zone: "safelinkconverter.com" always_refuse
 local-zone: "sahilzenterprises.com" always_refuse
 local-zone: "scaredpreparation.pro" always_refuse
+local-zone: "scientificmission.pro" always_refuse
 local-zone: "screenvisionmedia.com" always_refuse
 local-zone: "seal-acadiana.bbb.org" always_refuse
 local-zone: "seal-arkansas.bbb.org" always_refuse
@@ -18387,6 +18390,7 @@ local-zone: "extmaps-api.yandex.net" always_refuse
 local-zone: "extremeleadprogram.com" always_refuse
 local-zone: "eyereturnmarketing.com" always_refuse
 local-zone: "falcon-asset.pixfs.net" always_refuse
+local-zone: "flamboyant-concern.pro" always_refuse
 local-zone: "fortunate-politics.pro" always_refuse
 local-zone: "foxyadvertising.com.au" always_refuse
 local-zone: "freewheel-live.fuse.tv" always_refuse
