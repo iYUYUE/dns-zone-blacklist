@@ -331,6 +331,7 @@ zone "adhub.ru" { type master; notify no; file "null.zone.file"; };
 zone "adimg.ru" { type master; notify no; file "null.zone.file"; };
 zone "adinc.kr" { type master; notify no; file "null.zone.file"; };
 zone "adk2.com" { type master; notify no; file "null.zone.file"; };
+zone "adlab.dk" { type master; notify no; file "null.zone.file"; };
 zone "adman.gr" { type master; notify no; file "null.zone.file"; };
 zone "adman.si" { type master; notify no; file "null.zone.file"; };
 zone "admix.in" { type master; notify no; file "null.zone.file"; };

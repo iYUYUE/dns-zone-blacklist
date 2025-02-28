@@ -331,6 +331,7 @@ local-zone: "adhub.ru" always_refuse
 local-zone: "adimg.ru" always_refuse
 local-zone: "adinc.kr" always_refuse
 local-zone: "adk2.com" always_refuse
+local-zone: "adlab.dk" always_refuse
 local-zone: "adman.gr" always_refuse
 local-zone: "adman.si" always_refuse
 local-zone: "admix.in" always_refuse

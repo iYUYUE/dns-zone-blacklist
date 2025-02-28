@@ -331,6 +331,7 @@ local-zone: "adhub.ru" always_nxdomain
 local-zone: "adimg.ru" always_nxdomain
 local-zone: "adinc.kr" always_nxdomain
 local-zone: "adk2.com" always_nxdomain
+local-zone: "adlab.dk" always_nxdomain
 local-zone: "adman.gr" always_nxdomain
 local-zone: "adman.si" always_nxdomain
 local-zone: "admix.in" always_nxdomain
