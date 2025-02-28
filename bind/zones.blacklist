@@ -5093,6 +5093,7 @@ zone "suite66.com" { type master; notify no; file "null.zone.file"; };
 zone "sunmedia.tv" { type master; notify no; file "null.zone.file"; };
 zone "superads.cn" { type master; notify no; file "null.zone.file"; };
 zone "sureads.com" { type master; notify no; file "null.zone.file"; };
+zone "sureview.tv" { type master; notify no; file "null.zone.file"; };
 zone "swarmiz.com" { type master; notify no; file "null.zone.file"; };
 zone "synacor.com" { type master; notify no; file "null.zone.file"; };
 zone "sync2ad.com" { type master; notify no; file "null.zone.file"; };

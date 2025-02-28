@@ -5093,6 +5093,7 @@ local-zone: "suite66.com" always_refuse
 local-zone: "sunmedia.tv" always_refuse
 local-zone: "superads.cn" always_refuse
 local-zone: "sureads.com" always_refuse
+local-zone: "sureview.tv" always_refuse
 local-zone: "swarmiz.com" always_refuse
 local-zone: "synacor.com" always_refuse
 local-zone: "sync2ad.com" always_refuse

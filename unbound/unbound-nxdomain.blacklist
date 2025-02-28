@@ -5093,6 +5093,7 @@ local-zone: "suite66.com" always_nxdomain
 local-zone: "sunmedia.tv" always_nxdomain
 local-zone: "superads.cn" always_nxdomain
 local-zone: "sureads.com" always_nxdomain
+local-zone: "sureview.tv" always_nxdomain
 local-zone: "swarmiz.com" always_nxdomain
 local-zone: "synacor.com" always_nxdomain
 local-zone: "sync2ad.com" always_nxdomain
