@@ -1233,6 +1233,7 @@ zone "komli.com" { type master; notify no; file "null.zone.file"; };
 zone "krekom.si" { type master; notify no; file "null.zone.file"; };
 zone "krush.com" { type master; notify no; file "null.zone.file"; };
 zone "ksand.com" { type master; notify no; file "null.zone.file"; };
+zone "kueez.net" { type master; notify no; file "null.zone.file"; };
 zone "kupona.de" { type master; notify no; file "null.zone.file"; };
 zone "kvaaa.com" { type master; notify no; file "null.zone.file"; };
 zone "kvecc.com" { type master; notify no; file "null.zone.file"; };
