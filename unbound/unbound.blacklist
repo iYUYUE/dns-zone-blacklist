@@ -14022,6 +14022,7 @@ local-zone: "cent.up-click.xyz" always_refuse
 local-zone: "centurionmedia.co" always_refuse
 local-zone: "c.gazetevatan.com" always_refuse
 local-zone: "c.gotoxxxtube.com" always_refuse
+local-zone: "chademocharge.com" always_refuse
 local-zone: "chasesoftware.biz" always_refuse
 local-zone: "chilledliquid.com" always_refuse
 local-zone: "circulation.bd.nl" always_refuse
@@ -20619,6 +20620,7 @@ local-zone: "ads.prd.ie.internal.unity3d.com" always_refuse
 local-zone: "ads.prod.webservices.mozgcp.net" always_refuse
 local-zone: "advertising.christiansunite.com" always_refuse
 local-zone: "affiliates.advertisingboost.com" always_refuse
+local-zone: "affliate-api.hindustantimes.com" always_refuse
 local-zone: "ams.londonschoolofmarketing.com" always_refuse
 local-zone: "a-us-west.rfihub.com.akadns.net" always_refuse
 local-zone: "banner.historiadealagoas.com.br" always_refuse

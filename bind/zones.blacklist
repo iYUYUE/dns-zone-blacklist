@@ -14022,6 +14022,7 @@ zone "cent.up-click.xyz" { type master; notify no; file "null.zone.file"; };
 zone "centurionmedia.co" { type master; notify no; file "null.zone.file"; };
 zone "c.gazetevatan.com" { type master; notify no; file "null.zone.file"; };
 zone "c.gotoxxxtube.com" { type master; notify no; file "null.zone.file"; };
+zone "chademocharge.com" { type master; notify no; file "null.zone.file"; };
 zone "chasesoftware.biz" { type master; notify no; file "null.zone.file"; };
 zone "chilledliquid.com" { type master; notify no; file "null.zone.file"; };
 zone "circulation.bd.nl" { type master; notify no; file "null.zone.file"; };
@@ -20619,6 +20620,7 @@ zone "ads.prd.ie.internal.unity3d.com" { type master; notify no; file "null.zone
 zone "ads.prod.webservices.mozgcp.net" { type master; notify no; file "null.zone.file"; };
 zone "advertising.christiansunite.com" { type master; notify no; file "null.zone.file"; };
 zone "affiliates.advertisingboost.com" { type master; notify no; file "null.zone.file"; };
+zone "affliate-api.hindustantimes.com" { type master; notify no; file "null.zone.file"; };
 zone "ams.londonschoolofmarketing.com" { type master; notify no; file "null.zone.file"; };
 zone "a-us-west.rfihub.com.akadns.net" { type master; notify no; file "null.zone.file"; };
 zone "banner.historiadealagoas.com.br" { type master; notify no; file "null.zone.file"; };
