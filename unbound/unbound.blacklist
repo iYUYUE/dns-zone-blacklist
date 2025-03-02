@@ -5010,6 +5010,7 @@ local-zone: "roinduk.com" always_refuse
 local-zone: "room214.com" always_refuse
 local-zone: "rrmovh0f.ru" always_refuse
 local-zone: "rtbmarkt.de" always_refuse
+local-zone: "rtb-mix.com" always_refuse
 local-zone: "rtbpopd.com" always_refuse
 local-zone: "rtbtraf.com" always_refuse
 local-zone: "rtpdn15.com" always_refuse
@@ -9436,6 +9437,7 @@ local-zone: "ads.sirved.com" always_refuse
 local-zone: "ads.songmoi.vn" always_refuse
 local-zone: "ads.soul.media" always_refuse
 local-zone: "ads.spotic.net" always_refuse
+local-zone: "adssquared.com" always_refuse
 local-zone: "ads.stankov.me" always_refuse
 local-zone: "ads.superad.cc" always_refuse
 local-zone: "adstanding.com" always_refuse
@@ -14102,6 +14104,7 @@ local-zone: "deli.misaglam.com" always_refuse
 local-zone: "deltaprojects.com" always_refuse
 local-zone: "devs-api.poki.com" always_refuse
 local-zone: "dfa.pressflex.net" always_refuse
+local-zone: "digitalcamp.co.kr" always_refuse
 local-zone: "digitaldhuria.com" always_refuse
 local-zone: "digitalitzone.com" always_refuse
 local-zone: "digitalremedy.com" always_refuse

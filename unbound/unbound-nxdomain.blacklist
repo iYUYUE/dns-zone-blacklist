@@ -5010,6 +5010,7 @@ local-zone: "roinduk.com" always_nxdomain
 local-zone: "room214.com" always_nxdomain
 local-zone: "rrmovh0f.ru" always_nxdomain
 local-zone: "rtbmarkt.de" always_nxdomain
+local-zone: "rtb-mix.com" always_nxdomain
 local-zone: "rtbpopd.com" always_nxdomain
 local-zone: "rtbtraf.com" always_nxdomain
 local-zone: "rtpdn15.com" always_nxdomain
@@ -9436,6 +9437,7 @@ local-zone: "ads.sirved.com" always_nxdomain
 local-zone: "ads.songmoi.vn" always_nxdomain
 local-zone: "ads.soul.media" always_nxdomain
 local-zone: "ads.spotic.net" always_nxdomain
+local-zone: "adssquared.com" always_nxdomain
 local-zone: "ads.stankov.me" always_nxdomain
 local-zone: "ads.superad.cc" always_nxdomain
 local-zone: "adstanding.com" always_nxdomain
@@ -14102,6 +14104,7 @@ local-zone: "deli.misaglam.com" always_nxdomain
 local-zone: "deltaprojects.com" always_nxdomain
 local-zone: "devs-api.poki.com" always_nxdomain
 local-zone: "dfa.pressflex.net" always_nxdomain
+local-zone: "digitalcamp.co.kr" always_nxdomain
 local-zone: "digitaldhuria.com" always_nxdomain
 local-zone: "digitalitzone.com" always_nxdomain
 local-zone: "digitalremedy.com" always_nxdomain
