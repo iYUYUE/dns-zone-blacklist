@@ -4039,6 +4039,7 @@ local-zone: "adwonder.cn" always_refuse
 local-zone: "ad.wsod.com" always_refuse
 local-zone: "adxbid.info" always_refuse
 local-zone: "adxcore.com" always_refuse
+local-zone: "adx.mala.cn" always_refuse
 local-zone: "adxpand.com" always_refuse
 local-zone: "adxplay.com" always_refuse
 local-zone: "adxsrve.com" always_refuse

@@ -4039,6 +4039,7 @@ local-zone: "adwonder.cn" always_nxdomain
 local-zone: "ad.wsod.com" always_nxdomain
 local-zone: "adxbid.info" always_nxdomain
 local-zone: "adxcore.com" always_nxdomain
+local-zone: "adx.mala.cn" always_nxdomain
 local-zone: "adxpand.com" always_nxdomain
 local-zone: "adxplay.com" always_nxdomain
 local-zone: "adxsrve.com" always_nxdomain

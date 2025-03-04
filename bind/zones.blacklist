@@ -4039,6 +4039,7 @@ zone "adwonder.cn" { type master; notify no; file "null.zone.file"; };
 zone "ad.wsod.com" { type master; notify no; file "null.zone.file"; };
 zone "adxbid.info" { type master; notify no; file "null.zone.file"; };
 zone "adxcore.com" { type master; notify no; file "null.zone.file"; };
+zone "adx.mala.cn" { type master; notify no; file "null.zone.file"; };
 zone "adxpand.com" { type master; notify no; file "null.zone.file"; };
 zone "adxplay.com" { type master; notify no; file "null.zone.file"; };
 zone "adxsrve.com" { type master; notify no; file "null.zone.file"; };
