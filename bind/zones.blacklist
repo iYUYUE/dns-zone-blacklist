@@ -19532,6 +19532,7 @@ zone "affiliate.voyeur-house.tv" { type master; notify no; file "null.zone.file"
 zone "alrayyaninternational.com" { type master; notify no; file "null.zone.file"; };
 zone "api.mobula.sdk.duapps.com" { type master; notify no; file "null.zone.file"; };
 zone "arthacreativeservices.com" { type master; notify no; file "null.zone.file"; };
+zone "assets.sizedoesmatter.com" { type master; notify no; file "null.zone.file"; };
 zone "associate.foreclosure.com" { type master; notify no; file "null.zone.file"; };
 zone "avenueroadadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "badges.beyondsecurity.com" { type master; notify no; file "null.zone.file"; };
