@@ -3918,6 +3918,7 @@ local-zone: "ads.home.vn" always_refuse
 local-zone: "adshuge.com" always_refuse
 local-zone: "adsiege.com" always_refuse
 local-zone: "ads.ign.com" always_refuse
+local-zone: "ads.iura.sk" always_refuse
 local-zone: "adsklick.de" always_refuse
 local-zone: "ads.kspg.co" always_refuse
 local-zone: "adslinks.ru" always_refuse
@@ -7602,6 +7603,7 @@ local-zone: "ads.klippa.tv" always_refuse
 local-zone: "ads.knives.pl" always_refuse
 local-zone: "ad.skyflag.jp" always_refuse
 local-zone: "ads.lajmi.net" always_refuse
+local-zone: "ads.lalalo.de" always_refuse
 local-zone: "ads.land24.de" always_refuse
 local-zone: "adslegend.com" always_refuse
 local-zone: "ads.locals.md" always_refuse
@@ -9285,6 +9287,7 @@ local-zone: "adjarmedia.com" always_refuse
 local-zone: "ad.jiemian.com" always_refuse
 local-zone: "ad.kddi-fs.com" always_refuse
 local-zone: "adk-mobile.com" always_refuse
+local-zone: "ad.kosova.info" always_refuse
 local-zone: "adlabmedia.com" always_refuse
 local-zone: "adl-hunter.com" always_refuse
 local-zone: "adligature.com" always_refuse
@@ -9412,7 +9415,9 @@ local-zone: "ads.habithq.ca" always_refuse
 local-zone: "ads.hallka.com" always_refuse
 local-zone: "adshopping.com" always_refuse
 local-zone: "ads.hubnob.net" always_refuse
+local-zone: "ads.ideoweb.bg" always_refuse
 local-zone: "adsimilate.com" always_refuse
+local-zone: "ads.infolot.es" always_refuse
 local-zone: "adsinstant.com" always_refuse
 local-zone: "ads.izvieto.lv" always_refuse
 local-zone: "ads.javtit.com" always_refuse
@@ -9664,6 +9669,7 @@ local-zone: "behoppipan.com" always_refuse
 local-zone: "benedictad.com" always_refuse
 local-zone: "betasaurus.com" always_refuse
 local-zone: "bidder.gamx.io" always_refuse
+local-zone: "biddingwin.com" always_refuse
 local-zone: "bid-engine.com" always_refuse
 local-zone: "bidfluence.com" always_refuse
 local-zone: "bidtellect.com" always_refuse
@@ -12214,6 +12220,7 @@ local-zone: "truaudience.com" always_refuse
 local-zone: "trydigilant.com" always_refuse
 local-zone: "tryinteract.com" always_refuse
 local-zone: "tryvoxpopme.com" always_refuse
+local-zone: "tubetraffic.com" always_refuse
 local-zone: "turbobanner.com" always_refuse
 local-zone: "tur-tur-key.com" always_refuse
 local-zone: "tvtelemetrie.de" always_refuse
@@ -14968,6 +14975,7 @@ local-zone: "ads.gadgetsquad.id" always_refuse
 local-zone: "ads.gelbe-liste.de" always_refuse
 local-zone: "ads.gencgazete.net" always_refuse
 local-zone: "ads.getasite.co.za" always_refuse
+local-zone: "ads.graphic.com.gh" always_refuse
 local-zone: "ads.greengeeks.com" always_refuse
 local-zone: "ads.gridtechno.com" always_refuse
 local-zone: "ads.growthlogic.co" always_refuse
@@ -16061,6 +16069,7 @@ local-zone: "adsgen.bangbros.com" always_refuse
 local-zone: "ads.getskybound.com" always_refuse
 local-zone: "ads.giaminhmedia.vn" always_refuse
 local-zone: "ads.goldreporter.de" always_refuse
+local-zone: "ads.grandefm.com.br" always_refuse
 local-zone: "ads.groupincorp.com" always_refuse
 local-zone: "ads.gsmexchange.com" always_refuse
 local-zone: "ads.gustoacademy.cz" always_refuse
@@ -17748,6 +17757,7 @@ local-zone: "advertising.symple.ch" always_refuse
 local-zone: "advertising.yahoo.com" always_refuse
 local-zone: "advertising.yandex.ru" always_refuse
 local-zone: "advert.robotmeedia.ee" always_refuse
+local-zone: "advert.savedonline.it" always_refuse
 local-zone: "advmanager.techfun.pl" always_refuse
 local-zone: "adv.office-partner.de" always_refuse
 local-zone: "adworks.pixelworks.gr" always_refuse
@@ -18001,6 +18011,7 @@ local-zone: "p5mcwdbu.ginzo-buy.jp" always_refuse
 local-zone: "parking.parklogic.com" always_refuse
 local-zone: "partenaire.palpix.com" always_refuse
 local-zone: "partners.fastriver.eu" always_refuse
+local-zone: "pbs.atf-tagmanager.de" always_refuse
 local-zone: "performanceplay.co.kr" always_refuse
 local-zone: "pioneeradvertiser.com" always_refuse
 local-zone: "player.reklamvidi.net" always_refuse
@@ -18354,7 +18365,9 @@ local-zone: "ads.interdynglobal.com" always_refuse
 local-zone: "ads.jetpackdigital.com" always_refuse
 local-zone: "ads.karas4training.com" always_refuse
 local-zone: "ads.krotoszynonline.pl" always_refuse
+local-zone: "ads.landwirt-media.com" always_refuse
 local-zone: "ads.lerepertoire.co.il" always_refuse
+local-zone: "ads.madridesnoticia.es" always_refuse
 local-zone: "ads.matrixgroupinc.net" always_refuse
 local-zone: "ads.mygrocerydeals.com" always_refuse
 local-zone: "ads.nationalhotrod.com" always_refuse
@@ -19666,6 +19679,7 @@ local-zone: "advertisement.avosapps.us" always_refuse
 local-zone: "advertisement.bienici.com" always_refuse
 local-zone: "advertising.microsoft.com" always_refuse
 local-zone: "advertising.thrivelabs.io" always_refuse
+local-zone: "adverts.fibreprovider.net" always_refuse
 local-zone: "affiliate.voyeur-house.tv" always_refuse
 local-zone: "alrayyaninternational.com" always_refuse
 local-zone: "api.mobula.sdk.duapps.com" always_refuse
@@ -20476,6 +20490,7 @@ local-zone: "advertiser.authenticshows.com" always_refuse
 local-zone: "advertising-api-eu.amazon.com" always_refuse
 local-zone: "advertising.avangardstudio.bg" always_refuse
 local-zone: "advertising.conexion3dcad.com" always_refuse
+local-zone: "advertising.offroadportal.org" always_refuse
 local-zone: "advertpro.investorvillage.com" always_refuse
 local-zone: "affiliate.fonbet-gr-0x7e6.com" always_refuse
 local-zone: "affiliate-static.flixcart.com" always_refuse
@@ -21186,6 +21201,7 @@ local-zone: "7726f27549de609644ca54296d723a4704ca5663d4e6072fc21ff4c4.com" alway
 local-zone: "89f5318ce93d828ab801f693bf6d1bf4ba587299f920697b486e751c.com" always_refuse
 local-zone: "8d4b8e3228cf9c859d4a4721929775dee41828804dddc0b1519562b9.com" always_refuse
 local-zone: "93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com" always_refuse
+local-zone: "9d2f5063ef584031341b48895ba0605aeb70d4c8a683a838968635eb.com" always_refuse
 local-zone: "a016967c8c783c38e555ae97b38fe0566ad9b398d255e32e833f160d.com" always_refuse
 local-zone: "a1401dff39c8fdcba6f437a5b06706d1413c89636d5fee6cce27cc99.com" always_refuse
 local-zone: "a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com" always_refuse
@@ -21199,7 +21215,6 @@ local-zone: "ec493033cd4df851f1b6e08aed8098776469a6baee4a4ebb78974a7e.com" alway
 local-zone: "adserver-prod-alb-1558369296.ap-southeast-1.elb.amazonaws.com" always_refuse
 local-zone: "caltimes-sdut-marketing-assets-dev.s3-us-west-2.amazonaws.com" always_refuse
 local-zone: "foureyes-adpearance-com-440548151.us-west-2.elb.amazonaws.com" always_refuse
-local-zone: "a.9d2f5063ef584031341b48895ba0605aeb70d4c8a683a838968635eb.com" always_refuse
 local-zone: "ad-interactions-prod-lb-1606894468.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "opinionadsadserverelbvpc-1611782868.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "ad2fa947ed15011e8bb8b02d1070e819-87904156.us-east-1.elb.amazonaws.com" always_refuse
