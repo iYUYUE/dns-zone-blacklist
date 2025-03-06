@@ -5273,6 +5273,7 @@ zone "x.amain.com" { type master; notify no; file "null.zone.file"; };
 zone "xdxx.online" { type master; notify no; file "null.zone.file"; };
 zone "xl-cash.com" { type master; notify no; file "null.zone.file"; };
 zone "xmlking.com" { type master; notify no; file "null.zone.file"; };
+zone "xmlwolf.com" { type master; notify no; file "null.zone.file"; };
 zone "xtr2020.com" { type master; notify no; file "null.zone.file"; };
 zone "xtrades.xyz" { type master; notify no; file "null.zone.file"; };
 zone "xvxv.online" { type master; notify no; file "null.zone.file"; };

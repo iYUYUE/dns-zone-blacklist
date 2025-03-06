@@ -5273,6 +5273,7 @@ local-zone: "x.amain.com" always_nxdomain
 local-zone: "xdxx.online" always_nxdomain
 local-zone: "xl-cash.com" always_nxdomain
 local-zone: "xmlking.com" always_nxdomain
+local-zone: "xmlwolf.com" always_nxdomain
 local-zone: "xtr2020.com" always_nxdomain
 local-zone: "xtrades.xyz" always_nxdomain
 local-zone: "xvxv.online" always_nxdomain
