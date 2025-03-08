@@ -151,6 +151,7 @@ local-zone: "ads.org" always_nxdomain
 local-zone: "ads.red" always_nxdomain
 local-zone: "adtr.co" always_nxdomain
 local-zone: "adtr.io" always_nxdomain
+local-zone: "adv.red" always_nxdomain
 local-zone: "ad-x.ru" always_nxdomain
 local-zone: "adzs.nl" always_nxdomain
 local-zone: "agof.de" always_nxdomain
@@ -322,6 +323,7 @@ local-zone: "adcy.net" always_nxdomain
 local-zone: "ad.df.kg" always_nxdomain
 local-zone: "ademo.jp" always_nxdomain
 local-zone: "adept.li" always_nxdomain
+local-zone: "adex.com" always_nxdomain
 local-zone: "adfly.vn" always_nxdomain
 local-zone: "adfox.cz" always_nxdomain
 local-zone: "adfox.me" always_nxdomain
@@ -1913,6 +1915,7 @@ local-zone: "adpone.com" always_nxdomain
 local-zone: "adpost.com" always_nxdomain
 local-zone: "adpower.cn" always_nxdomain
 local-zone: "adpump.com" always_nxdomain
+local-zone: "adquery.io" always_nxdomain
 local-zone: "adquick.nl" always_nxdomain
 local-zone: "ad.qzin.jp" always_nxdomain
 local-zone: "adreque.st" always_nxdomain
@@ -2142,6 +2145,7 @@ local-zone: "affili.net" always_nxdomain
 local-zone: "affise.com" always_nxdomain
 local-zone: "afflow.com" always_nxdomain
 local-zone: "afilio.com" always_nxdomain
+local-zone: "afyads.com" always_nxdomain
 local-zone: "agcs.works" always_nxdomain
 local-zone: "agency.com" always_nxdomain
 local-zone: "aghutv.com" always_nxdomain
@@ -2582,6 +2586,7 @@ local-zone: "haliked.de" always_nxdomain
 local-zone: "hapyak.com" always_nxdomain
 local-zone: "hatch.cafe" always_nxdomain
 local-zone: "hawkad.com" always_nxdomain
+local-zone: "hawkads.in" always_nxdomain
 local-zone: "hbfqcy.com" always_nxdomain
 local-zone: "hbzoom.com" always_nxdomain
 local-zone: "herofi.com" always_nxdomain
@@ -3808,6 +3813,7 @@ local-zone: "adnexus.net" always_nxdomain
 local-zone: "adnordic.eu" always_nxdomain
 local-zone: "adobetm.com" always_nxdomain
 local-zone: "ad.ocps.net" always_nxdomain
+local-zone: "adopstar.uk" always_nxdomain
 local-zone: "adoptim.com" always_nxdomain
 local-zone: "adoptum.net" always_nxdomain
 local-zone: "adorika.com" always_nxdomain
@@ -3830,6 +3836,7 @@ local-zone: "adplan7.com" always_nxdomain
 local-zone: "adplayer.pl" always_nxdomain
 local-zone: "adplenty.io" always_nxdomain
 local-zone: "adplugg.com" always_nxdomain
+local-zone: "adpluto.com" always_nxdomain
 local-zone: "adpop-1.com" always_nxdomain
 local-zone: "adpopts.top" always_nxdomain
 local-zone: "ad.pping.kr" always_nxdomain
@@ -4504,6 +4511,7 @@ local-zone: "gianwho.com" always_nxdomain
 local-zone: "gillynn.com" always_nxdomain
 local-zone: "gitajwl.com" always_nxdomain
 local-zone: "gla63a4l.de" always_nxdomain
+local-zone: "glamadv.net" always_nxdomain
 local-zone: "glazeads.in" always_nxdomain
 local-zone: "gleamzen.de" always_nxdomain
 local-zone: "glokta.info" always_nxdomain
@@ -4661,6 +4669,7 @@ local-zone: "levexis.com" always_nxdomain
 local-zone: "lifiads.com" always_nxdomain
 local-zone: "liftdna.com" always_nxdomain
 local-zone: "ligatus.com" always_nxdomain
+local-zone: "lightad.com" always_nxdomain
 local-zone: "linkbux.com" always_nxdomain
 local-zone: "linkslot.ru" always_nxdomain
 local-zone: "linkury.com" always_nxdomain
@@ -4964,6 +4973,7 @@ local-zone: "pushpush.io" always_nxdomain
 local-zone: "pushtry.com" always_nxdomain
 local-zone: "push.wps.cn" always_nxdomain
 local-zone: "pv.maje.com" always_nxdomain
+local-zone: "pwr-ads.com" always_nxdomain
 local-zone: "pxc.otto.de" always_nxdomain
 local-zone: "pxpp.online" always_nxdomain
 local-zone: "q1media.com" always_nxdomain
@@ -5084,6 +5094,7 @@ local-zone: "snapads.com" always_nxdomain
 local-zone: "sociapa.com" always_nxdomain
 local-zone: "socital.com" always_nxdomain
 local-zone: "sohonet.com" always_nxdomain
+local-zone: "solarad.net" always_nxdomain
 local-zone: "sonumal.com" always_nxdomain
 local-zone: "spacash.com" always_nxdomain
 local-zone: "span-smt.jp" always_nxdomain
@@ -5123,6 +5134,7 @@ local-zone: "taboola.com" always_nxdomain
 local-zone: "tabsite.com" always_nxdomain
 local-zone: "tadapi.info" always_nxdomain
 local-zone: "taiwtp1.com" always_nxdomain
+local-zone: "takeads.com" always_nxdomain
 local-zone: "takelnk.com" always_nxdomain
 local-zone: "takoomi.com" always_nxdomain
 local-zone: "tankiuz.xyz" always_nxdomain
@@ -5547,6 +5559,7 @@ local-zone: "31cm5fq78.de" always_nxdomain
 local-zone: "31d6gphkr.de" always_nxdomain
 local-zone: "31daa5lnq.de" always_nxdomain
 local-zone: "31def61c3.de" always_nxdomain
+local-zone: "321blink.com" always_nxdomain
 local-zone: "33across.com" always_nxdomain
 local-zone: "360yield.com" always_nxdomain
 local-zone: "3dxbucks.com" always_nxdomain
@@ -7086,6 +7099,7 @@ local-zone: "sphereup.com" always_nxdomain
 local-zone: "spherexx.com" always_nxdomain
 local-zone: "spiderads.eu" always_nxdomain
 local-zone: "spike.com.au" always_nxdomain
+local-zone: "spiketrap.io" always_nxdomain
 local-zone: "sportsads.nl" always_nxdomain
 local-zone: "spotmedia.in" always_nxdomain
 local-zone: "spotxcdn.com" always_nxdomain
@@ -7407,6 +7421,7 @@ local-zone: "adconjure.com" always_nxdomain
 local-zone: "adconnexa.com" always_nxdomain
 local-zone: "adcontent.xyz" always_nxdomain
 local-zone: "adcourier.com" always_nxdomain
+local-zone: "adcreative.ai" always_nxdomain
 local-zone: "adcritter.com" always_nxdomain
 local-zone: "adcrony.co.kr" always_nxdomain
 local-zone: "adcropper.com" always_nxdomain
@@ -7502,6 +7517,7 @@ local-zone: "adparlour.com" always_nxdomain
 local-zone: "adpartner.pro" always_nxdomain
 local-zone: "adpathway.com" always_nxdomain
 local-zone: "adperfect.com" always_nxdomain
+local-zone: "adplatform.io" always_nxdomain
 local-zone: "adplexity.com" always_nxdomain
 local-zone: "adpopcorn.com" always_nxdomain
 local-zone: "ad.prohost.pl" always_nxdomain
@@ -8339,6 +8355,7 @@ local-zone: "index.digital" always_nxdomain
 local-zone: "indoleads.com" always_nxdomain
 local-zone: "infolinks.com" always_nxdomain
 local-zone: "infoscreen.de" always_nxdomain
+local-zone: "inhousead.net" always_nxdomain
 local-zone: "inmobicdn.net" always_nxdomain
 local-zone: "inorbitad.com" always_nxdomain
 local-zone: "instabid.tech" always_nxdomain
@@ -9603,6 +9620,7 @@ local-zone: "agency1903.com" always_nxdomain
 local-zone: "agencymabu.com" always_nxdomain
 local-zone: "agencyzero.com" always_nxdomain
 local-zone: "agilebrands.us" always_nxdomain
+local-zone: "agilityads.com" always_nxdomain
 local-zone: "agorahtag.tech" always_nxdomain
 local-zone: "aimventure.com" always_nxdomain
 local-zone: "airvertise.com" always_nxdomain
@@ -12850,6 +12868,7 @@ local-zone: "banner.wonday.dk" always_nxdomain
 local-zone: "banner.ws.pho.to" always_nxdomain
 local-zone: "batecrowle.click" always_nxdomain
 local-zone: "bbstatic.ign.com" always_nxdomain
+local-zone: "bconstructor.com" always_nxdomain
 local-zone: "bdadsnetwork.com" always_nxdomain
 local-zone: "bestadoffers.com" always_nxdomain
 local-zone: "beta.efund.media" always_nxdomain
@@ -14936,6 +14955,7 @@ local-zone: "ads.bloodhorse.com" always_nxdomain
 local-zone: "ads.bookingfax.com" always_nxdomain
 local-zone: "ads.botevgrad.news" always_nxdomain
 local-zone: "ads.buffviewer.com" always_nxdomain
+local-zone: "adsbymediavine.com" always_nxdomain
 local-zone: "ads.cakalnedobe.si" always_nxdomain
 local-zone: "ads.careerz360.com" always_nxdomain
 local-zone: "ads.chatchecks.com" always_nxdomain
@@ -15520,6 +15540,7 @@ local-zone: "mlnadvertising.com" always_nxdomain
 local-zone: "mobileadvertise.de" always_nxdomain
 local-zone: "moneymakingads.net" always_nxdomain
 local-zone: "mooreandscarry.com" always_nxdomain
+local-zone: "myadsplatform.tech" always_nxdomain
 local-zone: "my.pixelmuse.store" always_nxdomain
 local-zone: "myprecisionads.com" always_nxdomain
 local-zone: "mysavingsmedia.net" always_nxdomain
@@ -17414,6 +17435,7 @@ local-zone: "revive.malaymail.com" always_nxdomain
 local-zone: "richperspectives.com" always_nxdomain
 local-zone: "rogersmediasales.com" always_nxdomain
 local-zone: "rooksadvertising.com" always_nxdomain
+local-zone: "rosenadvertising.com" always_nxdomain
 local-zone: "rosseladvertising.be" always_nxdomain
 local-zone: "rotterdamsdagblad.nl" always_nxdomain
 local-zone: "rs-stripe.curbed.com" always_nxdomain
@@ -18224,6 +18246,7 @@ local-zone: "videocdnmetrika63.com" always_nxdomain
 local-zone: "videocdnmetrika64.com" always_nxdomain
 local-zone: "vigilantprinciple.pro" always_nxdomain
 local-zone: "vmrcommunications.com" always_nxdomain
+local-zone: "walkeradvertising.com" always_nxdomain
 local-zone: "wareneingang.edeka.de" always_nxdomain
 local-zone: "web-oao.ssp.yahoo.com" always_nxdomain
 local-zone: "webtrafficsystems.net" always_nxdomain
@@ -18280,6 +18303,7 @@ local-zone: "adimages.proforums.com" always_nxdomain
 local-zone: "adimages.sanomawsoy.fi" always_nxdomain
 local-zone: "adimage.starkidstw.com" always_nxdomain
 local-zone: "admarketingdigital.com" always_nxdomain
+local-zone: "admixeradvertising.com" always_nxdomain
 local-zone: "ad.period-calendar.com" always_nxdomain
 local-zone: "ads1.opensubtitles.org" always_nxdomain
 local-zone: "ads1.promotionbasis.de" always_nxdomain
