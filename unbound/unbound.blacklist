@@ -5652,6 +5652,7 @@ local-zone: "addapptr.com" always_refuse
 local-zone: "addefend.com" always_refuse
 local-zone: "addotnet.com" always_refuse
 local-zone: "addragon.com" always_refuse
+local-zone: "addtitans.in" always_refuse
 local-zone: "adduplex.com" always_refuse
 local-zone: "addynamo.com" always_refuse
 local-zone: "addynamo.net" always_refuse
@@ -7416,6 +7417,7 @@ local-zone: "addiliate.com" always_refuse
 local-zone: "addotline.com" always_refuse
 local-zone: "addrevenue.io" always_refuse
 local-zone: "addroplet.com" always_refuse
+local-zone: "addtitans.com" always_refuse
 local-zone: "ade.jfx.co.jp" always_refuse
 local-zone: "adelement.com" always_refuse
 local-zone: "adelicious.fm" always_refuse
@@ -8777,6 +8779,7 @@ local-zone: "rek.www.wp.pl" always_refuse
 local-zone: "renesabio.com" always_refuse
 local-zone: "reoxclick.com" always_refuse
 local-zone: "restafari.org" always_refuse
+local-zone: "revenuads.com" always_refuse
 local-zone: "revive.ahk.de" always_refuse
 local-zone: "revoffers.com" always_refuse
 local-zone: "revpusher.com" always_refuse
@@ -9575,6 +9578,7 @@ local-zone: "ad.wkaliszu.pl" always_refuse
 local-zone: "adworld.com.tr" always_refuse
 local-zone: "adxcel-ec2.com" always_refuse
 local-zone: "adxfactory.com" always_refuse
+local-zone: "adx.mosspf.com" always_refuse
 local-zone: "adxpansion.com" always_refuse
 local-zone: "adxpremium.com" always_refuse
 local-zone: "ad.yesurdu.com" always_refuse
@@ -12883,7 +12887,6 @@ local-zone: "carelesscamp.pro" always_refuse
 local-zone: "cash4members.com" always_refuse
 local-zone: "catyadsmedia.com" always_refuse
 local-zone: "cbsoutdoor.co.uk" always_refuse
-local-zone: "cbu01.alicdn.com" always_refuse
 local-zone: "cca.sanjay44.xyz" always_refuse
 local-zone: "ccdesignlabs.com" always_refuse
 local-zone: "cdm.cursecdn.com" always_refuse
@@ -19254,6 +19257,7 @@ local-zone: "a235.registercitizen.com" always_refuse
 local-zone: "abbabanneradsnetwork.xyz" always_refuse
 local-zone: "acquisitionstudio.com.au" always_refuse
 local-zone: "ad2.bestoflakegeneva.com" always_refuse
+local-zone: "adbundle.empowerlocal.co" always_refuse
 local-zone: "ad-constructor.yandex.ru" always_refuse
 local-zone: "ad-dev.globalnoticias.pt" always_refuse
 local-zone: "ad-ebis.mynavi-job20s.jp" always_refuse

@@ -5652,6 +5652,7 @@ local-zone: "addapptr.com" always_nxdomain
 local-zone: "addefend.com" always_nxdomain
 local-zone: "addotnet.com" always_nxdomain
 local-zone: "addragon.com" always_nxdomain
+local-zone: "addtitans.in" always_nxdomain
 local-zone: "adduplex.com" always_nxdomain
 local-zone: "addynamo.com" always_nxdomain
 local-zone: "addynamo.net" always_nxdomain
@@ -7416,6 +7417,7 @@ local-zone: "addiliate.com" always_nxdomain
 local-zone: "addotline.com" always_nxdomain
 local-zone: "addrevenue.io" always_nxdomain
 local-zone: "addroplet.com" always_nxdomain
+local-zone: "addtitans.com" always_nxdomain
 local-zone: "ade.jfx.co.jp" always_nxdomain
 local-zone: "adelement.com" always_nxdomain
 local-zone: "adelicious.fm" always_nxdomain
@@ -8777,6 +8779,7 @@ local-zone: "rek.www.wp.pl" always_nxdomain
 local-zone: "renesabio.com" always_nxdomain
 local-zone: "reoxclick.com" always_nxdomain
 local-zone: "restafari.org" always_nxdomain
+local-zone: "revenuads.com" always_nxdomain
 local-zone: "revive.ahk.de" always_nxdomain
 local-zone: "revoffers.com" always_nxdomain
 local-zone: "revpusher.com" always_nxdomain
@@ -9575,6 +9578,7 @@ local-zone: "ad.wkaliszu.pl" always_nxdomain
 local-zone: "adworld.com.tr" always_nxdomain
 local-zone: "adxcel-ec2.com" always_nxdomain
 local-zone: "adxfactory.com" always_nxdomain
+local-zone: "adx.mosspf.com" always_nxdomain
 local-zone: "adxpansion.com" always_nxdomain
 local-zone: "adxpremium.com" always_nxdomain
 local-zone: "ad.yesurdu.com" always_nxdomain
@@ -12883,7 +12887,6 @@ local-zone: "carelesscamp.pro" always_nxdomain
 local-zone: "cash4members.com" always_nxdomain
 local-zone: "catyadsmedia.com" always_nxdomain
 local-zone: "cbsoutdoor.co.uk" always_nxdomain
-local-zone: "cbu01.alicdn.com" always_nxdomain
 local-zone: "cca.sanjay44.xyz" always_nxdomain
 local-zone: "ccdesignlabs.com" always_nxdomain
 local-zone: "cdm.cursecdn.com" always_nxdomain
@@ -19254,6 +19257,7 @@ local-zone: "a235.registercitizen.com" always_nxdomain
 local-zone: "abbabanneradsnetwork.xyz" always_nxdomain
 local-zone: "acquisitionstudio.com.au" always_nxdomain
 local-zone: "ad2.bestoflakegeneva.com" always_nxdomain
+local-zone: "adbundle.empowerlocal.co" always_nxdomain
 local-zone: "ad-constructor.yandex.ru" always_nxdomain
 local-zone: "ad-dev.globalnoticias.pt" always_nxdomain
 local-zone: "ad-ebis.mynavi-job20s.jp" always_nxdomain
