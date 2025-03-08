@@ -380,6 +380,7 @@ local-zone: "adtz.com" always_refuse
 local-zone: "adux.com" always_refuse
 local-zone: "adwiz.fr" always_refuse
 local-zone: "adwo.com" always_refuse
+local-zone: "adx1.com" always_refuse
 local-zone: "adxt.com" always_refuse
 local-zone: "adxxx.me" always_refuse
 local-zone: "adzip.co" always_refuse
@@ -6997,8 +6998,10 @@ local-zone: "rollads.live" always_refuse
 local-zone: "round2mg.com" always_refuse
 local-zone: "royalada.com" always_refuse
 local-zone: "royalads.net" always_refuse
+local-zone: "rtb.bingg.ca" always_refuse
 local-zone: "rtbpanda.com" always_refuse
 local-zone: "rtbrenab.net" always_refuse
+local-zone: "rtb.value.us" always_refuse
 local-zone: "ruckusae.com" always_refuse
 local-zone: "ruclicks.com" always_refuse
 local-zone: "runative.com" always_refuse
@@ -9433,6 +9436,7 @@ local-zone: "ads.ideoweb.bg" always_refuse
 local-zone: "adsimilate.com" always_refuse
 local-zone: "ads.infolot.es" always_refuse
 local-zone: "adsinstant.com" always_refuse
+local-zone: "ads.intteco.de" always_refuse
 local-zone: "ads.izvieto.lv" always_refuse
 local-zone: "ads.javtit.com" always_refuse
 local-zone: "ads.journal.hr" always_refuse
@@ -10492,6 +10496,7 @@ local-zone: "ra.poringa.net" always_refuse
 local-zone: "ravaquinal.com" always_refuse
 local-zone: "rdf.radial.com" always_refuse
 local-zone: "rdrctgoweb.com" always_refuse
+local-zone: "rdr.pushta.net" always_refuse
 local-zone: "readserver.net" always_refuse
 local-zone: "realpopbid.com" always_refuse
 local-zone: "realpush.media" always_refuse
@@ -13405,6 +13410,7 @@ local-zone: "rivertraffic.com" always_refuse
 local-zone: "roadsmindset.com" always_refuse
 local-zone: "roseavemedia.com" always_refuse
 local-zone: "rs-stripe.cf.org" always_refuse
+local-zone: "rtb.optinian.com" always_refuse
 local-zone: "rural-report.pro" always_refuse
 local-zone: "rushcommerce.com" always_refuse
 local-zone: "s4.thelotter.com" always_refuse
@@ -14627,6 +14633,7 @@ local-zone: "rmt.homedepot.com" always_refuse
 local-zone: "roubergmiteom.com" always_refuse
 local-zone: "rs-stripe.lww.com" always_refuse
 local-zone: "rs-stripe.wnd.com" always_refuse
+local-zone: "rtb.adrollnet.com" always_refuse
 local-zone: "rtb.yogiballs.com" always_refuse
 local-zone: "russellherder.com" always_refuse
 local-zone: "rvv.pdnegocios.cl" always_refuse
@@ -15306,6 +15313,7 @@ local-zone: "cp.schulferien.org" always_refuse
 local-zone: "cp.tagesspiegel.de" always_refuse
 local-zone: "cp.wissenschaft.de" always_refuse
 local-zone: "cpxinteractive.com" always_refuse
+local-zone: "c.reachnetwork.pro" always_refuse
 local-zone: "createwithnova.com" always_refuse
 local-zone: "creative.cmrdr.com" always_refuse
 local-zone: "creativemonkeys.in" always_refuse
@@ -16621,6 +16629,7 @@ local-zone: "roxmedianetwork.com" always_refuse
 local-zone: "r.skimresources.com" always_refuse
 local-zone: "rs-stripe.nexxt.com" always_refuse
 local-zone: "rs-stripe.pix11.com" always_refuse
+local-zone: "rtb.discountbro.com" always_refuse
 local-zone: "rubiconproject.mobi" always_refuse
 local-zone: "runwithcommando.com" always_refuse
 local-zone: "s1.streaminporn.com" always_refuse
@@ -17413,6 +17422,8 @@ local-zone: "rs-stripe.penews.com" always_refuse
 local-zone: "rs-stripe.philly.com" always_refuse
 local-zone: "rs-stripe.recode.net" always_refuse
 local-zone: "rs-stripe.thedad.com" always_refuse
+local-zone: "rtb.liantezmedia.com" always_refuse
+local-zone: "rtb.proanglerads.com" always_refuse
 local-zone: "rtg-adroute.focas.jp" always_refuse
 local-zone: "rtxpx-a.akamaihd.net" always_refuse
 local-zone: "s2.gamecopyworld.com" always_refuse
@@ -18063,6 +18074,7 @@ local-zone: "purevpnaffiliates.com" always_refuse
 local-zone: "push.aws.kambicdn.com" always_refuse
 local-zone: "push.cnnindonesia.com" always_refuse
 local-zone: "pusherw.tunegenie.com" always_refuse
+local-zone: "push.meudimdim.com.br" always_refuse
 local-zone: "putrid-experience.pro" always_refuse
 local-zone: "pv.claudiepierlot.com" always_refuse
 local-zone: "radialcreative.com.au" always_refuse
@@ -18156,6 +18168,7 @@ local-zone: "thestudiolondon.co.uk" always_refuse
 local-zone: "thump-night-stand.com" always_refuse
 local-zone: "tools.services.tvn.pl" always_refuse
 local-zone: "tr6rfgjix6tlr8bp.info" always_refuse
+local-zone: "traffic.marketbiz.net" always_refuse
 local-zone: "traffic-monetizer.com" always_refuse
 local-zone: "triadmedianetwork.com" always_refuse
 local-zone: "tribalsocialmedia.com" always_refuse
@@ -19170,6 +19183,7 @@ local-zone: "rs-stripe.spotcrime.com" always_refuse
 local-zone: "rs-stripe.thomasnet.com" always_refuse
 local-zone: "rs-stripe.thrillist.com" always_refuse
 local-zone: "rs-stripe.usnewsmag.com" always_refuse
+local-zone: "rtb.mkt.origin-data.com" always_refuse
 local-zone: "s2.marketing-profis.net" always_refuse
 local-zone: "s3-static.geo.gfsrv.net" always_refuse
 local-zone: "seal-batonrouge.bbb.org" always_refuse
@@ -19557,6 +19571,7 @@ local-zone: "srv.karmaholicoffers.com" always_refuse
 local-zone: "ssltest.soundrussian.com" always_refuse
 local-zone: "stevensonadvertising.com" always_refuse
 local-zone: "synacor-match.dotomi.com" always_refuse
+local-zone: "syndicatep.buzzworthy.tv" always_refuse
 local-zone: "tekirdagagirnakliyat.com" always_refuse
 local-zone: "terwheelchywonders.world" always_refuse
 local-zone: "thechirocentre.lpages.co" always_refuse
@@ -19880,6 +19895,7 @@ local-zone: "sponsors.compactequip.com" always_refuse
 local-zone: "static-cache.tezfiles.com" always_refuse
 local-zone: "static.insideradverts.com" always_refuse
 local-zone: "sync.etalonconsulting.com" always_refuse
+local-zone: "syndication.buzzworthy.tv" always_refuse
 local-zone: "technews.infogalactic.com" always_refuse
 local-zone: "tenmax-static.cacafly.net" always_refuse
 local-zone: "thesilverbackcreative.com" always_refuse
@@ -20865,6 +20881,7 @@ local-zone: "rs-stripe.thepatriotjournal.com" always_refuse
 local-zone: "rs-stripe.thepoliticalglobe.com" always_refuse
 local-zone: "rs-stripe.verifiedheadlines.com" always_refuse
 local-zone: "rs-stripe.westernjournalism.com" always_refuse
+local-zone: "rtb.pushnotificationtraffic.com" always_refuse
 local-zone: "servedby.ceramicartsnetwork.org" always_refuse
 local-zone: "serving.roimediaconsultants.com" always_refuse
 local-zone: "sinceregarden.sincere-garden.jp" always_refuse
