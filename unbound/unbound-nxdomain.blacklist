@@ -13633,6 +13633,7 @@ local-zone: "wsicorporate.com" always_nxdomain
 local-zone: "ww2.cachefly.com" always_nxdomain
 local-zone: "www5.technews.tw" always_nxdomain
 local-zone: "xml.fstsrv10.com" always_nxdomain
+local-zone: "xml-v4.tri.media" always_nxdomain
 local-zone: "xperienceads.com" always_nxdomain
 local-zone: "xratedbanner.com" always_nxdomain
 local-zone: "xserve.zapurl.cc" always_nxdomain
@@ -15736,6 +15737,7 @@ local-zone: "trafficfactory.biz" always_nxdomain
 local-zone: "trafficfactory.com" always_nxdomain
 local-zone: "trafficportsrv.com" always_nxdomain
 local-zone: "traffic-switch.com" always_nxdomain
+local-zone: "traffmonetizer.com" always_nxdomain
 local-zone: "travelaudience.com" always_nxdomain
 local-zone: "treehouse.wwoz.org" always_nxdomain
 local-zone: "trk.rev-stripe.com" always_nxdomain

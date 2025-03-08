@@ -13633,6 +13633,7 @@ local-zone: "wsicorporate.com" always_refuse
 local-zone: "ww2.cachefly.com" always_refuse
 local-zone: "www5.technews.tw" always_refuse
 local-zone: "xml.fstsrv10.com" always_refuse
+local-zone: "xml-v4.tri.media" always_refuse
 local-zone: "xperienceads.com" always_refuse
 local-zone: "xratedbanner.com" always_refuse
 local-zone: "xserve.zapurl.cc" always_refuse
@@ -15736,6 +15737,7 @@ local-zone: "trafficfactory.biz" always_refuse
 local-zone: "trafficfactory.com" always_refuse
 local-zone: "trafficportsrv.com" always_refuse
 local-zone: "traffic-switch.com" always_refuse
+local-zone: "traffmonetizer.com" always_refuse
 local-zone: "travelaudience.com" always_refuse
 local-zone: "treehouse.wwoz.org" always_refuse
 local-zone: "trk.rev-stripe.com" always_refuse
