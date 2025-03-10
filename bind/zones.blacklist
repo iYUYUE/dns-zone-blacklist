@@ -4142,6 +4142,7 @@ zone "annabac.com" { type master; notify no; file "null.zone.file"; };
 zone "anstrex.com" { type master; notify no; file "null.zone.file"; };
 zone "anunaad.com" { type master; notify no; file "null.zone.file"; };
 zone "anxin59.com" { type master; notify no; file "null.zone.file"; };
+zone "anyadx.live" { type master; notify no; file "null.zone.file"; };
 zone "a.obrom.xyz" { type master; notify no; file "null.zone.file"; };
 zone "aonebox.com" { type master; notify no; file "null.zone.file"; };
 zone "apbbjmp.com" { type master; notify no; file "null.zone.file"; };
