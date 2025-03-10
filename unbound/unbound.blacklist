@@ -2113,6 +2113,7 @@ local-zone: "adwerx.com" always_refuse
 local-zone: "adwheel.co" always_refuse
 local-zone: "adwile.com" always_refuse
 local-zone: "adwirk.com" always_refuse
+local-zone: "adwiser.kr" always_refuse
 local-zone: "adworry.in" always_refuse
 local-zone: "adworx.com" always_refuse
 local-zone: "adxcel.com" always_refuse
@@ -2241,6 +2242,7 @@ local-zone: "banners.ru" always_refuse
 local-zone: "b.big7.com" always_refuse
 local-zone: "bbmedia.cz" always_refuse
 local-zone: "bcnsrv.com" always_refuse
+local-zone: "bc-sys.com" always_refuse
 local-zone: "beanse.com" always_refuse
 local-zone: "bearev.xyz" always_refuse
 local-zone: "behave.com" always_refuse
@@ -4207,6 +4209,7 @@ local-zone: "bat-ads.com" always_refuse
 local-zone: "bbd834il.de" always_refuse
 local-zone: "bbvb.online" always_refuse
 local-zone: "bcc-ads.com" always_refuse
+local-zone: "bcc-ssp.com" always_refuse
 local-zone: "bc-news2.ru" always_refuse
 local-zone: "bcrncdn.com" always_refuse
 local-zone: "bc-sync.com" always_refuse
@@ -4580,6 +4583,7 @@ local-zone: "imo-cash.de" always_refuse
 local-zone: "imonomy.com" always_refuse
 local-zone: "impdesk.com" always_refuse
 local-zone: "impetus.one" always_refuse
+local-zone: "imprdom.com" always_refuse
 local-zone: "inclick.net" always_refuse
 local-zone: "indexww.com" always_refuse
 local-zone: "indiads.com" always_refuse
@@ -5778,6 +5782,7 @@ local-zone: "adproval.com" always_refuse
 local-zone: "adpushup.com" always_refuse
 local-zone: "adquesto.com" always_refuse
 local-zone: "adrebels.net" always_refuse
+local-zone: "adrecord.com" always_refuse
 local-zone: "adregain.com" always_refuse
 local-zone: "ad.reklm.com" always_refuse
 local-zone: "ad-ronin.com" always_refuse
@@ -6150,9 +6155,11 @@ local-zone: "bf-tools.net" always_refuse
 local-zone: "bicytaxi.com" always_refuse
 local-zone: "bidberry.net" always_refuse
 local-zone: "biddingx.com" always_refuse
+local-zone: "bidin-ad.com" always_refuse
 local-zone: "bidmyadz.com" always_refuse
 local-zone: "bidmyqps.xyz" always_refuse
 local-zone: "bidplace.com" always_refuse
+local-zone: "bidscube.com" always_refuse
 local-zone: "bidspush.com" always_refuse
 local-zone: "bidstack.com" always_refuse
 local-zone: "bidstalk.com" always_refuse
@@ -7530,6 +7537,7 @@ local-zone: "adrefresh.com" always_refuse
 local-zone: "adrequest.net" always_refuse
 local-zone: "adrichweb.com" always_refuse
 local-zone: "adrotator.com" always_refuse
+local-zone: "adrtb.network" always_refuse
 local-zone: "ads.021.ha.rs" always_refuse
 local-zone: "ads1.knxs.net" always_refuse
 local-zone: "ads.247ag.org" always_refuse
@@ -7721,6 +7729,7 @@ local-zone: "ads.z-komm.de" always_refuse
 local-zone: "ads.zoo.group" always_refuse
 local-zone: "ads.zsezt.com" always_refuse
 local-zone: "adtechium.com" always_refuse
+local-zone: "adtechrtb.com" always_refuse
 local-zone: "adtegrity.com" always_refuse
 local-zone: "adtegrity.net" always_refuse
 local-zone: "adtekneka.com" always_refuse
@@ -7942,6 +7951,7 @@ local-zone: "betaedito.com" always_refuse
 local-zone: "bewellads.com" always_refuse
 local-zone: "b.filexan.com" always_refuse
 local-zone: "b.harehop.com" always_refuse
+local-zone: "b.hbidapp.com" always_refuse
 local-zone: "bibbmedia.com" always_refuse
 local-zone: "bidderads.com" always_refuse
 local-zone: "biddercore.io" always_refuse
@@ -8074,6 +8084,7 @@ local-zone: "consensad.com" always_refuse
 local-zone: "consoupow.com" always_refuse
 local-zone: "contextin.com" always_refuse
 local-zone: "contextly.com" always_refuse
+local-zone: "convertap.com" always_refuse
 local-zone: "convertise.io" always_refuse
 local-zone: "cookiehub.net" always_refuse
 local-zone: "cookieyes.com" always_refuse
@@ -8122,6 +8133,7 @@ local-zone: "datinglab.net" always_refuse
 local-zone: "d.bidmatic.io" always_refuse
 local-zone: "dbm-media.com" always_refuse
 local-zone: "dcmagency.com" always_refuse
+local-zone: "dcntr-ads.com" always_refuse
 local-zone: "deepfried.com" always_refuse
 local-zone: "delecpuzz.com" always_refuse
 local-zone: "deliverad.com" always_refuse
@@ -10277,6 +10289,7 @@ local-zone: "mobivisits.com" always_refuse
 local-zone: "mobnatives.com" always_refuse
 local-zone: "mobster.agency" always_refuse
 local-zone: "mobsuccess.com" always_refuse
+local-zone: "mobuppsrtb.com" always_refuse
 local-zone: "moki-byu.space" always_refuse
 local-zone: "molypsigry.pro" always_refuse
 local-zone: "monetixads.com" always_refuse
@@ -11729,6 +11742,7 @@ local-zone: "hooksystems.com" always_refuse
 local-zone: "hooksystems.net" always_refuse
 local-zone: "hostnetadv.site" always_refuse
 local-zone: "hotadposter.com" always_refuse
+local-zone: "houseofpubs.com" always_refuse
 local-zone: "hruk.gumasi.top" always_refuse
 local-zone: "htwueeruimy.com" always_refuse
 local-zone: "hugetraffic.com" always_refuse
@@ -15889,6 +15903,7 @@ local-zone: "adnetworkonline.com" always_refuse
 local-zone: "ad.nw-england.co.uk" always_refuse
 local-zone: "adoffice.11st.co.kr" always_refuse
 local-zone: "ad.particlenews.com" always_refuse
+local-zone: "ad-pay.sunlands.com" always_refuse
 local-zone: "adperiencemedia.com" always_refuse
 local-zone: "ad.publitracker.com" always_refuse
 local-zone: "adrevenuerescue.com" always_refuse
@@ -17609,6 +17624,7 @@ local-zone: "ad.acibademsistina.mk" always_refuse
 local-zone: "ad.activesolutions.cz" always_refuse
 local-zone: "ad.aim-universe.co.jp" always_refuse
 local-zone: "ad.ambitojuridico.com" always_refuse
+local-zone: "adapace.bc-plugin.com" always_refuse
 local-zone: "adartsadvertising.com" always_refuse
 local-zone: "adbanners.bizland.com" always_refuse
 local-zone: "ad.bench.utorrent.com" always_refuse
