@@ -1181,6 +1181,7 @@ local-zone: "ileads.ru" always_nxdomain
 local-zone: "imedia.cz" always_nxdomain
 local-zone: "imgbum.ru" always_nxdomain
 local-zone: "imsow.com" always_nxdomain
+local-zone: "inappi.co" always_nxdomain
 local-zone: "inappi.me" always_nxdomain
 local-zone: "incoda.in" always_nxdomain
 local-zone: "info.care" always_nxdomain

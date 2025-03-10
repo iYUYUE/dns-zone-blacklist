@@ -1181,6 +1181,7 @@ local-zone: "ileads.ru" always_refuse
 local-zone: "imedia.cz" always_refuse
 local-zone: "imgbum.ru" always_refuse
 local-zone: "imsow.com" always_refuse
+local-zone: "inappi.co" always_refuse
 local-zone: "inappi.me" always_refuse
 local-zone: "incoda.in" always_refuse
 local-zone: "info.care" always_refuse

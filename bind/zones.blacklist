@@ -1181,6 +1181,7 @@ zone "ileads.ru" { type master; notify no; file "null.zone.file"; };
 zone "imedia.cz" { type master; notify no; file "null.zone.file"; };
 zone "imgbum.ru" { type master; notify no; file "null.zone.file"; };
 zone "imsow.com" { type master; notify no; file "null.zone.file"; };
+zone "inappi.co" { type master; notify no; file "null.zone.file"; };
 zone "inappi.me" { type master; notify no; file "null.zone.file"; };
 zone "incoda.in" { type master; notify no; file "null.zone.file"; };
 zone "info.care" { type master; notify no; file "null.zone.file"; };
