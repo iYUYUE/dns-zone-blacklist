@@ -747,6 +747,7 @@ local-zone: "adecn.com" always_refuse
 local-zone: "ad.esc.li" always_refuse
 local-zone: "adexc.net" always_refuse
 local-zone: "adex.mobi" always_refuse
+local-zone: "adexon.pl" always_refuse
 local-zone: "adex.tech" always_refuse
 local-zone: "adf01.net" always_refuse
 local-zone: "ad.fbs.ai" always_refuse
@@ -5161,6 +5162,7 @@ local-zone: "tet9kpgq.de" always_refuse
 local-zone: "t.frtyk.com" always_refuse
 local-zone: "tgpteam.com" always_refuse
 local-zone: "t.grtyi.com" always_refuse
+local-zone: "theadex.com" always_refuse
 local-zone: "thedrum.com" always_refuse
 local-zone: "thelucky.io" always_refuse
 local-zone: "thenewco.it" always_refuse
@@ -7493,6 +7495,7 @@ local-zone: "adkaora.space" always_refuse
 local-zone: "ad.khan.co.kr" always_refuse
 local-zone: "ad.kmib.co.kr" always_refuse
 local-zone: "adkontekst.pl" always_refuse
+local-zone: "adleverage.tv" always_refuse
 local-zone: "adlithium.com" always_refuse
 local-zone: "adloadinc.com" always_refuse
 local-zone: "adlogists.com" always_refuse
@@ -7508,6 +7511,7 @@ local-zone: "admidadsp.com" always_refuse
 local-zone: "admission.net" always_refuse
 local-zone: "admixer.co.kr" always_refuse
 local-zone: "admixplay.com" always_refuse
+local-zone: "ad.mobcho.com" always_refuse
 local-zone: "admongrel.com" always_refuse
 local-zone: "admonkeys.com" always_refuse
 local-zone: "ad.mrab.co.kr" always_refuse
@@ -8558,6 +8562,7 @@ local-zone: "molocoads.com" always_refuse
 local-zone: "monetizer.com" always_refuse
 local-zone: "moneycult.com" always_refuse
 local-zone: "moshimoshi.in" always_refuse
+local-zone: "motusmedia.co" always_refuse
 local-zone: "mps-agency.de" always_refuse
 local-zone: "mqwcuesny6.ru" always_refuse
 local-zone: "mrndigital.in" always_refuse
@@ -11117,6 +11122,7 @@ local-zone: "ads.esculap.com" always_refuse
 local-zone: "ads.esomall.com" always_refuse
 local-zone: "ads.etrmedia.in" always_refuse
 local-zone: "ads.euronews.al" always_refuse
+local-zone: "ads.evermaps.io" always_refuse
 local-zone: "ads.fast-srv.de" always_refuse
 local-zone: "ads.fattooch.tn" always_refuse
 local-zone: "adsfirstsun.com" always_refuse
@@ -11199,6 +11205,7 @@ local-zone: "ads.platform.mk" always_refuse
 local-zone: "ads.plusinfo.mk" always_refuse
 local-zone: "ads.popcorn.app" always_refuse
 local-zone: "ads.positiva.si" always_refuse
+local-zone: "ads.premion.com" always_refuse
 local-zone: "ads-quantum.com" always_refuse
 local-zone: "ads.ramsalt.com" always_refuse
 local-zone: "ads.renowne.com" always_refuse
@@ -12473,6 +12480,7 @@ local-zone: "ad.flipboard.com" always_refuse
 local-zone: "adforecaster.com" always_refuse
 local-zone: "ad-generation.jp" always_refuse
 local-zone: "adgirl.yes24.com" always_refuse
+local-zone: "adgm.mainichi.jp" always_refuse
 local-zone: "ad.hello-jobs.cc" always_refuse
 local-zone: "ad.himediadx.com" always_refuse
 local-zone: "adhitzstatic.com" always_refuse
@@ -13777,6 +13785,7 @@ local-zone: "adebis.thd-web.jp" always_refuse
 local-zone: "ad.ec-masters.net" always_refuse
 local-zone: "ad.elektrika.info" always_refuse
 local-zone: "adexchangesrv.com" always_refuse
+local-zone: "adex.redbutton.de" always_refuse
 local-zone: "ad.firestorage.jp" always_refuse
 local-zone: "adfunkyserver.com" always_refuse
 local-zone: "ad.grandprix.info" always_refuse
