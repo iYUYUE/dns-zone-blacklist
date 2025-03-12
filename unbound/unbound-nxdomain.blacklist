@@ -596,7 +596,6 @@ local-zone: "tabmo.io" always_nxdomain
 local-zone: "tab.name" always_nxdomain
 local-zone: "tagon.co" always_nxdomain
 local-zone: "tagoo.cc" always_nxdomain
-local-zone: "tanx.com" always_nxdomain
 local-zone: "t.direct" always_nxdomain
 local-zone: "teads.tv" always_nxdomain
 local-zone: "thece.co" always_nxdomain
@@ -9865,6 +9864,7 @@ local-zone: "cometquote.com" always_nxdomain
 local-zone: "com.megafin.pt" always_nxdomain
 local-zone: "commoninja.com" always_nxdomain
 local-zone: "complyauto.com" always_nxdomain
+local-zone: "concertads.com" always_nxdomain
 local-zone: "connectplus.io" always_nxdomain
 local-zone: "consent.dii.eu" always_nxdomain
 local-zone: "consoliads.com" always_nxdomain

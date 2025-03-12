@@ -596,7 +596,6 @@ local-zone: "tabmo.io" always_refuse
 local-zone: "tab.name" always_refuse
 local-zone: "tagon.co" always_refuse
 local-zone: "tagoo.cc" always_refuse
-local-zone: "tanx.com" always_refuse
 local-zone: "t.direct" always_refuse
 local-zone: "teads.tv" always_refuse
 local-zone: "thece.co" always_refuse
@@ -9865,6 +9864,7 @@ local-zone: "cometquote.com" always_refuse
 local-zone: "com.megafin.pt" always_refuse
 local-zone: "commoninja.com" always_refuse
 local-zone: "complyauto.com" always_refuse
+local-zone: "concertads.com" always_refuse
 local-zone: "connectplus.io" always_refuse
 local-zone: "consent.dii.eu" always_refuse
 local-zone: "consoliads.com" always_refuse
