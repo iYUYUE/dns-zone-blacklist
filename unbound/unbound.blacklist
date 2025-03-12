@@ -4920,6 +4920,7 @@ local-zone: "pmqzads.com" always_refuse
 local-zone: "p.npcad.com" always_refuse
 local-zone: "p.npcta.xyz" always_refuse
 local-zone: "podcorn.com" always_refuse
+local-zone: "point66.xyz" always_refuse
 local-zone: "popadon.com" always_refuse
 local-zone: "popadup.com" always_refuse
 local-zone: "popcash.net" always_refuse
@@ -6088,6 +6089,7 @@ local-zone: "api-feed.com" always_refuse
 local-zone: "api-push.com" always_refuse
 local-zone: "apnspush.com" always_refuse
 local-zone: "appcdn01.xyz" always_refuse
+local-zone: "appchair.com" always_refuse
 local-zone: "appendad.com" always_refuse
 local-zone: "appflood.com" always_refuse
 local-zone: "appintop.com" always_refuse
@@ -9777,6 +9779,7 @@ local-zone: "b.topeltof.com" always_refuse
 local-zone: "bulldogcpi.com" always_refuse
 local-zone: "bumpermobi.com" always_refuse
 local-zone: "burgersalt.com" always_refuse
+local-zone: "butler.ibj.com" always_refuse
 local-zone: "buyadslots.com" always_refuse
 local-zone: "buysellads.com" always_refuse
 local-zone: "buysellads.net" always_refuse
@@ -12241,6 +12244,7 @@ local-zone: "thrillasoft.com" always_refuse
 local-zone: "thunderhead.com" always_refuse
 local-zone: "thundertech.com" always_refuse
 local-zone: "thurnflfant.com" always_refuse
+local-zone: "ticketjolly.com" always_refuse
 local-zone: "tic-tic-bam.com" always_refuse
 local-zone: "tic-tic-toc.com" always_refuse
 local-zone: "tm.hdmtools.com" always_refuse
@@ -15606,6 +15610,7 @@ local-zone: "paretogroup.com.br" always_refuse
 local-zone: "partner.bergfex.at" always_refuse
 local-zone: "partnerearning.com" always_refuse
 local-zone: "payperclickadz.com" always_refuse
+local-zone: "pbserver.ezoic.com" always_refuse
 local-zone: "pegaonboarding.com" always_refuse
 local-zone: "pengenanu.files.im" always_refuse
 local-zone: "pentamarketing.com" always_refuse
@@ -20142,6 +20147,7 @@ local-zone: "services-tags-prod.fubo.tv" always_refuse
 local-zone: "shop-pop.com.herokudns.com" always_refuse
 local-zone: "si.education.investing.com" always_refuse
 local-zone: "silverback-advertising.com" always_refuse
+local-zone: "silvercrestadvertising.com" always_refuse
 local-zone: "snap.feed.snapjudgment.org" always_refuse
 local-zone: "softwaredefineddelivery.us" always_refuse
 local-zone: "sparkcreativesolutions.com" always_refuse
