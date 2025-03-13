@@ -758,6 +758,7 @@ zone "adfino.in" { type master; notify no; file "null.zone.file"; };
 zone "adflex.vn" { type master; notify no; file "null.zone.file"; };
 zone "adform.dk" { type master; notify no; file "null.zone.file"; };
 zone "ad.fos.cc" { type master; notify no; file "null.zone.file"; };
+zone "adfyre.co" { type master; notify no; file "null.zone.file"; };
 zone "adgage.es" { type master; notify no; file "null.zone.file"; };
 zone "ad.gan.bg" { type master; notify no; file "null.zone.file"; };
 zone "adgem.com" { type master; notify no; file "null.zone.file"; };
