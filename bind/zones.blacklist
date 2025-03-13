@@ -3759,6 +3759,7 @@ zone "a.dhoma.xyz" { type master; notify no; file "null.zone.file"; };
 zone "adhooah.com" { type master; notify no; file "null.zone.file"; };
 zone "adhouse.pro" { type master; notify no; file "null.zone.file"; };
 zone "ad.hqew.com" { type master; notify no; file "null.zone.file"; };
+zone "adhunter.de" { type master; notify no; file "null.zone.file"; };
 zone "ad.hutor.ru" { type master; notify no; file "null.zone.file"; };
 zone "ad.ihata.ma" { type master; notify no; file "null.zone.file"; };
 zone "ad.ilbe.com" { type master; notify no; file "null.zone.file"; };
