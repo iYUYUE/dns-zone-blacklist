@@ -895,6 +895,7 @@ local-zone: "adworx.at" always_nxdomain
 local-zone: "ad.wue.in" always_nxdomain
 local-zone: "adxad.com" always_nxdomain
 local-zone: "adxat.com" always_nxdomain
+local-zone: "ad.xes.pl" always_nxdomain
 local-zone: "ad.xfr.ro" always_nxdomain
 local-zone: "adxmi.com" always_nxdomain
 local-zone: "adxnx.com" always_nxdomain
@@ -20613,6 +20614,7 @@ local-zone: "a135.htvnativeadsolutions.com" always_nxdomain
 local-zone: "a235.htvnativeadsolutions.com" always_nxdomain
 local-zone: "aabclkane.bachelorarchive.com" always_nxdomain
 local-zone: "adchoices.corusdigitaldev.com" always_nxdomain
+local-zone: "adforestpro.scriptsbundle.com" always_nxdomain
 local-zone: "adnetwork.fullservices.com.ar" always_nxdomain
 local-zone: "ads11.panoramaaudiovisual.com" always_nxdomain
 local-zone: "ads49.platform.octogonehb.com" always_nxdomain

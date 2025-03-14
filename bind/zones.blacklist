@@ -895,6 +895,7 @@ zone "adworx.at" { type master; notify no; file "null.zone.file"; };
 zone "ad.wue.in" { type master; notify no; file "null.zone.file"; };
 zone "adxad.com" { type master; notify no; file "null.zone.file"; };
 zone "adxat.com" { type master; notify no; file "null.zone.file"; };
+zone "ad.xes.pl" { type master; notify no; file "null.zone.file"; };
 zone "ad.xfr.ro" { type master; notify no; file "null.zone.file"; };
 zone "adxmi.com" { type master; notify no; file "null.zone.file"; };
 zone "adxnx.com" { type master; notify no; file "null.zone.file"; };
@@ -20613,6 +20614,7 @@ zone "a135.htvnativeadsolutions.com" { type master; notify no; file "null.zone.f
 zone "a235.htvnativeadsolutions.com" { type master; notify no; file "null.zone.file"; };
 zone "aabclkane.bachelorarchive.com" { type master; notify no; file "null.zone.file"; };
 zone "adchoices.corusdigitaldev.com" { type master; notify no; file "null.zone.file"; };
+zone "adforestpro.scriptsbundle.com" { type master; notify no; file "null.zone.file"; };
 zone "adnetwork.fullservices.com.ar" { type master; notify no; file "null.zone.file"; };
 zone "ads11.panoramaaudiovisual.com" { type master; notify no; file "null.zone.file"; };
 zone "ads49.platform.octogonehb.com" { type master; notify no; file "null.zone.file"; };

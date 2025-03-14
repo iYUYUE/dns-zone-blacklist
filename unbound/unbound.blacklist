@@ -895,6 +895,7 @@ local-zone: "adworx.at" always_refuse
 local-zone: "ad.wue.in" always_refuse
 local-zone: "adxad.com" always_refuse
 local-zone: "adxat.com" always_refuse
+local-zone: "ad.xes.pl" always_refuse
 local-zone: "ad.xfr.ro" always_refuse
 local-zone: "adxmi.com" always_refuse
 local-zone: "adxnx.com" always_refuse
@@ -20613,6 +20614,7 @@ local-zone: "a135.htvnativeadsolutions.com" always_refuse
 local-zone: "a235.htvnativeadsolutions.com" always_refuse
 local-zone: "aabclkane.bachelorarchive.com" always_refuse
 local-zone: "adchoices.corusdigitaldev.com" always_refuse
+local-zone: "adforestpro.scriptsbundle.com" always_refuse
 local-zone: "adnetwork.fullservices.com.ar" always_refuse
 local-zone: "ads11.panoramaaudiovisual.com" always_refuse
 local-zone: "ads49.platform.octogonehb.com" always_refuse
