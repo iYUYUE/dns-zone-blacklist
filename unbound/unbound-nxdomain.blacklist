@@ -5042,6 +5042,7 @@ local-zone: "realsrv.com" always_nxdomain
 local-zone: "rebelai.com" always_nxdomain
 local-zone: "receptix.us" always_nxdomain
 local-zone: "redclick.ru" always_nxdomain
+local-zone: "rediads.com" always_nxdomain
 local-zone: "redllama.ru" always_nxdomain
 local-zone: "reformal.ru" always_nxdomain
 local-zone: "regie-sc.ch" always_nxdomain
@@ -9501,6 +9502,7 @@ local-zone: "ads.gagolga.de" always_nxdomain
 local-zone: "ads.gelsen.net" always_nxdomain
 local-zone: "ads.gfecdn.com" always_nxdomain
 local-zone: "ads.ginjfo.com" always_nxdomain
+local-zone: "ads.google.com" always_nxdomain
 local-zone: "ads.gpk.gov.by" always_nxdomain
 local-zone: "ads.habithq.ca" always_nxdomain
 local-zone: "ads.hallka.com" always_nxdomain

@@ -5042,6 +5042,7 @@ local-zone: "realsrv.com" always_refuse
 local-zone: "rebelai.com" always_refuse
 local-zone: "receptix.us" always_refuse
 local-zone: "redclick.ru" always_refuse
+local-zone: "rediads.com" always_refuse
 local-zone: "redllama.ru" always_refuse
 local-zone: "reformal.ru" always_refuse
 local-zone: "regie-sc.ch" always_refuse
@@ -9501,6 +9502,7 @@ local-zone: "ads.gagolga.de" always_refuse
 local-zone: "ads.gelsen.net" always_refuse
 local-zone: "ads.gfecdn.com" always_refuse
 local-zone: "ads.ginjfo.com" always_refuse
+local-zone: "ads.google.com" always_refuse
 local-zone: "ads.gpk.gov.by" always_refuse
 local-zone: "ads.habithq.ca" always_refuse
 local-zone: "ads.hallka.com" always_refuse
