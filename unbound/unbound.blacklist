@@ -5898,6 +5898,7 @@ local-zone: "ads.himia.bg" always_refuse
 local-zone: "ads.hiox.com" always_refuse
 local-zone: "ads.homax.pl" always_refuse
 local-zone: "adshort.live" always_refuse
+local-zone: "ads-host.com" always_refuse
 local-zone: "ads.icorp.ro" always_refuse
 local-zone: "ads.ilike.mk" always_refuse
 local-zone: "ads.imbc.com" always_refuse
@@ -9651,6 +9652,7 @@ local-zone: "adv.h2porn.com" always_refuse
 local-zone: "advil.waze.com" always_refuse
 local-zone: "advitatech.com" always_refuse
 local-zone: "adv.khan.co.kr" always_refuse
+local-zone: "adv.leones.com" always_refuse
 local-zone: "advocado.media" always_refuse
 local-zone: "adv.rtbuzz.net" always_refuse
 local-zone: "adv.smotri.com" always_refuse
@@ -9664,6 +9666,7 @@ local-zone: "adxfactory.com" always_refuse
 local-zone: "adx.mosspf.com" always_refuse
 local-zone: "adxpansion.com" always_refuse
 local-zone: "adxpremium.com" always_refuse
+local-zone: "adx.zdravie.sk" always_refuse
 local-zone: "ad.yesurdu.com" always_refuse
 local-zone: "ad.zccxiot.com" always_refuse
 local-zone: "adzflick.co.in" always_refuse
@@ -11298,6 +11301,7 @@ local-zone: "ads.xmhouse.com" always_refuse
 local-zone: "adsymptotic.com" always_refuse
 local-zone: "ads.yusabuy.com" always_refuse
 local-zone: "ads.zamilco.com" always_refuse
+local-zone: "ads.zavolga.net" always_refuse
 local-zone: "ads.zedlive.com" always_refuse
 local-zone: "ad.szinesweb.hu" always_refuse
 local-zone: "ad.taojiyun.com" always_refuse
@@ -11360,6 +11364,7 @@ local-zone: "agencyforty.com" always_refuse
 local-zone: "agencysquid.com" always_refuse
 local-zone: "agentsofroi.com" always_refuse
 local-zone: "agilebreeze.com" always_refuse
+local-zone: "agileformer.com" always_refuse
 local-zone: "aimartlanka.com" always_refuse
 local-zone: "airddesigns.com" always_refuse
 local-zone: "airnowmedia.com" always_refuse
@@ -14854,6 +14859,7 @@ local-zone: "trafficcenter.com" always_refuse
 local-zone: "trafficfabrik.com" always_refuse
 local-zone: "trafficleaders.nl" always_refuse
 local-zone: "trafficnomads.com" always_refuse
+local-zone: "traffictarget2.ru" always_refuse
 local-zone: "traffpartners.com" always_refuse
 local-zone: "trendzupmedia.com" always_refuse
 local-zone: "trickyneotits.com" always_refuse
@@ -18196,6 +18202,7 @@ local-zone: "rakutenadvertising.io" always_refuse
 local-zone: "realmedia.hidoc.co.kr" always_refuse
 local-zone: "reckless-relative.com" always_refuse
 local-zone: "redpineapplemedia.com" always_refuse
+local-zone: "regie.surfsession.com" always_refuse
 local-zone: "reklama.botevgrad.com" always_refuse
 local-zone: "remedyenterprises.com" always_refuse
 local-zone: "revenueaccelerator.io" always_refuse
