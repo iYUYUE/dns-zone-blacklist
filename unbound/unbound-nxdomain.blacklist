@@ -1772,6 +1772,7 @@ local-zone: "adbalu.com" always_nxdomain
 local-zone: "adbana.com" always_nxdomain
 local-zone: "ad.baz.app" always_nxdomain
 local-zone: "adbaze.com" always_nxdomain
+local-zone: "adbeat.com" always_nxdomain
 local-zone: "adbest.com" always_nxdomain
 local-zone: "adbest.net" always_nxdomain
 local-zone: "adbink.com" always_nxdomain
@@ -4761,6 +4762,7 @@ local-zone: "medialab.la" always_nxdomain
 local-zone: "megartb.com" always_nxdomain
 local-zone: "mekanism.co" always_nxdomain
 local-zone: "meloads.com" always_nxdomain
+local-zone: "metadata.io" always_nxdomain
 local-zone: "metapic.com" always_nxdomain
 local-zone: "mfk-cpm.com" always_nxdomain
 local-zone: "mibmcbm.com" always_nxdomain
@@ -10136,6 +10138,7 @@ local-zone: "grimmel.com.au" always_nxdomain
 local-zone: "groovinads.com" always_nxdomain
 local-zone: "groupmphone.be" always_nxdomain
 local-zone: "growmobile.com" always_nxdomain
+local-zone: "growthloop.com" always_nxdomain
 local-zone: "guildalpha.com" always_nxdomain
 local-zone: "gysa-roi.space" always_nxdomain
 local-zone: "harpsocial.com" always_nxdomain

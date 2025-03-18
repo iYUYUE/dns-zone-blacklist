@@ -3550,6 +3550,8 @@ ad.baz.app CNAME .
 *.ad.baz.app CNAME .
 adbaze.com CNAME .
 *.adbaze.com CNAME .
+adbeat.com CNAME .
+*.adbeat.com CNAME .
 adbest.com CNAME .
 *.adbest.com CNAME .
 adbest.net CNAME .
@@ -9528,6 +9530,8 @@ mekanism.co CNAME .
 *.mekanism.co CNAME .
 meloads.com CNAME .
 *.meloads.com CNAME .
+metadata.io CNAME .
+*.metadata.io CNAME .
 metapic.com CNAME .
 *.metapic.com CNAME .
 mfk-cpm.com CNAME .
@@ -20278,6 +20282,8 @@ groupmphone.be CNAME .
 *.groupmphone.be CNAME .
 growmobile.com CNAME .
 *.growmobile.com CNAME .
+growthloop.com CNAME .
+*.growthloop.com CNAME .
 guildalpha.com CNAME .
 *.guildalpha.com CNAME .
 gysa-roi.space CNAME .

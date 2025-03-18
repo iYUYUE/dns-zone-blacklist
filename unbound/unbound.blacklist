@@ -1772,6 +1772,7 @@ local-zone: "adbalu.com" always_refuse
 local-zone: "adbana.com" always_refuse
 local-zone: "ad.baz.app" always_refuse
 local-zone: "adbaze.com" always_refuse
+local-zone: "adbeat.com" always_refuse
 local-zone: "adbest.com" always_refuse
 local-zone: "adbest.net" always_refuse
 local-zone: "adbink.com" always_refuse
@@ -4761,6 +4762,7 @@ local-zone: "medialab.la" always_refuse
 local-zone: "megartb.com" always_refuse
 local-zone: "mekanism.co" always_refuse
 local-zone: "meloads.com" always_refuse
+local-zone: "metadata.io" always_refuse
 local-zone: "metapic.com" always_refuse
 local-zone: "mfk-cpm.com" always_refuse
 local-zone: "mibmcbm.com" always_refuse
@@ -10136,6 +10138,7 @@ local-zone: "grimmel.com.au" always_refuse
 local-zone: "groovinads.com" always_refuse
 local-zone: "groupmphone.be" always_refuse
 local-zone: "growmobile.com" always_refuse
+local-zone: "growthloop.com" always_refuse
 local-zone: "guildalpha.com" always_refuse
 local-zone: "gysa-roi.space" always_refuse
 local-zone: "harpsocial.com" always_refuse
