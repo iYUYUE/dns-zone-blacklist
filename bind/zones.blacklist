@@ -10283,6 +10283,7 @@ zone "lucidmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "lucienmann.pro" { type master; notify no; file "null.zone.file"; };
 zone "luha-say.space" { type master; notify no; file "null.zone.file"; };
 zone "lumpygnome.com" { type master; notify no; file "null.zone.file"; };
+zone "luxformula.com" { type master; notify no; file "null.zone.file"; };
 zone "lux-medien.com" { type master; notify no; file "null.zone.file"; };
 zone "luyten-98c.com" { type master; notify no; file "null.zone.file"; };
 zone "lz-pub-ads.com" { type master; notify no; file "null.zone.file"; };
