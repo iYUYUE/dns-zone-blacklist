@@ -629,7 +629,6 @@ local-zone: "wizio.io" always_nxdomain
 local-zone: "woco.app" always_nxdomain
 local-zone: "wpush.io" always_nxdomain
 local-zone: "wsaa.com" always_nxdomain
-local-zone: "wurl.com" always_nxdomain
 local-zone: "wuyou.ca" always_nxdomain
 local-zone: "wwads.cn" always_nxdomain
 local-zone: "wwfx.xyz" always_nxdomain

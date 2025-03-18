@@ -629,7 +629,6 @@ zone "wizio.io" { type master; notify no; file "null.zone.file"; };
 zone "woco.app" { type master; notify no; file "null.zone.file"; };
 zone "wpush.io" { type master; notify no; file "null.zone.file"; };
 zone "wsaa.com" { type master; notify no; file "null.zone.file"; };
-zone "wurl.com" { type master; notify no; file "null.zone.file"; };
 zone "wuyou.ca" { type master; notify no; file "null.zone.file"; };
 zone "wwads.cn" { type master; notify no; file "null.zone.file"; };
 zone "wwfx.xyz" { type master; notify no; file "null.zone.file"; };

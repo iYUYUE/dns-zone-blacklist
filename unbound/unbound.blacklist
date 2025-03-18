@@ -629,7 +629,6 @@ local-zone: "wizio.io" always_refuse
 local-zone: "woco.app" always_refuse
 local-zone: "wpush.io" always_refuse
 local-zone: "wsaa.com" always_refuse
-local-zone: "wurl.com" always_refuse
 local-zone: "wuyou.ca" always_refuse
 local-zone: "wwads.cn" always_refuse
 local-zone: "wwfx.xyz" always_refuse
