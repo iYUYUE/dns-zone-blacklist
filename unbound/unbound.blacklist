@@ -5786,6 +5786,7 @@ local-zone: "ad-monks.com" always_refuse
 local-zone: "admozart.com" always_refuse
 local-zone: "admup.com.hk" always_refuse
 local-zone: "adnboost.com" always_refuse
+local-zone: "adn.ebay.com" always_refuse
 local-zone: "adnetwork.vn" always_refuse
 local-zone: "ad.novara.sk" always_refuse
 local-zone: "adogtech.com" always_refuse
@@ -6141,6 +6142,7 @@ local-zone: "armorads.com" always_refuse
 local-zone: "arpu-ads.com" always_refuse
 local-zone: "arrowmmc.com" always_refuse
 local-zone: "asg.aphex.me" always_refuse
+local-zone: "as.inbox.com" always_refuse
 local-zone: "aspxpush.com" always_refuse
 local-zone: "astoecia.com" always_refuse
 local-zone: "a.tomis.mobi" always_refuse
@@ -12549,6 +12551,8 @@ local-zone: "ad.jasimabed.com" always_refuse
 local-zone: "ad.jxnews.com.cn" always_refuse
 local-zone: "ad.kakaocorp.com" always_refuse
 local-zone: "ad.kancelarie.sk" always_refuse
+local-zone: "ad.kimcartoon.io" always_refuse
+local-zone: "ad.kimcartoon.si" always_refuse
 local-zone: "ad.kino-teatr.ua" always_refuse
 local-zone: "ad.kisstvshow.ru" always_refuse
 local-zone: "adlaboratory.com" always_refuse
@@ -13455,6 +13459,7 @@ local-zone: "projetpunce.shop" always_refuse
 local-zone: "proll.shemrec.cc" always_refuse
 local-zone: "promos.fling.com" always_refuse
 local-zone: "promos.naked.com" always_refuse
+local-zone: "promote.pair.com" always_refuse
 local-zone: "proofconvert.com" always_refuse
 local-zone: "propadsviews.com" always_refuse
 local-zone: "propellerads.com" always_refuse
@@ -18799,6 +18804,7 @@ local-zone: "pleasedonotblockme.com" always_refuse
 local-zone: "pnq.babcoxmediainc.com" always_refuse
 local-zone: "pointeradvertising.com" always_refuse
 local-zone: "predictinteractive.com" always_refuse
+local-zone: "predictivadnetwork.com" always_refuse
 local-zone: "promovare.alphega.club" always_refuse
 local-zone: "prop.celticnewsnow.com" always_refuse
 local-zone: "prop.gamingonphone.com" always_refuse
