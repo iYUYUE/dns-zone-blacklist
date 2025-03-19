@@ -9036,6 +9036,7 @@ zone "tapgerine.net" { type master; notify no; file "null.zone.file"; };
 zone "tapjoyads.com" { type master; notify no; file "null.zone.file"; };
 zone "tapnative.com" { type master; notify no; file "null.zone.file"; };
 zone "tarrobads.com" { type master; notify no; file "null.zone.file"; };
+zone "tasselapp.com" { type master; notify no; file "null.zone.file"; };
 zone "tautequal.com" { type master; notify no; file "null.zone.file"; };
 zone "tccbanner.com" { type master; notify no; file "null.zone.file"; };
 zone "tcicanada.com" { type master; notify no; file "null.zone.file"; };
