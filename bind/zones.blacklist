@@ -18934,6 +18934,7 @@ zone "6degreesadvertising.com" { type master; notify no; file "null.zone.file"; 
 zone "902advertisinggroup.com" { type master; notify no; file "null.zone.file"; };
 zone "a4alticeadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "ab.fastighetsvarlden.se" { type master; notify no; file "null.zone.file"; };
+zone "accent-technologies.com" { type master; notify no; file "null.zone.file"; };
 zone "accomplishgreatness.com" { type master; notify no; file "null.zone.file"; };
 zone "actionadvertisingnc.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.abogadosbaluarte.com" { type master; notify no; file "null.zone.file"; };
