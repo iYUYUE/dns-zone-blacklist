@@ -12932,6 +12932,7 @@ local-zone: "aspireiq-dev.com" always_refuse
 local-zone: "assets.purch.com" always_refuse
 local-zone: "astralhustle.com" always_refuse
 local-zone: "atanx.alicdn.com" always_refuse
+local-zone: "at-app.cdntvn.pl" always_refuse
 local-zone: "atgenesecton.com" always_refuse
 local-zone: "auctionnudge.com" always_refuse
 local-zone: "audiencelogy.com" always_refuse

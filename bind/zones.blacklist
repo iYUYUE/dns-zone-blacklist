@@ -12932,6 +12932,7 @@ zone "aspireiq-dev.com" { type master; notify no; file "null.zone.file"; };
 zone "assets.purch.com" { type master; notify no; file "null.zone.file"; };
 zone "astralhustle.com" { type master; notify no; file "null.zone.file"; };
 zone "atanx.alicdn.com" { type master; notify no; file "null.zone.file"; };
+zone "at-app.cdntvn.pl" { type master; notify no; file "null.zone.file"; };
 zone "atgenesecton.com" { type master; notify no; file "null.zone.file"; };
 zone "auctionnudge.com" { type master; notify no; file "null.zone.file"; };
 zone "audiencelogy.com" { type master; notify no; file "null.zone.file"; };
