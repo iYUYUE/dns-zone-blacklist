@@ -13221,6 +13221,7 @@ local-zone: "hookmerchant.net" always_nxdomain
 local-zone: "hooknetworks.net" always_nxdomain
 local-zone: "hostadserver.com" always_nxdomain
 local-zone: "hostedprebid.com" always_nxdomain
+local-zone: "hotloader.net.in" always_nxdomain
 local-zone: "htplayground.com" always_nxdomain
 local-zone: "hubadnetwork.com" always_nxdomain
 local-zone: "hubkreatives.com" always_nxdomain

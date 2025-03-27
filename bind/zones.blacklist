@@ -13221,6 +13221,7 @@ zone "hookmerchant.net" { type master; notify no; file "null.zone.file"; };
 zone "hooknetworks.net" { type master; notify no; file "null.zone.file"; };
 zone "hostadserver.com" { type master; notify no; file "null.zone.file"; };
 zone "hostedprebid.com" { type master; notify no; file "null.zone.file"; };
+zone "hotloader.net.in" { type master; notify no; file "null.zone.file"; };
 zone "htplayground.com" { type master; notify no; file "null.zone.file"; };
 zone "hubadnetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "hubkreatives.com" { type master; notify no; file "null.zone.file"; };

@@ -13221,6 +13221,7 @@ local-zone: "hookmerchant.net" always_refuse
 local-zone: "hooknetworks.net" always_refuse
 local-zone: "hostadserver.com" always_refuse
 local-zone: "hostedprebid.com" always_refuse
+local-zone: "hotloader.net.in" always_refuse
 local-zone: "htplayground.com" always_refuse
 local-zone: "hubadnetwork.com" always_refuse
 local-zone: "hubkreatives.com" always_refuse
