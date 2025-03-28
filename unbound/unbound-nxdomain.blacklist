@@ -18659,6 +18659,7 @@ local-zone: "cdn.trustcommander.net" always_nxdomain
 local-zone: "circulars.foodcity.com" always_nxdomain
 local-zone: "circulation.libelle.nl" always_nxdomain
 local-zone: "clarkeandkingmedia.com" always_nxdomain
+local-zone: "cleanmediaadserver.com" always_nxdomain
 local-zone: "click.couponfollow.com" always_nxdomain
 local-zone: "click.freepopnews.skin" always_nxdomain
 local-zone: "clickpointsoftware.com" always_nxdomain

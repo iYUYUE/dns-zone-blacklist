@@ -18659,6 +18659,7 @@ zone "cdn.trustcommander.net" { type master; notify no; file "null.zone.file"; }
 zone "circulars.foodcity.com" { type master; notify no; file "null.zone.file"; };
 zone "circulation.libelle.nl" { type master; notify no; file "null.zone.file"; };
 zone "clarkeandkingmedia.com" { type master; notify no; file "null.zone.file"; };
+zone "cleanmediaadserver.com" { type master; notify no; file "null.zone.file"; };
 zone "click.couponfollow.com" { type master; notify no; file "null.zone.file"; };
 zone "click.freepopnews.skin" { type master; notify no; file "null.zone.file"; };
 zone "clickpointsoftware.com" { type master; notify no; file "null.zone.file"; };

@@ -18659,6 +18659,7 @@ local-zone: "cdn.trustcommander.net" always_refuse
 local-zone: "circulars.foodcity.com" always_refuse
 local-zone: "circulation.libelle.nl" always_refuse
 local-zone: "clarkeandkingmedia.com" always_refuse
+local-zone: "cleanmediaadserver.com" always_refuse
 local-zone: "click.couponfollow.com" always_refuse
 local-zone: "click.freepopnews.skin" always_refuse
 local-zone: "clickpointsoftware.com" always_refuse
