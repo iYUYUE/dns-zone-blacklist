@@ -6848,6 +6848,7 @@ local-zone: "omnivirt.com" always_refuse
 local-zone: "onboard24.ru" always_refuse
 local-zone: "onclarck.com" always_refuse
 local-zone: "onclckbn.com" always_refuse
+local-zone: "onclicka.com" always_refuse
 local-zone: "onclklnd.com" always_refuse
 local-zone: "onead.com.tw" always_refuse
 local-zone: "onebyaol.com" always_refuse
@@ -12996,6 +12997,7 @@ local-zone: "braintagtech.com" always_refuse
 local-zone: "brandbazooka.com" always_refuse
 local-zone: "breaktime.com.tw" always_refuse
 local-zone: "brkmarketing.com" always_refuse
+local-zone: "broadcastads.biz" always_refuse
 local-zone: "brunchforher.com" always_refuse
 local-zone: "bubbleads.com.au" always_refuse
 local-zone: "buildtraffic.com" always_refuse

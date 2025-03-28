@@ -6848,6 +6848,7 @@ local-zone: "omnivirt.com" always_nxdomain
 local-zone: "onboard24.ru" always_nxdomain
 local-zone: "onclarck.com" always_nxdomain
 local-zone: "onclckbn.com" always_nxdomain
+local-zone: "onclicka.com" always_nxdomain
 local-zone: "onclklnd.com" always_nxdomain
 local-zone: "onead.com.tw" always_nxdomain
 local-zone: "onebyaol.com" always_nxdomain
@@ -12996,6 +12997,7 @@ local-zone: "braintagtech.com" always_nxdomain
 local-zone: "brandbazooka.com" always_nxdomain
 local-zone: "breaktime.com.tw" always_nxdomain
 local-zone: "brkmarketing.com" always_nxdomain
+local-zone: "broadcastads.biz" always_nxdomain
 local-zone: "brunchforher.com" always_nxdomain
 local-zone: "bubbleads.com.au" always_nxdomain
 local-zone: "buildtraffic.com" always_nxdomain
