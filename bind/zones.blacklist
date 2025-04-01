@@ -14200,6 +14200,7 @@ zone "bearmoonlodge.com" { type master; notify no; file "null.zone.file"; };
 zone "bennsolutions.com" { type master; notify no; file "null.zone.file"; };
 zone "bestxxxaction.com" { type master; notify no; file "null.zone.file"; };
 zone "betterbanners.com" { type master; notify no; file "null.zone.file"; };
+zone "bingadexpress.net" { type master; notify no; file "null.zone.file"; };
 zone "binspiredtees.com" { type master; notify no; file "null.zone.file"; };
 zone "birdingtop500.com" { type master; notify no; file "null.zone.file"; };
 zone "bisko.gjirafa.net" { type master; notify no; file "null.zone.file"; };
