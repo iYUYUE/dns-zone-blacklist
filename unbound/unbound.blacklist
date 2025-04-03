@@ -2052,6 +2052,7 @@ local-zone: "adsuite.io" always_refuse
 local-zone: "adsushi.de" always_refuse
 local-zone: "ads.uxs.at" always_refuse
 local-zone: "ads.vi.net" always_refuse
+local-zone: "ads.vk.com" always_refuse
 local-zone: "ads.vlr.vn" always_refuse
 local-zone: "adswap.com" always_refuse
 local-zone: "adswave.co" always_refuse

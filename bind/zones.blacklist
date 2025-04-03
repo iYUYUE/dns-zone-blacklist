@@ -2052,6 +2052,7 @@ zone "adsuite.io" { type master; notify no; file "null.zone.file"; };
 zone "adsushi.de" { type master; notify no; file "null.zone.file"; };
 zone "ads.uxs.at" { type master; notify no; file "null.zone.file"; };
 zone "ads.vi.net" { type master; notify no; file "null.zone.file"; };
+zone "ads.vk.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.vlr.vn" { type master; notify no; file "null.zone.file"; };
 zone "adswap.com" { type master; notify no; file "null.zone.file"; };
 zone "adswave.co" { type master; notify no; file "null.zone.file"; };

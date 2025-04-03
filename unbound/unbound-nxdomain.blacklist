@@ -2052,6 +2052,7 @@ local-zone: "adsuite.io" always_nxdomain
 local-zone: "adsushi.de" always_nxdomain
 local-zone: "ads.uxs.at" always_nxdomain
 local-zone: "ads.vi.net" always_nxdomain
+local-zone: "ads.vk.com" always_nxdomain
 local-zone: "ads.vlr.vn" always_nxdomain
 local-zone: "adswap.com" always_nxdomain
 local-zone: "adswave.co" always_nxdomain
