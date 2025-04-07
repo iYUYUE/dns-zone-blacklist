@@ -1329,6 +1329,7 @@ zone "mpire.com" { type master; notify no; file "null.zone.file"; };
 zone "msads.net" { type master; notify no; file "null.zone.file"; };
 zone "mt66g.com" { type master; notify no; file "null.zone.file"; };
 zone "mtfmi.com" { type master; notify no; file "null.zone.file"; };
+zone "mtgad.com" { type master; notify no; file "null.zone.file"; };
 zone "mvmbs.com" { type master; notify no; file "null.zone.file"; };
 zone "mwlle.com" { type master; notify no; file "null.zone.file"; };
 zone "mwrgi.com" { type master; notify no; file "null.zone.file"; };

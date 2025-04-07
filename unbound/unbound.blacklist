@@ -1329,6 +1329,7 @@ local-zone: "mpire.com" always_refuse
 local-zone: "msads.net" always_refuse
 local-zone: "mt66g.com" always_refuse
 local-zone: "mtfmi.com" always_refuse
+local-zone: "mtgad.com" always_refuse
 local-zone: "mvmbs.com" always_refuse
 local-zone: "mwlle.com" always_refuse
 local-zone: "mwrgi.com" always_refuse

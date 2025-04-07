@@ -1329,6 +1329,7 @@ local-zone: "mpire.com" always_nxdomain
 local-zone: "msads.net" always_nxdomain
 local-zone: "mt66g.com" always_nxdomain
 local-zone: "mtfmi.com" always_nxdomain
+local-zone: "mtgad.com" always_nxdomain
 local-zone: "mvmbs.com" always_nxdomain
 local-zone: "mwlle.com" always_nxdomain
 local-zone: "mwrgi.com" always_nxdomain
