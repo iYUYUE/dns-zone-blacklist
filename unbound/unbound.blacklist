@@ -558,6 +558,7 @@ local-zone: "pushe.co" always_refuse
 local-zone: "pushe.ir" always_refuse
 local-zone: "push.net" always_refuse
 local-zone: "push.org" always_refuse
+local-zone: "pushw.ru" always_refuse
 local-zone: "pushy.ai" always_refuse
 local-zone: "pushy.io" always_refuse
 local-zone: "pushy.me" always_refuse
@@ -6976,6 +6977,7 @@ local-zone: "push-sdk.net" always_refuse
 local-zone: "pushtide.com" always_refuse
 local-zone: "pushtorm.net" always_refuse
 local-zone: "pushtrack.co" always_refuse
+local-zone: "pushwoot.com" always_refuse
 local-zone: "p.weebly.com" always_refuse
 local-zone: "p.xbcpcn.com" always_refuse
 local-zone: "qarewien.com" always_refuse

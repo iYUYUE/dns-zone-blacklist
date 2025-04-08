@@ -558,6 +558,7 @@ local-zone: "pushe.co" always_nxdomain
 local-zone: "pushe.ir" always_nxdomain
 local-zone: "push.net" always_nxdomain
 local-zone: "push.org" always_nxdomain
+local-zone: "pushw.ru" always_nxdomain
 local-zone: "pushy.ai" always_nxdomain
 local-zone: "pushy.io" always_nxdomain
 local-zone: "pushy.me" always_nxdomain
@@ -6976,6 +6977,7 @@ local-zone: "push-sdk.net" always_nxdomain
 local-zone: "pushtide.com" always_nxdomain
 local-zone: "pushtorm.net" always_nxdomain
 local-zone: "pushtrack.co" always_nxdomain
+local-zone: "pushwoot.com" always_nxdomain
 local-zone: "p.weebly.com" always_nxdomain
 local-zone: "p.xbcpcn.com" always_nxdomain
 local-zone: "qarewien.com" always_nxdomain
