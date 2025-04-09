@@ -13621,6 +13621,7 @@ local-zone: "smartfeedads.com" always_refuse
 local-zone: "smartredirect.de" always_refuse
 local-zone: "smpop.icfcdn.com" always_refuse
 local-zone: "snappyreport.com" always_refuse
+local-zone: "sneaky-click.pro" always_refuse
 local-zone: "socialbubbles.in" always_refuse
 local-zone: "socialfox.com.au" always_refuse
 local-zone: "socialsurf4u.com" always_refuse

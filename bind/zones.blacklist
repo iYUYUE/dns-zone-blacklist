@@ -13621,6 +13621,7 @@ zone "smartfeedads.com" { type master; notify no; file "null.zone.file"; };
 zone "smartredirect.de" { type master; notify no; file "null.zone.file"; };
 zone "smpop.icfcdn.com" { type master; notify no; file "null.zone.file"; };
 zone "snappyreport.com" { type master; notify no; file "null.zone.file"; };
+zone "sneaky-click.pro" { type master; notify no; file "null.zone.file"; };
 zone "socialbubbles.in" { type master; notify no; file "null.zone.file"; };
 zone "socialfox.com.au" { type master; notify no; file "null.zone.file"; };
 zone "socialsurf4u.com" { type master; notify no; file "null.zone.file"; };
