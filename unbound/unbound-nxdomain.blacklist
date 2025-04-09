@@ -13516,6 +13516,7 @@ local-zone: "push.laverdad.es" always_nxdomain
 local-zone: "push.neko-san.fr" always_nxdomain
 local-zone: "pushofferpro.com" always_nxdomain
 local-zone: "pushresponse.net" always_nxdomain
+local-zone: "push-webapi.site" always_nxdomain
 local-zone: "pvnsolutions.com" always_nxdomain
 local-zone: "pxlssl.ibpxl.com" always_nxdomain
 local-zone: "qavgacsmegav.com" always_nxdomain
@@ -18862,6 +18863,7 @@ local-zone: "ads.converticomedia.com" always_nxdomain
 local-zone: "ads.costadelsollife.com" always_nxdomain
 local-zone: "ads.culturadoria.com.br" always_nxdomain
 local-zone: "ads.der-warnemuender.de" always_nxdomain
+local-zone: "adsdkprod.azureedge.net" always_nxdomain
 local-zone: "ads-east.bilinmedia.net" always_nxdomain
 local-zone: "ads.elnuevosiglo.com.co" always_nxdomain
 local-zone: "ads.erotik-webspace.net" always_nxdomain

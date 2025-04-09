@@ -13516,6 +13516,7 @@ local-zone: "push.laverdad.es" always_refuse
 local-zone: "push.neko-san.fr" always_refuse
 local-zone: "pushofferpro.com" always_refuse
 local-zone: "pushresponse.net" always_refuse
+local-zone: "push-webapi.site" always_refuse
 local-zone: "pvnsolutions.com" always_refuse
 local-zone: "pxlssl.ibpxl.com" always_refuse
 local-zone: "qavgacsmegav.com" always_refuse
@@ -18862,6 +18863,7 @@ local-zone: "ads.converticomedia.com" always_refuse
 local-zone: "ads.costadelsollife.com" always_refuse
 local-zone: "ads.culturadoria.com.br" always_refuse
 local-zone: "ads.der-warnemuender.de" always_refuse
+local-zone: "adsdkprod.azureedge.net" always_refuse
 local-zone: "ads-east.bilinmedia.net" always_refuse
 local-zone: "ads.elnuevosiglo.com.co" always_refuse
 local-zone: "ads.erotik-webspace.net" always_refuse
