@@ -984,6 +984,7 @@ zone "bitad.org" { type master; notify no; file "null.zone.file"; };
 zone "bliink.io" { type master; notify no; file "null.zone.file"; };
 zone "blkri.com" { type master; notify no; file "null.zone.file"; };
 zone "blok.link" { type master; notify no; file "null.zone.file"; };
+zone "bm-ads.io" { type master; notify no; file "null.zone.file"; };
 zone "bngpt.com" { type master; notify no; file "null.zone.file"; };
 zone "bnlif.com" { type master; notify no; file "null.zone.file"; };
 zone "bnmkl.com" { type master; notify no; file "null.zone.file"; };

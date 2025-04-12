@@ -984,6 +984,7 @@ local-zone: "bitad.org" always_refuse
 local-zone: "bliink.io" always_refuse
 local-zone: "blkri.com" always_refuse
 local-zone: "blok.link" always_refuse
+local-zone: "bm-ads.io" always_refuse
 local-zone: "bngpt.com" always_refuse
 local-zone: "bnlif.com" always_refuse
 local-zone: "bnmkl.com" always_refuse

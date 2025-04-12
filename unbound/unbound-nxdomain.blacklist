@@ -984,6 +984,7 @@ local-zone: "bitad.org" always_nxdomain
 local-zone: "bliink.io" always_nxdomain
 local-zone: "blkri.com" always_nxdomain
 local-zone: "blok.link" always_nxdomain
+local-zone: "bm-ads.io" always_nxdomain
 local-zone: "bngpt.com" always_nxdomain
 local-zone: "bnlif.com" always_nxdomain
 local-zone: "bnmkl.com" always_nxdomain
