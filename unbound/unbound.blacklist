@@ -5325,6 +5325,7 @@ local-zone: "wwiw.online" always_refuse
 local-zone: "wwsw.online" always_refuse
 local-zone: "x.amain.com" always_refuse
 local-zone: "xdxx.online" always_refuse
+local-zone: "xiaopay.net" always_refuse
 local-zone: "xl-cash.com" always_refuse
 local-zone: "xmlking.com" always_refuse
 local-zone: "xmlwolf.com" always_refuse
@@ -5354,6 +5355,7 @@ local-zone: "yyjvimo.com" always_refuse
 local-zone: "zaimads.com" always_refuse
 local-zone: "zampdsp.com" always_refuse
 local-zone: "zapp360.com" always_refuse
+local-zone: "zeemedia.io" always_refuse
 local-zone: "zeesiti.com" always_refuse
 local-zone: "zemanta.com" always_refuse
 local-zone: "zentrick.io" always_refuse
@@ -8622,6 +8624,7 @@ local-zone: "nanovisor.biz" always_refuse
 local-zone: "nanovisor.net" always_refuse
 local-zone: "nanovisor.org" always_refuse
 local-zone: "nano-visor.us" always_refuse
+local-zone: "nastyland.pro" always_refuse
 local-zone: "native-ad.net" always_refuse
 local-zone: "nativeads.com" always_refuse
 local-zone: "nativemsg.com" always_refuse
@@ -8657,6 +8660,7 @@ local-zone: "nsbadfair.com" always_refuse
 local-zone: "nudgeduck.com" always_refuse
 local-zone: "numarabiz.com" always_refuse
 local-zone: "numbswing.pro" always_refuse
+local-zone: "nuttyrope.pro" always_refuse
 local-zone: "nva-online.nl" always_refuse
 local-zone: "nxtanchor.com" always_refuse
 local-zone: "oakbustrp.com" always_refuse
@@ -10878,6 +10882,7 @@ local-zone: "unfoldmart.com" always_refuse
 local-zone: "uniconsent.com" always_refuse
 local-zone: "unrulymedia.fr" always_refuse
 local-zone: "unruly.systems" always_refuse
+local-zone: "untidy-log.pro" always_refuse
 local-zone: "uprisemedia.in" always_refuse
 local-zone: "urbandoubt.com" always_refuse
 local-zone: "urekamedia.com" always_refuse
@@ -11822,6 +11827,7 @@ local-zone: "getrichcash.com" always_refuse
 local-zone: "ghb.bidmatic.io" always_refuse
 local-zone: "gigabitadex.com" always_refuse
 local-zone: "gjanedesign.com" always_refuse
+local-zone: "glasscoyote.com" always_refuse
 local-zone: "globaladsrv.com" always_refuse
 local-zone: "glo-glo-oom.com" always_refuse
 local-zone: "go1.trakit5.com" always_refuse
@@ -14776,6 +14782,7 @@ local-zone: "salesdesign.co.in" always_refuse
 local-zone: "salesparkapps.com" always_refuse
 local-zone: "sapphirum.network" always_refuse
 local-zone: "sassyadserver.com" always_refuse
+local-zone: "saturnonotizie.it" always_refuse
 local-zone: "scapesolutions.in" always_refuse
 local-zone: "scenicapparel.com" always_refuse
 local-zone: "scintilladigi.com" always_refuse
@@ -16852,6 +16859,7 @@ local-zone: "webmarketing-bg.com" always_refuse
 local-zone: "webmechanixmail.com" always_refuse
 local-zone: "webvideoadspace.net" always_refuse
 local-zone: "welcometosister.com" always_refuse
+local-zone: "welltodomorning.pro" always_refuse
 local-zone: "werbemanager.w24.at" always_refuse
 local-zone: "westadvertising.com" always_refuse
 local-zone: "whoppingrespond.pro" always_refuse
