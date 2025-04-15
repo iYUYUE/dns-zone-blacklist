@@ -3012,6 +3012,7 @@ local-zone: "pfsrvs.com" always_nxdomain
 local-zone: "p.gecl.xyz" always_nxdomain
 local-zone: "pgmcdn.com" always_nxdomain
 local-zone: "p.hqwa.xyz" always_nxdomain
+local-zone: "phyron.com" always_nxdomain
 local-zone: "pich18.com" always_nxdomain
 local-zone: "piclick.cn" always_nxdomain
 local-zone: "piclick.kr" always_nxdomain

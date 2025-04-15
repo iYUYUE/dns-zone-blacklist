@@ -3012,6 +3012,7 @@ local-zone: "pfsrvs.com" always_refuse
 local-zone: "p.gecl.xyz" always_refuse
 local-zone: "pgmcdn.com" always_refuse
 local-zone: "p.hqwa.xyz" always_refuse
+local-zone: "phyron.com" always_refuse
 local-zone: "pich18.com" always_refuse
 local-zone: "piclick.cn" always_refuse
 local-zone: "piclick.kr" always_refuse

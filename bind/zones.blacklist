@@ -3012,6 +3012,7 @@ zone "pfsrvs.com" { type master; notify no; file "null.zone.file"; };
 zone "p.gecl.xyz" { type master; notify no; file "null.zone.file"; };
 zone "pgmcdn.com" { type master; notify no; file "null.zone.file"; };
 zone "p.hqwa.xyz" { type master; notify no; file "null.zone.file"; };
+zone "phyron.com" { type master; notify no; file "null.zone.file"; };
 zone "pich18.com" { type master; notify no; file "null.zone.file"; };
 zone "piclick.cn" { type master; notify no; file "null.zone.file"; };
 zone "piclick.kr" { type master; notify no; file "null.zone.file"; };
