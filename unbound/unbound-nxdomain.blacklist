@@ -5822,6 +5822,7 @@ local-zone: "ad-ronin.com" always_nxdomain
 local-zone: "adrotate.net" always_nxdomain
 local-zone: "ads.0xbt.net" always_nxdomain
 local-zone: "ads1.msn.com" always_nxdomain
+local-zone: "ads.24ur.com" always_nxdomain
 local-zone: "ads2.msn.com" always_nxdomain
 local-zone: "ads4bits.net" always_nxdomain
 local-zone: "ads4pics.com" always_nxdomain
@@ -9494,6 +9495,7 @@ local-zone: "ads18.divan.tv" always_nxdomain
 local-zone: "ads19.divan.tv" always_nxdomain
 local-zone: "ads1-adnow.com" always_nxdomain
 local-zone: "ads1.medium.al" always_nxdomain
+local-zone: "ads.24media.gr" always_nxdomain
 local-zone: "ads2-adnow.com" always_nxdomain
 local-zone: "ads2.jenite.bg" always_nxdomain
 local-zone: "ads2.web1tv.de" always_nxdomain
