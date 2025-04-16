@@ -19677,6 +19677,7 @@ zone "a.digitalgiftshopping.com" { type master; notify no; file "null.zone.file"
 zone "adimages.marriagetrac.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.lasnoticiasdecuenca.es" { type master; notify no; file "null.zone.file"; };
 zone "admanager.theguardian.com" { type master; notify no; file "null.zone.file"; };
+zone "admango.cdn.mangomolo.com" { type master; notify no; file "null.zone.file"; };
 zone "admarvel.s3.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "ads4.northamericatalk.com" { type master; notify no; file "null.zone.file"; };
 zone "ads5-noneu.truecaller.com" { type master; notify no; file "null.zone.file"; };

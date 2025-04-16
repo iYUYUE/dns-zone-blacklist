@@ -19677,6 +19677,7 @@ local-zone: "a.digitalgiftshopping.com" always_refuse
 local-zone: "adimages.marriagetrac.com" always_refuse
 local-zone: "ad.lasnoticiasdecuenca.es" always_refuse
 local-zone: "admanager.theguardian.com" always_refuse
+local-zone: "admango.cdn.mangomolo.com" always_refuse
 local-zone: "admarvel.s3.amazonaws.com" always_refuse
 local-zone: "ads4.northamericatalk.com" always_refuse
 local-zone: "ads5-noneu.truecaller.com" always_refuse

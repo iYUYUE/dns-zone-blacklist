@@ -19677,6 +19677,7 @@ local-zone: "a.digitalgiftshopping.com" always_nxdomain
 local-zone: "adimages.marriagetrac.com" always_nxdomain
 local-zone: "ad.lasnoticiasdecuenca.es" always_nxdomain
 local-zone: "admanager.theguardian.com" always_nxdomain
+local-zone: "admango.cdn.mangomolo.com" always_nxdomain
 local-zone: "admarvel.s3.amazonaws.com" always_nxdomain
 local-zone: "ads4.northamericatalk.com" always_nxdomain
 local-zone: "ads5-noneu.truecaller.com" always_nxdomain
