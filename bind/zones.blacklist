@@ -20377,6 +20377,7 @@ zone "advertising.bbcworldwide.com" { type master; notify no; file "null.zone.fi
 zone "advertising.digitalpoint.com" { type master; notify no; file "null.zone.file"; };
 zone "adv.messaggerosantantonio.it" { type master; notify no; file "null.zone.file"; };
 zone "ae-136.global.ssl.fastly.net" { type master; notify no; file "null.zone.file"; };
+zone "agressionsexuellemontreal.ca" { type master; notify no; file "null.zone.file"; };
 zone "alkambacreativesolutions.com" { type master; notify no; file "null.zone.file"; };
 zone "allnews.chestertelegraph.org" { type master; notify no; file "null.zone.file"; };
 zone "as.thoroughbreddailynews.com" { type master; notify no; file "null.zone.file"; };
