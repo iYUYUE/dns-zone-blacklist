@@ -7109,6 +7109,7 @@ local-zone: "sellines.com" always_nxdomain
 local-zone: "selwrite.com" always_nxdomain
 local-zone: "semi-cod.com" always_nxdomain
 local-zone: "sendlane.com" always_nxdomain
+local-zone: "sendpush.net" always_nxdomain
 local-zone: "send-web.com" always_nxdomain
 local-zone: "serconmp.com" always_nxdomain
 local-zone: "serveads.biz" always_nxdomain
@@ -9881,6 +9882,7 @@ local-zone: "bidtheatre.com" always_nxdomain
 local-zone: "bigbbrands.com" always_nxdomain
 local-zone: "bigbears.co.in" always_nxdomain
 local-zone: "bigdeal.agency" always_nxdomain
+local-zone: "bildirimat.com" always_nxdomain
 local-zone: "bionic-ads.com" always_nxdomain
 local-zone: "bitonclick.com" always_nxdomain
 local-zone: "blackdot.co.zm" always_nxdomain
@@ -15234,6 +15236,7 @@ local-zone: "ads.gadgetsquad.id" always_nxdomain
 local-zone: "ads.gelbe-liste.de" always_nxdomain
 local-zone: "ads.gencgazete.net" always_nxdomain
 local-zone: "ads.getasite.co.za" always_nxdomain
+local-zone: "ads.globalfrag.com" always_nxdomain
 local-zone: "ads.graphic.com.gh" always_nxdomain
 local-zone: "ads.greengeeks.com" always_nxdomain
 local-zone: "ads.gridtechno.com" always_nxdomain

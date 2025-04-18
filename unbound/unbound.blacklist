@@ -7109,6 +7109,7 @@ local-zone: "sellines.com" always_refuse
 local-zone: "selwrite.com" always_refuse
 local-zone: "semi-cod.com" always_refuse
 local-zone: "sendlane.com" always_refuse
+local-zone: "sendpush.net" always_refuse
 local-zone: "send-web.com" always_refuse
 local-zone: "serconmp.com" always_refuse
 local-zone: "serveads.biz" always_refuse
@@ -9881,6 +9882,7 @@ local-zone: "bidtheatre.com" always_refuse
 local-zone: "bigbbrands.com" always_refuse
 local-zone: "bigbears.co.in" always_refuse
 local-zone: "bigdeal.agency" always_refuse
+local-zone: "bildirimat.com" always_refuse
 local-zone: "bionic-ads.com" always_refuse
 local-zone: "bitonclick.com" always_refuse
 local-zone: "blackdot.co.zm" always_refuse
@@ -15234,6 +15236,7 @@ local-zone: "ads.gadgetsquad.id" always_refuse
 local-zone: "ads.gelbe-liste.de" always_refuse
 local-zone: "ads.gencgazete.net" always_refuse
 local-zone: "ads.getasite.co.za" always_refuse
+local-zone: "ads.globalfrag.com" always_refuse
 local-zone: "ads.graphic.com.gh" always_refuse
 local-zone: "ads.greengeeks.com" always_refuse
 local-zone: "ads.gridtechno.com" always_refuse
