@@ -12300,6 +12300,7 @@ zone "rst.pornyhd.com" { type master; notify no; file "null.zone.file"; };
 zone "rtbflairads.com" { type master; notify no; file "null.zone.file"; };
 zone "rtbinternet.com" { type master; notify no; file "null.zone.file"; };
 zone "rtbplatform.net" { type master; notify no; file "null.zone.file"; };
+zone "rtbreachads.com" { type master; notify no; file "null.zone.file"; };
 zone "rtbsuperhub.com" { type master; notify no; file "null.zone.file"; };
 zone "rtsolutions.com" { type master; notify no; file "null.zone.file"; };
 zone "rtxplatform.com" { type master; notify no; file "null.zone.file"; };
