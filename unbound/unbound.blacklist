@@ -4541,6 +4541,7 @@ local-zone: "gethyped.io" always_refuse
 local-zone: "getleads.fr" always_refuse
 local-zone: "getnotix.co" always_refuse
 local-zone: "getpush.net" always_refuse
+local-zone: "getredo.com" always_refuse
 local-zone: "ggmg.online" always_refuse
 local-zone: "ggwcash.com" always_refuse
 local-zone: "ghgh.online" always_refuse
@@ -9942,6 +9943,7 @@ local-zone: "c3.neoncdn.com" always_refuse
 local-zone: "campartner.com" always_refuse
 local-zone: "cappumedia.com" always_refuse
 local-zone: "cappushino.com" always_refuse
+local-zone: "carbonatix.com" always_refuse
 local-zone: "carrickads.com" always_refuse
 local-zone: "cashfiesta.net" always_refuse
 local-zone: "cas-online.com" always_refuse
@@ -16498,6 +16500,7 @@ local-zone: "campaign.dasmart.eu" always_refuse
 local-zone: "campaigns.avira.com" always_refuse
 local-zone: "capptivemarkets.com" always_refuse
 local-zone: "caravelmedia.com.au" always_refuse
+local-zone: "carbonatixaudio.com" always_refuse
 local-zone: "cdn3.hentaihand.com" always_refuse
 local-zone: "cdn.bestadserve.com" always_refuse
 local-zone: "cdn.bestreviews.com" always_refuse
