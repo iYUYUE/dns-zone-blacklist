@@ -1751,6 +1751,7 @@ local-zone: "acertb.com" always_refuse
 local-zone: "ackhoo.com" always_refuse
 local-zone: "acooss.com" always_refuse
 local-zone: "acscdn.com" always_refuse
+local-zone: "ad-1.co.jp" always_refuse
 local-zone: "ad2mix.com" always_refuse
 local-zone: "ad2.zcj.ro" always_refuse
 local-zone: "ad.3sol.cz" always_refuse
