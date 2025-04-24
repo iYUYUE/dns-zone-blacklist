@@ -14512,6 +14512,7 @@ local-zone: "brandreachsys.com" always_refuse
 local-zone: "brandsnbehind.com" always_refuse
 local-zone: "b.reissue2871.xyz" always_refuse
 local-zone: "brokertraffic.com" always_refuse
+local-zone: "brownboxgroup.com" always_refuse
 local-zone: "browserpusher.com" always_refuse
 local-zone: "browserupdate.org" always_refuse
 local-zone: "b.tangible.net.nz" always_refuse

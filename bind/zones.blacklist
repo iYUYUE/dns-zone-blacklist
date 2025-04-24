@@ -14512,6 +14512,7 @@ zone "brandreachsys.com" { type master; notify no; file "null.zone.file"; };
 zone "brandsnbehind.com" { type master; notify no; file "null.zone.file"; };
 zone "b.reissue2871.xyz" { type master; notify no; file "null.zone.file"; };
 zone "brokertraffic.com" { type master; notify no; file "null.zone.file"; };
+zone "brownboxgroup.com" { type master; notify no; file "null.zone.file"; };
 zone "browserpusher.com" { type master; notify no; file "null.zone.file"; };
 zone "browserupdate.org" { type master; notify no; file "null.zone.file"; };
 zone "b.tangible.net.nz" { type master; notify no; file "null.zone.file"; };

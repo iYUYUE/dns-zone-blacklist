@@ -14512,6 +14512,7 @@ local-zone: "brandreachsys.com" always_nxdomain
 local-zone: "brandsnbehind.com" always_nxdomain
 local-zone: "b.reissue2871.xyz" always_nxdomain
 local-zone: "brokertraffic.com" always_nxdomain
+local-zone: "brownboxgroup.com" always_nxdomain
 local-zone: "browserpusher.com" always_nxdomain
 local-zone: "browserupdate.org" always_nxdomain
 local-zone: "b.tangible.net.nz" always_nxdomain
