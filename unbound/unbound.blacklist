@@ -3703,6 +3703,7 @@ local-zone: "adbooth.com" always_refuse
 local-zone: "adbooth.net" always_refuse
 local-zone: "adbreak.com" always_refuse
 local-zone: "adbridg.com" always_refuse
+local-zone: "adbright.cn" always_refuse
 local-zone: "adbrite.com" always_refuse
 local-zone: "ad-brix.com" always_refuse
 local-zone: "adbroker.de" always_refuse

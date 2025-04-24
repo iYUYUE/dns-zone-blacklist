@@ -3703,6 +3703,7 @@ local-zone: "adbooth.com" always_nxdomain
 local-zone: "adbooth.net" always_nxdomain
 local-zone: "adbreak.com" always_nxdomain
 local-zone: "adbridg.com" always_nxdomain
+local-zone: "adbright.cn" always_nxdomain
 local-zone: "adbrite.com" always_nxdomain
 local-zone: "ad-brix.com" always_nxdomain
 local-zone: "adbroker.de" always_nxdomain

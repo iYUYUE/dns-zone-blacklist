@@ -3703,6 +3703,7 @@ zone "adbooth.com" { type master; notify no; file "null.zone.file"; };
 zone "adbooth.net" { type master; notify no; file "null.zone.file"; };
 zone "adbreak.com" { type master; notify no; file "null.zone.file"; };
 zone "adbridg.com" { type master; notify no; file "null.zone.file"; };
+zone "adbright.cn" { type master; notify no; file "null.zone.file"; };
 zone "adbrite.com" { type master; notify no; file "null.zone.file"; };
 zone "ad-brix.com" { type master; notify no; file "null.zone.file"; };
 zone "adbroker.de" { type master; notify no; file "null.zone.file"; };
