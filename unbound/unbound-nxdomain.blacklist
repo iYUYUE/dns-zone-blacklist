@@ -944,6 +944,7 @@ local-zone: "andand.in" always_nxdomain
 local-zone: "anixe.net" always_nxdomain
 local-zone: "a.nova.cz" always_nxdomain
 local-zone: "aotgm.com" always_nxdomain
+local-zone: "api.house" always_nxdomain
 local-zone: "apn.co.nz" always_nxdomain
 local-zone: "appia.com" always_nxdomain
 local-zone: "apppl.com" always_nxdomain
@@ -5112,6 +5113,7 @@ local-zone: "saambaa.com" always_nxdomain
 local-zone: "sadjklq.com" always_nxdomain
 local-zone: "sa.vic-m.co" always_nxdomain
 local-zone: "scaleout.jp" always_nxdomain
+local-zone: "scashwl.com" always_nxdomain
 local-zone: "schoene.net" always_nxdomain
 local-zone: "scibids.com" always_nxdomain
 local-zone: "searona.com" always_nxdomain
@@ -13470,6 +13472,7 @@ local-zone: "giving-weird.pro" always_nxdomain
 local-zone: "glamourbuckz.com" always_nxdomain
 local-zone: "globalrevgen.com" always_nxdomain
 local-zone: "goadservices.com" always_nxdomain
+local-zone: "go.camterest.com" always_nxdomain
 local-zone: "goodwaygroup.com" always_nxdomain
 local-zone: "gossamerwing.com" always_nxdomain
 local-zone: "gracefulmilk.com" always_nxdomain

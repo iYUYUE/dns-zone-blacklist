@@ -944,6 +944,7 @@ local-zone: "andand.in" always_refuse
 local-zone: "anixe.net" always_refuse
 local-zone: "a.nova.cz" always_refuse
 local-zone: "aotgm.com" always_refuse
+local-zone: "api.house" always_refuse
 local-zone: "apn.co.nz" always_refuse
 local-zone: "appia.com" always_refuse
 local-zone: "apppl.com" always_refuse
@@ -5112,6 +5113,7 @@ local-zone: "saambaa.com" always_refuse
 local-zone: "sadjklq.com" always_refuse
 local-zone: "sa.vic-m.co" always_refuse
 local-zone: "scaleout.jp" always_refuse
+local-zone: "scashwl.com" always_refuse
 local-zone: "schoene.net" always_refuse
 local-zone: "scibids.com" always_refuse
 local-zone: "searona.com" always_refuse
@@ -13470,6 +13472,7 @@ local-zone: "giving-weird.pro" always_refuse
 local-zone: "glamourbuckz.com" always_refuse
 local-zone: "globalrevgen.com" always_refuse
 local-zone: "goadservices.com" always_refuse
+local-zone: "go.camterest.com" always_refuse
 local-zone: "goodwaygroup.com" always_refuse
 local-zone: "gossamerwing.com" always_refuse
 local-zone: "gracefulmilk.com" always_refuse
