@@ -12681,6 +12681,7 @@ zone "viralsparks.com" { type master; notify no; file "null.zone.file"; };
 zone "virtualminds.de" { type master; notify no; file "null.zone.file"; };
 zone "visitorsale.com" { type master; notify no; file "null.zone.file"; };
 zone "visitwidget.com" { type master; notify no; file "null.zone.file"; };
+zone "vistapusher.com" { type master; notify no; file "null.zone.file"; };
 zone "vistarmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "vital-might.pro" { type master; notify no; file "null.zone.file"; };
 zone "vivalabrand.com" { type master; notify no; file "null.zone.file"; };
