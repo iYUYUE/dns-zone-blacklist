@@ -8042,6 +8042,7 @@ local-zone: "app.termly.io" always_nxdomain
 local-zone: "apptmedia.com" always_nxdomain
 local-zone: "apptocash.com" always_nxdomain
 local-zone: "apptrade.mobi" always_nxdomain
+local-zone: "app-visor.com" always_nxdomain
 local-zone: "arcaneads.com" always_nxdomain
 local-zone: "aredirect.net" always_nxdomain
 local-zone: "arianelab.com" always_nxdomain

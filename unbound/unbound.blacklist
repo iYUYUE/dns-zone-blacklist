@@ -8042,6 +8042,7 @@ local-zone: "app.termly.io" always_refuse
 local-zone: "apptmedia.com" always_refuse
 local-zone: "apptocash.com" always_refuse
 local-zone: "apptrade.mobi" always_refuse
+local-zone: "app-visor.com" always_refuse
 local-zone: "arcaneads.com" always_refuse
 local-zone: "aredirect.net" always_refuse
 local-zone: "arianelab.com" always_refuse

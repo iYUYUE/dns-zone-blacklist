@@ -8042,6 +8042,7 @@ zone "app.termly.io" { type master; notify no; file "null.zone.file"; };
 zone "apptmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "apptocash.com" { type master; notify no; file "null.zone.file"; };
 zone "apptrade.mobi" { type master; notify no; file "null.zone.file"; };
+zone "app-visor.com" { type master; notify no; file "null.zone.file"; };
 zone "arcaneads.com" { type master; notify no; file "null.zone.file"; };
 zone "aredirect.net" { type master; notify no; file "null.zone.file"; };
 zone "arianelab.com" { type master; notify no; file "null.zone.file"; };
