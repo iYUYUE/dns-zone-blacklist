@@ -159,6 +159,7 @@ local-zone: "alan.sa" always_nxdomain
 local-zone: "alfa.sd" always_nxdomain
 local-zone: "anzu.io" always_nxdomain
 local-zone: "aplu.io" always_nxdomain
+local-zone: "apq.com" always_nxdomain
 local-zone: "arn.com" always_nxdomain
 local-zone: "aroa.io" always_nxdomain
 local-zone: "arx.net" always_nxdomain

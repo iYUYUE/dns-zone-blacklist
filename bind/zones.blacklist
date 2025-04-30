@@ -159,6 +159,7 @@ zone "alan.sa" { type master; notify no; file "null.zone.file"; };
 zone "alfa.sd" { type master; notify no; file "null.zone.file"; };
 zone "anzu.io" { type master; notify no; file "null.zone.file"; };
 zone "aplu.io" { type master; notify no; file "null.zone.file"; };
+zone "apq.com" { type master; notify no; file "null.zone.file"; };
 zone "arn.com" { type master; notify no; file "null.zone.file"; };
 zone "aroa.io" { type master; notify no; file "null.zone.file"; };
 zone "arx.net" { type master; notify no; file "null.zone.file"; };

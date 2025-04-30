@@ -159,6 +159,7 @@ local-zone: "alan.sa" always_refuse
 local-zone: "alfa.sd" always_refuse
 local-zone: "anzu.io" always_refuse
 local-zone: "aplu.io" always_refuse
+local-zone: "apq.com" always_refuse
 local-zone: "arn.com" always_refuse
 local-zone: "aroa.io" always_refuse
 local-zone: "arx.net" always_refuse
