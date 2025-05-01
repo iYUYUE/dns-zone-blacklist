@@ -13984,6 +13984,7 @@ zone "thetradedesk.com" { type master; notify no; file "null.zone.file"; };
 zone "thinknearhub.com" { type master; notify no; file "null.zone.file"; };
 zone "thinksuggest.org" { type master; notify no; file "null.zone.file"; };
 zone "thisisglobal.com" { type master; notify no; file "null.zone.file"; };
+zone "titangelgold.pro" { type master; notify no; file "null.zone.file"; };
 zone "tofusquirrel.com" { type master; notify no; file "null.zone.file"; };
 zone "tools.glamour.pl" { type master; notify no; file "null.zone.file"; };
 zone "tools.gotujmy.pl" { type master; notify no; file "null.zone.file"; };
