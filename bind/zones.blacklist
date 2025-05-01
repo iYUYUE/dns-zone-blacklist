@@ -8974,6 +8974,7 @@ zone "pushprofit.ru" { type master; notify no; file "null.zone.file"; };
 zone "pushpros.tech" { type master; notify no; file "null.zone.file"; };
 zone "pushsafer.com" { type master; notify no; file "null.zone.file"; };
 zone "pushsafer.net" { type master; notify no; file "null.zone.file"; };
+zone "push-sdk.site" { type master; notify no; file "null.zone.file"; };
 zone "pushtoast.com" { type master; notify no; file "null.zone.file"; };
 zone "pushvault.com" { type master; notify no; file "null.zone.file"; };
 zone "pushwoosh.com" { type master; notify no; file "null.zone.file"; };

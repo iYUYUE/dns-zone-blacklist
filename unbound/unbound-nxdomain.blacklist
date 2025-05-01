@@ -8974,6 +8974,7 @@ local-zone: "pushprofit.ru" always_nxdomain
 local-zone: "pushpros.tech" always_nxdomain
 local-zone: "pushsafer.com" always_nxdomain
 local-zone: "pushsafer.net" always_nxdomain
+local-zone: "push-sdk.site" always_nxdomain
 local-zone: "pushtoast.com" always_nxdomain
 local-zone: "pushvault.com" always_nxdomain
 local-zone: "pushwoosh.com" always_nxdomain

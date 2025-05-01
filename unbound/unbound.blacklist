@@ -8974,6 +8974,7 @@ local-zone: "pushprofit.ru" always_refuse
 local-zone: "pushpros.tech" always_refuse
 local-zone: "pushsafer.com" always_refuse
 local-zone: "pushsafer.net" always_refuse
+local-zone: "push-sdk.site" always_refuse
 local-zone: "pushtoast.com" always_refuse
 local-zone: "pushvault.com" always_refuse
 local-zone: "pushwoosh.com" always_refuse
