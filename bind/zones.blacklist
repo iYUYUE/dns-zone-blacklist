@@ -11045,6 +11045,7 @@ zone "toninjaska.com" { type master; notify no; file "null.zone.file"; };
 zone "toodlepork.com" { type master; notify no; file "null.zone.file"; };
 zone "tools.party.pl" { type master; notify no; file "null.zone.file"; };
 zone "toppestads.com" { type master; notify no; file "null.zone.file"; };
+zone "toroexoclk.com" { type master; notify no; file "null.zone.file"; };
 zone "toshapsyvu.pro" { type master; notify no; file "null.zone.file"; };
 zone "tosuicunea.com" { type master; notify no; file "null.zone.file"; };
 zone "totaltechno.ae" { type master; notify no; file "null.zone.file"; };
