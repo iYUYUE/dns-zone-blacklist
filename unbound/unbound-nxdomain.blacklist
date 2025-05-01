@@ -1620,6 +1620,7 @@ local-zone: "webads.nl" always_nxdomain
 local-zone: "webads.us" always_nxdomain
 local-zone: "welect.de" always_nxdomain
 local-zone: "where.com" always_nxdomain
+local-zone: "whjre.com" always_nxdomain
 local-zone: "wigzo.com" always_nxdomain
 local-zone: "winmo.com" always_nxdomain
 local-zone: "wkads.com" always_nxdomain
@@ -4207,7 +4208,13 @@ local-zone: "applift.com" always_nxdomain
 local-zone: "appoxee.com" always_nxdomain
 local-zone: "appsilon.kr" always_nxdomain
 local-zone: "apptjmp.com" always_nxdomain
+local-zone: "appx-id.com" always_nxdomain
 local-zone: "appxigo.com" always_nxdomain
+local-zone: "appx-my.com" always_nxdomain
+local-zone: "appx-ph.com" always_nxdomain
+local-zone: "appx-sg.com" always_nxdomain
+local-zone: "appx-th.com" always_nxdomain
+local-zone: "appx-vn.com" always_nxdomain
 local-zone: "appyads.com" always_nxdomain
 local-zone: "appzilo.com" always_nxdomain
 local-zone: "aralego.com" always_nxdomain
@@ -6206,6 +6213,12 @@ local-zone: "appodeal.com" always_nxdomain
 local-zone: "appsfire.com" always_nxdomain
 local-zone: "appsfire.net" always_nxdomain
 local-zone: "apptrade.biz" always_nxdomain
+local-zone: "appzo-id.com" always_nxdomain
+local-zone: "appzo-my.com" always_nxdomain
+local-zone: "appzo-ph.com" always_nxdomain
+local-zone: "appzo-sg.com" always_nxdomain
+local-zone: "appzo-th.com" always_nxdomain
+local-zone: "appzo-vn.com" always_nxdomain
 local-zone: "aptivada.com" always_nxdomain
 local-zone: "ar.donga.com" always_nxdomain
 local-zone: "areaecho.com" always_nxdomain
@@ -11245,6 +11258,7 @@ local-zone: "abc.superbet.rs" always_nxdomain
 local-zone: "abraco-debra.be" always_nxdomain
 local-zone: "accesstrade.net" always_nxdomain
 local-zone: "a-cdn.hktdc.com" always_nxdomain
+local-zone: "acquireuser.com" always_nxdomain
 local-zone: "acsmediakit.org" always_nxdomain
 local-zone: "actionad.agency" always_nxdomain
 local-zone: "actionbutton.co" always_nxdomain
@@ -11765,6 +11779,7 @@ local-zone: "bluelithium.com" always_nxdomain
 local-zone: "blueserving.com" always_nxdomain
 local-zone: "bnrs.shemrec.cc" always_nxdomain
 local-zone: "bns.mignews.com" always_nxdomain
+local-zone: "boatcodeapp.com" always_nxdomain
 local-zone: "boffoadsapi.com" always_nxdomain
 local-zone: "boingomedia.com" always_nxdomain
 local-zone: "bonnie-clyde.ro" always_nxdomain

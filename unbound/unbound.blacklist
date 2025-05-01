@@ -1620,6 +1620,7 @@ local-zone: "webads.nl" always_refuse
 local-zone: "webads.us" always_refuse
 local-zone: "welect.de" always_refuse
 local-zone: "where.com" always_refuse
+local-zone: "whjre.com" always_refuse
 local-zone: "wigzo.com" always_refuse
 local-zone: "winmo.com" always_refuse
 local-zone: "wkads.com" always_refuse
@@ -4207,7 +4208,13 @@ local-zone: "applift.com" always_refuse
 local-zone: "appoxee.com" always_refuse
 local-zone: "appsilon.kr" always_refuse
 local-zone: "apptjmp.com" always_refuse
+local-zone: "appx-id.com" always_refuse
 local-zone: "appxigo.com" always_refuse
+local-zone: "appx-my.com" always_refuse
+local-zone: "appx-ph.com" always_refuse
+local-zone: "appx-sg.com" always_refuse
+local-zone: "appx-th.com" always_refuse
+local-zone: "appx-vn.com" always_refuse
 local-zone: "appyads.com" always_refuse
 local-zone: "appzilo.com" always_refuse
 local-zone: "aralego.com" always_refuse
@@ -6206,6 +6213,12 @@ local-zone: "appodeal.com" always_refuse
 local-zone: "appsfire.com" always_refuse
 local-zone: "appsfire.net" always_refuse
 local-zone: "apptrade.biz" always_refuse
+local-zone: "appzo-id.com" always_refuse
+local-zone: "appzo-my.com" always_refuse
+local-zone: "appzo-ph.com" always_refuse
+local-zone: "appzo-sg.com" always_refuse
+local-zone: "appzo-th.com" always_refuse
+local-zone: "appzo-vn.com" always_refuse
 local-zone: "aptivada.com" always_refuse
 local-zone: "ar.donga.com" always_refuse
 local-zone: "areaecho.com" always_refuse
@@ -11245,6 +11258,7 @@ local-zone: "abc.superbet.rs" always_refuse
 local-zone: "abraco-debra.be" always_refuse
 local-zone: "accesstrade.net" always_refuse
 local-zone: "a-cdn.hktdc.com" always_refuse
+local-zone: "acquireuser.com" always_refuse
 local-zone: "acsmediakit.org" always_refuse
 local-zone: "actionad.agency" always_refuse
 local-zone: "actionbutton.co" always_refuse
@@ -11765,6 +11779,7 @@ local-zone: "bluelithium.com" always_refuse
 local-zone: "blueserving.com" always_refuse
 local-zone: "bnrs.shemrec.cc" always_refuse
 local-zone: "bns.mignews.com" always_refuse
+local-zone: "boatcodeapp.com" always_refuse
 local-zone: "boffoadsapi.com" always_refuse
 local-zone: "boingomedia.com" always_refuse
 local-zone: "bonnie-clyde.ro" always_refuse
