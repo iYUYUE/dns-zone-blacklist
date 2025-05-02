@@ -7428,6 +7428,7 @@ local-zone: "wgsindia.com" always_refuse
 local-zone: "whaleads.com" always_refuse
 local-zone: "whitevox.com" always_refuse
 local-zone: "whitewalk.eu" always_refuse
+local-zone: "whoogled.com" always_refuse
 local-zone: "whulsaux.com" always_refuse
 local-zone: "whymhm.space" always_refuse
 local-zone: "wicuhixi.pro" always_refuse
@@ -8276,6 +8277,7 @@ local-zone: "cookiehub.net" always_refuse
 local-zone: "cookieyes.com" always_refuse
 local-zone: "coolmobile.es" always_refuse
 local-zone: "cootlogix.com" always_refuse
+local-zone: "copyvibes.com" always_refuse
 local-zone: "cosmosads.com" always_refuse
 local-zone: "covivado.club" always_refuse
 local-zone: "cowleyweb.com" always_refuse
