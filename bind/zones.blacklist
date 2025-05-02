@@ -9323,6 +9323,7 @@ zone "valpeiros.com" { type master; notify no; file "null.zone.file"; };
 zone "valueclick.de" { type master; notify no; file "null.zone.file"; };
 zone "valueclick.fr" { type master; notify no; file "null.zone.file"; };
 zone "varahipse.pro" { type master; notify no; file "null.zone.file"; };
+zone "varcosin.info" { type master; notify no; file "null.zone.file"; };
 zone "vatanclick.ir" { type master; notify no; file "null.zone.file"; };
 zone "vax-boost.com" { type master; notify no; file "null.zone.file"; };
 zone "vazypteke.pro" { type master; notify no; file "null.zone.file"; };
