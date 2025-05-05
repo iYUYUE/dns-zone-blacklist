@@ -6493,6 +6493,7 @@ local-zone: "dynsrvaz.com" always_refuse
 local-zone: "dzinousa.com" always_refuse
 local-zone: "e00.uecdn.es" always_refuse
 local-zone: "eaiia.online" always_refuse
+local-zone: "earthups.com" always_refuse
 local-zone: "easy-ads.com" always_refuse
 local-zone: "ebesucher.de" always_refuse
 local-zone: "eccanova.com" always_refuse
@@ -14929,6 +14930,7 @@ local-zone: "mauimarketing.com" always_refuse
 local-zone: "mauricedesign.com" always_refuse
 local-zone: "mavenadagency.com" always_refuse
 local-zone: "mb-cdn.stocard.de" always_refuse
+local-zone: "mcs.tobsnssdk.com" always_refuse
 local-zone: "medfoodsafety.com" always_refuse
 local-zone: "mediaathay.org.uk" always_refuse
 local-zone: "mediaboxoffice.in" always_refuse
@@ -14955,6 +14957,7 @@ local-zone: "monsieurdrive.com" always_refuse
 local-zone: "moonicorn.network" always_refuse
 local-zone: "morehitserver.com" always_refuse
 local-zone: "mousecatzilla.com" always_refuse
+local-zone: "msp.newsbreak.com" always_refuse
 local-zone: "muldowneyarts.com" always_refuse
 local-zone: "multilinkhost.com" always_refuse
 local-zone: "murkymouse.online" always_refuse
