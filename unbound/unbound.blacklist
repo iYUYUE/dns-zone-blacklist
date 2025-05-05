@@ -2264,6 +2264,7 @@ local-zone: "a.xxe2.com" always_refuse
 local-zone: "azameo.com" always_refuse
 local-zone: "bahswl.com" always_refuse
 local-zone: "bambao.lol" always_refuse
+local-zone: "bannaz.com" always_refuse
 local-zone: "banner.com" always_refuse
 local-zone: "banner.net" always_refuse
 local-zone: "banners.ru" always_refuse
@@ -5057,6 +5058,7 @@ local-zone: "q1media.com" always_refuse
 local-zone: "q2i8kd5n.de" always_refuse
 local-zone: "q99i1qi6.de" always_refuse
 local-zone: "qik.digital" always_refuse
+local-zone: "qj399ht1.de" always_refuse
 local-zone: "qppq166n.de" always_refuse
 local-zone: "quabads.com" always_refuse
 local-zone: "queryly.com" always_refuse
@@ -10946,6 +10948,7 @@ local-zone: "signalaiml.com" always_refuse
 local-zone: "signature24.in" always_refuse
 local-zone: "silver-pen.pro" always_refuse
 local-zone: "silverpush.com" always_refuse
+local-zone: "sinkportal.com" always_refuse
 local-zone: "siteowners.com" always_refuse
 local-zone: "skyadsmart.com" always_refuse
 local-zone: "skyadvert.tech" always_refuse
@@ -12557,6 +12560,7 @@ local-zone: "sociomantic.com" always_refuse
 local-zone: "sociomantic.net" always_refuse
 local-zone: "softonicads.com" always_refuse
 local-zone: "soma.3xforum.ro" always_refuse
+local-zone: "sosyalviews.com" always_refuse
 local-zone: "sourcepoint.com" always_refuse
 local-zone: "sp01.masmar.com" always_refuse
 local-zone: "sparkstudios.in" always_refuse
@@ -12670,6 +12674,7 @@ local-zone: "trafficsafe.net" always_refuse
 local-zone: "trafficshop.com" always_refuse
 local-zone: "traffiliate.com" always_refuse
 local-zone: "trboadvance.com" always_refuse
+local-zone: "treatoceans.com" always_refuse
 local-zone: "tremormedia.com" always_refuse
 local-zone: "tremorvideo.com" always_refuse
 local-zone: "tribalddb.co.nz" always_refuse
@@ -13525,6 +13530,7 @@ local-zone: "giocodiparole.it" always_refuse
 local-zone: "giving-weird.pro" always_refuse
 local-zone: "glamourbuckz.com" always_refuse
 local-zone: "globalrevgen.com" always_refuse
+local-zone: "glucoactive.info" always_refuse
 local-zone: "goadservices.com" always_refuse
 local-zone: "go.camterest.com" always_refuse
 local-zone: "goodwaygroup.com" always_refuse
@@ -13942,11 +13948,14 @@ local-zone: "socialfox.com.au" always_refuse
 local-zone: "socialsurf4u.com" always_refuse
 local-zone: "somoaudience.com" always_refuse
 local-zone: "sops.news.com.au" always_refuse
+local-zone: "soulclicking.com" always_refuse
 local-zone: "spaceeditors.com" always_refuse
 local-zone: "spaceshipads.com" always_refuse
 local-zone: "spankmasters.com" always_refuse
 local-zone: "spolecznosci.net" always_refuse
 local-zone: "s.pornoshub.site" always_refuse
+local-zone: "sportybrains.com" always_refuse
+local-zone: "spotcleaner.info" always_refuse
 local-zone: "sproutemedia.com" always_refuse
 local-zone: "sproutingbag.com" always_refuse
 local-zone: "ssindserving.com" always_refuse
@@ -15251,6 +15260,7 @@ local-zone: "tsadvertising.com" always_refuse
 local-zone: "tubeadnetwork.com" always_refuse
 local-zone: "tubecorporate.com" always_refuse
 local-zone: "twitchcdnshop.com" always_refuse
+local-zone: "tygodnikplocki.pl" always_refuse
 local-zone: "ubiquitoussea.com" always_refuse
 local-zone: "uezbshzpdcbb.info" always_refuse
 local-zone: "uk.boffinsoft.com" always_refuse
@@ -15768,6 +15778,7 @@ local-zone: "clickonometrics.pl" always_refuse
 local-zone: "club.excelhome.net" always_refuse
 local-zone: "cname.kyusai.co.jp" always_refuse
 local-zone: "colombiaonline.com" always_refuse
+local-zone: "coloradoserves.com" always_refuse
 local-zone: "commercegrowth.com" always_refuse
 local-zone: "commercemedia.asia" always_refuse
 local-zone: "commissionkings.ag" always_refuse
