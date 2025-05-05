@@ -16417,6 +16417,7 @@ zone "ads.chriscaputo.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.cigarweekly.com" { type master; notify no; file "null.zone.file"; };
 zone "ads-cloud.rovio.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.computerarts.de" { type master; notify no; file "null.zone.file"; };
+zone "ads.dailymail.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "ads.doradcasmaku.pl" { type master; notify no; file "null.zone.file"; };
 zone "ads.ecorisveglio.it" { type master; notify no; file "null.zone.file"; };
 zone "ads.elbe-jeetzel.de" { type master; notify no; file "null.zone.file"; };
