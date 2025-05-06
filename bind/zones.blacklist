@@ -10921,6 +10921,7 @@ zone "saxa-noa.space" { type master; notify no; file "null.zone.file"; };
 zone "schmuckshow.at" { type master; notify no; file "null.zone.file"; };
 zone "schmuckshow.ch" { type master; notify no; file "null.zone.file"; };
 zone "sci.intuit.com" { type master; notify no; file "null.zone.file"; };
+zone "sclentdom.life" { type master; notify no; file "null.zone.file"; };
 zone "sdk.ffxpub.com" { type master; notify no; file "null.zone.file"; };
 zone "searchgage.com" { type master; notify no; file "null.zone.file"; };
 zone "sece-ruy.space" { type master; notify no; file "null.zone.file"; };
