@@ -1749,6 +1749,7 @@ local-zone: "abasana.in" always_refuse
 local-zone: "abgroup.gr" always_refuse
 local-zone: "ablida.net" always_refuse
 local-zone: "abn-ad.com" always_refuse
+local-zone: "abxyz.info" always_refuse
 local-zone: "acacdn.com" always_refuse
 local-zone: "acadot.com" always_refuse
 local-zone: "accmgr.com" always_refuse
