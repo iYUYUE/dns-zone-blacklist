@@ -5063,7 +5063,6 @@ zone "qik.digital" { type master; notify no; file "null.zone.file"; };
 zone "qj399ht1.de" { type master; notify no; file "null.zone.file"; };
 zone "qppq166n.de" { type master; notify no; file "null.zone.file"; };
 zone "quabads.com" { type master; notify no; file "null.zone.file"; };
-zone "queryly.com" { type master; notify no; file "null.zone.file"; };
 zone "quintag.com" { type master; notify no; file "null.zone.file"; };
 zone "qwqw.online" { type master; notify no; file "null.zone.file"; };
 zone "r1share.com" { type master; notify no; file "null.zone.file"; };
