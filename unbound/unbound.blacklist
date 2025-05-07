@@ -10078,6 +10078,7 @@ local-zone: "c1.neoncdn.com" always_refuse
 local-zone: "c22x1.xcdn.ovh" always_refuse
 local-zone: "c2.neoncdn.com" always_refuse
 local-zone: "c3.neoncdn.com" always_refuse
+local-zone: "cafefrench.com" always_refuse
 local-zone: "campartner.com" always_refuse
 local-zone: "cappumedia.com" always_refuse
 local-zone: "cappushino.com" always_refuse
@@ -11608,6 +11609,7 @@ local-zone: "adswrapme.click" always_refuse
 local-zone: "ads.xmhouse.com" always_refuse
 local-zone: "adsymptotic.com" always_refuse
 local-zone: "ads.yusabuy.com" always_refuse
+local-zone: "ads.zaloapp.com" always_refuse
 local-zone: "ads.zamilco.com" always_refuse
 local-zone: "ads.zavolga.net" always_refuse
 local-zone: "ads.zedlive.com" always_refuse
@@ -11659,6 +11661,7 @@ local-zone: "adwisegroup.com" always_refuse
 local-zone: "adworkmedia.com" always_refuse
 local-zone: "adworkmedia.net" always_refuse
 local-zone: "adxinspidsp.com" always_refuse
+local-zone: "ad.xj123365.com" always_refuse
 local-zone: "adx.panet.co.il" always_refuse
 local-zone: "adyourdream.com" always_refuse
 local-zone: "ad.yunliyun.com" always_refuse
@@ -14264,6 +14267,7 @@ local-zone: "ads.360stepeni.mk" always_refuse
 local-zone: "ads41.bidmatic.io" always_refuse
 local-zone: "ads.actu-voici.fr" always_refuse
 local-zone: "ads.adserver.live" always_refuse
+local-zone: "ads.alsafisys.com" always_refuse
 local-zone: "ads.ammoready.com" always_refuse
 local-zone: "ads.angels-bg.com" always_refuse
 local-zone: "ads.aol.7.tomp.pl" always_refuse
