@@ -3120,6 +3120,7 @@ zone "qootkj.com" { type master; notify no; file "null.zone.file"; };
 zone "qpetfb.com" { type master; notify no; file "null.zone.file"; };
 zone "qprskl.com" { type master; notify no; file "null.zone.file"; };
 zone "qrex.media" { type master; notify no; file "null.zone.file"; };
+zone "qtuzld.com" { type master; notify no; file "null.zone.file"; };
 zone "quagfa.com" { type master; notify no; file "null.zone.file"; };
 zone "quotes.com" { type master; notify no; file "null.zone.file"; };
 zone "quqizo.com" { type master; notify no; file "null.zone.file"; };
