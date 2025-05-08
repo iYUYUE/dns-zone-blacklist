@@ -5534,6 +5534,7 @@ zone "224oai83p.de" { type master; notify no; file "null.zone.file"; };
 zone "22blqkmkg.de" { type master; notify no; file "null.zone.file"; };
 zone "22lmsi1t5.de" { type master; notify no; file "null.zone.file"; };
 zone "22sjc11g4.de" { type master; notify no; file "null.zone.file"; };
+zone "23fe5ai7s.de" { type master; notify no; file "null.zone.file"; };
 zone "23hssicm9.de" { type master; notify no; file "null.zone.file"; };
 zone "244kecmb3.de" { type master; notify no; file "null.zone.file"; };
 zone "247media.com" { type master; notify no; file "null.zone.file"; };
