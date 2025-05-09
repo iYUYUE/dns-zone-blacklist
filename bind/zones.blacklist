@@ -9277,6 +9277,7 @@ zone "todoenusa.com" { type master; notify no; file "null.zone.file"; };
 zone "ton.twimg.com" { type master; notify no; file "null.zone.file"; };
 zone "tools.elle.pl" { type master; notify no; file "null.zone.file"; };
 zone "tools.viva.pl" { type master; notify no; file "null.zone.file"; };
+zone "topewpew.info" { type master; notify no; file "null.zone.file"; };
 zone "tororango.com" { type master; notify no; file "null.zone.file"; };
 zone "toro-tags.com" { type master; notify no; file "null.zone.file"; };
 zone "totaldrag.pro" { type master; notify no; file "null.zone.file"; };
