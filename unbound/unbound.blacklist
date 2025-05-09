@@ -1565,6 +1565,7 @@ local-zone: "u1077.com" always_refuse
 local-zone: "u1102.com" always_refuse
 local-zone: "u1669.com" always_refuse
 local-zone: "u2267.com" always_refuse
+local-zone: "uasad.com" always_refuse
 local-zone: "ucast.xyz" always_refuse
 local-zone: "udbaa.com" always_refuse
 local-zone: "udimi.com" always_refuse
@@ -5541,6 +5542,7 @@ local-zone: "23hssicm9.de" always_refuse
 local-zone: "244kecmb3.de" always_refuse
 local-zone: "247media.com" always_refuse
 local-zone: "249media.com" always_refuse
+local-zone: "24bdtdj2r.de" always_refuse
 local-zone: "24s1b0et1.de" always_refuse
 local-zone: "250f0ma86.de" always_refuse
 local-zone: "25gsr18e6.de" always_refuse
