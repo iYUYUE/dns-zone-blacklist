@@ -14072,6 +14072,7 @@ local-zone: "tpl.factporn.com" always_nxdomain
 local-zone: "tracecontent.com" always_nxdomain
 local-zone: "trackcityads.com" always_nxdomain
 local-zone: "tradedoubler.com" always_nxdomain
+local-zone: "tradehouse.media" always_nxdomain
 local-zone: "trader.garant.ru" always_nxdomain
 local-zone: "tradingworks.com" always_nxdomain
 local-zone: "trafficcharm.com" always_nxdomain
@@ -19223,6 +19224,7 @@ local-zone: "pickard.hubhubhub.name" always_nxdomain
 local-zone: "pleasedonotblockme.com" always_nxdomain
 local-zone: "pnq.babcoxmediainc.com" always_nxdomain
 local-zone: "pointeradvertising.com" always_nxdomain
+local-zone: "popups-api.funplus.com" always_nxdomain
 local-zone: "predictinteractive.com" always_nxdomain
 local-zone: "predictivadnetwork.com" always_nxdomain
 local-zone: "promovare.alphega.club" always_nxdomain

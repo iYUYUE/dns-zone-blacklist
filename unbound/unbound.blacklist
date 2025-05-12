@@ -14072,6 +14072,7 @@ local-zone: "tpl.factporn.com" always_refuse
 local-zone: "tracecontent.com" always_refuse
 local-zone: "trackcityads.com" always_refuse
 local-zone: "tradedoubler.com" always_refuse
+local-zone: "tradehouse.media" always_refuse
 local-zone: "trader.garant.ru" always_refuse
 local-zone: "tradingworks.com" always_refuse
 local-zone: "trafficcharm.com" always_refuse
@@ -19223,6 +19224,7 @@ local-zone: "pickard.hubhubhub.name" always_refuse
 local-zone: "pleasedonotblockme.com" always_refuse
 local-zone: "pnq.babcoxmediainc.com" always_refuse
 local-zone: "pointeradvertising.com" always_refuse
+local-zone: "popups-api.funplus.com" always_refuse
 local-zone: "predictinteractive.com" always_refuse
 local-zone: "predictivadnetwork.com" always_refuse
 local-zone: "promovare.alphega.club" always_refuse

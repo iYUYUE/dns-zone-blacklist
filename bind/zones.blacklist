@@ -14072,6 +14072,7 @@ zone "tpl.factporn.com" { type master; notify no; file "null.zone.file"; };
 zone "tracecontent.com" { type master; notify no; file "null.zone.file"; };
 zone "trackcityads.com" { type master; notify no; file "null.zone.file"; };
 zone "tradedoubler.com" { type master; notify no; file "null.zone.file"; };
+zone "tradehouse.media" { type master; notify no; file "null.zone.file"; };
 zone "trader.garant.ru" { type master; notify no; file "null.zone.file"; };
 zone "tradingworks.com" { type master; notify no; file "null.zone.file"; };
 zone "trafficcharm.com" { type master; notify no; file "null.zone.file"; };
@@ -19223,6 +19224,7 @@ zone "pickard.hubhubhub.name" { type master; notify no; file "null.zone.file"; }
 zone "pleasedonotblockme.com" { type master; notify no; file "null.zone.file"; };
 zone "pnq.babcoxmediainc.com" { type master; notify no; file "null.zone.file"; };
 zone "pointeradvertising.com" { type master; notify no; file "null.zone.file"; };
+zone "popups-api.funplus.com" { type master; notify no; file "null.zone.file"; };
 zone "predictinteractive.com" { type master; notify no; file "null.zone.file"; };
 zone "predictivadnetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "promovare.alphega.club" { type master; notify no; file "null.zone.file"; };
