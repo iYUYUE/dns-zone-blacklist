@@ -15905,6 +15905,7 @@ zone "dsp.freshapple.biz" { type master; notify no; file "null.zone.file"; };
 zone "dwetw1020dstom.com" { type master; notify no; file "null.zone.file"; };
 zone "easilyshopping.pro" { type master; notify no; file "null.zone.file"; };
 zone "easygdpr.b-cdn.net" { type master; notify no; file "null.zone.file"; };
+zone "easymail4all.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "ebayadservices.com" { type master; notify no; file "null.zone.file"; };
 zone "ebis.2jikaikun.com" { type master; notify no; file "null.zone.file"; };
 zone "eboundservices.com" { type master; notify no; file "null.zone.file"; };
