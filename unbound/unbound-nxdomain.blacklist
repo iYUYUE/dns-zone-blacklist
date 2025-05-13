@@ -1982,7 +1982,6 @@ local-zone: "adsdax.com" always_nxdomain
 local-zone: "adsdolf.in" always_nxdomain
 local-zone: "ads.e24.no" always_nxdomain
 local-zone: "ad-seek.jp" always_nxdomain
-local-zone: "ads.elo.io" always_nxdomain
 local-zone: "adsemo.com" always_nxdomain
 local-zone: "ads.epp.mk" always_nxdomain
 local-zone: "adserv.com" always_nxdomain
@@ -5746,7 +5745,6 @@ local-zone: "adanxing.com" always_nxdomain
 local-zone: "adaranth.com" always_nxdomain
 local-zone: "adaround.net" always_nxdomain
 local-zone: "ad-arrow.com" always_nxdomain
-local-zone: "ad.atdmt.com" always_nxdomain
 local-zone: "adavenue.com" always_nxdomain
 local-zone: "adaxis.media" always_nxdomain
 local-zone: "ad.bandao.cn" always_nxdomain
@@ -7273,6 +7271,7 @@ local-zone: "sokugifi.com" always_nxdomain
 local-zone: "so.kuoo8.com" always_nxdomain
 local-zone: "solads.media" always_nxdomain
 local-zone: "solapoka.com" always_nxdomain
+local-zone: "solidsub.com" always_nxdomain
 local-zone: "soosooka.com" always_nxdomain
 local-zone: "sorucall.com" always_nxdomain
 local-zone: "soundcast.fm" always_nxdomain
@@ -14553,7 +14552,6 @@ local-zone: "a.myprettyads.one" always_nxdomain
 local-zone: "analyzecorona.com" always_nxdomain
 local-zone: "anchortraffic.com" always_nxdomain
 local-zone: "ancientbranch.com" always_nxdomain
-local-zone: "api.permutive.app" always_nxdomain
 local-zone: "api.reviews.co.uk" always_nxdomain
 local-zone: "api.techwalla.com" always_nxdomain
 local-zone: "apiv1.oschina.net" always_nxdomain
@@ -15437,7 +15435,6 @@ local-zone: "adimages.detik.com" always_nxdomain
 local-zone: "adinnovation.co.jp" always_nxdomain
 local-zone: "ad.intl.xiaomi.com" always_nxdomain
 local-zone: "adipexp.3xforum.ro" always_nxdomain
-local-zone: "ad.ipredictive.com" always_nxdomain
 local-zone: "adlabsnetworks.com" always_nxdomain
 local-zone: "ad.livejupiter.org" always_nxdomain
 local-zone: "ad.logic.viasat.io" always_nxdomain
@@ -16341,7 +16338,6 @@ local-zone: "werbung.leipzig.de" always_nxdomain
 local-zone: "whitebox.marketing" always_nxdomain
 local-zone: "whypeopleclick.com" always_nxdomain
 local-zone: "whytecreations.com" always_nxdomain
-local-zone: "widget.intercom.io" always_nxdomain
 local-zone: "widget.packeta.com" always_nxdomain
 local-zone: "widget.sender.mobi" always_nxdomain
 local-zone: "widgets.guppy.live" always_nxdomain

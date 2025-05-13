@@ -1982,7 +1982,6 @@ local-zone: "adsdax.com" always_refuse
 local-zone: "adsdolf.in" always_refuse
 local-zone: "ads.e24.no" always_refuse
 local-zone: "ad-seek.jp" always_refuse
-local-zone: "ads.elo.io" always_refuse
 local-zone: "adsemo.com" always_refuse
 local-zone: "ads.epp.mk" always_refuse
 local-zone: "adserv.com" always_refuse
@@ -5746,7 +5745,6 @@ local-zone: "adanxing.com" always_refuse
 local-zone: "adaranth.com" always_refuse
 local-zone: "adaround.net" always_refuse
 local-zone: "ad-arrow.com" always_refuse
-local-zone: "ad.atdmt.com" always_refuse
 local-zone: "adavenue.com" always_refuse
 local-zone: "adaxis.media" always_refuse
 local-zone: "ad.bandao.cn" always_refuse
@@ -7273,6 +7271,7 @@ local-zone: "sokugifi.com" always_refuse
 local-zone: "so.kuoo8.com" always_refuse
 local-zone: "solads.media" always_refuse
 local-zone: "solapoka.com" always_refuse
+local-zone: "solidsub.com" always_refuse
 local-zone: "soosooka.com" always_refuse
 local-zone: "sorucall.com" always_refuse
 local-zone: "soundcast.fm" always_refuse
@@ -14553,7 +14552,6 @@ local-zone: "a.myprettyads.one" always_refuse
 local-zone: "analyzecorona.com" always_refuse
 local-zone: "anchortraffic.com" always_refuse
 local-zone: "ancientbranch.com" always_refuse
-local-zone: "api.permutive.app" always_refuse
 local-zone: "api.reviews.co.uk" always_refuse
 local-zone: "api.techwalla.com" always_refuse
 local-zone: "apiv1.oschina.net" always_refuse
@@ -15437,7 +15435,6 @@ local-zone: "adimages.detik.com" always_refuse
 local-zone: "adinnovation.co.jp" always_refuse
 local-zone: "ad.intl.xiaomi.com" always_refuse
 local-zone: "adipexp.3xforum.ro" always_refuse
-local-zone: "ad.ipredictive.com" always_refuse
 local-zone: "adlabsnetworks.com" always_refuse
 local-zone: "ad.livejupiter.org" always_refuse
 local-zone: "ad.logic.viasat.io" always_refuse
@@ -16341,7 +16338,6 @@ local-zone: "werbung.leipzig.de" always_refuse
 local-zone: "whitebox.marketing" always_refuse
 local-zone: "whypeopleclick.com" always_refuse
 local-zone: "whytecreations.com" always_refuse
-local-zone: "widget.intercom.io" always_refuse
 local-zone: "widget.packeta.com" always_refuse
 local-zone: "widget.sender.mobi" always_refuse
 local-zone: "widgets.guppy.live" always_refuse
