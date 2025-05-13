@@ -9260,6 +9260,7 @@ zone "telebijoux.be" { type master; notify no; file "null.zone.file"; };
 zone "telebijoux.ca" { type master; notify no; file "null.zone.file"; };
 zone "telebijoux.fr" { type master; notify no; file "null.zone.file"; };
 zone "teleproff.com" { type master; notify no; file "null.zone.file"; };
+zone "tennistie.com" { type master; notify no; file "null.zone.file"; };
 zone "teosredic.com" { type master; notify no; file "null.zone.file"; };
 zone "terratraf.com" { type master; notify no; file "null.zone.file"; };
 zone "texttech.mobi" { type master; notify no; file "null.zone.file"; };
