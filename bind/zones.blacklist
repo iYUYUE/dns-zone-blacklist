@@ -17543,6 +17543,7 @@ zone "ads.musicpages.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "ads.mydutchtimes.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.nocorspolicy.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.nordreportern.se" { type master; notify no; file "null.zone.file"; };
+zone "ads.nubiles-porn.com" { type master; notify no; file "null.zone.file"; };
 zone "ads-oss.howansem.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.people-group.net" { type master; notify no; file "null.zone.file"; };
 zone "ads.petitpapanoel.be" { type master; notify no; file "null.zone.file"; };
