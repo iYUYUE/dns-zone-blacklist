@@ -15808,6 +15808,7 @@ zone "cdn5.avanquest.com" { type master; notify no; file "null.zone.file"; };
 zone "cdn.autoketing.org" { type master; notify no; file "null.zone.file"; };
 zone "cdn-cm.hqscene.com" { type master; notify no; file "null.zone.file"; };
 zone "cdn.datateam.co.uk" { type master; notify no; file "null.zone.file"; };
+zone "cdn-fileserver.com" { type master; notify no; file "null.zone.file"; };
 zone "cdn.megadata.co.kr" { type master; notify no; file "null.zone.file"; };
 zone "cdn.sentinelbi.com" { type master; notify no; file "null.zone.file"; };
 zone "cdn-ssl.vidible.tv" { type master; notify no; file "null.zone.file"; };

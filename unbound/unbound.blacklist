@@ -15808,6 +15808,7 @@ local-zone: "cdn5.avanquest.com" always_refuse
 local-zone: "cdn.autoketing.org" always_refuse
 local-zone: "cdn-cm.hqscene.com" always_refuse
 local-zone: "cdn.datateam.co.uk" always_refuse
+local-zone: "cdn-fileserver.com" always_refuse
 local-zone: "cdn.megadata.co.kr" always_refuse
 local-zone: "cdn.sentinelbi.com" always_refuse
 local-zone: "cdn-ssl.vidible.tv" always_refuse
