@@ -775,6 +775,7 @@ local-zone: "adgoon.it" always_nxdomain
 local-zone: "adgrid.io" always_nxdomain
 local-zone: "adhese.be" always_nxdomain
 local-zone: "adhit.com" always_nxdomain
+local-zone: "adhost.io" always_nxdomain
 local-zone: "adhost.se" always_nxdomain
 local-zone: "adify.com" always_nxdomain
 local-zone: "adigi.icu" always_nxdomain
@@ -5051,7 +5052,6 @@ local-zone: "pubimgs.net" always_nxdomain
 local-zone: "publift.com" always_nxdomain
 local-zone: "pubmine.com" always_nxdomain
 local-zone: "puboise.com" always_nxdomain
-local-zone: "pubplus.com" always_nxdomain
 local-zone: "pubstack.io" always_nxdomain
 local-zone: "push-ad.com" always_nxdomain
 local-zone: "pushads.biz" always_nxdomain
@@ -9395,6 +9395,7 @@ local-zone: "vividaweb.com" always_nxdomain
 local-zone: "vividcash.com" always_nxdomain
 local-zone: "vixnixxer.com" always_nxdomain
 local-zone: "vkcdnshop.com" always_nxdomain
+local-zone: "vocalsure.com" always_nxdomain
 local-zone: "voicepins.com" always_nxdomain
 local-zone: "voodoo-ads.io" always_nxdomain
 local-zone: "voxpopmee.com" always_nxdomain
@@ -12865,6 +12866,7 @@ local-zone: "zantbowsing.cam" always_nxdomain
 local-zone: "zel-zel-fie.com" always_nxdomain
 local-zone: "zestcreative.in" always_nxdomain
 local-zone: "zhangeiline.xyz" always_nxdomain
+local-zone: "zigzagcabin.com" always_nxdomain
 local-zone: "zi-ho-fii.space" always_nxdomain
 local-zone: "zim-zim-zam.com" always_nxdomain
 local-zone: "zingtraffic.com" always_nxdomain
@@ -13618,6 +13620,7 @@ local-zone: "grave-orange.pro" always_nxdomain
 local-zone: "greenhaus.agency" always_nxdomain
 local-zone: "growthspin.co.uk" always_nxdomain
 local-zone: "gustocooking.com" always_nxdomain
+local-zone: "hannesadtech.com" always_nxdomain
 local-zone: "hawk.pcgamer.com" always_nxdomain
 local-zone: "heads-fa.scdn.co" always_nxdomain
 local-zone: "heykickstand.com" always_nxdomain
@@ -14660,6 +14663,7 @@ local-zone: "boiledegglabs.com" always_nxdomain
 local-zone: "bonabanners.co.uk" always_nxdomain
 local-zone: "bonertraffic.info" always_nxdomain
 local-zone: "bonertraffic.mobi" always_nxdomain
+local-zone: "boomboomcloud.com" always_nxdomain
 local-zone: "boostbehavior.com" always_nxdomain
 local-zone: "bossyinternal.pro" always_nxdomain
 local-zone: "boxadvertising.gr" always_nxdomain
@@ -16295,6 +16299,7 @@ local-zone: "softwaredefined.us" always_nxdomain
 local-zone: "softwarerumble.com" always_nxdomain
 local-zone: "soulfulthought.pro" always_nxdomain
 local-zone: "spacetraveldin.com" always_nxdomain
+local-zone: "spicesonwheels.com" always_nxdomain
 local-zone: "sp-micro.b-cdn.net" always_nxdomain
 local-zone: "spotlightmedia.com" always_nxdomain
 local-zone: "sr.gdprvalidate.de" always_nxdomain
@@ -21067,6 +21072,7 @@ local-zone: "partners.urbanistnetwork.com" always_nxdomain
 local-zone: "payperclicksearchengines.com" always_nxdomain
 local-zone: "personalizedappsequencer.com" always_nxdomain
 local-zone: "personalizedappsequencer.net" always_nxdomain
+local-zone: "pp-prod-ads.breadgateway.net" always_nxdomain
 local-zone: "prod.appnexus.map.fastly.net" always_nxdomain
 local-zone: "promote-subscribe.forbes.com" always_nxdomain
 local-zone: "pushblush.magicleafstore.com" always_nxdomain

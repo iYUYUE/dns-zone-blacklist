@@ -775,6 +775,7 @@ local-zone: "adgoon.it" always_refuse
 local-zone: "adgrid.io" always_refuse
 local-zone: "adhese.be" always_refuse
 local-zone: "adhit.com" always_refuse
+local-zone: "adhost.io" always_refuse
 local-zone: "adhost.se" always_refuse
 local-zone: "adify.com" always_refuse
 local-zone: "adigi.icu" always_refuse
@@ -5051,7 +5052,6 @@ local-zone: "pubimgs.net" always_refuse
 local-zone: "publift.com" always_refuse
 local-zone: "pubmine.com" always_refuse
 local-zone: "puboise.com" always_refuse
-local-zone: "pubplus.com" always_refuse
 local-zone: "pubstack.io" always_refuse
 local-zone: "push-ad.com" always_refuse
 local-zone: "pushads.biz" always_refuse
@@ -9395,6 +9395,7 @@ local-zone: "vividaweb.com" always_refuse
 local-zone: "vividcash.com" always_refuse
 local-zone: "vixnixxer.com" always_refuse
 local-zone: "vkcdnshop.com" always_refuse
+local-zone: "vocalsure.com" always_refuse
 local-zone: "voicepins.com" always_refuse
 local-zone: "voodoo-ads.io" always_refuse
 local-zone: "voxpopmee.com" always_refuse
@@ -12865,6 +12866,7 @@ local-zone: "zantbowsing.cam" always_refuse
 local-zone: "zel-zel-fie.com" always_refuse
 local-zone: "zestcreative.in" always_refuse
 local-zone: "zhangeiline.xyz" always_refuse
+local-zone: "zigzagcabin.com" always_refuse
 local-zone: "zi-ho-fii.space" always_refuse
 local-zone: "zim-zim-zam.com" always_refuse
 local-zone: "zingtraffic.com" always_refuse
@@ -13618,6 +13620,7 @@ local-zone: "grave-orange.pro" always_refuse
 local-zone: "greenhaus.agency" always_refuse
 local-zone: "growthspin.co.uk" always_refuse
 local-zone: "gustocooking.com" always_refuse
+local-zone: "hannesadtech.com" always_refuse
 local-zone: "hawk.pcgamer.com" always_refuse
 local-zone: "heads-fa.scdn.co" always_refuse
 local-zone: "heykickstand.com" always_refuse
@@ -14660,6 +14663,7 @@ local-zone: "boiledegglabs.com" always_refuse
 local-zone: "bonabanners.co.uk" always_refuse
 local-zone: "bonertraffic.info" always_refuse
 local-zone: "bonertraffic.mobi" always_refuse
+local-zone: "boomboomcloud.com" always_refuse
 local-zone: "boostbehavior.com" always_refuse
 local-zone: "bossyinternal.pro" always_refuse
 local-zone: "boxadvertising.gr" always_refuse
@@ -16295,6 +16299,7 @@ local-zone: "softwaredefined.us" always_refuse
 local-zone: "softwarerumble.com" always_refuse
 local-zone: "soulfulthought.pro" always_refuse
 local-zone: "spacetraveldin.com" always_refuse
+local-zone: "spicesonwheels.com" always_refuse
 local-zone: "sp-micro.b-cdn.net" always_refuse
 local-zone: "spotlightmedia.com" always_refuse
 local-zone: "sr.gdprvalidate.de" always_refuse
@@ -21067,6 +21072,7 @@ local-zone: "partners.urbanistnetwork.com" always_refuse
 local-zone: "payperclicksearchengines.com" always_refuse
 local-zone: "personalizedappsequencer.com" always_refuse
 local-zone: "personalizedappsequencer.net" always_refuse
+local-zone: "pp-prod-ads.breadgateway.net" always_refuse
 local-zone: "prod.appnexus.map.fastly.net" always_refuse
 local-zone: "promote-subscribe.forbes.com" always_refuse
 local-zone: "pushblush.magicleafstore.com" always_refuse
