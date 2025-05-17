@@ -5051,6 +5051,7 @@ local-zone: "pubimgs.net" always_nxdomain
 local-zone: "publift.com" always_nxdomain
 local-zone: "pubmine.com" always_nxdomain
 local-zone: "puboise.com" always_nxdomain
+local-zone: "pubplus.com" always_nxdomain
 local-zone: "pubstack.io" always_nxdomain
 local-zone: "push-ad.com" always_nxdomain
 local-zone: "pushads.biz" always_nxdomain

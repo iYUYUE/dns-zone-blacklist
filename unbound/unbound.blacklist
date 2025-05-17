@@ -5051,6 +5051,7 @@ local-zone: "pubimgs.net" always_refuse
 local-zone: "publift.com" always_refuse
 local-zone: "pubmine.com" always_refuse
 local-zone: "puboise.com" always_refuse
+local-zone: "pubplus.com" always_refuse
 local-zone: "pubstack.io" always_refuse
 local-zone: "push-ad.com" always_refuse
 local-zone: "pushads.biz" always_refuse

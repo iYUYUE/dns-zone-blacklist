@@ -5051,6 +5051,7 @@ zone "pubimgs.net" { type master; notify no; file "null.zone.file"; };
 zone "publift.com" { type master; notify no; file "null.zone.file"; };
 zone "pubmine.com" { type master; notify no; file "null.zone.file"; };
 zone "puboise.com" { type master; notify no; file "null.zone.file"; };
+zone "pubplus.com" { type master; notify no; file "null.zone.file"; };
 zone "pubstack.io" { type master; notify no; file "null.zone.file"; };
 zone "push-ad.com" { type master; notify no; file "null.zone.file"; };
 zone "pushads.biz" { type master; notify no; file "null.zone.file"; };
