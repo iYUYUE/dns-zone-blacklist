@@ -14160,6 +14160,7 @@ zone "uze-mobility.com" { type master; notify no; file "null.zone.file"; };
 zone "v1.sellbuy.click" { type master; notify no; file "null.zone.file"; };
 zone "vacaneedasap.com" { type master; notify no; file "null.zone.file"; };
 zone "validworking.pro" { type master; notify no; file "null.zone.file"; };
+zone "valuebuttons.com" { type master; notify no; file "null.zone.file"; };
 zone "vanishmemory.com" { type master; notify no; file "null.zone.file"; };
 zone "venatusmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "veominfotech.com" { type master; notify no; file "null.zone.file"; };
@@ -19063,6 +19064,7 @@ zone "adultwebmastertreff.de" { type master; notify no; file "null.zone.file"; }
 zone "adventuredigital.co.il" { type master; notify no; file "null.zone.file"; };
 zone "advert.georgiatoday.ge" { type master; notify no; file "null.zone.file"; };
 zone "advertising.amazon.com" { type master; notify no; file "null.zone.file"; };
+zone "advertising.amazon.dev" { type master; notify no; file "null.zone.file"; };
 zone "advertising.ehorses.de" { type master; notify no; file "null.zone.file"; };
 zone "advertisingmyanmar.com" { type master; notify no; file "null.zone.file"; };
 zone "advertisingninja.co.uk" { type master; notify no; file "null.zone.file"; };

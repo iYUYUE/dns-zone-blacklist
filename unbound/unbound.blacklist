@@ -14160,6 +14160,7 @@ local-zone: "uze-mobility.com" always_refuse
 local-zone: "v1.sellbuy.click" always_refuse
 local-zone: "vacaneedasap.com" always_refuse
 local-zone: "validworking.pro" always_refuse
+local-zone: "valuebuttons.com" always_refuse
 local-zone: "vanishmemory.com" always_refuse
 local-zone: "venatusmedia.com" always_refuse
 local-zone: "veominfotech.com" always_refuse
@@ -19063,6 +19064,7 @@ local-zone: "adultwebmastertreff.de" always_refuse
 local-zone: "adventuredigital.co.il" always_refuse
 local-zone: "advert.georgiatoday.ge" always_refuse
 local-zone: "advertising.amazon.com" always_refuse
+local-zone: "advertising.amazon.dev" always_refuse
 local-zone: "advertising.ehorses.de" always_refuse
 local-zone: "advertisingmyanmar.com" always_refuse
 local-zone: "advertisingninja.co.uk" always_refuse
