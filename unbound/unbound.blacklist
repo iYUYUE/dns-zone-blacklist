@@ -4045,6 +4045,7 @@ local-zone: "ads.ride.ch" always_refuse
 local-zone: "ads.rmbl.ws" always_refuse
 local-zone: "ads.rpg.net" always_refuse
 local-zone: "adsrv4k.com" always_refuse
+local-zone: "adsrvde.org" always_refuse
 local-zone: "adssets.com" always_refuse
 local-zone: "ads.skor.id" always_refuse
 local-zone: "ads-srv.com" always_refuse

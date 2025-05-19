@@ -4045,6 +4045,7 @@ zone "ads.ride.ch" { type master; notify no; file "null.zone.file"; };
 zone "ads.rmbl.ws" { type master; notify no; file "null.zone.file"; };
 zone "ads.rpg.net" { type master; notify no; file "null.zone.file"; };
 zone "adsrv4k.com" { type master; notify no; file "null.zone.file"; };
+zone "adsrvde.org" { type master; notify no; file "null.zone.file"; };
 zone "adssets.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.skor.id" { type master; notify no; file "null.zone.file"; };
 zone "ads-srv.com" { type master; notify no; file "null.zone.file"; };

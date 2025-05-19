@@ -4045,6 +4045,7 @@ local-zone: "ads.ride.ch" always_nxdomain
 local-zone: "ads.rmbl.ws" always_nxdomain
 local-zone: "ads.rpg.net" always_nxdomain
 local-zone: "adsrv4k.com" always_nxdomain
+local-zone: "adsrvde.org" always_nxdomain
 local-zone: "adssets.com" always_nxdomain
 local-zone: "ads.skor.id" always_nxdomain
 local-zone: "ads-srv.com" always_nxdomain
