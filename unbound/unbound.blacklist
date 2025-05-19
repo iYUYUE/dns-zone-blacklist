@@ -558,6 +558,7 @@ local-zone: "props.id" always_refuse
 local-zone: "ps.ex.co" always_refuse
 local-zone: "psh7.com" always_refuse
 local-zone: "pubx.biz" always_refuse
+local-zone: "push1.ru" always_refuse
 local-zone: "push7.jp" always_refuse
 local-zone: "pushe.co" always_refuse
 local-zone: "pushe.ir" always_refuse
@@ -7538,6 +7539,7 @@ local-zone: "zlodei.space" always_refuse
 local-zone: "zorwrite.com" always_refuse
 local-zone: "zunipush.com" always_refuse
 local-zone: "zusiwade.pro" always_refuse
+local-zone: "zwcadsoft.ru" always_refuse
 local-zone: "zws.avvo.com" always_refuse
 local-zone: "zx-adnet.com" always_refuse
 local-zone: "zypmedia.com" always_refuse
