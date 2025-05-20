@@ -5064,7 +5064,9 @@ local-zone: "pushfire.de" always_nxdomain
 local-zone: "pushfire.io" always_nxdomain
 local-zone: "push.hoy.es" always_nxdomain
 local-zone: "pushify.com" always_nxdomain
+local-zone: "pushify.net" always_nxdomain
 local-zone: "pushimg.com" always_nxdomain
+local-zone: "pushkeen.ai" always_nxdomain
 local-zone: "pushkit.com" always_nxdomain
 local-zone: "pushland.ru" always_nxdomain
 local-zone: "pushloop.io" always_nxdomain
@@ -7366,6 +7368,7 @@ local-zone: "tomesyky.pro" always_nxdomain
 local-zone: "tonefuse.com" always_nxdomain
 local-zone: "toonlead.com" always_nxdomain
 local-zone: "topadbid.com" always_nxdomain
+local-zone: "topadsua.xyz" always_nxdomain
 local-zone: "topadvert.ru" always_nxdomain
 local-zone: "topbucks.com" always_nxdomain
 local-zone: "toplinks.win" always_nxdomain

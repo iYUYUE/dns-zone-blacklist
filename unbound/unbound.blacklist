@@ -5064,7 +5064,9 @@ local-zone: "pushfire.de" always_refuse
 local-zone: "pushfire.io" always_refuse
 local-zone: "push.hoy.es" always_refuse
 local-zone: "pushify.com" always_refuse
+local-zone: "pushify.net" always_refuse
 local-zone: "pushimg.com" always_refuse
+local-zone: "pushkeen.ai" always_refuse
 local-zone: "pushkit.com" always_refuse
 local-zone: "pushland.ru" always_refuse
 local-zone: "pushloop.io" always_refuse
@@ -7366,6 +7368,7 @@ local-zone: "tomesyky.pro" always_refuse
 local-zone: "tonefuse.com" always_refuse
 local-zone: "toonlead.com" always_refuse
 local-zone: "topadbid.com" always_refuse
+local-zone: "topadsua.xyz" always_refuse
 local-zone: "topadvert.ru" always_refuse
 local-zone: "topbucks.com" always_refuse
 local-zone: "toplinks.win" always_refuse
