@@ -17384,6 +17384,7 @@ zone "welcometosister.com" { type master; notify no; file "null.zone.file"; };
 zone "welltodomorning.pro" { type master; notify no; file "null.zone.file"; };
 zone "werbemanager.w24.at" { type master; notify no; file "null.zone.file"; };
 zone "westadvertising.com" { type master; notify no; file "null.zone.file"; };
+zone "whimsicalzenith.com" { type master; notify no; file "null.zone.file"; };
 zone "whoppingrespond.pro" { type master; notify no; file "null.zone.file"; };
 zone "widget.custhelp.com" { type master; notify no; file "null.zone.file"; };
 zone "widget.donatepay.ru" { type master; notify no; file "null.zone.file"; };
