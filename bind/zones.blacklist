@@ -13932,6 +13932,7 @@ zone "raang.ucavu.live" { type master; notify no; file "null.zone.file"; };
 zone "rabmarketing.com" { type master; notify no; file "null.zone.file"; };
 zone "radioamerica.org" { type master; notify no; file "null.zone.file"; };
 zone "ramirocampos.pro" { type master; notify no; file "null.zone.file"; };
+zone "randisphotos.com" { type master; notify no; file "null.zone.file"; };
 zone "rangergustav.com" { type master; notify no; file "null.zone.file"; };
 zone "rankmeglobal.com" { type master; notify no; file "null.zone.file"; };
 zone "ras.bigumigu.com" { type master; notify no; file "null.zone.file"; };
