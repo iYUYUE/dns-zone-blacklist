@@ -5041,6 +5041,7 @@ local-zone: "prosply.com" always_refuse
 local-zone: "protizer.ru" always_refuse
 local-zone: "provers.pro" always_refuse
 local-zone: "p.sblhp.com" always_refuse
+local-zone: "ps-games.ru" always_refuse
 local-zone: "psmardr.com" always_refuse
 local-zone: "p.sslph.com" always_refuse
 local-zone: "ptapjmp.com" always_refuse
@@ -6627,6 +6628,7 @@ local-zone: "gamewins.net" always_refuse
 local-zone: "g.askmen.com" always_refuse
 local-zone: "gbscript.com" always_refuse
 local-zone: "gdprpage.com" always_refuse
+local-zone: "gedeg.online" always_refuse
 local-zone: "geniee.co.jp" always_refuse
 local-zone: "geoadnxs.com" always_refuse
 local-zone: "geoscape.com" always_refuse
@@ -7199,6 +7201,7 @@ local-zone: "republer.com" always_refuse
 local-zone: "resetsrv.com" always_refuse
 local-zone: "resonance.pk" always_refuse
 local-zone: "revcatch.com" always_refuse
+local-zone: "revoskin.pro" always_refuse
 local-zone: "revupads.com" always_refuse
 local-zone: "rewardtk.com" always_refuse
 local-zone: "reyden-x.com" always_refuse
@@ -9114,6 +9117,7 @@ local-zone: "rkft2sdl8b.ru" always_refuse
 local-zone: "r.mediapop.pl" always_refuse
 local-zone: "rmmonline.com" always_refuse
 local-zone: "rnteam.online" always_refuse
+local-zone: "roadwalks.com" always_refuse
 local-zone: "rockerbox.com" always_refuse
 local-zone: "rocketads.net" always_refuse
 local-zone: "rocketpush.in" always_refuse
@@ -9435,6 +9439,7 @@ local-zone: "wigzopush.com" always_refuse
 local-zone: "wild-army.com" always_refuse
 local-zone: "windsplay.com" always_refuse
 local-zone: "wisetoweb.com" always_refuse
+local-zone: "wispycity.com" always_refuse
 local-zone: "wondocash.com" always_refuse
 local-zone: "wordyhall.pro" always_refuse
 local-zone: "wowyowapi.com" always_refuse
@@ -12684,6 +12689,7 @@ local-zone: "talenthouse.com" always_refuse
 local-zone: "talk4anyone.com" always_refuse
 local-zone: "talkdeskapp.com" always_refuse
 local-zone: "tangletrace.com" always_refuse
+local-zone: "taskdelight.com" always_refuse
 local-zone: "tb.turbocap.net" always_refuse
 local-zone: "teachmewind.com" always_refuse
 local-zone: "teacupbooks.com" always_refuse
