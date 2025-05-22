@@ -9151,6 +9151,7 @@ local-zone: "s6mf2ru8h1.ru" always_refuse
 local-zone: "s98k2dmmbm.ru" always_refuse
 local-zone: "saa.zdnet.com" always_refuse
 local-zone: "sagargift.com" always_refuse
+local-zone: "saladfuel.com" always_refuse
 local-zone: "salesmedia.pl" always_refuse
 local-zone: "salesmist.com" always_refuse
 local-zone: "salmonads.com" always_refuse
@@ -10928,6 +10929,7 @@ local-zone: "rabelmedia.com" always_refuse
 local-zone: "ra.biz-gid.com" always_refuse
 local-zone: "radiumone.info" always_refuse
 local-zone: "radiumone.mobi" always_refuse
+local-zone: "raidmedics.com" always_refuse
 local-zone: "ramp.purch.com" always_refuse
 local-zone: "ra.poringa.net" always_refuse
 local-zone: "ravaquinal.com" always_refuse
