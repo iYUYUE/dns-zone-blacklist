@@ -7187,6 +7187,7 @@ local-zone: "readserv.com" always_refuse
 local-zone: "realpush.net" always_refuse
 local-zone: "realpush.pro" always_refuse
 local-zone: "rebikuny.com" always_refuse
+local-zone: "rechiol.info" always_refuse
 local-zone: "recreativ.ru" always_refuse
 local-zone: "red-apple.in" always_refuse
 local-zone: "redgeark.com" always_refuse
@@ -13953,6 +13954,7 @@ local-zone: "rec.banggood.com" always_refuse
 local-zone: "redbricksoap.com" always_refuse
 local-zone: "redrooster.media" always_refuse
 local-zone: "redviewmedia.com" always_refuse
+local-zone: "reflectpaint.com" always_refuse
 local-zone: "reklamaction.com" always_refuse
 local-zone: "reklamnative.com" always_refuse
 local-zone: "relationrest.com" always_refuse
