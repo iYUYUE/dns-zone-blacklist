@@ -10988,6 +10988,7 @@ local-zone: "safe-swaps.com" always_nxdomain
 local-zone: "sam4mobile.com" always_nxdomain
 local-zone: "samsungads.com" always_nxdomain
 local-zone: "samvaulter.com" always_nxdomain
+local-zone: "sandboxbid.com" always_nxdomain
 local-zone: "sas.rea.global" always_nxdomain
 local-zone: "savefromad.net" always_nxdomain
 local-zone: "saxa-noa.space" always_nxdomain

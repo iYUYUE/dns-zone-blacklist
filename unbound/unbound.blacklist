@@ -10988,6 +10988,7 @@ local-zone: "safe-swaps.com" always_refuse
 local-zone: "sam4mobile.com" always_refuse
 local-zone: "samsungads.com" always_refuse
 local-zone: "samvaulter.com" always_refuse
+local-zone: "sandboxbid.com" always_refuse
 local-zone: "sas.rea.global" always_refuse
 local-zone: "savefromad.net" always_refuse
 local-zone: "saxa-noa.space" always_refuse

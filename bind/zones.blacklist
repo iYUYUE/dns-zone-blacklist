@@ -10988,6 +10988,7 @@ zone "safe-swaps.com" { type master; notify no; file "null.zone.file"; };
 zone "sam4mobile.com" { type master; notify no; file "null.zone.file"; };
 zone "samsungads.com" { type master; notify no; file "null.zone.file"; };
 zone "samvaulter.com" { type master; notify no; file "null.zone.file"; };
+zone "sandboxbid.com" { type master; notify no; file "null.zone.file"; };
 zone "sas.rea.global" { type master; notify no; file "null.zone.file"; };
 zone "savefromad.net" { type master; notify no; file "null.zone.file"; };
 zone "saxa-noa.space" { type master; notify no; file "null.zone.file"; };
