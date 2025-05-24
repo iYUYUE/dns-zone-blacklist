@@ -14004,6 +14004,7 @@ local-zone: "secureprivacy.ai" always_refuse
 local-zone: "seek-results.com" always_refuse
 local-zone: "selectmedia.asia" always_refuse
 local-zone: "selfcampaign.com" always_refuse
+local-zone: "sendingpanel.com" always_refuse
 local-zone: "sendingspire.com" always_refuse
 local-zone: "sensible-ads.com" always_refuse
 local-zone: "servecontent.net" always_refuse

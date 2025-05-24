@@ -14004,6 +14004,7 @@ zone "secureprivacy.ai" { type master; notify no; file "null.zone.file"; };
 zone "seek-results.com" { type master; notify no; file "null.zone.file"; };
 zone "selectmedia.asia" { type master; notify no; file "null.zone.file"; };
 zone "selfcampaign.com" { type master; notify no; file "null.zone.file"; };
+zone "sendingpanel.com" { type master; notify no; file "null.zone.file"; };
 zone "sendingspire.com" { type master; notify no; file "null.zone.file"; };
 zone "sensible-ads.com" { type master; notify no; file "null.zone.file"; };
 zone "servecontent.net" { type master; notify no; file "null.zone.file"; };
