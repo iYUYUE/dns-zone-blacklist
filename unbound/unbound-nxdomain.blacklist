@@ -2198,6 +2198,10 @@ local-zone: "aixcdn.com" always_nxdomain
 local-zone: "ai.yimg.jp" always_nxdomain
 local-zone: "aj2550.bid" always_nxdomain
 local-zone: "aj2555.bid" always_nxdomain
+local-zone: "aj2578.bid" always_nxdomain
+local-zone: "aj2582.bid" always_nxdomain
+local-zone: "aj2584.bid" always_nxdomain
+local-zone: "aj2587.bid" always_nxdomain
 local-zone: "ajscdn.com" always_nxdomain
 local-zone: "akohub.com" always_nxdomain
 local-zone: "alenty.com" always_nxdomain
