@@ -2202,6 +2202,15 @@ local-zone: "aj2578.bid" always_refuse
 local-zone: "aj2582.bid" always_refuse
 local-zone: "aj2584.bid" always_refuse
 local-zone: "aj2587.bid" always_refuse
+local-zone: "aj2636.bid" always_refuse
+local-zone: "aj2637.bid" always_refuse
+local-zone: "aj2638.bid" always_refuse
+local-zone: "aj2639.bid" always_refuse
+local-zone: "aj2641.bid" always_refuse
+local-zone: "aj2643.bid" always_refuse
+local-zone: "aj2644.bid" always_refuse
+local-zone: "aj2645.bid" always_refuse
+local-zone: "aj3067.bid" always_refuse
 local-zone: "ajscdn.com" always_refuse
 local-zone: "akohub.com" always_refuse
 local-zone: "alenty.com" always_refuse
@@ -14912,6 +14921,7 @@ local-zone: "freeadnetwork.net" always_refuse
 local-zone: "friendlybunny.com" always_refuse
 local-zone: "frontpagecash.com" always_refuse
 local-zone: "frugalfiestas.com" always_refuse
+local-zone: "fuelinspector.com" always_refuse
 local-zone: "fundingnews.co.nz" always_refuse
 local-zone: "funnelcockpit.com" always_refuse
 local-zone: "fussy-highway.pro" always_refuse

@@ -2202,6 +2202,15 @@ local-zone: "aj2578.bid" always_nxdomain
 local-zone: "aj2582.bid" always_nxdomain
 local-zone: "aj2584.bid" always_nxdomain
 local-zone: "aj2587.bid" always_nxdomain
+local-zone: "aj2636.bid" always_nxdomain
+local-zone: "aj2637.bid" always_nxdomain
+local-zone: "aj2638.bid" always_nxdomain
+local-zone: "aj2639.bid" always_nxdomain
+local-zone: "aj2641.bid" always_nxdomain
+local-zone: "aj2643.bid" always_nxdomain
+local-zone: "aj2644.bid" always_nxdomain
+local-zone: "aj2645.bid" always_nxdomain
+local-zone: "aj3067.bid" always_nxdomain
 local-zone: "ajscdn.com" always_nxdomain
 local-zone: "akohub.com" always_nxdomain
 local-zone: "alenty.com" always_nxdomain
@@ -14912,6 +14921,7 @@ local-zone: "freeadnetwork.net" always_nxdomain
 local-zone: "friendlybunny.com" always_nxdomain
 local-zone: "frontpagecash.com" always_nxdomain
 local-zone: "frugalfiestas.com" always_nxdomain
+local-zone: "fuelinspector.com" always_nxdomain
 local-zone: "fundingnews.co.nz" always_nxdomain
 local-zone: "funnelcockpit.com" always_nxdomain
 local-zone: "fussy-highway.pro" always_nxdomain
