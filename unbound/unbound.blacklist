@@ -3115,6 +3115,7 @@ local-zone: "pushex.net" always_refuse
 local-zone: "push.house" always_refuse
 local-zone: "pushio.com" always_refuse
 local-zone: "puship.com" always_refuse
+local-zone: "pushl.info" always_refuse
 local-zone: "pushly.com" always_refuse
 local-zone: "pushpal.io" always_refuse
 local-zone: "pushpro.io" always_refuse
@@ -8513,6 +8514,7 @@ local-zone: "froggyads.com" always_refuse
 local-zone: "fuastudio.com" always_refuse
 local-zone: "fullstaak.com" always_refuse
 local-zone: "fulltango.com" always_refuse
+local-zone: "funnelpush.jp" always_refuse
 local-zone: "funnydust.pro" always_refuse
 local-zone: "fuseideas.com" always_refuse
 local-zone: "fusionads.net" always_refuse
@@ -12631,6 +12633,7 @@ local-zone: "sedoparking.com" always_refuse
 local-zone: "seekfind.com.au" always_refuse
 local-zone: "sel-sel-fie.com" always_refuse
 local-zone: "sem-express.com" always_refuse
+local-zone: "sendthepush.com" always_refuse
 local-zone: "sendwebpush.com" always_refuse
 local-zone: "sentrymagic.com" always_refuse
 local-zone: "serveris.lnk.lt" always_refuse
@@ -21055,6 +21058,7 @@ local-zone: "ae-136.global.ssl.fastly.net" always_refuse
 local-zone: "agressionsexuellemontreal.ca" always_refuse
 local-zone: "alkambacreativesolutions.com" always_refuse
 local-zone: "allnews.chestertelegraph.org" always_refuse
+local-zone: "apixgcp-prod.ingrammicro.com" always_refuse
 local-zone: "as.thoroughbreddailynews.com" always_refuse
 local-zone: "banner.geocaching-romania.ro" always_refuse
 local-zone: "banner.goldene-generation.de" always_refuse

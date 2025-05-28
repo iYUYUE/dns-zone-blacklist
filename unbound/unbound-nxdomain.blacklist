@@ -3115,6 +3115,7 @@ local-zone: "pushex.net" always_nxdomain
 local-zone: "push.house" always_nxdomain
 local-zone: "pushio.com" always_nxdomain
 local-zone: "puship.com" always_nxdomain
+local-zone: "pushl.info" always_nxdomain
 local-zone: "pushly.com" always_nxdomain
 local-zone: "pushpal.io" always_nxdomain
 local-zone: "pushpro.io" always_nxdomain
@@ -8513,6 +8514,7 @@ local-zone: "froggyads.com" always_nxdomain
 local-zone: "fuastudio.com" always_nxdomain
 local-zone: "fullstaak.com" always_nxdomain
 local-zone: "fulltango.com" always_nxdomain
+local-zone: "funnelpush.jp" always_nxdomain
 local-zone: "funnydust.pro" always_nxdomain
 local-zone: "fuseideas.com" always_nxdomain
 local-zone: "fusionads.net" always_nxdomain
@@ -12631,6 +12633,7 @@ local-zone: "sedoparking.com" always_nxdomain
 local-zone: "seekfind.com.au" always_nxdomain
 local-zone: "sel-sel-fie.com" always_nxdomain
 local-zone: "sem-express.com" always_nxdomain
+local-zone: "sendthepush.com" always_nxdomain
 local-zone: "sendwebpush.com" always_nxdomain
 local-zone: "sentrymagic.com" always_nxdomain
 local-zone: "serveris.lnk.lt" always_nxdomain
@@ -21055,6 +21058,7 @@ local-zone: "ae-136.global.ssl.fastly.net" always_nxdomain
 local-zone: "agressionsexuellemontreal.ca" always_nxdomain
 local-zone: "alkambacreativesolutions.com" always_nxdomain
 local-zone: "allnews.chestertelegraph.org" always_nxdomain
+local-zone: "apixgcp-prod.ingrammicro.com" always_nxdomain
 local-zone: "as.thoroughbreddailynews.com" always_nxdomain
 local-zone: "banner.geocaching-romania.ro" always_nxdomain
 local-zone: "banner.goldene-generation.de" always_nxdomain
