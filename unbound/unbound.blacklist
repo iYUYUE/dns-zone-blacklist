@@ -11730,6 +11730,7 @@ local-zone: "adtracker.co.za" always_refuse
 local-zone: "ad.tvazteca.com" always_refuse
 local-zone: "ad.u-car.com.tw" always_refuse
 local-zone: "adult-force.com" always_refuse
+local-zone: "adultiframe.xyz" always_refuse
 local-zone: "adult-money.com" always_refuse
 local-zone: "adultsense.info" always_refuse
 local-zone: "advadnetwork.me" always_refuse
@@ -14604,6 +14605,7 @@ local-zone: "ad.themedianw.com" always_refuse
 local-zone: "ad-tracker.com.tw" always_refuse
 local-zone: "ad.triplemind.com" always_refuse
 local-zone: "adultadbroker.com" always_refuse
+local-zone: "adultredirect.xyz" always_refuse
 local-zone: "adultxtraffic.com" always_refuse
 local-zone: "adunion.tapas.net" always_refuse
 local-zone: "advancenative.com" always_refuse
