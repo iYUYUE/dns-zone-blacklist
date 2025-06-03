@@ -1460,6 +1460,7 @@ local-zone: "qxyam.com" always_refuse
 local-zone: "ra.gdi.cz" always_refuse
 local-zone: "red1r.com" always_refuse
 local-zone: "reebr.com" always_refuse
+local-zone: "revive.tn" always_refuse
 local-zone: "rfhhd.com" always_refuse
 local-zone: "rfity.com" always_refuse
 local-zone: "richad.in" always_refuse
@@ -11213,6 +11214,7 @@ local-zone: "uprisemedia.in" always_refuse
 local-zone: "urbandoubt.com" always_refuse
 local-zone: "urekamedia.com" always_refuse
 local-zone: "usadserver.com" always_refuse
+local-zone: "userballot.com" always_refuse
 local-zone: "utmdigital.com" always_refuse
 local-zone: "utopia-adv.com" always_refuse
 local-zone: "v1adserver.com" always_refuse

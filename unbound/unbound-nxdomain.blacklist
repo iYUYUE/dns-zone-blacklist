@@ -1460,6 +1460,7 @@ local-zone: "qxyam.com" always_nxdomain
 local-zone: "ra.gdi.cz" always_nxdomain
 local-zone: "red1r.com" always_nxdomain
 local-zone: "reebr.com" always_nxdomain
+local-zone: "revive.tn" always_nxdomain
 local-zone: "rfhhd.com" always_nxdomain
 local-zone: "rfity.com" always_nxdomain
 local-zone: "richad.in" always_nxdomain
@@ -11213,6 +11214,7 @@ local-zone: "uprisemedia.in" always_nxdomain
 local-zone: "urbandoubt.com" always_nxdomain
 local-zone: "urekamedia.com" always_nxdomain
 local-zone: "usadserver.com" always_nxdomain
+local-zone: "userballot.com" always_nxdomain
 local-zone: "utmdigital.com" always_nxdomain
 local-zone: "utopia-adv.com" always_nxdomain
 local-zone: "v1adserver.com" always_nxdomain
