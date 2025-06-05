@@ -10012,6 +10012,7 @@ zone "agencymabu.com" { type master; notify no; file "null.zone.file"; };
 zone "agencyzero.com" { type master; notify no; file "null.zone.file"; };
 zone "agilebrands.us" { type master; notify no; file "null.zone.file"; };
 zone "agilityads.com" { type master; notify no; file "null.zone.file"; };
+zone "agonyshark.com" { type master; notify no; file "null.zone.file"; };
 zone "agorahtag.tech" { type master; notify no; file "null.zone.file"; };
 zone "aimventure.com" { type master; notify no; file "null.zone.file"; };
 zone "airvertise.com" { type master; notify no; file "null.zone.file"; };
