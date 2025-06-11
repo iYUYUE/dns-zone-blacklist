@@ -15198,6 +15198,7 @@ zone "partnershipme.com" { type master; notify no; file "null.zone.file"; };
 zone "partsa.nikkei.com" { type master; notify no; file "null.zone.file"; };
 zone "peaceful-room.pro" { type master; notify no; file "null.zone.file"; };
 zone "perfectmarket.com" { type master; notify no; file "null.zone.file"; };
+zone "personaserver.com" { type master; notify no; file "null.zone.file"; };
 zone "phluantmobile.net" { type master; notify no; file "null.zone.file"; };
 zone "photosyntesis.com" { type master; notify no; file "null.zone.file"; };
 zone "pic1.58cdn.com.cn" { type master; notify no; file "null.zone.file"; };
