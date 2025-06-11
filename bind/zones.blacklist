@@ -12251,6 +12251,7 @@ zone "humble-book.pro" { type master; notify no; file "null.zone.file"; };
 zone "hyperbanner.net" { type master; notify no; file "null.zone.file"; };
 zone "ib-trade.global" { type master; notify no; file "null.zone.file"; };
 zone "icorpado.9am.ro" { type master; notify no; file "null.zone.file"; };
+zone "idlecollect.com" { type master; notify no; file "null.zone.file"; };
 zone "ifullcircle.com" { type master; notify no; file "null.zone.file"; };
 zone "i.inspi-dsp.com" { type master; notify no; file "null.zone.file"; };
 zone "ileadetal.co.za" { type master; notify no; file "null.zone.file"; };
