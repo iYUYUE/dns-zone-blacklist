@@ -20225,6 +20225,7 @@ zone "redir-v4.tidalspring.xyz" { type master; notify no; file "null.zone.file";
 zone "reklama2.aplikacione.com" { type master; notify no; file "null.zone.file"; };
 zone "resonatesolutions.com.au" { type master; notify no; file "null.zone.file"; };
 zone "rev.balkanmediagroup.com" { type master; notify no; file "null.zone.file"; };
+zone "reviveadserverplugin.com" { type master; notify no; file "null.zone.file"; };
 zone "revive.digitaldoowop.com" { type master; notify no; file "null.zone.file"; };
 zone "revive.mladipodjetnik.si" { type master; notify no; file "null.zone.file"; };
 zone "rogerssportsandmedia.com" { type master; notify no; file "null.zone.file"; };
