@@ -4775,6 +4775,7 @@ zone "lammaou.xyz" { type master; notify no; file "null.zone.file"; };
 zone "lazycpm.com" { type master; notify no; file "null.zone.file"; };
 zone "lbmsllc.com" { type master; notify no; file "null.zone.file"; };
 zone "lduhtrp.net" { type master; notify no; file "null.zone.file"; };
+zone "le74k7cb.de" { type master; notify no; file "null.zone.file"; };
 zone "leadback.ru" { type master; notify no; file "null.zone.file"; };
 zone "leadrive.io" { type master; notify no; file "null.zone.file"; };
 zone "leads.black" { type master; notify no; file "null.zone.file"; };
