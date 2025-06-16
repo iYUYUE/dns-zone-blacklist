@@ -5013,6 +5013,7 @@ local-zone: "peerfly.com" always_refuse
 local-zone: "perform.ist" always_refuse
 local-zone: "permodo.com" always_refuse
 local-zone: "permodo.net" always_refuse
+local-zone: "pg6bfpol.de" always_refuse
 local-zone: "p.gelhp.com" always_refuse
 local-zone: "phluant.com" always_refuse
 local-zone: "pic1025.com" always_refuse
@@ -13854,6 +13855,7 @@ local-zone: "naughtyshape.pro" always_refuse
 local-zone: "navigaglobal.com" always_refuse
 local-zone: "nbnrsa.manrec.cc" always_refuse
 local-zone: "net.contoscn.com" always_refuse
+local-zone: "netcuriosity.com" always_refuse
 local-zone: "netsalesmedia.pl" always_refuse
 local-zone: "neubornmedia.com" always_refuse
 local-zone: "newartreview.com" always_refuse
