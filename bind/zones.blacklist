@@ -16033,6 +16033,7 @@ zone "dishoneststuff.pro" { type master; notify no; file "null.zone.file"; };
 zone "distant-handle.pro" { type master; notify no; file "null.zone.file"; };
 zone "disturbdigital.com" { type master; notify no; file "null.zone.file"; };
 zone "dl.indexmovies.xyz" { type master; notify no; file "null.zone.file"; };
+zone "dogbedscentral.com" { type master; notify no; file "null.zone.file"; };
 zone "doubleclick.ru.com" { type master; notify no; file "null.zone.file"; };
 zone "drt.cliomovies.com" { type master; notify no; file "null.zone.file"; };
 zone "dsp.brackenads.com" { type master; notify no; file "null.zone.file"; };
