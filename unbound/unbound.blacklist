@@ -13847,6 +13847,7 @@ local-zone: "mydomainbest.com" always_refuse
 local-zone: "myhappy-news.com" always_refuse
 local-zone: "myopenware.co.uk" always_refuse
 local-zone: "my.vistaarts.xyz" always_refuse
+local-zone: "nadavtraffic.com" always_refuse
 local-zone: "naiadsystems.com" always_refuse
 local-zone: "naias-conseil.fr" always_refuse
 local-zone: "nastydollars.com" always_refuse
@@ -18012,6 +18013,7 @@ local-zone: "media.bytesignal.com" always_refuse
 local-zone: "mediajunction.com.au" always_refuse
 local-zone: "media.kansascity.com" always_refuse
 local-zone: "mediaworksagency.com" always_refuse
+local-zone: "melodiousharmony.com" always_refuse
 local-zone: "metro-advertising.in" always_refuse
 local-zone: "mindthegapproject.eu" always_refuse
 local-zone: "miniature-injury.pro" always_refuse

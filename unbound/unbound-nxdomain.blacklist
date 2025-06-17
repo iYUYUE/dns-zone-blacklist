@@ -13847,6 +13847,7 @@ local-zone: "mydomainbest.com" always_nxdomain
 local-zone: "myhappy-news.com" always_nxdomain
 local-zone: "myopenware.co.uk" always_nxdomain
 local-zone: "my.vistaarts.xyz" always_nxdomain
+local-zone: "nadavtraffic.com" always_nxdomain
 local-zone: "naiadsystems.com" always_nxdomain
 local-zone: "naias-conseil.fr" always_nxdomain
 local-zone: "nastydollars.com" always_nxdomain
@@ -18012,6 +18013,7 @@ local-zone: "media.bytesignal.com" always_nxdomain
 local-zone: "mediajunction.com.au" always_nxdomain
 local-zone: "media.kansascity.com" always_nxdomain
 local-zone: "mediaworksagency.com" always_nxdomain
+local-zone: "melodiousharmony.com" always_nxdomain
 local-zone: "metro-advertising.in" always_nxdomain
 local-zone: "mindthegapproject.eu" always_nxdomain
 local-zone: "miniature-injury.pro" always_nxdomain
