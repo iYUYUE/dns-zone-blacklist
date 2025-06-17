@@ -16167,6 +16167,7 @@ zone "jenniferspivak.com" { type master; notify no; file "null.zone.file"; };
 zone "johannes.voith.com" { type master; notify no; file "null.zone.file"; };
 zone "joyous-storage.pro" { type master; notify no; file "null.zone.file"; };
 zone "jrmadvertising.com" { type master; notify no; file "null.zone.file"; };
+zone "jsonads.upnerd.net" { type master; notify no; file "null.zone.file"; };
 zone "jubilantlagoon.com" { type master; notify no; file "null.zone.file"; };
 zone "kibbleandbytes.com" { type master; notify no; file "null.zone.file"; };
 zone "kindadnetworks.com" { type master; notify no; file "null.zone.file"; };
