@@ -2727,6 +2727,7 @@ zone "ipqolj.com" { type master; notify no; file "null.zone.file"; };
 zone "iprxfx.com" { type master; notify no; file "null.zone.file"; };
 zone "iqtcqw.com" { type master; notify no; file "null.zone.file"; };
 zone "iqzone.com" { type master; notify no; file "null.zone.file"; };
+zone "ircaoir.de" { type master; notify no; file "null.zone.file"; };
 zone "irncdn.com" { type master; notify no; file "null.zone.file"; };
 zone "ishatv.com" { type master; notify no; file "null.zone.file"; };
 zone "ismlks.com" { type master; notify no; file "null.zone.file"; };
