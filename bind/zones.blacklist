@@ -1651,6 +1651,7 @@ zone "xvaaa.com" { type master; notify no; file "null.zone.file"; };
 zone "xwords.pl" { type master; notify no; file "null.zone.file"; };
 zone "xwqea.com" { type master; notify no; file "null.zone.file"; };
 zone "xxhzi.com" { type master; notify no; file "null.zone.file"; };
+zone "yads.tech" { type master; notify no; file "null.zone.file"; };
 zone "yahoho.de" { type master; notify no; file "null.zone.file"; };
 zone "yajgm.com" { type master; notify no; file "null.zone.file"; };
 zone "yashi.com" { type master; notify no; file "null.zone.file"; };
@@ -20740,6 +20741,7 @@ zone "clipcentric-a.akamaihd.net" { type master; notify no; file "null.zone.file
 zone "cmpv2.faroutmagazine.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "commercemediaplatform.asia" { type master; notify no; file "null.zone.file"; };
 zone "commercemediaplatform.tech" { type master; notify no; file "null.zone.file"; };
+zone "consent.gardenersworld.com" { type master; notify no; file "null.zone.file"; };
 zone "console.cavalier-romand.ch" { type master; notify no; file "null.zone.file"; };
 zone "console.insideradverts.com" { type master; notify no; file "null.zone.file"; };
 zone "cp.faszination-fankurve.de" { type master; notify no; file "null.zone.file"; };

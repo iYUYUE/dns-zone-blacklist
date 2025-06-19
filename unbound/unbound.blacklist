@@ -1651,6 +1651,7 @@ local-zone: "xvaaa.com" always_refuse
 local-zone: "xwords.pl" always_refuse
 local-zone: "xwqea.com" always_refuse
 local-zone: "xxhzi.com" always_refuse
+local-zone: "yads.tech" always_refuse
 local-zone: "yahoho.de" always_refuse
 local-zone: "yajgm.com" always_refuse
 local-zone: "yashi.com" always_refuse
@@ -20740,6 +20741,7 @@ local-zone: "clipcentric-a.akamaihd.net" always_refuse
 local-zone: "cmpv2.faroutmagazine.co.uk" always_refuse
 local-zone: "commercemediaplatform.asia" always_refuse
 local-zone: "commercemediaplatform.tech" always_refuse
+local-zone: "consent.gardenersworld.com" always_refuse
 local-zone: "console.cavalier-romand.ch" always_refuse
 local-zone: "console.insideradverts.com" always_refuse
 local-zone: "cp.faszination-fankurve.de" always_refuse

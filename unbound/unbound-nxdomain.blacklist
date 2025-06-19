@@ -1651,6 +1651,7 @@ local-zone: "xvaaa.com" always_nxdomain
 local-zone: "xwords.pl" always_nxdomain
 local-zone: "xwqea.com" always_nxdomain
 local-zone: "xxhzi.com" always_nxdomain
+local-zone: "yads.tech" always_nxdomain
 local-zone: "yahoho.de" always_nxdomain
 local-zone: "yajgm.com" always_nxdomain
 local-zone: "yashi.com" always_nxdomain
@@ -20740,6 +20741,7 @@ local-zone: "clipcentric-a.akamaihd.net" always_nxdomain
 local-zone: "cmpv2.faroutmagazine.co.uk" always_nxdomain
 local-zone: "commercemediaplatform.asia" always_nxdomain
 local-zone: "commercemediaplatform.tech" always_nxdomain
+local-zone: "consent.gardenersworld.com" always_nxdomain
 local-zone: "console.cavalier-romand.ch" always_nxdomain
 local-zone: "console.insideradverts.com" always_nxdomain
 local-zone: "cp.faszination-fankurve.de" always_nxdomain
