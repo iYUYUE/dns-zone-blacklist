@@ -8867,6 +8867,7 @@ local-zone: "myopenads.com" always_refuse
 local-zone: "mywebwala.com" always_refuse
 local-zone: "nadinidea.com" always_refuse
 local-zone: "nagrugaci.pro" always_refuse
+local-zone: "naillearn.com" always_refuse
 local-zone: "nakedreel.com" always_refuse
 local-zone: "nanovisor.biz" always_refuse
 local-zone: "nanovisor.net" always_refuse
@@ -10602,6 +10603,7 @@ local-zone: "kelopronto.com" always_refuse
 local-zone: "kewhexethe.com" always_refuse
 local-zone: "kickcharge.com" always_refuse
 local-zone: "kimiagroup.com" always_refuse
+local-zone: "kitetuning.com" always_refuse
 local-zone: "kreativead.com" always_refuse
 local-zone: "krelaymail.com" always_refuse
 local-zone: "krushmedia.com" always_refuse
@@ -13928,6 +13930,7 @@ local-zone: "perf-serving.com" always_refuse
 local-zone: "personalhigh.pro" always_refuse
 local-zone: "picklemonkads.in" always_refuse
 local-zone: "piquantgrove.com" always_refuse
+local-zone: "pixeltrouble.com" always_refuse
 local-zone: "pixelvariety.com" always_refuse
 local-zone: "pk.adlandpro.com" always_refuse
 local-zone: "platform29.co.nz" always_refuse
@@ -20969,6 +20972,7 @@ local-zone: "local.metropolistribune.com" always_refuse
 local-zone: "mamamia.vintageporno.stream" always_refuse
 local-zone: "marvelousmediasolutions.com" always_refuse
 local-zone: "media.fayettevilleflyer.com" always_refuse
+local-zone: "membernotifications.aol.com" always_refuse
 local-zone: "monetization.prod.invmed.co" always_refuse
 local-zone: "na61-rmbsync-upaas.quark.cn" always_refuse
 local-zone: "nlp-japan.life-and-mind.com" always_refuse
@@ -21595,7 +21599,6 @@ local-zone: "postbox-images.s3.amazonaws.com" always_refuse
 local-zone: "progressivebusinessservices.com" always_refuse
 local-zone: "pub-admin-elections.foxnews.com" always_refuse
 local-zone: "query.prod.cms.rt.microsoft.com" always_refuse
-local-zone: "recommendations.data.tm-awx.com" always_refuse
 local-zone: "rs-branding.allfreeknitting.com" always_refuse
 local-zone: "rs-stripe.aginghealthytoday.com" always_refuse
 local-zone: "rs-stripe.architectmagazine.com" always_refuse

@@ -8867,6 +8867,7 @@ local-zone: "myopenads.com" always_nxdomain
 local-zone: "mywebwala.com" always_nxdomain
 local-zone: "nadinidea.com" always_nxdomain
 local-zone: "nagrugaci.pro" always_nxdomain
+local-zone: "naillearn.com" always_nxdomain
 local-zone: "nakedreel.com" always_nxdomain
 local-zone: "nanovisor.biz" always_nxdomain
 local-zone: "nanovisor.net" always_nxdomain
@@ -10602,6 +10603,7 @@ local-zone: "kelopronto.com" always_nxdomain
 local-zone: "kewhexethe.com" always_nxdomain
 local-zone: "kickcharge.com" always_nxdomain
 local-zone: "kimiagroup.com" always_nxdomain
+local-zone: "kitetuning.com" always_nxdomain
 local-zone: "kreativead.com" always_nxdomain
 local-zone: "krelaymail.com" always_nxdomain
 local-zone: "krushmedia.com" always_nxdomain
@@ -13928,6 +13930,7 @@ local-zone: "perf-serving.com" always_nxdomain
 local-zone: "personalhigh.pro" always_nxdomain
 local-zone: "picklemonkads.in" always_nxdomain
 local-zone: "piquantgrove.com" always_nxdomain
+local-zone: "pixeltrouble.com" always_nxdomain
 local-zone: "pixelvariety.com" always_nxdomain
 local-zone: "pk.adlandpro.com" always_nxdomain
 local-zone: "platform29.co.nz" always_nxdomain
@@ -20969,6 +20972,7 @@ local-zone: "local.metropolistribune.com" always_nxdomain
 local-zone: "mamamia.vintageporno.stream" always_nxdomain
 local-zone: "marvelousmediasolutions.com" always_nxdomain
 local-zone: "media.fayettevilleflyer.com" always_nxdomain
+local-zone: "membernotifications.aol.com" always_nxdomain
 local-zone: "monetization.prod.invmed.co" always_nxdomain
 local-zone: "na61-rmbsync-upaas.quark.cn" always_nxdomain
 local-zone: "nlp-japan.life-and-mind.com" always_nxdomain
@@ -21595,7 +21599,6 @@ local-zone: "postbox-images.s3.amazonaws.com" always_nxdomain
 local-zone: "progressivebusinessservices.com" always_nxdomain
 local-zone: "pub-admin-elections.foxnews.com" always_nxdomain
 local-zone: "query.prod.cms.rt.microsoft.com" always_nxdomain
-local-zone: "recommendations.data.tm-awx.com" always_nxdomain
 local-zone: "rs-branding.allfreeknitting.com" always_nxdomain
 local-zone: "rs-stripe.aginghealthytoday.com" always_nxdomain
 local-zone: "rs-stripe.architectmagazine.com" always_nxdomain
