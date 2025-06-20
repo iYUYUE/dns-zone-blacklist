@@ -15172,6 +15172,7 @@ zone "nelsonschmidt.com" { type master; notify no; file "null.zone.file"; };
 zone "netinfocompany.bg" { type master; notify no; file "null.zone.file"; };
 zone "newads.rediff.com" { type master; notify no; file "null.zone.file"; };
 zone "newagerevenue.com" { type master; notify no; file "null.zone.file"; };
+zone "newarkdriving.com" { type master; notify no; file "null.zone.file"; };
 zone "newcreatives.info" { type master; notify no; file "null.zone.file"; };
 zone "newmediaroots.com" { type master; notify no; file "null.zone.file"; };
 zone "new-new-years.com" { type master; notify no; file "null.zone.file"; };
