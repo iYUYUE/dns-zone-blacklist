@@ -2210,6 +2210,7 @@ local-zone: "aj2637.bid" always_refuse
 local-zone: "aj2638.bid" always_refuse
 local-zone: "aj2639.bid" always_refuse
 local-zone: "aj2641.bid" always_refuse
+local-zone: "aj2642.bid" always_refuse
 local-zone: "aj2643.bid" always_refuse
 local-zone: "aj2644.bid" always_refuse
 local-zone: "aj2645.bid" always_refuse
@@ -4688,6 +4689,7 @@ local-zone: "ii9g0qj9.de" always_refuse
 local-zone: "i-iba.co.uk" always_refuse
 local-zone: "ilkwork.com" always_refuse
 local-zone: "illumin.com" always_refuse
+local-zone: "imbedad.com" always_refuse
 local-zone: "img.go2s.co" always_refuse
 local-zone: "imglnke.com" always_refuse
 local-zone: "imglnkx.com" always_refuse
@@ -10306,6 +10308,7 @@ local-zone: "crowdynews.com" always_refuse
 local-zone: "crypto-adz.com" always_refuse
 local-zone: "cryptoklix.com" always_refuse
 local-zone: "cryptvalue.com" always_refuse
+local-zone: "csapi.asus.com" always_refuse
 local-zone: "curbminers.com" always_refuse
 local-zone: "curveqatar.com" always_refuse
 local-zone: "cwrdigital.com" always_refuse
@@ -15882,6 +15885,7 @@ local-zone: "areaofexpertise.co" always_refuse
 local-zone: "as1.iwgc-media.net" always_refuse
 local-zone: "as2.autoforums.com" always_refuse
 local-zone: "asap.sindikata.org" always_refuse
+local-zone: "ascendeummedia.com" always_refuse
 local-zone: "asg.bhabhiporn.pro" always_refuse
 local-zone: "asg.makemewell.pro" always_refuse
 local-zone: "assets.taghtia.com" always_refuse
@@ -21921,6 +21925,7 @@ local-zone: "advertisementshared.blob.core.windows.net" always_refuse
 local-zone: "courier-sandbox-push-apple.com.akadns.net" always_refuse
 local-zone: "ebistoppan1.kyowahakko-bio-campaign-1.com" always_refuse
 local-zone: "groove-widget-production.s3.amazonaws.com" always_refuse
+local-zone: "hb-amergemedia.s3.us-east-2.amazonaws.com" always_refuse
 local-zone: "minotaur-production.global.ssl.fastly.net" always_refuse
 local-zone: "partners.nationalmortgageprofessional.com" always_refuse
 local-zone: "push-monetization-images.s3.amazonaws.com" always_refuse
