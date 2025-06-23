@@ -4572,6 +4572,7 @@ local-zone: "faggrim.com" always_nxdomain
 local-zone: "fapmeth.com" always_nxdomain
 local-zone: "fastdlr.com" always_nxdomain
 local-zone: "fastdmr.com" always_nxdomain
+local-zone: "fastpush.io" always_nxdomain
 local-zone: "fasttony.es" always_nxdomain
 local-zone: "fatebbc.pro" always_nxdomain
 local-zone: "feedify.net" always_nxdomain
@@ -7053,6 +7054,7 @@ local-zone: "overture.com" always_nxdomain
 local-zone: "ownlocal.com" always_nxdomain
 local-zone: "oxamedia.com" always_nxdomain
 local-zone: "ozertesa.com" always_nxdomain
+local-zone: "padasocx.run" always_nxdomain
 local-zone: "padsquad.com" always_nxdomain
 local-zone: "pagefair.com" always_nxdomain
 local-zone: "pagefair.net" always_nxdomain
@@ -7080,6 +7082,7 @@ local-zone: "p.fedykr.com" always_nxdomain
 local-zone: "p.flaw.cloud" always_nxdomain
 local-zone: "p.ftwpcn.com" always_nxdomain
 local-zone: "p.hatzhq.net" always_nxdomain
+local-zone: "phonecup.com" always_nxdomain
 local-zone: "pipeaota.com" always_nxdomain
 local-zone: "pixad.com.tr" always_nxdomain
 local-zone: "pixalate.com" always_nxdomain
@@ -12386,6 +12389,7 @@ local-zone: "mekstolande.com" always_nxdomain
 local-zone: "membersgram.com" always_nxdomain
 local-zone: "memevideoad.com" always_nxdomain
 local-zone: "mephophuglo.pro" always_nxdomain
+local-zone: "messmonster.com" always_nxdomain
 local-zone: "metromedia1.com" always_nxdomain
 local-zone: "millerlogic.com" always_nxdomain
 local-zone: "mimedialabs.com" always_nxdomain
@@ -13844,6 +13848,7 @@ local-zone: "monetizemore.com" always_nxdomain
 local-zone: "monetizze.com.br" always_nxdomain
 local-zone: "moneytreeads.com" always_nxdomain
 local-zone: "monsterleads.pro" always_nxdomain
+local-zone: "monstermemes.com" always_nxdomain
 local-zone: "morefriendly.com" always_nxdomain
 local-zone: "mortaragency.com" always_nxdomain
 local-zone: "moviedollars.com" always_nxdomain
@@ -21464,6 +21469,7 @@ local-zone: "static.rogersdigitalmedia.com" always_nxdomain
 local-zone: "tarifcheck-partnerprogramm.de" always_nxdomain
 local-zone: "tenmax-ads.trafficmanager.net" always_nxdomain
 local-zone: "webdisplay.markallengroup.com" always_nxdomain
+local-zone: "website-push-notification.com" always_nxdomain
 local-zone: "widgets.membership.s-msft.com" always_nxdomain
 local-zone: "z0000g.yorkvillemarketing.net" always_nxdomain
 local-zone: "ads.aspirapolveresenzafili.com" always_nxdomain

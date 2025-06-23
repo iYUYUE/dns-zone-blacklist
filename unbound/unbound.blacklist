@@ -4572,6 +4572,7 @@ local-zone: "faggrim.com" always_refuse
 local-zone: "fapmeth.com" always_refuse
 local-zone: "fastdlr.com" always_refuse
 local-zone: "fastdmr.com" always_refuse
+local-zone: "fastpush.io" always_refuse
 local-zone: "fasttony.es" always_refuse
 local-zone: "fatebbc.pro" always_refuse
 local-zone: "feedify.net" always_refuse
@@ -7053,6 +7054,7 @@ local-zone: "overture.com" always_refuse
 local-zone: "ownlocal.com" always_refuse
 local-zone: "oxamedia.com" always_refuse
 local-zone: "ozertesa.com" always_refuse
+local-zone: "padasocx.run" always_refuse
 local-zone: "padsquad.com" always_refuse
 local-zone: "pagefair.com" always_refuse
 local-zone: "pagefair.net" always_refuse
@@ -7080,6 +7082,7 @@ local-zone: "p.fedykr.com" always_refuse
 local-zone: "p.flaw.cloud" always_refuse
 local-zone: "p.ftwpcn.com" always_refuse
 local-zone: "p.hatzhq.net" always_refuse
+local-zone: "phonecup.com" always_refuse
 local-zone: "pipeaota.com" always_refuse
 local-zone: "pixad.com.tr" always_refuse
 local-zone: "pixalate.com" always_refuse
@@ -12386,6 +12389,7 @@ local-zone: "mekstolande.com" always_refuse
 local-zone: "membersgram.com" always_refuse
 local-zone: "memevideoad.com" always_refuse
 local-zone: "mephophuglo.pro" always_refuse
+local-zone: "messmonster.com" always_refuse
 local-zone: "metromedia1.com" always_refuse
 local-zone: "millerlogic.com" always_refuse
 local-zone: "mimedialabs.com" always_refuse
@@ -13844,6 +13848,7 @@ local-zone: "monetizemore.com" always_refuse
 local-zone: "monetizze.com.br" always_refuse
 local-zone: "moneytreeads.com" always_refuse
 local-zone: "monsterleads.pro" always_refuse
+local-zone: "monstermemes.com" always_refuse
 local-zone: "morefriendly.com" always_refuse
 local-zone: "mortaragency.com" always_refuse
 local-zone: "moviedollars.com" always_refuse
@@ -21464,6 +21469,7 @@ local-zone: "static.rogersdigitalmedia.com" always_refuse
 local-zone: "tarifcheck-partnerprogramm.de" always_refuse
 local-zone: "tenmax-ads.trafficmanager.net" always_refuse
 local-zone: "webdisplay.markallengroup.com" always_refuse
+local-zone: "website-push-notification.com" always_refuse
 local-zone: "widgets.membership.s-msft.com" always_refuse
 local-zone: "z0000g.yorkvillemarketing.net" always_refuse
 local-zone: "ads.aspirapolveresenzafili.com" always_refuse
