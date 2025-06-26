@@ -6684,6 +6684,9 @@ local-zone: "goldbach.com" always_refuse
 local-zone: "goodbark.com" always_refuse
 local-zone: "goodroll.com" always_refuse
 local-zone: "gopush.click" always_refuse
+local-zone: "gosrv-my.com" always_refuse
+local-zone: "gosrv-ph.com" always_refuse
+local-zone: "gosrv-vn.com" always_refuse
 local-zone: "gp12ptrk.com" always_refuse
 local-zone: "graizoah.com" always_refuse
 local-zone: "grandaddy.in" always_refuse
@@ -8992,6 +8995,7 @@ local-zone: "p.hhmop.cloud" always_refuse
 local-zone: "phiduvuka.pro" always_refuse
 local-zone: "p.ianjumb.com" always_refuse
 local-zone: "pic.cytcm.com" always_refuse
+local-zone: "pickmicro.com" always_refuse
 local-zone: "picnewsss.com" always_refuse
 local-zone: "ping-fast.com" always_refuse
 local-zone: "pinklabel.com" always_refuse
@@ -12391,6 +12395,7 @@ local-zone: "membersgram.com" always_refuse
 local-zone: "memevideoad.com" always_refuse
 local-zone: "mephophuglo.pro" always_refuse
 local-zone: "messmonster.com" always_refuse
+local-zone: "metawelcome.com" always_refuse
 local-zone: "metromedia1.com" always_refuse
 local-zone: "millerlogic.com" always_refuse
 local-zone: "mimedialabs.com" always_refuse
@@ -20483,6 +20488,7 @@ local-zone: "banner.radiocacula.com.br" always_refuse
 local-zone: "banners.bakerstreetsf.com" always_refuse
 local-zone: "banners.homeofthebrave.nl" always_refuse
 local-zone: "banners.webmasterplan.com" always_refuse
+local-zone: "bcgccjhgbehjecihfah.world" always_refuse
 local-zone: "beneficialapplication.com" always_refuse
 local-zone: "bgajeddhdcjhbijhgaj.world" always_refuse
 local-zone: "bidder-imp.novabeyond.com" always_refuse
@@ -20740,6 +20746,7 @@ local-zone: "banners.tripointegroup.com" always_refuse
 local-zone: "bdapi-ads.realmemobile.com" always_refuse
 local-zone: "bhidaabhjcagahachaba.world" always_refuse
 local-zone: "bingads.trafficmanager.net" always_refuse
+local-zone: "bjfgfgjifbbejfaiaabb.world" always_refuse
 local-zone: "bucketworksadvertising.com" always_refuse
 local-zone: "captivatingperformance.com" always_refuse
 local-zone: "carsongroupadvertising.com" always_refuse
@@ -20772,10 +20779,12 @@ local-zone: "eubanner.honeywellhome.com" always_refuse
 local-zone: "event.indiantelevision.com" always_refuse
 local-zone: "fbfigddfdcajhjeiaada.world" always_refuse
 local-zone: "fdcjadjdeiacbhihaadb.world" always_refuse
+local-zone: "fejjeefbgdjefgcfgadc.world" always_refuse
 local-zone: "fetchmediaandmarketing.com" always_refuse
 local-zone: "fggjifajhjigjegeaadd.world" always_refuse
 local-zone: "firedropdownandwin.website" always_refuse
 local-zone: "freewheel-match.dotomi.com" always_refuse
+local-zone: "gabaggcgbbhbhbecaadf.world" always_refuse
 local-zone: "gsa24.giaythethaonuhcm.com" always_refuse
 local-zone: "hardbeatcommunications.com" always_refuse
 local-zone: "hegdcrxavrtk.cdnvideo3.com" always_refuse
