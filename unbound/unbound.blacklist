@@ -16833,6 +16833,7 @@ local-zone: "ads.hellocroatia.eu" always_refuse
 local-zone: "ads.ib5knetwork.com" always_refuse
 local-zone: "ads.ilmonferrato.it" always_refuse
 local-zone: "ads-img.mozilla.org" always_refuse
+local-zone: "ad.simpledesign.ltd" always_refuse
 local-zone: "ads.independent.cat" always_refuse
 local-zone: "ads.indie-click.com" always_refuse
 local-zone: "ads.inka-magazin.de" always_refuse

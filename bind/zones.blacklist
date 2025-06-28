@@ -16833,6 +16833,7 @@ zone "ads.hellocroatia.eu" { type master; notify no; file "null.zone.file"; };
 zone "ads.ib5knetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.ilmonferrato.it" { type master; notify no; file "null.zone.file"; };
 zone "ads-img.mozilla.org" { type master; notify no; file "null.zone.file"; };
+zone "ad.simpledesign.ltd" { type master; notify no; file "null.zone.file"; };
 zone "ads.independent.cat" { type master; notify no; file "null.zone.file"; };
 zone "ads.indie-click.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.inka-magazin.de" { type master; notify no; file "null.zone.file"; };
