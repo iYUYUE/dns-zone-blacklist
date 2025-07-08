@@ -19987,6 +19987,7 @@ zone "sync.ortb.152media.info" { type master; notify no; file "null.zone.file"; 
 zone "targetmediapartners.com" { type master; notify no; file "null.zone.file"; };
 zone "tepofrutfreigboom.store" { type master; notify no; file "null.zone.file"; };
 zone "theaffiliategateway.com" { type master; notify no; file "null.zone.file"; };
+zone "thrivingmarketplace.com" { type master; notify no; file "null.zone.file"; };
 zone "tools.mojpieknyogrod.pl" { type master; notify no; file "null.zone.file"; };
 zone "topsites.jlbnetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "totalmarketexposure.com" { type master; notify no; file "null.zone.file"; };
