@@ -20665,6 +20665,7 @@ zone "sparkasse-vorderpfalz.com" { type master; notify no; file "null.zone.file"
 zone "sponsors.compactequip.com" { type master; notify no; file "null.zone.file"; };
 zone "static-cache.tezfiles.com" { type master; notify no; file "null.zone.file"; };
 zone "static.insideradverts.com" { type master; notify no; file "null.zone.file"; };
+zone "stats-dss4049-serving.com" { type master; notify no; file "null.zone.file"; };
 zone "sync.etalonconsulting.com" { type master; notify no; file "null.zone.file"; };
 zone "syndication.buzzworthy.tv" { type master; notify no; file "null.zone.file"; };
 zone "technews.infogalactic.com" { type master; notify no; file "null.zone.file"; };
