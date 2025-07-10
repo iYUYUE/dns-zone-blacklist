@@ -12249,6 +12249,7 @@ zone "gravitykick.com" { type master; notify no; file "null.zone.file"; };
 zone "greedcdnads.com" { type master; notify no; file "null.zone.file"; };
 zone "greedseed.world" { type master; notify no; file "null.zone.file"; };
 zone "grimy-store.pro" { type master; notify no; file "null.zone.file"; };
+zone "grocerycrew.com" { type master; notify no; file "null.zone.file"; };
 zone "groglezapto.pro" { type master; notify no; file "null.zone.file"; };
 zone "grygrothapi.pro" { type master; notify no; file "null.zone.file"; };
 zone "guerilla.africa" { type master; notify no; file "null.zone.file"; };
