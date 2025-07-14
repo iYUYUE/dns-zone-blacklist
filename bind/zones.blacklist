@@ -10671,6 +10671,7 @@ zone "locsensads.com" { type master; notify no; file "null.zone.file"; };
 zone "loftyleads.com" { type master; notify no; file "null.zone.file"; };
 zone "logsession.com" { type master; notify no; file "null.zone.file"; };
 zone "longroadrm.com" { type master; notify no; file "null.zone.file"; };
+zone "looseunits.com" { type master; notify no; file "null.zone.file"; };
 zone "lorageiros.com" { type master; notify no; file "null.zone.file"; };
 zone "lotusorbit.com" { type master; notify no; file "null.zone.file"; };
 zone "loudchilli.com" { type master; notify no; file "null.zone.file"; };
@@ -19393,6 +19394,7 @@ zone "liondigitalserving.com" { type master; notify no; file "null.zone.file"; }
 zone "loathsome-weakness.pro" { type master; notify no; file "null.zone.file"; };
 zone "looney-advertising.com" { type master; notify no; file "null.zone.file"; };
 zone "magicaladsolutions.net" { type master; notify no; file "null.zone.file"; };
+zone "magnificentarticle.com" { type master; notify no; file "null.zone.file"; };
 zone "mailing.checkpoint.com" { type master; notify no; file "null.zone.file"; };
 zone "majesticwilderness.com" { type master; notify no; file "null.zone.file"; };
 zone "mansfieldmarketing.com" { type master; notify no; file "null.zone.file"; };
