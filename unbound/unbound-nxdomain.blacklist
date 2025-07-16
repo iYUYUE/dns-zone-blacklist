@@ -18582,6 +18582,7 @@ local-zone: "api.smartlauncher.net" always_nxdomain
 local-zone: "app.engnetconnect.com" always_nxdomain
 local-zone: "aquaraimpressions.com" always_nxdomain
 local-zone: "asg.telegramfiles.com" always_nxdomain
+local-zone: "atlanticdialogues.org" always_nxdomain
 local-zone: "autopilotmoneybiz.com" always_nxdomain
 local-zone: "avenuea-razorfish.com" always_nxdomain
 local-zone: "aw01.pub.funshion.com" always_nxdomain

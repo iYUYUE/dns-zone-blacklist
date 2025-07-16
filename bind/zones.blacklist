@@ -18582,6 +18582,7 @@ zone "api.smartlauncher.net" { type master; notify no; file "null.zone.file"; };
 zone "app.engnetconnect.com" { type master; notify no; file "null.zone.file"; };
 zone "aquaraimpressions.com" { type master; notify no; file "null.zone.file"; };
 zone "asg.telegramfiles.com" { type master; notify no; file "null.zone.file"; };
+zone "atlanticdialogues.org" { type master; notify no; file "null.zone.file"; };
 zone "autopilotmoneybiz.com" { type master; notify no; file "null.zone.file"; };
 zone "avenuea-razorfish.com" { type master; notify no; file "null.zone.file"; };
 zone "aw01.pub.funshion.com" { type master; notify no; file "null.zone.file"; };
