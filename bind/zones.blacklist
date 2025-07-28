@@ -22039,6 +22039,7 @@ zone "sponsors-v2.urbanistnetwork.com" { type master; notify no; file "null.zone
 zone "static-14.sinclairstoryline.com" { type master; notify no; file "null.zone.file"; };
 zone "static-17.sinclairstoryline.com" { type master; notify no; file "null.zone.file"; };
 zone "twitter-badges.s3.amazonaws.com" { type master; notify no; file "null.zone.file"; };
+zone "us-e-node20.solutionslabkit.com" { type master; notify no; file "null.zone.file"; };
 zone "wildcard.betrad.com.edgekey.net" { type master; notify no; file "null.zone.file"; };
 zone "wildcard.evidon.com.edgekey.net" { type master; notify no; file "null.zone.file"; };
 zone "701.oss-cn-hongkong.aliyuncs.com" { type master; notify no; file "null.zone.file"; };

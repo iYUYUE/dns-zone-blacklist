@@ -22039,6 +22039,7 @@ local-zone: "sponsors-v2.urbanistnetwork.com" always_nxdomain
 local-zone: "static-14.sinclairstoryline.com" always_nxdomain
 local-zone: "static-17.sinclairstoryline.com" always_nxdomain
 local-zone: "twitter-badges.s3.amazonaws.com" always_nxdomain
+local-zone: "us-e-node20.solutionslabkit.com" always_nxdomain
 local-zone: "wildcard.betrad.com.edgekey.net" always_nxdomain
 local-zone: "wildcard.evidon.com.edgekey.net" always_nxdomain
 local-zone: "701.oss-cn-hongkong.aliyuncs.com" always_nxdomain
