@@ -7940,6 +7940,7 @@ local-zone: "ads.makimo.pl" always_refuse
 local-zone: "adsmanaged.co" always_refuse
 local-zone: "ads.maxlab.ru" always_refuse
 local-zone: "adsmelody.com" always_refuse
+local-zone: "adsmighty.com" always_refuse
 local-zone: "adsmobila.com" always_refuse
 local-zone: "adsmodern.com" always_refuse
 local-zone: "adsmoloco.com" always_refuse
@@ -10217,6 +10218,7 @@ local-zone: "bookadsnow.com" always_refuse
 local-zone: "boomtown.media" always_refuse
 local-zone: "booster3000.si" always_refuse
 local-zone: "borczdixon.com" always_refuse
+local-zone: "brackenads.com" always_refuse
 local-zone: "brainlyads.com" always_refuse
 local-zone: "brandeurope.de" always_refuse
 local-zone: "brandly-my.com" always_refuse
@@ -12256,6 +12258,7 @@ local-zone: "fatchilli.media" always_refuse
 local-zone: "faxian.etao.com" always_refuse
 local-zone: "feeblestamp.com" always_refuse
 local-zone: "feedbackify.com" always_refuse
+local-zone: "feed.mamaaja.sk" always_refuse
 local-zone: "feelforowl.info" always_refuse
 local-zone: "f.hoffers.store" always_refuse
 local-zone: "findhouse.co.uk" always_refuse
@@ -14202,6 +14205,7 @@ local-zone: "scoresecrets.com" always_refuse
 local-zone: "screenpopper.com" always_refuse
 local-zone: "screenshot.click" always_refuse
 local-zone: "screenvision.com" always_refuse
+local-zone: "sdda.livecode.it" always_refuse
 local-zone: "seal.entrust.net" always_refuse
 local-zone: "seal.godaddy.com" always_refuse
 local-zone: "seal-mbc.bbb.org" always_refuse
@@ -15060,7 +15064,6 @@ local-zone: "doublepimpssl.com" always_refuse
 local-zone: "dragonparking.com" always_refuse
 local-zone: "dropkickmedia.com" always_refuse
 local-zone: "ds-4047.kxcdn.com" always_refuse
-local-zone: "dsp.adsmighty.com" always_refuse
 local-zone: "dsp.rtbdemand.com" always_refuse
 local-zone: "dtashjvcjswq.info" always_refuse
 local-zone: "duncanchannon.com" always_refuse
@@ -16227,7 +16230,6 @@ local-zone: "dl.indexmovies.xyz" always_refuse
 local-zone: "dogbedscentral.com" always_refuse
 local-zone: "doubleclick.ru.com" always_refuse
 local-zone: "drt.cliomovies.com" always_refuse
-local-zone: "dsp.brackenads.com" always_refuse
 local-zone: "dsp.freshapple.biz" always_refuse
 local-zone: "dwetw1020dstom.com" always_refuse
 local-zone: "easilyshopping.pro" always_refuse
@@ -18516,6 +18518,7 @@ local-zone: "worldoffersdaily.com" always_refuse
 local-zone: "worstconsequence.pro" always_refuse
 local-zone: "worthless-living.pro" always_refuse
 local-zone: "worthwelldigital.com" always_refuse
+local-zone: "www1.tour.crimea.com" always_refuse
 local-zone: "www8.upload-pics.com" always_refuse
 local-zone: "x0r.urlgalleries.net" always_refuse
 local-zone: "xadaxbranddesign.com" always_refuse
@@ -19146,6 +19149,7 @@ local-zone: "theoriginalfusion.com" always_refuse
 local-zone: "the-ozone-project.com" always_refuse
 local-zone: "thestudiolondon.co.uk" always_refuse
 local-zone: "thump-night-stand.com" always_refuse
+local-zone: "tnad23ba82.primini.tn" always_refuse
 local-zone: "tools.pomocedomowe.pl" always_refuse
 local-zone: "tools.services.tvn.pl" always_refuse
 local-zone: "tr6rfgjix6tlr8bp.info" always_refuse
