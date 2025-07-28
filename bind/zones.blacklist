@@ -8269,6 +8269,7 @@ zone "bidswitch.com" { type master; notify no; file "null.zone.file"; };
 zone "bidsystem.com" { type master; notify no; file "null.zone.file"; };
 zone "bidtimize.com" { type master; notify no; file "null.zone.file"; };
 zone "big6q4y2oy.ru" { type master; notify no; file "null.zone.file"; };
+zone "bigboxads.com" { type master; notify no; file "null.zone.file"; };
 zone "bildirnet.com" { type master; notify no; file "null.zone.file"; };
 zone "bimbocash.com" { type master; notify no; file "null.zone.file"; };
 zone "biptolyla.com" { type master; notify no; file "null.zone.file"; };
