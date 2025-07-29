@@ -16161,6 +16161,7 @@ local-zone: "commissionkings.ag" always_nxdomain
 local-zone: "conforama-push.com" always_nxdomain
 local-zone: "consent.bumble.com" always_nxdomain
 local-zone: "consentmanager.net" always_nxdomain
+local-zone: "consent.unilad.com" always_nxdomain
 local-zone: "console.adspmg.com" always_nxdomain
 local-zone: "console.blulab.net" always_nxdomain
 local-zone: "consultantchow.com" always_nxdomain
@@ -18376,6 +18377,7 @@ local-zone: "rooksadvertising.com" always_nxdomain
 local-zone: "rosenadvertising.com" always_nxdomain
 local-zone: "rosseladvertising.be" always_nxdomain
 local-zone: "rotterdamsdagblad.nl" always_nxdomain
+local-zone: "router.parklogic.com" always_nxdomain
 local-zone: "rs-stripe.curbed.com" always_nxdomain
 local-zone: "rs-stripe.mrfood.com" always_nxdomain
 local-zone: "rs-stripe.penews.com" always_nxdomain

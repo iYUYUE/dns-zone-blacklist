@@ -16161,6 +16161,7 @@ local-zone: "commissionkings.ag" always_refuse
 local-zone: "conforama-push.com" always_refuse
 local-zone: "consent.bumble.com" always_refuse
 local-zone: "consentmanager.net" always_refuse
+local-zone: "consent.unilad.com" always_refuse
 local-zone: "console.adspmg.com" always_refuse
 local-zone: "console.blulab.net" always_refuse
 local-zone: "consultantchow.com" always_refuse
@@ -18376,6 +18377,7 @@ local-zone: "rooksadvertising.com" always_refuse
 local-zone: "rosenadvertising.com" always_refuse
 local-zone: "rosseladvertising.be" always_refuse
 local-zone: "rotterdamsdagblad.nl" always_refuse
+local-zone: "router.parklogic.com" always_refuse
 local-zone: "rs-stripe.curbed.com" always_refuse
 local-zone: "rs-stripe.mrfood.com" always_refuse
 local-zone: "rs-stripe.penews.com" always_refuse
