@@ -8294,6 +8294,7 @@ local-zone: "bn.asgadmp.cc" always_refuse
 local-zone: "bn.dxlive.com" always_refuse
 local-zone: "bnmmnb.online" always_refuse
 local-zone: "bnservers.com" always_refuse
+local-zone: "boatpaper.com" always_refuse
 local-zone: "boatsvest.com" always_refuse
 local-zone: "bodyclick.net" always_refuse
 local-zone: "bongacash.com" always_refuse
@@ -14992,6 +14993,7 @@ local-zone: "cookieconsent.com" always_refuse
 local-zone: "cookiereports.com" always_refuse
 local-zone: "cookie-script.com" always_refuse
 local-zone: "cookietractor.com" always_refuse
+local-zone: "copyfranchise.com" always_refuse
 local-zone: "cordlessmedia.com" always_refuse
 local-zone: "corgibeachday.com" always_refuse
 local-zone: "countduhmoney.com" always_refuse
