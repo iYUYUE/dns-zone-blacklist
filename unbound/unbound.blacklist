@@ -2636,6 +2636,7 @@ local-zone: "goldlab.de" always_refuse
 local-zone: "goneto.xyz" always_refuse
 local-zone: "goraps.com" always_refuse
 local-zone: "go-srv.com" always_refuse
+local-zone: "graphy.com" always_refuse
 local-zone: "grmtas.com" always_refuse
 local-zone: "grobyo.com" always_refuse
 local-zone: "groupm.com" always_refuse

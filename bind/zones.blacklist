@@ -2636,6 +2636,7 @@ zone "goldlab.de" { type master; notify no; file "null.zone.file"; };
 zone "goneto.xyz" { type master; notify no; file "null.zone.file"; };
 zone "goraps.com" { type master; notify no; file "null.zone.file"; };
 zone "go-srv.com" { type master; notify no; file "null.zone.file"; };
+zone "graphy.com" { type master; notify no; file "null.zone.file"; };
 zone "grmtas.com" { type master; notify no; file "null.zone.file"; };
 zone "grobyo.com" { type master; notify no; file "null.zone.file"; };
 zone "groupm.com" { type master; notify no; file "null.zone.file"; };

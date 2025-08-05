@@ -2636,6 +2636,7 @@ local-zone: "goldlab.de" always_nxdomain
 local-zone: "goneto.xyz" always_nxdomain
 local-zone: "goraps.com" always_nxdomain
 local-zone: "go-srv.com" always_nxdomain
+local-zone: "graphy.com" always_nxdomain
 local-zone: "grmtas.com" always_nxdomain
 local-zone: "grobyo.com" always_nxdomain
 local-zone: "groupm.com" always_nxdomain
