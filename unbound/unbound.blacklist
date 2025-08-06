@@ -15769,6 +15769,7 @@ local-zone: "adimages.detik.com" always_refuse
 local-zone: "adinnovation.co.jp" always_refuse
 local-zone: "ad.intl.xiaomi.com" always_refuse
 local-zone: "adipexp.3xforum.ro" always_refuse
+local-zone: "ad.kubicserves.icu" always_refuse
 local-zone: "adlabsnetworks.com" always_refuse
 local-zone: "ad.livejupiter.org" always_refuse
 local-zone: "ad.logic.viasat.io" always_refuse

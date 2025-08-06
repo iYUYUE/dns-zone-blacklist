@@ -15769,6 +15769,7 @@ zone "adimages.detik.com" { type master; notify no; file "null.zone.file"; };
 zone "adinnovation.co.jp" { type master; notify no; file "null.zone.file"; };
 zone "ad.intl.xiaomi.com" { type master; notify no; file "null.zone.file"; };
 zone "adipexp.3xforum.ro" { type master; notify no; file "null.zone.file"; };
+zone "ad.kubicserves.icu" { type master; notify no; file "null.zone.file"; };
 zone "adlabsnetworks.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.livejupiter.org" { type master; notify no; file "null.zone.file"; };
 zone "ad.logic.viasat.io" { type master; notify no; file "null.zone.file"; };
