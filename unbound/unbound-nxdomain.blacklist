@@ -9140,6 +9140,7 @@ local-zone: "push4site.com" always_nxdomain
 local-zone: "pushdaddy.com" always_nxdomain
 local-zone: "push.delivery" always_nxdomain
 local-zone: "pusherapp.com" always_nxdomain
+local-zone: "push.forja.ma" always_nxdomain
 local-zone: "push-free.com" always_nxdomain
 local-zone: "pushjunky.com" always_nxdomain
 local-zone: "pushlycdn.com" always_nxdomain
@@ -16611,6 +16612,7 @@ local-zone: "pursuanthealth.com" always_nxdomain
 local-zone: "pushcollection.net" always_nxdomain
 local-zone: "push-go.beta-f.com" always_nxdomain
 local-zone: "push.gtechgroup.it" always_nxdomain
+local-zone: "push.intreface.com" always_nxdomain
 local-zone: "push.marketcat.net" always_nxdomain
 local-zone: "push.netmarble.com" always_nxdomain
 local-zone: "pushserver.mfms.ru" always_nxdomain
