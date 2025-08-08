@@ -358,6 +358,7 @@ local-zone: "admob.ru" always_nxdomain
 local-zone: "admob.sg" always_nxdomain
 local-zone: "admob.tw" always_nxdomain
 local-zone: "admob.vn" always_nxdomain
+local-zone: "admrl.io" always_nxdomain
 local-zone: "ad-mv.de" always_nxdomain
 local-zone: "adnet.am" always_nxdomain
 local-zone: "adnet.bg" always_nxdomain
@@ -4929,6 +4930,7 @@ local-zone: "myleadx.com" always_nxdomain
 local-zone: "mypixel.com" always_nxdomain
 local-zone: "mzmm.online" always_nxdomain
 local-zone: "n9s74npl.de" always_nxdomain
+local-zone: "nabdconf.io" always_nxdomain
 local-zone: "nabs.org.uk" always_nxdomain
 local-zone: "nadaseo.com" always_nxdomain
 local-zone: "naewynn.com" always_nxdomain
@@ -5735,6 +5737,7 @@ local-zone: "321blink.com" always_nxdomain
 local-zone: "33across.com" always_nxdomain
 local-zone: "360yield.com" always_nxdomain
 local-zone: "3dxbucks.com" always_nxdomain
+local-zone: "3planeten.de" always_nxdomain
 local-zone: "5ivempls.com" always_nxdomain
 local-zone: "5stonead.com" always_nxdomain
 local-zone: "5visions.com" always_nxdomain
@@ -8928,6 +8931,7 @@ local-zone: "modoro360.com" always_nxdomain
 local-zone: "molocoads.com" always_nxdomain
 local-zone: "monetizer.com" always_nxdomain
 local-zone: "moneycult.com" always_nxdomain
+local-zone: "moritz-ads.de" always_nxdomain
 local-zone: "moshimoshi.in" always_nxdomain
 local-zone: "mostdishy.com" always_nxdomain
 local-zone: "motusmedia.co" always_nxdomain
@@ -21748,6 +21752,7 @@ local-zone: "adserver.jetsetmagazine.net" always_nxdomain
 local-zone: "adserver.kuhn-fachmedien.de" always_nxdomain
 local-zone: "adserver.marathisrushti.com" always_nxdomain
 local-zone: "adserver.matthaesmedien.net" always_nxdomain
+local-zone: "ad-server.melwheelerinc.com" always_nxdomain
 local-zone: "adserver.moneysavingmom.com" always_nxdomain
 local-zone: "adserver.musicpublishers.nl" always_nxdomain
 local-zone: "adserver.oregonbusiness.com" always_nxdomain

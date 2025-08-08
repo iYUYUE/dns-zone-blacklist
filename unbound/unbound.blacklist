@@ -358,6 +358,7 @@ local-zone: "admob.ru" always_refuse
 local-zone: "admob.sg" always_refuse
 local-zone: "admob.tw" always_refuse
 local-zone: "admob.vn" always_refuse
+local-zone: "admrl.io" always_refuse
 local-zone: "ad-mv.de" always_refuse
 local-zone: "adnet.am" always_refuse
 local-zone: "adnet.bg" always_refuse
@@ -4929,6 +4930,7 @@ local-zone: "myleadx.com" always_refuse
 local-zone: "mypixel.com" always_refuse
 local-zone: "mzmm.online" always_refuse
 local-zone: "n9s74npl.de" always_refuse
+local-zone: "nabdconf.io" always_refuse
 local-zone: "nabs.org.uk" always_refuse
 local-zone: "nadaseo.com" always_refuse
 local-zone: "naewynn.com" always_refuse
@@ -5735,6 +5737,7 @@ local-zone: "321blink.com" always_refuse
 local-zone: "33across.com" always_refuse
 local-zone: "360yield.com" always_refuse
 local-zone: "3dxbucks.com" always_refuse
+local-zone: "3planeten.de" always_refuse
 local-zone: "5ivempls.com" always_refuse
 local-zone: "5stonead.com" always_refuse
 local-zone: "5visions.com" always_refuse
@@ -8928,6 +8931,7 @@ local-zone: "modoro360.com" always_refuse
 local-zone: "molocoads.com" always_refuse
 local-zone: "monetizer.com" always_refuse
 local-zone: "moneycult.com" always_refuse
+local-zone: "moritz-ads.de" always_refuse
 local-zone: "moshimoshi.in" always_refuse
 local-zone: "mostdishy.com" always_refuse
 local-zone: "motusmedia.co" always_refuse
@@ -21748,6 +21752,7 @@ local-zone: "adserver.jetsetmagazine.net" always_refuse
 local-zone: "adserver.kuhn-fachmedien.de" always_refuse
 local-zone: "adserver.marathisrushti.com" always_refuse
 local-zone: "adserver.matthaesmedien.net" always_refuse
+local-zone: "ad-server.melwheelerinc.com" always_refuse
 local-zone: "adserver.moneysavingmom.com" always_refuse
 local-zone: "adserver.musicpublishers.nl" always_refuse
 local-zone: "adserver.oregonbusiness.com" always_refuse
