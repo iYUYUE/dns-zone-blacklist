@@ -3836,6 +3836,7 @@ local-zone: "adhaven.com" always_refuse
 local-zone: "adhooah.com" always_refuse
 local-zone: "adhouse.pro" always_refuse
 local-zone: "ad.hqew.com" always_refuse
+local-zone: "adhub.media" always_refuse
 local-zone: "adhunter.de" always_refuse
 local-zone: "ad.hutor.ru" always_refuse
 local-zone: "ad.ihata.ma" always_refuse
@@ -14609,6 +14610,7 @@ local-zone: "vast.panet.co.il" always_refuse
 local-zone: "venatusmedia.com" always_refuse
 local-zone: "veominfotech.com" always_refuse
 local-zone: "vibrantmedia.com" always_refuse
+local-zone: "videoadstech.org" always_refuse
 local-zone: "videocdnshop.com" always_refuse
 local-zone: "violet-strip.pro" always_refuse
 local-zone: "visariomedia.com" always_refuse

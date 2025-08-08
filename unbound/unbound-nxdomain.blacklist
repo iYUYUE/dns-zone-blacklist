@@ -3836,6 +3836,7 @@ local-zone: "adhaven.com" always_nxdomain
 local-zone: "adhooah.com" always_nxdomain
 local-zone: "adhouse.pro" always_nxdomain
 local-zone: "ad.hqew.com" always_nxdomain
+local-zone: "adhub.media" always_nxdomain
 local-zone: "adhunter.de" always_nxdomain
 local-zone: "ad.hutor.ru" always_nxdomain
 local-zone: "ad.ihata.ma" always_nxdomain
@@ -14609,6 +14610,7 @@ local-zone: "vast.panet.co.il" always_nxdomain
 local-zone: "venatusmedia.com" always_nxdomain
 local-zone: "veominfotech.com" always_nxdomain
 local-zone: "vibrantmedia.com" always_nxdomain
+local-zone: "videoadstech.org" always_nxdomain
 local-zone: "videocdnshop.com" always_nxdomain
 local-zone: "violet-strip.pro" always_nxdomain
 local-zone: "visariomedia.com" always_nxdomain
