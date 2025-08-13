@@ -8412,6 +8412,7 @@ local-zone: "chinivupo.pro" always_refuse
 local-zone: "chirpyweb.com" always_refuse
 local-zone: "churchads.net" always_refuse
 local-zone: "clbirdcod.com" always_refuse
+local-zone: "clear-ads.com" always_refuse
 local-zone: "clearitem.pro" always_refuse
 local-zone: "cleverads.com" always_refuse
 local-zone: "click2sell.eu" always_refuse
@@ -15780,6 +15781,7 @@ local-zone: "responsiveads.com" always_refuse
 local-zone: "reve.leafmedia.io" always_refuse
 local-zone: "revenuemantra.com" always_refuse
 local-zone: "revive.5gmedia.bg" always_refuse
+local-zone: "reviveadserver.ru" always_refuse
 local-zone: "revive.atime.live" always_refuse
 local-zone: "revive.dubcnm.com" always_refuse
 local-zone: "revive.inidis.com" always_refuse
@@ -16169,6 +16171,7 @@ local-zone: "adserver.jetfly.hu" always_refuse
 local-zone: "adserver.jforum.fr" always_refuse
 local-zone: "adserver.joomla.pl" always_refuse
 local-zone: "adserver.juhub.com" always_refuse
+local-zone: "adserver.klaxon.pl" always_refuse
 local-zone: "adserver.klinfo.hr" always_refuse
 local-zone: "adserver.land24.de" always_refuse
 local-zone: "adserver.lulop.com" always_refuse
@@ -16414,6 +16417,7 @@ local-zone: "banner.reinstil.de" always_refuse
 local-zone: "banners.amiset.com" always_refuse
 local-zone: "banners.eranova.bg" always_refuse
 local-zone: "banners.incore.com" always_refuse
+local-zone: "banners.infurma.es" always_refuse
 local-zone: "banner.skisport.dk" always_refuse
 local-zone: "banner.vogel-it.de" always_refuse
 local-zone: "bauertrader.com.au" always_refuse
@@ -19080,6 +19084,7 @@ local-zone: "adserver3.bigpress.es" always_refuse
 local-zone: "adserver.440music.com" always_refuse
 local-zone: "adserver.4x4earth.com" always_refuse
 local-zone: "adserver.aktuell4u.de" always_refuse
+local-zone: "adserver.arcast.cloud" always_refuse
 local-zone: "adserver.ayudaskit.es" always_refuse
 local-zone: "adserver.basupply.com" always_refuse
 local-zone: "adserver.bbjetlag.com" always_refuse
@@ -20418,6 +20423,7 @@ local-zone: "adserver.bloodhorse.com" always_refuse
 local-zone: "adserver.cheapbooks.com" always_refuse
 local-zone: "adserver.contents.media" always_refuse
 local-zone: "adserver.divanin.com.ua" always_refuse
+local-zone: "adserver.eastsierra.net" always_refuse
 local-zone: "adserver.egospodarka.pl" always_refuse
 local-zone: "adserver.elhorizonte.mx" always_refuse
 local-zone: "adserver.everypixel.com" always_refuse
@@ -20901,6 +20907,7 @@ local-zone: "adserver.autotecnica.org" always_refuse
 local-zone: "adserver.bbibiofuels.com" always_refuse
 local-zone: "adserver.biz-media.co.uk" always_refuse
 local-zone: "adserver.cpnet-works.com" always_refuse
+local-zone: "adserver.cuartoscuro.com" always_refuse
 local-zone: "adserver.daandelange.com" always_refuse
 local-zone: "adserver.declikmedia.com" always_refuse
 local-zone: "adserver.designagency.gr" always_refuse
@@ -20925,11 +20932,13 @@ local-zone: "adserver.musiccraft24.de" always_refuse
 local-zone: "adserver.nicheparade.com" always_refuse
 local-zone: "adserver.patrasevents.gr" always_refuse
 local-zone: "adserver.proyectanda.com" always_refuse
+local-zone: "adserver.snewsonline.com" always_refuse
 local-zone: "adserver.teleport2001.ru" always_refuse
 local-zone: "adserver.thisdaylive.com" always_refuse
 local-zone: "adserver.travelreport.mx" always_refuse
 local-zone: "adserver.unicanal.com.py" always_refuse
 local-zone: "adserver.viata-libera.ro" always_refuse
+local-zone: "adserver.visionatline.nl" always_refuse
 local-zone: "adserver.webcastmedia.hu" always_refuse
 local-zone: "ads.estrenarvivienda.com" always_refuse
 local-zone: "ads.felegyhazikozlony.hu" always_refuse
@@ -21309,6 +21318,7 @@ local-zone: "adserver.puertoparrot.com" always_refuse
 local-zone: "adserver.regionglobal.com" always_refuse
 local-zone: "adserver.strogo-zaupno.si" always_refuse
 local-zone: "adserver.wolterskluwer.pl" always_refuse
+local-zone: "adserver.xornaldelugo.gal" always_refuse
 local-zone: "adserver.zeichensetzen.de" always_refuse
 local-zone: "adserv.interactivebit.com" always_refuse
 local-zone: "ads.filezilla-project.org" always_refuse
@@ -21464,6 +21474,7 @@ local-zone: "pubmatic-match.dotomi.com" always_refuse
 local-zone: "push.asahiinteractive.com" always_refuse
 local-zone: "push.dijitalvarliklar.com" always_refuse
 local-zone: "pusher.seamlessqrcode.com" always_refuse
+local-zone: "push.healthcareontime.com" always_refuse
 local-zone: "push.services.mozilla.com" always_refuse
 local-zone: "question.hot-step-mom.com" always_refuse
 local-zone: "rebelinteractivegroup.com" always_refuse
@@ -21582,6 +21593,7 @@ local-zone: "adserver.oliveoiltimes.com" always_refuse
 local-zone: "adserver.online-nutzer.com" always_refuse
 local-zone: "adserver.partcommunity.com" always_refuse
 local-zone: "adserver.pramnoshosting.gr" always_refuse
+local-zone: "adserver.proximitas.com.ar" always_refuse
 local-zone: "adserver.publiservicio.com" always_refuse
 local-zone: "adserver.reporterpb.com.br" always_refuse
 local-zone: "adserver.rsmediaserver.com" always_refuse
@@ -21631,6 +21643,7 @@ local-zone: "baitu1llbkotsfthllcjeg.com" always_refuse
 local-zone: "banner.albatrostrading.com" always_refuse
 local-zone: "banner.atribunanews.com.br" always_refuse
 local-zone: "banner.beach-volleyball.de" always_refuse
+local-zone: "banneri.kiddoie.host25.com" always_refuse
 local-zone: "banners.commissionsinc.com" always_refuse
 local-zone: "banners.quru-analytics.com" always_refuse
 local-zone: "banners.trimarkdigital.com" always_refuse
@@ -22910,6 +22923,7 @@ local-zone: "seal-alaskaoregonwesternwashington.bbb.org" always_refuse
 local-zone: "seal-newmexicoandsouthwestcolorado.bbb.org" always_refuse
 local-zone: "vnsguanggaotu.oss-cn-hangzhou.aliyuncs.com" always_refuse
 local-zone: "adimages.startribune.com.cdn.cloudflare.net" always_refuse
+local-zone: "adserver-constructovoirvert.agencetolle.com" always_refuse
 local-zone: "ads.sportslocalmedia.com.web.cdn.anycast.me" always_refuse
 local-zone: "confiant-integrations.global.ssl.fastly.net" always_refuse
 local-zone: "kk-1316246243.cos.ap-guangzhou.myqcloud.com" always_refuse
