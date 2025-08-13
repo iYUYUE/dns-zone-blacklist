@@ -22865,6 +22865,7 @@ zone "itv-tier1.ireland.delivery.aimatch.net" { type master; notify no; file "nu
 zone "kytupian1.oss-cn-hongkong.aliyuncs.com" { type master; notify no; file "null.zone.file"; };
 zone "mediatradecraft-com.videoplayerhub.com" { type master; notify no; file "null.zone.file"; };
 zone "native-ads-events-api2.c4s-rd.services" { type master; notify no; file "null.zone.file"; };
+zone "notifications-ueeshp-pa.googleapis.com" { type master; notify no; file "null.zone.file"; };
 zone "nudiepromo.nyc3.digitaloceanspaces.com" { type master; notify no; file "null.zone.file"; };
 zone "publicidade.revistacafeicultura.com.br" { type master; notify no; file "null.zone.file"; };
 zone "push-notification-aca6f.firebaseio.com" { type master; notify no; file "null.zone.file"; };

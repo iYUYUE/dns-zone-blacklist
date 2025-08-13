@@ -22865,6 +22865,7 @@ local-zone: "itv-tier1.ireland.delivery.aimatch.net" always_nxdomain
 local-zone: "kytupian1.oss-cn-hongkong.aliyuncs.com" always_nxdomain
 local-zone: "mediatradecraft-com.videoplayerhub.com" always_nxdomain
 local-zone: "native-ads-events-api2.c4s-rd.services" always_nxdomain
+local-zone: "notifications-ueeshp-pa.googleapis.com" always_nxdomain
 local-zone: "nudiepromo.nyc3.digitaloceanspaces.com" always_nxdomain
 local-zone: "publicidade.revistacafeicultura.com.br" always_nxdomain
 local-zone: "push-notification-aca6f.firebaseio.com" always_nxdomain
