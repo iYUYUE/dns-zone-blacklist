@@ -9506,7 +9506,6 @@ zone "tradblock.com" { type master; notify no; file "null.zone.file"; };
 zone "tradeleads.su" { type master; notify no; file "null.zone.file"; };
 zone "trafficox.com" { type master; notify no; file "null.zone.file"; };
 zone "trafflife.com" { type master; notify no; file "null.zone.file"; };
-zone "transmit.live" { type master; notify no; file "null.zone.file"; };
 zone "travelpad.com" { type master; notify no; file "null.zone.file"; };
 zone "trc.lhmos.com" { type master; notify no; file "null.zone.file"; };
 zone "trecurlik.com" { type master; notify no; file "null.zone.file"; };
@@ -22836,6 +22835,7 @@ zone "adserver.conservativenewsandviews.com" { type master; notify no; file "nul
 zone "adserver.interstateelectricsupply.com" { type master; notify no; file "null.zone.file"; };
 zone "adserver-public-cdn.afd.azureedge.net" { type master; notify no; file "null.zone.file"; };
 zone "advertising-module.api.dpgmedia.cloud" { type master; notify no; file "null.zone.file"; };
+zone "blackadnet.s3.us-east-2.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "ccpa-no-script.psg.nexstardigital.net" { type master; notify no; file "null.zone.file"; };
 zone "factor-service.prod.voltaxservices.io" { type master; notify no; file "null.zone.file"; };
 zone "frontierconsul02.tsunagaru-office.com" { type master; notify no; file "null.zone.file"; };

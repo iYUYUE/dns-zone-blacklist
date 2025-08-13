@@ -19018,8 +19018,6 @@ trafficox.com CNAME .
 *.trafficox.com CNAME .
 trafflife.com CNAME .
 *.trafflife.com CNAME .
-transmit.live CNAME .
-*.transmit.live CNAME .
 travelpad.com CNAME .
 *.travelpad.com CNAME .
 trc.lhmos.com CNAME .
@@ -45678,6 +45676,8 @@ adserver-public-cdn.afd.azureedge.net CNAME .
 *.adserver-public-cdn.afd.azureedge.net CNAME .
 advertising-module.api.dpgmedia.cloud CNAME .
 *.advertising-module.api.dpgmedia.cloud CNAME .
+blackadnet.s3.us-east-2.amazonaws.com CNAME .
+*.blackadnet.s3.us-east-2.amazonaws.com CNAME .
 ccpa-no-script.psg.nexstardigital.net CNAME .
 *.ccpa-no-script.psg.nexstardigital.net CNAME .
 factor-service.prod.voltaxservices.io CNAME .

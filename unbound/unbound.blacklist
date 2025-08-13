@@ -9506,7 +9506,6 @@ local-zone: "tradblock.com" always_refuse
 local-zone: "tradeleads.su" always_refuse
 local-zone: "trafficox.com" always_refuse
 local-zone: "trafflife.com" always_refuse
-local-zone: "transmit.live" always_refuse
 local-zone: "travelpad.com" always_refuse
 local-zone: "trc.lhmos.com" always_refuse
 local-zone: "trecurlik.com" always_refuse
@@ -22836,6 +22835,7 @@ local-zone: "adserver.conservativenewsandviews.com" always_refuse
 local-zone: "adserver.interstateelectricsupply.com" always_refuse
 local-zone: "adserver-public-cdn.afd.azureedge.net" always_refuse
 local-zone: "advertising-module.api.dpgmedia.cloud" always_refuse
+local-zone: "blackadnet.s3.us-east-2.amazonaws.com" always_refuse
 local-zone: "ccpa-no-script.psg.nexstardigital.net" always_refuse
 local-zone: "factor-service.prod.voltaxservices.io" always_refuse
 local-zone: "frontierconsul02.tsunagaru-office.com" always_refuse

@@ -9506,7 +9506,6 @@ local-zone: "tradblock.com" always_nxdomain
 local-zone: "tradeleads.su" always_nxdomain
 local-zone: "trafficox.com" always_nxdomain
 local-zone: "trafflife.com" always_nxdomain
-local-zone: "transmit.live" always_nxdomain
 local-zone: "travelpad.com" always_nxdomain
 local-zone: "trc.lhmos.com" always_nxdomain
 local-zone: "trecurlik.com" always_nxdomain
@@ -22836,6 +22835,7 @@ local-zone: "adserver.conservativenewsandviews.com" always_nxdomain
 local-zone: "adserver.interstateelectricsupply.com" always_nxdomain
 local-zone: "adserver-public-cdn.afd.azureedge.net" always_nxdomain
 local-zone: "advertising-module.api.dpgmedia.cloud" always_nxdomain
+local-zone: "blackadnet.s3.us-east-2.amazonaws.com" always_nxdomain
 local-zone: "ccpa-no-script.psg.nexstardigital.net" always_nxdomain
 local-zone: "factor-service.prod.voltaxservices.io" always_nxdomain
 local-zone: "frontierconsul02.tsunagaru-office.com" always_nxdomain
