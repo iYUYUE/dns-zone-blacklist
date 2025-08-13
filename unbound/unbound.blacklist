@@ -11694,6 +11694,8 @@ local-zone: "adktrack112.xyz" always_refuse
 local-zone: "adktrack115.xyz" always_refuse
 local-zone: "adktrack116.xyz" always_refuse
 local-zone: "adktrack117.xyz" always_refuse
+local-zone: "adktrack118.xyz" always_refuse
+local-zone: "adktrack125.xyz" always_refuse
 local-zone: "ad.kurocore.com" always_refuse
 local-zone: "adleadevent.com" always_refuse
 local-zone: "adlightning.com" always_refuse
@@ -15403,6 +15405,7 @@ local-zone: "firstendpoint.com" always_refuse
 local-zone: "fitnessmapper.com" always_refuse
 local-zone: "flatironmedia.com" always_refuse
 local-zone: "flippedfunnel.com" always_refuse
+local-zone: "flow.caivdata.com" always_refuse
 local-zone: "flushingbeast.com" always_refuse
 local-zone: "flux-adserver.com" always_refuse
 local-zone: "flyxmarketing.com" always_refuse
@@ -15542,6 +15545,7 @@ local-zone: "ksync.bidmatic.io" always_refuse
 local-zone: "kta.etherscan.com" always_refuse
 local-zone: "l7advertising.com" always_refuse
 local-zone: "laurenlabeled.com" always_refuse
+local-zone: "lc-app.pimory.com" always_refuse
 local-zone: "leadgenfinder.com" always_refuse
 local-zone: "legolas-media.com" always_refuse
 local-zone: "lem.nouvelobs.com" always_refuse
@@ -21345,6 +21349,7 @@ local-zone: "api.bluerunningshadow.com" always_refuse
 local-zone: "api.jumpingapplecloud.com" always_refuse
 local-zone: "api.mobula.sdk.duapps.com" always_refuse
 local-zone: "api.sleepingrockhappy.com" always_refuse
+local-zone: "app.kreatiandoestudio.com" always_refuse
 local-zone: "arthacreativeservices.com" always_refuse
 local-zone: "assets.sizedoesmatter.com" always_refuse
 local-zone: "associate.foreclosure.com" always_refuse
