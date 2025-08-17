@@ -21754,6 +21754,7 @@ local-zone: "sponsors.compactequip.com" always_refuse
 local-zone: "sponsors.ctnewsjunkie.com" always_refuse
 local-zone: "static-cache.tezfiles.com" always_refuse
 local-zone: "static.insideradverts.com" always_refuse
+local-zone: "stats-dss4045-serving.com" always_refuse
 local-zone: "stats-dss4049-serving.com" always_refuse
 local-zone: "sync.etalonconsulting.com" always_refuse
 local-zone: "syndication.buzzworthy.tv" always_refuse

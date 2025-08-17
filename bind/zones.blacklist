@@ -21754,6 +21754,7 @@ zone "sponsors.compactequip.com" { type master; notify no; file "null.zone.file"
 zone "sponsors.ctnewsjunkie.com" { type master; notify no; file "null.zone.file"; };
 zone "static-cache.tezfiles.com" { type master; notify no; file "null.zone.file"; };
 zone "static.insideradverts.com" { type master; notify no; file "null.zone.file"; };
+zone "stats-dss4045-serving.com" { type master; notify no; file "null.zone.file"; };
 zone "stats-dss4049-serving.com" { type master; notify no; file "null.zone.file"; };
 zone "sync.etalonconsulting.com" { type master; notify no; file "null.zone.file"; };
 zone "syndication.buzzworthy.tv" { type master; notify no; file "null.zone.file"; };
