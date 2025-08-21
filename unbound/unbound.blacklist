@@ -14942,6 +14942,7 @@ local-zone: "ad.deli-fuzoku.jp" always_refuse
 local-zone: "ad.diaosiquan.com" always_refuse
 local-zone: "ad.dl.mainpost.de" always_refuse
 local-zone: "adebis.chojyu.com" always_refuse
+local-zone: "adebis.curilla.jp" always_refuse
 local-zone: "adebis.reruju.com" always_refuse
 local-zone: "adebis.shupita.jp" always_refuse
 local-zone: "adebis.thd-web.jp" always_refuse
@@ -16233,11 +16234,13 @@ local-zone: "ad.demowebapps.com" always_refuse
 local-zone: "ad.dunaujvaros.com" always_refuse
 local-zone: "adebis1.1rnavi.com" always_refuse
 local-zone: "adebis.bathclin.jp" always_refuse
+local-zone: "adebis.gfschool.jp" always_refuse
 local-zone: "adebis.gogin.co.jp" always_refuse
 local-zone: "adebis.kirin.co.jp" always_refuse
 local-zone: "adebis.shupita.com" always_refuse
 local-zone: "adebis.s-toushi.jp" always_refuse
 local-zone: "adebis.tspot.co.jp" always_refuse
+local-zone: "adebis.yourmeal.jp" always_refuse
 local-zone: "adexpertsmedia.com" always_refuse
 local-zone: "ad.goclassic.co.kr" always_refuse
 local-zone: "ad.hankookilbo.com" always_refuse
@@ -18387,6 +18390,7 @@ local-zone: "adebis.entetsu.co.jp" always_refuse
 local-zone: "adebis.muscledeli.jp" always_refuse
 local-zone: "adebis.palatinose.jp" always_refuse
 local-zone: "adebis.tipness.co.jp" always_refuse
+local-zone: "adebis.toushiman.com" always_refuse
 local-zone: "adebis.toushi-up.com" always_refuse
 local-zone: "ad.etnetchina.com.cn" always_refuse
 local-zone: "ad.ichiban-boshi.com" always_refuse
@@ -20562,7 +20566,9 @@ local-zone: "adebis8628.matsui.co.jp" always_refuse
 local-zone: "adebis-cname.jobmall.jp" always_refuse
 local-zone: "adebis.daiwahouse.co.jp" always_refuse
 local-zone: "adebis.gfs-official.com" always_refuse
+local-zone: "adebis.invest-online.jp" always_refuse
 local-zone: "adebis.kirei-journal.jp" always_refuse
+local-zone: "adebis.perfect-space.jp" always_refuse
 local-zone: "adebis.toitoitoi.clinic" always_refuse
 local-zone: "ad.enviedebienmanger.fr" always_refuse
 local-zone: "ad.gadzety.facetpo40.pl" always_refuse
@@ -21051,6 +21057,7 @@ local-zone: "worldbannerexchange.com" always_refuse
 local-zone: "worldwidedigitalads.com" always_refuse
 local-zone: "xenmediamarketing.co.uk" always_refuse
 local-zone: "xml.goneawa-serving.com" always_refuse
+local-zone: "xml.indforh-serving.com" always_refuse
 local-zone: "xml.safesearchguard.com" always_refuse
 local-zone: "xml.serving-dveryse.com" always_refuse
 local-zone: "xml-v4.ngcluster-c.site" always_refuse
@@ -21066,6 +21073,7 @@ local-zone: "acquisitionstudio.com.au" always_refuse
 local-zone: "ad2.bestoflakegeneva.com" always_refuse
 local-zone: "adbundle.empowerlocal.co" always_refuse
 local-zone: "ad-constructor.yandex.ru" always_refuse
+local-zone: "adebis.blackboard60s.com" always_refuse
 local-zone: "ad-ebis.mynavi-job20s.jp" always_refuse
 local-zone: "adimages.startribune.com" always_refuse
 local-zone: "ad.jeune-independant.net" always_refuse
@@ -21461,6 +21469,7 @@ local-zone: "ad4989.xcache.kinxcdn.com" always_refuse
 local-zone: "ad-approvals.happycog.com" always_refuse
 local-zone: "adclick.snipesearch.co.uk" always_refuse
 local-zone: "adconsole.lot-tissimo.com" always_refuse
+local-zone: "adebis2.line-property.com" always_refuse
 local-zone: "adebis.leben-establish.jp" always_refuse
 local-zone: "adebis.rishiria-furel.com" always_refuse
 local-zone: "adebis.zenyaku-hbshop.com" always_refuse
@@ -22103,6 +22112,7 @@ local-zone: "conuber.getyoursafelink.com" always_refuse
 local-zone: "cp.backenmachtgluecklich.de" always_refuse
 local-zone: "cs0008sbeda.moromi-koso.com" always_refuse
 local-zone: "cs0010sbeda.theory-diet.com" always_refuse
+local-zone: "cs2087sbeda.haken-kanri.net" always_refuse
 local-zone: "dealswidget.bestreviews.com" always_refuse
 local-zone: "delivery-ci360.infos.dkb.de" always_refuse
 local-zone: "dev.verticalmediabrands.com" always_refuse
@@ -23171,6 +23181,7 @@ local-zone: "prod.us-east-1.cxm-bcn.publisher-services.amazon.dev" always_refuse
 local-zone: "dev-vertiv-xrwidgets-enh0cfcpfmhwh0az.z01.azurefd.net" always_refuse
 local-zone: "forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com" always_refuse
 local-zone: "prebid-config-open-data.s3.eu-central-1.amazonaws.com" always_refuse
+local-zone: "rank.xn--q9js3lht3ch8cv8a227v79jxl6ewya3lo91swn7c.com" always_refuse
 local-zone: "survey-alb-new-1082488714.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "asia-southeast1-gae-redirector-prod.cloudfunctions.net" always_refuse
 local-zone: "adwombat-services-470191665.us-east-1.elb.amazonaws.com" always_refuse
