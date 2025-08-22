@@ -1612,6 +1612,7 @@ local-zone: "valuad.mx" always_refuse
 local-zone: "vcxzp.com" always_refuse
 local-zone: "vda.wp.pl" always_refuse
 local-zone: "vdbaa.com" always_refuse
+local-zone: "veezy.one" always_refuse
 local-zone: "velti.com" always_refuse
 local-zone: "veoxa.com" always_refuse
 local-zone: "verve.com" always_refuse
@@ -4305,6 +4306,7 @@ local-zone: "arkeero.com" always_refuse
 local-zone: "arkeleu.com" always_refuse
 local-zone: "armf7m02.de" always_refuse
 local-zone: "aroscop.com" always_refuse
+local-zone: "artefact.ua" always_refuse
 local-zone: "artkade.com" always_refuse
 local-zone: "arunsign.in" always_refuse
 local-zone: "asia-ad.com" always_refuse
@@ -9691,6 +9693,7 @@ local-zone: "wawallama.com" always_refuse
 local-zone: "waxsirens.com" always_refuse
 local-zone: "waytogrow.com" always_refuse
 local-zone: "wearemaze.com" always_refuse
+local-zone: "weatherads.io" always_refuse
 local-zone: "webengage.com" always_refuse
 local-zone: "webpushly.com" always_refuse
 local-zone: "webstats1.com" always_refuse
@@ -14575,6 +14578,7 @@ local-zone: "roadsmindset.com" always_refuse
 local-zone: "robotgarages.com" always_refuse
 local-zone: "roseavemedia.com" always_refuse
 local-zone: "rs2.hometalk.com" always_refuse
+local-zone: "rs3.hometalk.com" always_refuse
 local-zone: "rs-stripe.cf.org" always_refuse
 local-zone: "rtb.optinian.com" always_refuse
 local-zone: "rural-report.pro" always_refuse

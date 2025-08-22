@@ -1612,6 +1612,7 @@ local-zone: "valuad.mx" always_nxdomain
 local-zone: "vcxzp.com" always_nxdomain
 local-zone: "vda.wp.pl" always_nxdomain
 local-zone: "vdbaa.com" always_nxdomain
+local-zone: "veezy.one" always_nxdomain
 local-zone: "velti.com" always_nxdomain
 local-zone: "veoxa.com" always_nxdomain
 local-zone: "verve.com" always_nxdomain
@@ -4305,6 +4306,7 @@ local-zone: "arkeero.com" always_nxdomain
 local-zone: "arkeleu.com" always_nxdomain
 local-zone: "armf7m02.de" always_nxdomain
 local-zone: "aroscop.com" always_nxdomain
+local-zone: "artefact.ua" always_nxdomain
 local-zone: "artkade.com" always_nxdomain
 local-zone: "arunsign.in" always_nxdomain
 local-zone: "asia-ad.com" always_nxdomain
@@ -9691,6 +9693,7 @@ local-zone: "wawallama.com" always_nxdomain
 local-zone: "waxsirens.com" always_nxdomain
 local-zone: "waytogrow.com" always_nxdomain
 local-zone: "wearemaze.com" always_nxdomain
+local-zone: "weatherads.io" always_nxdomain
 local-zone: "webengage.com" always_nxdomain
 local-zone: "webpushly.com" always_nxdomain
 local-zone: "webstats1.com" always_nxdomain
@@ -14575,6 +14578,7 @@ local-zone: "roadsmindset.com" always_nxdomain
 local-zone: "robotgarages.com" always_nxdomain
 local-zone: "roseavemedia.com" always_nxdomain
 local-zone: "rs2.hometalk.com" always_nxdomain
+local-zone: "rs3.hometalk.com" always_nxdomain
 local-zone: "rs-stripe.cf.org" always_nxdomain
 local-zone: "rtb.optinian.com" always_nxdomain
 local-zone: "rural-report.pro" always_nxdomain
