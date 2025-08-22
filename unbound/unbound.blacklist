@@ -14574,6 +14574,7 @@ local-zone: "rivertraffic.com" always_refuse
 local-zone: "roadsmindset.com" always_refuse
 local-zone: "robotgarages.com" always_refuse
 local-zone: "roseavemedia.com" always_refuse
+local-zone: "rs2.hometalk.com" always_refuse
 local-zone: "rs-stripe.cf.org" always_refuse
 local-zone: "rtb.optinian.com" always_refuse
 local-zone: "rural-report.pro" always_refuse
@@ -19760,6 +19761,8 @@ local-zone: "revolving-lecture.pro" always_refuse
 local-zone: "rewards.mythcraft.com" always_refuse
 local-zone: "rotor.overclockers.ru" always_refuse
 local-zone: "royalrevenuerider.com" always_refuse
+local-zone: "rs2.foodtalkdaily.com" always_refuse
+local-zone: "rs2.redesigndaily.com" always_refuse
 local-zone: "rs-stripe.almanac.com" always_refuse
 local-zone: "rs-stripe.barrons.com" always_refuse
 local-zone: "rs-stripe.digiday.com" always_refuse
