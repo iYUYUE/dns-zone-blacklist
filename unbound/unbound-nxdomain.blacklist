@@ -7006,6 +7006,7 @@ local-zone: "maricich.com" always_nxdomain
 local-zone: "mas92trk.com" always_nxdomain
 local-zone: "masakeku.com" always_nxdomain
 local-zone: "ma-static.ru" always_nxdomain
+local-zone: "matrixads.in" always_nxdomain
 local-zone: "maxetise.net" always_nxdomain
 local-zone: "maxforta.com" always_nxdomain
 local-zone: "maximally.io" always_nxdomain
@@ -13684,7 +13685,6 @@ local-zone: "adslotmarket.com" always_nxdomain
 local-zone: "ads.makfudbal.mk" always_nxdomain
 local-zone: "ads.makhsoft.com" always_nxdomain
 local-zone: "ad.smartnews.net" always_nxdomain
-local-zone: "ads.matrixads.in" always_nxdomain
 local-zone: "ads.metrike.link" always_nxdomain
 local-zone: "ads.metronome.ge" always_nxdomain
 local-zone: "ads.mnogufina.mk" always_nxdomain

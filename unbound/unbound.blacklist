@@ -7006,6 +7006,7 @@ local-zone: "maricich.com" always_refuse
 local-zone: "mas92trk.com" always_refuse
 local-zone: "masakeku.com" always_refuse
 local-zone: "ma-static.ru" always_refuse
+local-zone: "matrixads.in" always_refuse
 local-zone: "maxetise.net" always_refuse
 local-zone: "maxforta.com" always_refuse
 local-zone: "maximally.io" always_refuse
@@ -13684,7 +13685,6 @@ local-zone: "adslotmarket.com" always_refuse
 local-zone: "ads.makfudbal.mk" always_refuse
 local-zone: "ads.makhsoft.com" always_refuse
 local-zone: "ad.smartnews.net" always_refuse
-local-zone: "ads.matrixads.in" always_refuse
 local-zone: "ads.metrike.link" always_refuse
 local-zone: "ads.metronome.ge" always_refuse
 local-zone: "ads.mnogufina.mk" always_refuse
