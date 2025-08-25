@@ -1172,6 +1172,7 @@ local-zone: "ggsfq.com" always_refuse
 local-zone: "ggsfq.xyz" always_refuse
 local-zone: "ghbps.com" always_refuse
 local-zone: "g.ign.com" always_refuse
+local-zone: "gjl15.com" always_refuse
 local-zone: "gkksi.com" always_refuse
 local-zone: "glawi.com" always_refuse
 local-zone: "glize.com" always_refuse
@@ -4990,6 +4991,7 @@ local-zone: "netpeak.net" always_refuse
 local-zone: "netstam.com" always_refuse
 local-zone: "newcard.pro" always_refuse
 local-zone: "newdin.name" always_refuse
+local-zone: "newmedia.az" always_refuse
 local-zone: "newsroom.bi" always_refuse
 local-zone: "newzedd.com" always_refuse
 local-zone: "nextsale.io" always_refuse
@@ -9810,6 +9812,7 @@ local-zone: "a4.online24.pl" always_refuse
 local-zone: "a614.mlive.com" always_refuse
 local-zone: "a7i02p23sj.xyz" always_refuse
 local-zone: "aa665599aa.com" always_refuse
+local-zone: "aa87313178.com" always_refuse
 local-zone: "aa889955aa.com" always_refuse
 local-zone: "a.actualno.com" always_refuse
 local-zone: "aa.forwank.com" always_refuse
@@ -10353,6 +10356,8 @@ local-zone: "bannersetje.nl" always_refuse
 local-zone: "bannerwave.com" always_refuse
 local-zone: "basebanner.com" always_refuse
 local-zone: "baynetfuse.com" always_refuse
+local-zone: "bb77393629.com" always_refuse
+local-zone: "bb82195965.com" always_refuse
 local-zone: "bbn.img.com.ua" always_refuse
 local-zone: "bdadagency.com" always_refuse
 local-zone: "beachfront.com" always_refuse
@@ -11712,6 +11717,9 @@ local-zone: "aaa.aqualink.tv" always_refuse
 local-zone: "a-affiliate.net" always_refuse
 local-zone: "aaf-houston.net" always_refuse
 local-zone: "aasthaad.com.np" always_refuse
+local-zone: "abc12385587.com" always_refuse
+local-zone: "abc27661958.com" always_refuse
+local-zone: "abc67758729.com" always_refuse
 local-zone: "abc.superbet.rs" always_refuse
 local-zone: "abraco-debra.be" always_refuse
 local-zone: "accesstrade.net" always_refuse
