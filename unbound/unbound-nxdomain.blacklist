@@ -4317,6 +4317,7 @@ local-zone: "asiacpx.com" always_nxdomain
 local-zone: "as.meteo.sk" always_nxdomain
 local-zone: "asmrica.com" always_nxdomain
 local-zone: "asmwall.com" always_nxdomain
+local-zone: "astralab.ai" always_nxdomain
 local-zone: "a.svtrd.com" always_nxdomain
 local-zone: "ateam-ad.jp" always_nxdomain
 local-zone: "atf7aijh.de" always_nxdomain

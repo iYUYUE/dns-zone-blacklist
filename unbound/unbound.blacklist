@@ -4317,6 +4317,7 @@ local-zone: "asiacpx.com" always_refuse
 local-zone: "as.meteo.sk" always_refuse
 local-zone: "asmrica.com" always_refuse
 local-zone: "asmwall.com" always_refuse
+local-zone: "astralab.ai" always_refuse
 local-zone: "a.svtrd.com" always_refuse
 local-zone: "ateam-ad.jp" always_refuse
 local-zone: "atf7aijh.de" always_refuse
