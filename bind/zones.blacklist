@@ -2240,6 +2240,7 @@ zone "ajscdn.com" { type master; notify no; file "null.zone.file"; };
 zone "akohub.com" { type master; notify no; file "null.zone.file"; };
 zone "alenty.com" { type master; notify no; file "null.zone.file"; };
 zone "alephd.com" { type master; notify no; file "null.zone.file"; };
+zone "alflom.top" { type master; notify no; file "null.zone.file"; };
 zone "algorix.co" { type master; notify no; file "null.zone.file"; };
 zone "algovid.tv" { type master; notify no; file "null.zone.file"; };
 zone "aliwjo.com" { type master; notify no; file "null.zone.file"; };
