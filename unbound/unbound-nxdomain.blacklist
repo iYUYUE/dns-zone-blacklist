@@ -17082,6 +17082,7 @@ local-zone: "refbanners.website" always_nxdomain
 local-zone: "reflectormedia.com" always_nxdomain
 local-zone: "reg.ancensored.com" always_nxdomain
 local-zone: "regie.armenews.com" always_nxdomain
+local-zone: "reklaam.infoabi.ee" always_nxdomain
 local-zone: "reklama.flagman.bg" always_nxdomain
 local-zone: "reklam.turkmmo.com" always_nxdomain
 local-zone: "relateddigital.com" always_nxdomain

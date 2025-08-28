@@ -17082,6 +17082,7 @@ local-zone: "refbanners.website" always_refuse
 local-zone: "reflectormedia.com" always_refuse
 local-zone: "reg.ancensored.com" always_refuse
 local-zone: "regie.armenews.com" always_refuse
+local-zone: "reklaam.infoabi.ee" always_refuse
 local-zone: "reklama.flagman.bg" always_refuse
 local-zone: "reklam.turkmmo.com" always_refuse
 local-zone: "relateddigital.com" always_refuse
