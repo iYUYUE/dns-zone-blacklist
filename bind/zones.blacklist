@@ -11505,6 +11505,7 @@ zone "titan-man.info" { type master; notify no; file "null.zone.file"; };
 zone "tix.mutosa.net" { type master; notify no; file "null.zone.file"; };
 zone "tizermedia.net" { type master; notify no; file "null.zone.file"; };
 zone "tiznmktqel.com" { type master; notify no; file "null.zone.file"; };
+zone "tkiwpaapzl.com" { type master; notify no; file "null.zone.file"; };
 zone "tnkfactory.com" { type master; notify no; file "null.zone.file"; };
 zone "todo-fey.space" { type master; notify no; file "null.zone.file"; };
 zone "toninjaska.com" { type master; notify no; file "null.zone.file"; };
