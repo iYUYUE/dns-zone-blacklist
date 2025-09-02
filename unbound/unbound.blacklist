@@ -11676,7 +11676,6 @@ local-zone: "zemogli5.click" always_refuse
 local-zone: "zeus38.website" always_refuse
 local-zone: "zeusclicks.com" always_refuse
 local-zone: "zeusmain.store" always_refuse
-local-zone: "ziffstatic.com" always_refuse
 local-zone: "zippypromo.com" always_refuse
 local-zone: "zipthelake.com" always_refuse
 local-zone: "ztxelcrseu.com" always_refuse
@@ -15157,6 +15156,7 @@ local-zone: "ads.partystars.bg" always_refuse
 local-zone: "ads.pascualet.com" always_refuse
 local-zone: "ads.pawnshops.net" always_refuse
 local-zone: "adsp.ciner.com.tr" always_refuse
+local-zone: "ads.photopoint.ee" always_refuse
 local-zone: "ad.spielesite.com" always_refuse
 local-zone: "ads.pimdesign.org" always_refuse
 local-zone: "ads.pinterest.com" always_refuse
@@ -16282,6 +16282,7 @@ local-zone: "ad.logic.viasat.io" always_refuse
 local-zone: "ad.lottorich.co.kr" always_refuse
 local-zone: "admanager.hulu.com" always_refuse
 local-zone: "ad.mangaplanet.com" always_refuse
+local-zone: "adm.engadin.online" always_refuse
 local-zone: "ad.minigameltd.com" always_refuse
 local-zone: "ad.moo-mam-tai.com" always_refuse
 local-zone: "ad.mynetreklam.com" always_refuse
@@ -17441,6 +17442,7 @@ local-zone: "adserver.infoabi.ee" always_refuse
 local-zone: "adserver.jyanet.com" always_refuse
 local-zone: "adserver.karibik.de" always_refuse
 local-zone: "adserver.katubu.com" always_refuse
+local-zone: "adserver.klinika.uz" always_refuse
 local-zone: "adserver.koza.press" always_refuse
 local-zone: "adserver.kozoom.com" always_refuse
 local-zone: "adserver.lecool.com" always_refuse
@@ -18432,6 +18434,7 @@ local-zone: "adipolosolutions.com" always_refuse
 local-zone: "ad.japangonewild.com" always_refuse
 local-zone: "ad.jibunde-esute.com" always_refuse
 local-zone: "ad.kirara-support.jp" always_refuse
+local-zone: "adludek.infoludek.pl" always_refuse
 local-zone: "admaxcdn.cnczone.com" always_refuse
 local-zone: "admedia360.marketing" always_refuse
 local-zone: "adn.bursadabugun.com" always_refuse
@@ -20024,6 +20027,7 @@ local-zone: "adimages.proforums.com" always_refuse
 local-zone: "adimages.rtvdrenthe.nl" always_refuse
 local-zone: "adimages.sanomawsoy.fi" always_refuse
 local-zone: "adimage.starkidstw.com" always_refuse
+local-zone: "adjoe-programmatic.com" always_refuse
 local-zone: "admarketingdigital.com" always_refuse
 local-zone: "admixeradvertising.com" always_refuse
 local-zone: "ad.period-calendar.com" always_refuse

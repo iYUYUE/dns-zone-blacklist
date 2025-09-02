@@ -11676,7 +11676,6 @@ local-zone: "zemogli5.click" always_nxdomain
 local-zone: "zeus38.website" always_nxdomain
 local-zone: "zeusclicks.com" always_nxdomain
 local-zone: "zeusmain.store" always_nxdomain
-local-zone: "ziffstatic.com" always_nxdomain
 local-zone: "zippypromo.com" always_nxdomain
 local-zone: "zipthelake.com" always_nxdomain
 local-zone: "ztxelcrseu.com" always_nxdomain
@@ -15157,6 +15156,7 @@ local-zone: "ads.partystars.bg" always_nxdomain
 local-zone: "ads.pascualet.com" always_nxdomain
 local-zone: "ads.pawnshops.net" always_nxdomain
 local-zone: "adsp.ciner.com.tr" always_nxdomain
+local-zone: "ads.photopoint.ee" always_nxdomain
 local-zone: "ad.spielesite.com" always_nxdomain
 local-zone: "ads.pimdesign.org" always_nxdomain
 local-zone: "ads.pinterest.com" always_nxdomain
@@ -16282,6 +16282,7 @@ local-zone: "ad.logic.viasat.io" always_nxdomain
 local-zone: "ad.lottorich.co.kr" always_nxdomain
 local-zone: "admanager.hulu.com" always_nxdomain
 local-zone: "ad.mangaplanet.com" always_nxdomain
+local-zone: "adm.engadin.online" always_nxdomain
 local-zone: "ad.minigameltd.com" always_nxdomain
 local-zone: "ad.moo-mam-tai.com" always_nxdomain
 local-zone: "ad.mynetreklam.com" always_nxdomain
@@ -17441,6 +17442,7 @@ local-zone: "adserver.infoabi.ee" always_nxdomain
 local-zone: "adserver.jyanet.com" always_nxdomain
 local-zone: "adserver.karibik.de" always_nxdomain
 local-zone: "adserver.katubu.com" always_nxdomain
+local-zone: "adserver.klinika.uz" always_nxdomain
 local-zone: "adserver.koza.press" always_nxdomain
 local-zone: "adserver.kozoom.com" always_nxdomain
 local-zone: "adserver.lecool.com" always_nxdomain
@@ -18432,6 +18434,7 @@ local-zone: "adipolosolutions.com" always_nxdomain
 local-zone: "ad.japangonewild.com" always_nxdomain
 local-zone: "ad.jibunde-esute.com" always_nxdomain
 local-zone: "ad.kirara-support.jp" always_nxdomain
+local-zone: "adludek.infoludek.pl" always_nxdomain
 local-zone: "admaxcdn.cnczone.com" always_nxdomain
 local-zone: "admedia360.marketing" always_nxdomain
 local-zone: "adn.bursadabugun.com" always_nxdomain
@@ -20024,6 +20027,7 @@ local-zone: "adimages.proforums.com" always_nxdomain
 local-zone: "adimages.rtvdrenthe.nl" always_nxdomain
 local-zone: "adimages.sanomawsoy.fi" always_nxdomain
 local-zone: "adimage.starkidstw.com" always_nxdomain
+local-zone: "adjoe-programmatic.com" always_nxdomain
 local-zone: "admarketingdigital.com" always_nxdomain
 local-zone: "admixeradvertising.com" always_nxdomain
 local-zone: "ad.period-calendar.com" always_nxdomain
