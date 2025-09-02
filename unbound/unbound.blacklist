@@ -2457,6 +2457,7 @@ local-zone: "cp.moin.de" always_refuse
 local-zone: "cps.waz.de" always_refuse
 local-zone: "cp.talu.de" always_refuse
 local-zone: "cr8adv.com" always_refuse
+local-zone: "crcldu.com" always_refuse
 local-zone: "crcvba.com" always_refuse
 local-zone: "criteo.bid" always_refuse
 local-zone: "criteo.com" always_refuse
@@ -2691,6 +2692,7 @@ local-zone: "hbzoom.com" always_refuse
 local-zone: "herofi.com" always_refuse
 local-zone: "hexcan.com" always_refuse
 local-zone: "heyzap.com" always_refuse
+local-zone: "hfzkgw.com" always_refuse
 local-zone: "hgofcd.com" always_refuse
 local-zone: "hhnhxu.com" always_refuse
 local-zone: "hihgin.com" always_refuse
@@ -2787,6 +2789,7 @@ local-zone: "jkxkbu.com" always_refuse
 local-zone: "jlpbyt.com" always_refuse
 local-zone: "jlxsgk.com" always_refuse
 local-zone: "jmgads.com" always_refuse
+local-zone: "jmyqsl.com" always_refuse
 local-zone: "jobadx.com" always_refuse
 local-zone: "joieful.co" always_refuse
 local-zone: "joinads.me" always_refuse
@@ -4581,6 +4584,7 @@ local-zone: "dynmark.com" always_refuse
 local-zone: "earnify.com" always_refuse
 local-zone: "easy-ads.dk" always_refuse
 local-zone: "eclickz.com" always_refuse
+local-zone: "ecukwai.com" always_refuse
 local-zone: "e-dialog.at" always_refuse
 local-zone: "e-dialog.ch" always_refuse
 local-zone: "e-dialog.pl" always_refuse
@@ -8538,7 +8542,12 @@ local-zone: "cookieyes.com" always_refuse
 local-zone: "coolmobile.es" always_refuse
 local-zone: "cootlogix.com" always_refuse
 local-zone: "copyvibes.com" always_refuse
+local-zone: "cosman103.top" always_refuse
+local-zone: "cosman106.top" always_refuse
 local-zone: "cosmosads.com" always_refuse
+local-zone: "cospa3300.top" always_refuse
+local-zone: "cospu2011.top" always_refuse
+local-zone: "cospu2066.top" always_refuse
 local-zone: "costelarm.pro" always_refuse
 local-zone: "covivado.club" always_refuse
 local-zone: "cowleyweb.com" always_refuse
@@ -9744,6 +9753,7 @@ local-zone: "x.sumikai.com" always_refuse
 local-zone: "x-traceur.com" always_refuse
 local-zone: "xtsstx.online" always_refuse
 local-zone: "x.ugetube.com" always_refuse
+local-zone: "xyzinf112.top" always_refuse
 local-zone: "y8lsyibocd.ru" always_refuse
 local-zone: "yankscash.com" always_refuse
 local-zone: "ybbadvsrv.com" always_refuse
