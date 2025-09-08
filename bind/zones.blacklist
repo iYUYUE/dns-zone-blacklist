@@ -4192,6 +4192,7 @@ zone "advmedia.kz" { type master; notify no; file "null.zone.file"; };
 zone "adv.mpvc.it" { type master; notify no; file "null.zone.file"; };
 zone "adv.riza.it" { type master; notify no; file "null.zone.file"; };
 zone "advscdn.com" { type master; notify no; file "null.zone.file"; };
+zone "ad.vtto.net" { type master; notify no; file "null.zone.file"; };
 zone "adwager.com" { type master; notify no; file "null.zone.file"; };
 zone "adwerks.com" { type master; notify no; file "null.zone.file"; };
 zone "adwetec.com" { type master; notify no; file "null.zone.file"; };

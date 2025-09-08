@@ -4192,6 +4192,7 @@ local-zone: "advmedia.kz" always_refuse
 local-zone: "adv.mpvc.it" always_refuse
 local-zone: "adv.riza.it" always_refuse
 local-zone: "advscdn.com" always_refuse
+local-zone: "ad.vtto.net" always_refuse
 local-zone: "adwager.com" always_refuse
 local-zone: "adwerks.com" always_refuse
 local-zone: "adwetec.com" always_refuse

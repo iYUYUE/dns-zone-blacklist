@@ -4192,6 +4192,7 @@ local-zone: "advmedia.kz" always_nxdomain
 local-zone: "adv.mpvc.it" always_nxdomain
 local-zone: "adv.riza.it" always_nxdomain
 local-zone: "advscdn.com" always_nxdomain
+local-zone: "ad.vtto.net" always_nxdomain
 local-zone: "adwager.com" always_nxdomain
 local-zone: "adwerks.com" always_nxdomain
 local-zone: "adwetec.com" always_nxdomain
