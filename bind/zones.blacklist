@@ -1557,6 +1557,7 @@ zone "tonic.com" { type master; notify no; file "null.zone.file"; };
 zone "top10x.io" { type master; notify no; file "null.zone.file"; };
 zone "tpbid.com" { type master; notify no; file "null.zone.file"; };
 zone "tqlkg.com" { type master; notify no; file "null.zone.file"; };
+zone "traf24.ru" { type master; notify no; file "null.zone.file"; };
 zone "trafic.ro" { type master; notify no; file "null.zone.file"; };
 zone "trmads.eu" { type master; notify no; file "null.zone.file"; };
 zone "trmit.com" { type master; notify no; file "null.zone.file"; };

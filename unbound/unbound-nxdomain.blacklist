@@ -1557,6 +1557,7 @@ local-zone: "tonic.com" always_nxdomain
 local-zone: "top10x.io" always_nxdomain
 local-zone: "tpbid.com" always_nxdomain
 local-zone: "tqlkg.com" always_nxdomain
+local-zone: "traf24.ru" always_nxdomain
 local-zone: "trafic.ro" always_nxdomain
 local-zone: "trmads.eu" always_nxdomain
 local-zone: "trmit.com" always_nxdomain
