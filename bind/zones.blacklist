@@ -584,6 +584,7 @@ zone "qt.media" { type master; notify no; file "null.zone.file"; };
 zone "rbnt.org" { type master; notify no; file "null.zone.file"; };
 zone "rdai.com" { type master; notify no; file "null.zone.file"; };
 zone "rdr9.xyz" { type master; notify no; file "null.zone.file"; };
+zone "reaim.me" { type master; notify no; file "null.zone.file"; };
 zone "rebel.ai" { type master; notify no; file "null.zone.file"; };
 zone "relap.io" { type master; notify no; file "null.zone.file"; };
 zone "retai.ly" { type master; notify no; file "null.zone.file"; };

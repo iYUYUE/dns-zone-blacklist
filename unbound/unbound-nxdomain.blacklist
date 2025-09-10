@@ -584,6 +584,7 @@ local-zone: "qt.media" always_nxdomain
 local-zone: "rbnt.org" always_nxdomain
 local-zone: "rdai.com" always_nxdomain
 local-zone: "rdr9.xyz" always_nxdomain
+local-zone: "reaim.me" always_nxdomain
 local-zone: "rebel.ai" always_nxdomain
 local-zone: "relap.io" always_nxdomain
 local-zone: "retai.ly" always_nxdomain

@@ -584,6 +584,7 @@ local-zone: "qt.media" always_refuse
 local-zone: "rbnt.org" always_refuse
 local-zone: "rdai.com" always_refuse
 local-zone: "rdr9.xyz" always_refuse
+local-zone: "reaim.me" always_refuse
 local-zone: "rebel.ai" always_refuse
 local-zone: "relap.io" always_refuse
 local-zone: "retai.ly" always_refuse
