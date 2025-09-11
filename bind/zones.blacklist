@@ -1388,6 +1388,7 @@ zone "nmkli.com" { type master; notify no; file "null.zone.file"; };
 zone "nnvkh.com" { type master; notify no; file "null.zone.file"; };
 zone "notiks.io" { type master; notify no; file "null.zone.file"; };
 zone "nplxa.com" { type master; notify no; file "null.zone.file"; };
+zone "nrtru.com" { type master; notify no; file "null.zone.file"; };
 zone "nui.media" { type master; notify no; file "null.zone.file"; };
 zone "nuxad.com" { type master; notify no; file "null.zone.file"; };
 zone "nwmum.com" { type master; notify no; file "null.zone.file"; };
