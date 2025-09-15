@@ -449,6 +449,7 @@ local-zone: "coil.com" always_nxdomain
 local-zone: "cp.wp.de" always_nxdomain
 local-zone: "cpxi.com" always_nxdomain
 local-zone: "cs30.net" always_nxdomain
+local-zone: "d70i.com" always_nxdomain
 local-zone: "dable.io" always_nxdomain
 local-zone: "ddni.net" always_nxdomain
 local-zone: "didna.io" always_nxdomain
@@ -484,6 +485,7 @@ local-zone: "hq3x.com" always_nxdomain
 local-zone: "hsux.com" always_nxdomain
 local-zone: "id29.com" always_nxdomain
 local-zone: "iduq.com" always_nxdomain
+local-zone: "ih31.com" always_nxdomain
 local-zone: "inflx.io" always_nxdomain
 local-zone: "iolam.it" always_nxdomain
 local-zone: "iprom.eu" always_nxdomain
@@ -702,6 +704,8 @@ local-zone: "4dtrk.com" always_nxdomain
 local-zone: "4info.com" always_nxdomain
 local-zone: "4wnet.com" always_nxdomain
 local-zone: "51fun.xyz" always_nxdomain
+local-zone: "52zxz.com" always_nxdomain
+local-zone: "58vpn.com" always_nxdomain
 local-zone: "5rocks.io" always_nxdomain
 local-zone: "6561a.com" always_nxdomain
 local-zone: "6ea.co.za" always_nxdomain
@@ -711,6 +715,7 @@ local-zone: "8125a.com" always_nxdomain
 local-zone: "86ads.org" always_nxdomain
 local-zone: "9167x.com" always_nxdomain
 local-zone: "9591x.com" always_nxdomain
+local-zone: "99gt7.com" always_nxdomain
 local-zone: "9h7n8.com" always_nxdomain
 local-zone: "9lt1f7.ru" always_nxdomain
 local-zone: "a2adv.com" always_nxdomain
@@ -1034,6 +1039,7 @@ local-zone: "boxcar.io" always_nxdomain
 local-zone: "bpath.com" always_nxdomain
 local-zone: "bpyxg.com" always_nxdomain
 local-zone: "braze.com" always_nxdomain
+local-zone: "bryzr.com" always_nxdomain
 local-zone: "btrll.com" always_nxdomain
 local-zone: "buzaq.com" always_nxdomain
 local-zone: "buzzad.io" always_nxdomain
@@ -1099,6 +1105,7 @@ local-zone: "crpoy.com" always_nxdomain
 local-zone: "csjuq.com" always_nxdomain
 local-zone: "d2ads.com" always_nxdomain
 local-zone: "d2c.co.jp" always_nxdomain
+local-zone: "d3rem.com" always_nxdomain
 local-zone: "dac.co.jp" always_nxdomain
 local-zone: "dajkq.com" always_nxdomain
 local-zone: "dakawm.cc" always_nxdomain
@@ -1315,6 +1322,7 @@ local-zone: "ladsp.com" always_nxdomain
 local-zone: "lataz.com" always_nxdomain
 local-zone: "lexs9.com" always_nxdomain
 local-zone: "liadm.com" always_nxdomain
+local-zone: "libtl.com" always_nxdomain
 local-zone: "litmus.lk" always_nxdomain
 local-zone: "ljovi.com" always_nxdomain
 local-zone: "lmads.net" always_nxdomain
@@ -1374,6 +1382,7 @@ local-zone: "msads.net" always_nxdomain
 local-zone: "mt66g.com" always_nxdomain
 local-zone: "mtfmi.com" always_nxdomain
 local-zone: "mtgad.com" always_nxdomain
+local-zone: "munqu.com" always_nxdomain
 local-zone: "mvmbs.com" always_nxdomain
 local-zone: "mwlle.com" always_nxdomain
 local-zone: "mwrgi.com" always_nxdomain
@@ -1399,6 +1408,7 @@ local-zone: "nfsuj.com" always_nxdomain
 local-zone: "ngads.com" always_nxdomain
 local-zone: "nlkli.com" always_nxdomain
 local-zone: "nmkli.com" always_nxdomain
+local-zone: "nn125.com" always_nxdomain
 local-zone: "nnvkh.com" always_nxdomain
 local-zone: "notiks.io" always_nxdomain
 local-zone: "nplxa.com" always_nxdomain
@@ -1419,6 +1429,7 @@ local-zone: "ogury.com" always_nxdomain
 local-zone: "ojpem.com" always_nxdomain
 local-zone: "okay.i.ng" always_nxdomain
 local-zone: "one.store" always_nxdomain
+local-zone: "oonmm.com" always_nxdomain
 local-zone: "openap.tv" always_nxdomain
 local-zone: "openx.com" always_nxdomain
 local-zone: "openx.net" always_nxdomain
@@ -1677,6 +1688,7 @@ local-zone: "wkads.com" always_nxdomain
 local-zone: "wmadv.com" always_nxdomain
 local-zone: "woobi.com" always_nxdomain
 local-zone: "workey.se" always_nxdomain
+local-zone: "wvdme.com" always_nxdomain
 local-zone: "wycji.top" always_nxdomain
 local-zone: "x3x3x.xyz" always_nxdomain
 local-zone: "xandr.com" always_nxdomain
@@ -2715,6 +2727,7 @@ local-zone: "h6.msn.com" always_nxdomain
 local-zone: "haelate.de" always_nxdomain
 local-zone: "haelite.de" always_nxdomain
 local-zone: "haliked.de" always_nxdomain
+local-zone: "hapmax.biz" always_nxdomain
 local-zone: "hapyak.com" always_nxdomain
 local-zone: "hatch.cafe" always_nxdomain
 local-zone: "hawkad.com" always_nxdomain
