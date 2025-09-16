@@ -677,6 +677,7 @@ zone "zdbb.net" { type master; notify no; file "null.zone.file"; };
 zone "zedo.com" { type master; notify no; file "null.zone.file"; };
 zone "zentr.cc" { type master; notify no; file "null.zone.file"; };
 zone "zirca.in" { type master; notify no; file "null.zone.file"; };
+zone "zk1w.com" { type master; notify no; file "null.zone.file"; };
 zone "11.o7.net" { type master; notify no; file "null.zone.file"; };
 zone "12had.com" { type master; notify no; file "null.zone.file"; };
 zone "1611a.com" { type master; notify no; file "null.zone.file"; };
