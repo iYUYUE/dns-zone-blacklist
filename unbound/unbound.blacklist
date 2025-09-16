@@ -290,6 +290,7 @@ local-zone: "0ath.net" always_refuse
 local-zone: "1ads.com" always_refuse
 local-zone: "1dmg.vip" always_refuse
 local-zone: "1emn.com" always_refuse
+local-zone: "1fxt.com" always_refuse
 local-zone: "1qqg.xyz" always_refuse
 local-zone: "1xbtc.io" always_refuse
 local-zone: "2ddq.com" always_refuse
@@ -3364,6 +3365,7 @@ local-zone: "sombes.com" always_refuse
 local-zone: "somplo.com" always_refuse
 local-zone: "sonobi.com" always_refuse
 local-zone: "soomla.com" always_refuse
+local-zone: "sovtrk.com" always_refuse
 local-zone: "sparrow.ru" always_refuse
 local-zone: "spulse.net" always_refuse
 local-zone: "sqm8kkf.de" always_refuse

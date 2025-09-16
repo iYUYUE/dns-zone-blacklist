@@ -290,6 +290,7 @@ local-zone: "0ath.net" always_nxdomain
 local-zone: "1ads.com" always_nxdomain
 local-zone: "1dmg.vip" always_nxdomain
 local-zone: "1emn.com" always_nxdomain
+local-zone: "1fxt.com" always_nxdomain
 local-zone: "1qqg.xyz" always_nxdomain
 local-zone: "1xbtc.io" always_nxdomain
 local-zone: "2ddq.com" always_nxdomain
@@ -3364,6 +3365,7 @@ local-zone: "sombes.com" always_nxdomain
 local-zone: "somplo.com" always_nxdomain
 local-zone: "sonobi.com" always_nxdomain
 local-zone: "soomla.com" always_nxdomain
+local-zone: "sovtrk.com" always_nxdomain
 local-zone: "sparrow.ru" always_nxdomain
 local-zone: "spulse.net" always_nxdomain
 local-zone: "sqm8kkf.de" always_nxdomain
