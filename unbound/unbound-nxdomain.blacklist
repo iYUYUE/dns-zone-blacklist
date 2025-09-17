@@ -3185,6 +3185,7 @@ local-zone: "prezna.com" always_nxdomain
 local-zone: "primead.jp" always_nxdomain
 local-zone: "prizmm.com" always_nxdomain
 local-zone: "prompty.io" always_nxdomain
+local-zone: "propbn.com" always_nxdomain
 local-zone: "provely.io" always_nxdomain
 local-zone: "prsaln.com" always_nxdomain
 local-zone: "psma01.com" always_nxdomain
@@ -7624,7 +7625,6 @@ local-zone: "topadvert.ru" always_nxdomain
 local-zone: "topbucks.com" always_nxdomain
 local-zone: "toplinks.win" always_nxdomain
 local-zone: "torrango.com" always_nxdomain
-local-zone: "t.propbn.com" always_nxdomain
 local-zone: "trackcig.com" always_nxdomain
 local-zone: "tracsion.com" always_nxdomain
 local-zone: "tracxnet.com" always_nxdomain

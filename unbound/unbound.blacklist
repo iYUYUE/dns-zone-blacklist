@@ -3185,6 +3185,7 @@ local-zone: "prezna.com" always_refuse
 local-zone: "primead.jp" always_refuse
 local-zone: "prizmm.com" always_refuse
 local-zone: "prompty.io" always_refuse
+local-zone: "propbn.com" always_refuse
 local-zone: "provely.io" always_refuse
 local-zone: "prsaln.com" always_refuse
 local-zone: "psma01.com" always_refuse
@@ -7624,7 +7625,6 @@ local-zone: "topadvert.ru" always_refuse
 local-zone: "topbucks.com" always_refuse
 local-zone: "toplinks.win" always_refuse
 local-zone: "torrango.com" always_refuse
-local-zone: "t.propbn.com" always_refuse
 local-zone: "trackcig.com" always_refuse
 local-zone: "tracsion.com" always_refuse
 local-zone: "tracxnet.com" always_refuse
