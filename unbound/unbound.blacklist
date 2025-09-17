@@ -6872,6 +6872,7 @@ local-zone: "gopush.click" always_refuse
 local-zone: "gosrv-my.com" always_refuse
 local-zone: "gosrv-ph.com" always_refuse
 local-zone: "gosrv-vn.com" always_refuse
+local-zone: "gotofuck.com" always_refuse
 local-zone: "gp12ptrk.com" always_refuse
 local-zone: "graizoah.com" always_refuse
 local-zone: "grandaddy.in" always_refuse

@@ -6872,6 +6872,7 @@ zone "gopush.click" { type master; notify no; file "null.zone.file"; };
 zone "gosrv-my.com" { type master; notify no; file "null.zone.file"; };
 zone "gosrv-ph.com" { type master; notify no; file "null.zone.file"; };
 zone "gosrv-vn.com" { type master; notify no; file "null.zone.file"; };
+zone "gotofuck.com" { type master; notify no; file "null.zone.file"; };
 zone "gp12ptrk.com" { type master; notify no; file "null.zone.file"; };
 zone "graizoah.com" { type master; notify no; file "null.zone.file"; };
 zone "grandaddy.in" { type master; notify no; file "null.zone.file"; };
