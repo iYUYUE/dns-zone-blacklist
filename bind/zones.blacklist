@@ -2202,6 +2202,7 @@ zone "advifi.com" { type master; notify no; file "null.zone.file"; };
 zone "advista.no" { type master; notify no; file "null.zone.file"; };
 zone "adviva.net" { type master; notify no; file "null.zone.file"; };
 zone "adv.muz.uz" { type master; notify no; file "null.zone.file"; };
+zone "advolve.io" { type master; notify no; file "null.zone.file"; };
 zone "adv.r7.com" { type master; notify no; file "null.zone.file"; };
 zone "advsnx.net" { type master; notify no; file "null.zone.file"; };
 zone "advurl.com" { type master; notify no; file "null.zone.file"; };
