@@ -12834,6 +12834,7 @@ zone "live.trmzum.com" { type master; notify no; file "null.zone.file"; };
 zone "live.zrmtrm.com" { type master; notify no; file "null.zone.file"; };
 zone "lmn-pou-win.com" { type master; notify no; file "null.zone.file"; };
 zone "localsensor.com" { type master; notify no; file "null.zone.file"; };
+zone "logoshutter.com" { type master; notify no; file "null.zone.file"; };
 zone "lookadindia.com" { type master; notify no; file "null.zone.file"; };
 zone "look.djfiln.com" { type master; notify no; file "null.zone.file"; };
 zone "loopsagency.com" { type master; notify no; file "null.zone.file"; };
