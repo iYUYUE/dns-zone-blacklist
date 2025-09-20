@@ -6957,6 +6957,7 @@ zone "insurads.com" { type master; notify no; file "null.zone.file"; };
 zone "interdfp.com" { type master; notify no; file "null.zone.file"; };
 zone "intextad.net" { type master; notify no; file "null.zone.file"; };
 zone "intextads.me" { type master; notify no; file "null.zone.file"; };
+zone "inthegame.io" { type master; notify no; file "null.zone.file"; };
 zone "introbar.com" { type master; notify no; file "null.zone.file"; };
 zone "iotapool.com" { type master; notify no; file "null.zone.file"; };
 zone "ipromote.com" { type master; notify no; file "null.zone.file"; };
