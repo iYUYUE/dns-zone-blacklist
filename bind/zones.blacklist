@@ -11830,6 +11830,7 @@ zone "abc.superbet.rs" { type master; notify no; file "null.zone.file"; };
 zone "abraco-debra.be" { type master; notify no; file "null.zone.file"; };
 zone "accesstrade.net" { type master; notify no; file "null.zone.file"; };
 zone "a-cdn.hktdc.com" { type master; notify no; file "null.zone.file"; };
+zone "acfe-vf2021.com" { type master; notify no; file "null.zone.file"; };
 zone "acquireuser.com" { type master; notify no; file "null.zone.file"; };
 zone "acsmediakit.org" { type master; notify no; file "null.zone.file"; };
 zone "actionad.agency" { type master; notify no; file "null.zone.file"; };
