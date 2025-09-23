@@ -2284,6 +2284,7 @@ zone "aj2643.bid" { type master; notify no; file "null.zone.file"; };
 zone "aj2644.bid" { type master; notify no; file "null.zone.file"; };
 zone "aj2645.bid" { type master; notify no; file "null.zone.file"; };
 zone "aj2676.bid" { type master; notify no; file "null.zone.file"; };
+zone "aj2696.bid" { type master; notify no; file "null.zone.file"; };
 zone "aj2701.bid" { type master; notify no; file "null.zone.file"; };
 zone "aj2722.bid" { type master; notify no; file "null.zone.file"; };
 zone "aj3054.bid" { type master; notify no; file "null.zone.file"; };
