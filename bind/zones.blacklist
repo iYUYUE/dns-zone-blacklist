@@ -10376,6 +10376,7 @@ zone "agorahtag.tech" { type master; notify no; file "null.zone.file"; };
 zone "aimventure.com" { type master; notify no; file "null.zone.file"; };
 zone "airvertise.com" { type master; notify no; file "null.zone.file"; };
 zone "aisoulmate.top" { type master; notify no; file "null.zone.file"; };
+zone "aixsczy001.top" { type master; notify no; file "null.zone.file"; };
 zone "a.kantotin.net" { type master; notify no; file "null.zone.file"; };
 zone "a.labadena.com" { type master; notify no; file "null.zone.file"; };
 zone "alertgraph.com" { type master; notify no; file "null.zone.file"; };
