@@ -1644,6 +1644,7 @@ local-zone: "upinu.xyz" always_refuse
 local-zone: "upvert.io" always_refuse
 local-zone: "uqfot.com" always_refuse
 local-zone: "usemax.de" always_refuse
+local-zone: "ushue.com" always_refuse
 local-zone: "uuaoy.com" always_refuse
 local-zone: "uullu.com" always_refuse
 local-zone: "uwsxz.com" always_refuse
@@ -1737,6 +1738,8 @@ local-zone: "ytebb.com" always_refuse
 local-zone: "ytihp.com" always_refuse
 local-zone: "ytimm.com" always_refuse
 local-zone: "ytthn.com" always_refuse
+local-zone: "yyczo.com" always_refuse
+local-zone: "yynbx.com" always_refuse
 local-zone: "zanox.com" always_refuse
 local-zone: "za.zdn.vn" always_refuse
 local-zone: "zbo.media" always_refuse
@@ -4294,6 +4297,7 @@ local-zone: "affnads.com" always_refuse
 local-zone: "a.fimoa.xyz" always_refuse
 local-zone: "a.friy.site" always_refuse
 local-zone: "a.fynox.xyz" always_refuse
+local-zone: "afzhul.site" always_refuse
 local-zone: "ag0oir9f.de" always_refuse
 local-zone: "agency2.com" always_refuse
 local-zone: "agency59.ca" always_refuse
@@ -8495,6 +8499,7 @@ local-zone: "blackarrow.tv" always_refuse
 local-zone: "blacurlik.com" always_refuse
 local-zone: "blanddish.pro" always_refuse
 local-zone: "blastmobi.com" always_refuse
+local-zone: "blehcourt.com" always_refuse
 local-zone: "blkditsup.com" always_refuse
 local-zone: "bloblohub.com" always_refuse
 local-zone: "blockdial.com" always_refuse
@@ -18960,7 +18965,6 @@ local-zone: "elevatemarketing.biz" always_refuse
 local-zone: "embarrassedsound.pro" always_refuse
 local-zone: "emx-match.dotomi.com" always_refuse
 local-zone: "enchantingtundra.com" always_refuse
-local-zone: "engine.blehcourt.com" always_refuse
 local-zone: "engine.flixtrial.com" always_refuse
 local-zone: "engine.vaping360.com" always_refuse
 local-zone: "entelia-adserver.com" always_refuse
