@@ -10438,6 +10438,7 @@ zone "ashleymonk.com" { type master; notify no; file "null.zone.file"; };
 zone "asianmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "a.sitel.com.mk" { type master; notify no; file "null.zone.file"; };
 zone "astespurra.com" { type master; notify no; file "null.zone.file"; };
+zone "astropiusa.com" { type master; notify no; file "null.zone.file"; };
 zone "atdippcode.com" { type master; notify no; file "null.zone.file"; };
 zone "atelieradd.com" { type master; notify no; file "null.zone.file"; };
 zone "atmserving.com" { type master; notify no; file "null.zone.file"; };
