@@ -1328,6 +1328,7 @@ local-zone: "liadm.com" always_nxdomain
 local-zone: "libtl.com" always_nxdomain
 local-zone: "litmus.lk" always_nxdomain
 local-zone: "ljovi.com" always_nxdomain
+local-zone: "llmfr.com" always_nxdomain
 local-zone: "lmads.net" always_nxdomain
 local-zone: "lngtd.com" always_nxdomain
 local-zone: "locals.bg" always_nxdomain

@@ -1328,6 +1328,7 @@ zone "liadm.com" { type master; notify no; file "null.zone.file"; };
 zone "libtl.com" { type master; notify no; file "null.zone.file"; };
 zone "litmus.lk" { type master; notify no; file "null.zone.file"; };
 zone "ljovi.com" { type master; notify no; file "null.zone.file"; };
+zone "llmfr.com" { type master; notify no; file "null.zone.file"; };
 zone "lmads.net" { type master; notify no; file "null.zone.file"; };
 zone "lngtd.com" { type master; notify no; file "null.zone.file"; };
 zone "locals.bg" { type master; notify no; file "null.zone.file"; };

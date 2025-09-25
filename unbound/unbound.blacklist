@@ -1328,6 +1328,7 @@ local-zone: "liadm.com" always_refuse
 local-zone: "libtl.com" always_refuse
 local-zone: "litmus.lk" always_refuse
 local-zone: "ljovi.com" always_refuse
+local-zone: "llmfr.com" always_refuse
 local-zone: "lmads.net" always_refuse
 local-zone: "lngtd.com" always_refuse
 local-zone: "locals.bg" always_refuse
