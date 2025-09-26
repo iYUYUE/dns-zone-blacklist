@@ -982,6 +982,7 @@ local-zone: "ampry.com" always_nxdomain
 local-zone: "andand.in" always_nxdomain
 local-zone: "anixe.net" always_nxdomain
 local-zone: "a.nova.cz" always_nxdomain
+local-zone: "anvcn.com" always_nxdomain
 local-zone: "aotgm.com" always_nxdomain
 local-zone: "api.house" always_nxdomain
 local-zone: "apn.co.nz" always_nxdomain
@@ -4292,6 +4293,7 @@ local-zone: "affbeat.com" always_nxdomain
 local-zone: "affhits.com" always_nxdomain
 local-zone: "affiadz.com" always_nxdomain
 local-zone: "affilae.com" always_nxdomain
+local-zone: "afflip.site" always_nxdomain
 local-zone: "affluent.io" always_nxdomain
 local-zone: "affnads.com" always_nxdomain
 local-zone: "a.fimoa.xyz" always_nxdomain

@@ -982,6 +982,7 @@ local-zone: "ampry.com" always_refuse
 local-zone: "andand.in" always_refuse
 local-zone: "anixe.net" always_refuse
 local-zone: "a.nova.cz" always_refuse
+local-zone: "anvcn.com" always_refuse
 local-zone: "aotgm.com" always_refuse
 local-zone: "api.house" always_refuse
 local-zone: "apn.co.nz" always_refuse
@@ -4292,6 +4293,7 @@ local-zone: "affbeat.com" always_refuse
 local-zone: "affhits.com" always_refuse
 local-zone: "affiadz.com" always_refuse
 local-zone: "affilae.com" always_refuse
+local-zone: "afflip.site" always_refuse
 local-zone: "affluent.io" always_refuse
 local-zone: "affnads.com" always_refuse
 local-zone: "a.fimoa.xyz" always_refuse
