@@ -959,6 +959,7 @@ local-zone: "affle.com" always_nxdomain
 local-zone: "affpa.top" always_nxdomain
 local-zone: "affzen.ru" always_nxdomain
 local-zone: "afi-b.com" always_nxdomain
+local-zone: "aflink.ru" always_nxdomain
 local-zone: "aflink.rw" always_nxdomain
 local-zone: "afr4g5.de" always_nxdomain
 local-zone: "afront.io" always_nxdomain

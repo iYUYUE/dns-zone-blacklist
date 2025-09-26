@@ -959,6 +959,7 @@ zone "affle.com" { type master; notify no; file "null.zone.file"; };
 zone "affpa.top" { type master; notify no; file "null.zone.file"; };
 zone "affzen.ru" { type master; notify no; file "null.zone.file"; };
 zone "afi-b.com" { type master; notify no; file "null.zone.file"; };
+zone "aflink.ru" { type master; notify no; file "null.zone.file"; };
 zone "aflink.rw" { type master; notify no; file "null.zone.file"; };
 zone "afr4g5.de" { type master; notify no; file "null.zone.file"; };
 zone "afront.io" { type master; notify no; file "null.zone.file"; };
