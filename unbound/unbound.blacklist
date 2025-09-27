@@ -6185,6 +6185,7 @@ local-zone: "ads.gogel.al" always_refuse
 local-zone: "adsgreed.com" always_refuse
 local-zone: "adshares.net" always_refuse
 local-zone: "adsheavy.com" always_refuse
+local-zone: "ad-shield.cc" always_refuse
 local-zone: "ad-shield.io" always_refuse
 local-zone: "ads.himia.bg" always_refuse
 local-zone: "ads.homax.pl" always_refuse
@@ -9035,6 +9036,7 @@ local-zone: "liftmyads.com" always_refuse
 local-zone: "like.etao.com" always_refuse
 local-zone: "limpspray.pro" always_refuse
 local-zone: "linkbucks.com" always_refuse
+local-zone: "linkedleg.com" always_refuse
 local-zone: "linkit360.com" always_refuse
 local-zone: "linkprice.com" always_refuse
 local-zone: "linkstorm.net" always_refuse
@@ -9058,6 +9060,7 @@ local-zone: "lose4admin.de" always_refuse
 local-zone: "lotus-ads.com" always_refuse
 local-zone: "lovercash.com" always_refuse
 local-zone: "luminad.co.uk" always_refuse
+local-zone: "lumpywood.com" always_refuse
 local-zone: "lux-bn.com.ua" always_refuse
 local-zone: "luxupadva.com" always_refuse
 local-zone: "luxupcdna.com" always_refuse
@@ -11052,6 +11055,7 @@ local-zone: "lorageiros.com" always_refuse
 local-zone: "lotusorbit.com" always_refuse
 local-zone: "loudchilli.com" always_refuse
 local-zone: "lovingdrop.pro" always_refuse
+local-zone: "lowercases.com" always_refuse
 local-zone: "loyalgreen.pro" always_refuse
 local-zone: "lucidmedia.com" always_refuse
 local-zone: "lucienmann.pro" always_refuse
@@ -11624,6 +11628,7 @@ local-zone: "tizermedia.net" always_refuse
 local-zone: "tiznmktqel.com" always_refuse
 local-zone: "tkiwpaapzl.com" always_refuse
 local-zone: "tnkfactory.com" always_refuse
+local-zone: "toasttutor.com" always_refuse
 local-zone: "todo-fey.space" always_refuse
 local-zone: "toninjaska.com" always_refuse
 local-zone: "toodlepork.com" always_refuse
@@ -14688,6 +14693,7 @@ local-zone: "quallsbenson.com" always_refuse
 local-zone: "quantumshine.com" always_refuse
 local-zone: "quartermedia.com" always_refuse
 local-zone: "quenchagency.com" always_refuse
+local-zone: "quirkybodega.com" always_refuse
 local-zone: "quotientcomm.com" always_refuse
 local-zone: "raang.ucavu.live" always_refuse
 local-zone: "rabmarketing.com" always_refuse
@@ -16341,11 +16347,21 @@ local-zone: "zonaads.b-cdn.net" always_refuse
 local-zone: "zvela.filegram.to" always_refuse
 local-zone: "z.zedtrekh.online" always_refuse
 local-zone: "0.clicks4me.fwh.is" always_refuse
+local-zone: "0.www.64786087.xyz" always_refuse
 local-zone: "10kadvertising.com" always_refuse
+local-zone: "1.www.64786087.xyz" always_refuse
 local-zone: "214interactive.com" always_refuse
+local-zone: "2.www.64786087.xyz" always_refuse
 local-zone: "32998zubo36283.com" always_refuse
 local-zone: "3headedmonster.com" always_refuse
 local-zone: "3lanemarketing.com" always_refuse
+local-zone: "3.www.64786087.xyz" always_refuse
+local-zone: "4.www.64786087.xyz" always_refuse
+local-zone: "5.www.64786087.xyz" always_refuse
+local-zone: "6.www.64786087.xyz" always_refuse
+local-zone: "7.www.64786087.xyz" always_refuse
+local-zone: "8.www.64786087.xyz" always_refuse
+local-zone: "9.www.64786087.xyz" always_refuse
 local-zone: "a235.lmtonline.com" always_refuse
 local-zone: "a235.newstimes.com" always_refuse
 local-zone: "a235.seattlepi.com" always_refuse
@@ -16818,6 +16834,7 @@ local-zone: "clutteredbrush.pro" always_refuse
 local-zone: "cname.kyusai.co.jp" always_refuse
 local-zone: "colombiaonline.com" always_refuse
 local-zone: "coloradoserves.com" always_refuse
+local-zone: "coloringisland.com" always_refuse
 local-zone: "commercegrowth.com" always_refuse
 local-zone: "commercemedia.asia" always_refuse
 local-zone: "commissionkings.ag" always_refuse

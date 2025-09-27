@@ -6185,6 +6185,7 @@ local-zone: "ads.gogel.al" always_nxdomain
 local-zone: "adsgreed.com" always_nxdomain
 local-zone: "adshares.net" always_nxdomain
 local-zone: "adsheavy.com" always_nxdomain
+local-zone: "ad-shield.cc" always_nxdomain
 local-zone: "ad-shield.io" always_nxdomain
 local-zone: "ads.himia.bg" always_nxdomain
 local-zone: "ads.homax.pl" always_nxdomain
@@ -9035,6 +9036,7 @@ local-zone: "liftmyads.com" always_nxdomain
 local-zone: "like.etao.com" always_nxdomain
 local-zone: "limpspray.pro" always_nxdomain
 local-zone: "linkbucks.com" always_nxdomain
+local-zone: "linkedleg.com" always_nxdomain
 local-zone: "linkit360.com" always_nxdomain
 local-zone: "linkprice.com" always_nxdomain
 local-zone: "linkstorm.net" always_nxdomain
@@ -9058,6 +9060,7 @@ local-zone: "lose4admin.de" always_nxdomain
 local-zone: "lotus-ads.com" always_nxdomain
 local-zone: "lovercash.com" always_nxdomain
 local-zone: "luminad.co.uk" always_nxdomain
+local-zone: "lumpywood.com" always_nxdomain
 local-zone: "lux-bn.com.ua" always_nxdomain
 local-zone: "luxupadva.com" always_nxdomain
 local-zone: "luxupcdna.com" always_nxdomain
@@ -11052,6 +11055,7 @@ local-zone: "lorageiros.com" always_nxdomain
 local-zone: "lotusorbit.com" always_nxdomain
 local-zone: "loudchilli.com" always_nxdomain
 local-zone: "lovingdrop.pro" always_nxdomain
+local-zone: "lowercases.com" always_nxdomain
 local-zone: "loyalgreen.pro" always_nxdomain
 local-zone: "lucidmedia.com" always_nxdomain
 local-zone: "lucienmann.pro" always_nxdomain
@@ -11624,6 +11628,7 @@ local-zone: "tizermedia.net" always_nxdomain
 local-zone: "tiznmktqel.com" always_nxdomain
 local-zone: "tkiwpaapzl.com" always_nxdomain
 local-zone: "tnkfactory.com" always_nxdomain
+local-zone: "toasttutor.com" always_nxdomain
 local-zone: "todo-fey.space" always_nxdomain
 local-zone: "toninjaska.com" always_nxdomain
 local-zone: "toodlepork.com" always_nxdomain
@@ -14688,6 +14693,7 @@ local-zone: "quallsbenson.com" always_nxdomain
 local-zone: "quantumshine.com" always_nxdomain
 local-zone: "quartermedia.com" always_nxdomain
 local-zone: "quenchagency.com" always_nxdomain
+local-zone: "quirkybodega.com" always_nxdomain
 local-zone: "quotientcomm.com" always_nxdomain
 local-zone: "raang.ucavu.live" always_nxdomain
 local-zone: "rabmarketing.com" always_nxdomain
@@ -16341,11 +16347,21 @@ local-zone: "zonaads.b-cdn.net" always_nxdomain
 local-zone: "zvela.filegram.to" always_nxdomain
 local-zone: "z.zedtrekh.online" always_nxdomain
 local-zone: "0.clicks4me.fwh.is" always_nxdomain
+local-zone: "0.www.64786087.xyz" always_nxdomain
 local-zone: "10kadvertising.com" always_nxdomain
+local-zone: "1.www.64786087.xyz" always_nxdomain
 local-zone: "214interactive.com" always_nxdomain
+local-zone: "2.www.64786087.xyz" always_nxdomain
 local-zone: "32998zubo36283.com" always_nxdomain
 local-zone: "3headedmonster.com" always_nxdomain
 local-zone: "3lanemarketing.com" always_nxdomain
+local-zone: "3.www.64786087.xyz" always_nxdomain
+local-zone: "4.www.64786087.xyz" always_nxdomain
+local-zone: "5.www.64786087.xyz" always_nxdomain
+local-zone: "6.www.64786087.xyz" always_nxdomain
+local-zone: "7.www.64786087.xyz" always_nxdomain
+local-zone: "8.www.64786087.xyz" always_nxdomain
+local-zone: "9.www.64786087.xyz" always_nxdomain
 local-zone: "a235.lmtonline.com" always_nxdomain
 local-zone: "a235.newstimes.com" always_nxdomain
 local-zone: "a235.seattlepi.com" always_nxdomain
@@ -16818,6 +16834,7 @@ local-zone: "clutteredbrush.pro" always_nxdomain
 local-zone: "cname.kyusai.co.jp" always_nxdomain
 local-zone: "colombiaonline.com" always_nxdomain
 local-zone: "coloradoserves.com" always_nxdomain
+local-zone: "coloringisland.com" always_nxdomain
 local-zone: "commercegrowth.com" always_nxdomain
 local-zone: "commercemedia.asia" always_nxdomain
 local-zone: "commissionkings.ag" always_nxdomain
