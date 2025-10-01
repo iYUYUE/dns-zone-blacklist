@@ -3299,6 +3299,7 @@ local-zone: "revjet.com" always_nxdomain
 local-zone: "revmob.com" always_nxdomain
 local-zone: "revrtb.com" always_nxdomain
 local-zone: "revrtb.net" always_nxdomain
+local-zone: "rewice.uno" always_nxdomain
 local-zone: "rexrtb.com" always_nxdomain
 local-zone: "rexsrv.com" always_nxdomain
 local-zone: "rfihub.com" always_nxdomain
@@ -4354,6 +4355,7 @@ local-zone: "a.merig.xyz" always_nxdomain
 local-zone: "a.mikop.xyz" always_nxdomain
 local-zone: "a.moera.xyz" always_nxdomain
 local-zone: "ampfeed.com" always_nxdomain
+local-zone: "amplifo.com" always_nxdomain
 local-zone: "ampsinc.net" always_nxdomain
 local-zone: "a.naliw.xyz" always_nxdomain
 local-zone: "andoree.com" always_nxdomain
@@ -9261,6 +9263,7 @@ local-zone: "oliver.agency" always_nxdomain
 local-zone: "omareeper.com" always_nxdomain
 local-zone: "om.buero12.de" always_nxdomain
 local-zone: "onclckpop.com" always_nxdomain
+local-zone: "onclckstr.com" always_nxdomain
 local-zone: "onefeed.co.uk" always_nxdomain
 local-zone: "onelouder.com" always_nxdomain
 local-zone: "onepixelz.com" always_nxdomain
@@ -9285,6 +9288,7 @@ local-zone: "oysaver.space" always_nxdomain
 local-zone: "oysleek.space" always_nxdomain
 local-zone: "p.adevbom.com" always_nxdomain
 local-zone: "padsquad2.com" always_nxdomain
+local-zone: "paloczfud.com" always_nxdomain
 local-zone: "panadvert.com" always_nxdomain
 local-zone: "parklogic.com" always_nxdomain
 local-zone: "pasaltair.com" always_nxdomain
@@ -11616,6 +11620,7 @@ local-zone: "tecnoaereo.com" always_nxdomain
 local-zone: "telebijoux.com" always_nxdomain
 local-zone: "telllwrite.com" always_nxdomain
 local-zone: "ten26media.com" always_nxdomain
+local-zone: "tensecross.pro" always_nxdomain
 local-zone: "teotelecom.com" always_nxdomain
 local-zone: "testsite34.com" always_nxdomain
 local-zone: "tetramedia.org" always_nxdomain
@@ -11985,6 +11990,7 @@ local-zone: "adnl.bk.mufg.jp" always_nxdomain
 local-zone: "ad.oficynamm.pl" always_nxdomain
 local-zone: "adoftheyear.com" always_nxdomain
 local-zone: "adopt-media.com" always_nxdomain
+local-zone: "adorablenet.com" always_nxdomain
 local-zone: "adpathmedia.com" always_nxdomain
 local-zone: "adperfect.co.uk" always_nxdomain
 local-zone: "adperiscope.com" always_nxdomain
@@ -14479,7 +14485,6 @@ local-zone: "libraryvalue.com" always_nxdomain
 local-zone: "limitedmusic.pro" always_nxdomain
 local-zone: "linkexchange.com" always_nxdomain
 local-zone: "linkexchange.net" always_nxdomain
-local-zone: "live.amplifo.com" always_nxdomain
 local-zone: "live.trudigo.com" always_nxdomain
 local-zone: "loadsurprise.com" always_nxdomain
 local-zone: "localads.maps.me" always_nxdomain
