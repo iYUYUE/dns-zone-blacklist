@@ -1511,6 +1511,7 @@ local-zone: "qksrv.com" always_refuse
 local-zone: "qksrv.net" always_refuse
 local-zone: "qmuli.com" always_refuse
 local-zone: "qortex.ai" always_refuse
+local-zone: "qqlwx.com" always_refuse
 local-zone: "questa.uz" always_refuse
 local-zone: "qwapi.com" always_refuse
 local-zone: "qwocz.com" always_refuse
@@ -1522,6 +1523,7 @@ local-zone: "revive.tn" always_refuse
 local-zone: "rfhhd.com" always_refuse
 local-zone: "rfity.com" always_refuse
 local-zone: "richad.in" always_refuse
+local-zone: "rkdro.com" always_refuse
 local-zone: "rktch.com" always_refuse
 local-zone: "rmvin.com" always_refuse
 local-zone: "ro3sf.com" always_refuse
@@ -16994,6 +16996,7 @@ local-zone: "event.hankyung.com" always_refuse
 local-zone: "evolveadagency.com" always_refuse
 local-zone: "evolvemediallc.com" always_refuse
 local-zone: "excitingspring.pro" always_refuse
+local-zone: "exmainclckback.com" always_refuse
 local-zone: "explodasclksec.com" always_refuse
 local-zone: "expmediadirect.com" always_refuse
 local-zone: "eyeviewdigital.com" always_refuse
