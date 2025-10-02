@@ -1151,6 +1151,8 @@ local-zone: "ebqmz.top" always_refuse
 local-zone: "eclick.vn" always_refuse
 local-zone: "ecsdk.com" always_refuse
 local-zone: "eforsa.pl" always_refuse
+local-zone: "ejfps.com" always_refuse
+local-zone: "ejvnu.com" always_refuse
 local-zone: "elcjj.com" always_refuse
 local-zone: "enmbg.com" always_refuse
 local-zone: "eqads.com" always_refuse
@@ -1424,6 +1426,7 @@ local-zone: "notiks.io" always_refuse
 local-zone: "nplxa.com" always_refuse
 local-zone: "nqych.com" always_refuse
 local-zone: "nrtru.com" always_refuse
+local-zone: "ntzgd.com" always_refuse
 local-zone: "nui.media" always_refuse
 local-zone: "nuxad.com" always_refuse
 local-zone: "nwmum.com" always_refuse

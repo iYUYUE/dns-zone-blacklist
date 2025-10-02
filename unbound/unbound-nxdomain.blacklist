@@ -1151,6 +1151,8 @@ local-zone: "ebqmz.top" always_nxdomain
 local-zone: "eclick.vn" always_nxdomain
 local-zone: "ecsdk.com" always_nxdomain
 local-zone: "eforsa.pl" always_nxdomain
+local-zone: "ejfps.com" always_nxdomain
+local-zone: "ejvnu.com" always_nxdomain
 local-zone: "elcjj.com" always_nxdomain
 local-zone: "enmbg.com" always_nxdomain
 local-zone: "eqads.com" always_nxdomain
@@ -1424,6 +1426,7 @@ local-zone: "notiks.io" always_nxdomain
 local-zone: "nplxa.com" always_nxdomain
 local-zone: "nqych.com" always_nxdomain
 local-zone: "nrtru.com" always_nxdomain
+local-zone: "ntzgd.com" always_nxdomain
 local-zone: "nui.media" always_nxdomain
 local-zone: "nuxad.com" always_nxdomain
 local-zone: "nwmum.com" always_nxdomain
