@@ -1091,6 +1091,7 @@ local-zone: "cp.uwz.at" always_nxdomain
 local-zone: "cpwub.com" always_nxdomain
 local-zone: "cpx24.com" always_nxdomain
 local-zone: "cpx24.net" always_nxdomain
+local-zone: "crhbs.com" always_nxdomain
 local-zone: "criteo.ae" always_nxdomain
 local-zone: "criteo.ai" always_nxdomain
 local-zone: "criteo.at" always_nxdomain
@@ -1225,6 +1226,7 @@ local-zone: "gyfwz.com" always_nxdomain
 local-zone: "hb.20m.es" always_nxdomain
 local-zone: "h-bid.com" always_nxdomain
 local-zone: "he7ll.com" always_nxdomain
+local-zone: "heqgr.com" always_nxdomain
 local-zone: "hexiim.de" always_nxdomain
 local-zone: "heyad.xyz" always_nxdomain
 local-zone: "hhjow.com" always_nxdomain
@@ -1459,6 +1461,7 @@ local-zone: "oveeo.com" always_nxdomain
 local-zone: "oxado.com" always_nxdomain
 local-zone: "oxiads.fr" always_nxdomain
 local-zone: "ozjga.top" always_nxdomain
+local-zone: "ozkip.com" always_nxdomain
 local-zone: "p123p.com" always_nxdomain
 local-zone: "p888a.com" always_nxdomain
 local-zone: "pareto.io" always_nxdomain
@@ -3351,6 +3354,7 @@ local-zone: "sblftg.com" always_nxdomain
 local-zone: "sbs-ad.com" always_nxdomain
 local-zone: "schjmp.com" always_nxdomain
 local-zone: "scoota.com" always_nxdomain
+local-zone: "scope3.com" always_nxdomain
 local-zone: "scupio.com" always_nxdomain
 local-zone: "sdblno.com" always_nxdomain
 local-zone: "seckin.net" always_nxdomain
@@ -8733,6 +8737,7 @@ local-zone: "doclersrv.com" always_nxdomain
 local-zone: "dogolurkr.com" always_nxdomain
 local-zone: "domnovrek.com" always_nxdomain
 local-zone: "donomono.mobi" always_nxdomain
+local-zone: "dotdotlab.com" always_nxdomain
 local-zone: "doublemax.net" always_nxdomain
 local-zone: "dreamajax.com" always_nxdomain
 local-zone: "dreamstore.ch" always_nxdomain
@@ -12499,6 +12504,7 @@ local-zone: "cdn.tazlo.cloud" always_nxdomain
 local-zone: "cdn.tech426.com" always_nxdomain
 local-zone: "cdn.thehinh.com" always_nxdomain
 local-zone: "cdn.vidsdot.com" always_nxdomain
+local-zone: "cecmoumtoor.net" always_nxdomain
 local-zone: "ceylonmedia.com" always_nxdomain
 local-zone: "cfad.1agency.de" always_nxdomain
 local-zone: "chachophigy.pro" always_nxdomain

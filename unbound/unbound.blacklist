@@ -1091,6 +1091,7 @@ local-zone: "cp.uwz.at" always_refuse
 local-zone: "cpwub.com" always_refuse
 local-zone: "cpx24.com" always_refuse
 local-zone: "cpx24.net" always_refuse
+local-zone: "crhbs.com" always_refuse
 local-zone: "criteo.ae" always_refuse
 local-zone: "criteo.ai" always_refuse
 local-zone: "criteo.at" always_refuse
@@ -1225,6 +1226,7 @@ local-zone: "gyfwz.com" always_refuse
 local-zone: "hb.20m.es" always_refuse
 local-zone: "h-bid.com" always_refuse
 local-zone: "he7ll.com" always_refuse
+local-zone: "heqgr.com" always_refuse
 local-zone: "hexiim.de" always_refuse
 local-zone: "heyad.xyz" always_refuse
 local-zone: "hhjow.com" always_refuse
@@ -1459,6 +1461,7 @@ local-zone: "oveeo.com" always_refuse
 local-zone: "oxado.com" always_refuse
 local-zone: "oxiads.fr" always_refuse
 local-zone: "ozjga.top" always_refuse
+local-zone: "ozkip.com" always_refuse
 local-zone: "p123p.com" always_refuse
 local-zone: "p888a.com" always_refuse
 local-zone: "pareto.io" always_refuse
@@ -3351,6 +3354,7 @@ local-zone: "sblftg.com" always_refuse
 local-zone: "sbs-ad.com" always_refuse
 local-zone: "schjmp.com" always_refuse
 local-zone: "scoota.com" always_refuse
+local-zone: "scope3.com" always_refuse
 local-zone: "scupio.com" always_refuse
 local-zone: "sdblno.com" always_refuse
 local-zone: "seckin.net" always_refuse
@@ -8733,6 +8737,7 @@ local-zone: "doclersrv.com" always_refuse
 local-zone: "dogolurkr.com" always_refuse
 local-zone: "domnovrek.com" always_refuse
 local-zone: "donomono.mobi" always_refuse
+local-zone: "dotdotlab.com" always_refuse
 local-zone: "doublemax.net" always_refuse
 local-zone: "dreamajax.com" always_refuse
 local-zone: "dreamstore.ch" always_refuse
@@ -12499,6 +12504,7 @@ local-zone: "cdn.tazlo.cloud" always_refuse
 local-zone: "cdn.tech426.com" always_refuse
 local-zone: "cdn.thehinh.com" always_refuse
 local-zone: "cdn.vidsdot.com" always_refuse
+local-zone: "cecmoumtoor.net" always_refuse
 local-zone: "ceylonmedia.com" always_refuse
 local-zone: "cfad.1agency.de" always_refuse
 local-zone: "chachophigy.pro" always_refuse
