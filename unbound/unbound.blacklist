@@ -972,6 +972,7 @@ local-zone: "aiclk.com" always_refuse
 local-zone: "aid-ad.jp" always_refuse
 local-zone: "aidem.com" always_refuse
 local-zone: "aio.media" always_refuse
+local-zone: "ajawl.com" always_refuse
 local-zone: "akcelo.io" always_refuse
 local-zone: "akhado.tv" always_refuse
 local-zone: "alfad.pro" always_refuse
@@ -1310,6 +1311,7 @@ local-zone: "kliqz.com" always_refuse
 local-zone: "kodcad.kr" always_refuse
 local-zone: "koddi.com" always_refuse
 local-zone: "komli.com" always_refuse
+local-zone: "kpwfp.com" always_refuse
 local-zone: "krekom.si" always_refuse
 local-zone: "krush.com" always_refuse
 local-zone: "ksand.com" always_refuse
@@ -1479,6 +1481,7 @@ local-zone: "pjatr.com" always_refuse
 local-zone: "pjjpp.com" always_refuse
 local-zone: "plowh.com" always_refuse
 local-zone: "plrst.com" always_refuse
+local-zone: "plrvq.com" always_refuse
 local-zone: "plxnt.com" always_refuse
 local-zone: "pm-srv.co" always_refuse
 local-zone: "pnfpb.com" always_refuse
@@ -1761,6 +1764,7 @@ local-zone: "ytebb.com" always_refuse
 local-zone: "ytihp.com" always_refuse
 local-zone: "ytimm.com" always_refuse
 local-zone: "ytthn.com" always_refuse
+local-zone: "ytyaz.com" always_refuse
 local-zone: "yyczo.com" always_refuse
 local-zone: "yynbx.com" always_refuse
 local-zone: "zallj.com" always_refuse
@@ -6864,6 +6868,7 @@ local-zone: "fluentco.com" always_refuse
 local-zone: "fluidads.com" always_refuse
 local-zone: "flurryad.com" always_refuse
 local-zone: "flux-cdn.com" always_refuse
+local-zone: "fontlike.com" always_refuse
 local-zone: "freakads.com" always_refuse
 local-zone: "freewheel.tv" always_refuse
 local-zone: "friedone.com" always_refuse
@@ -8830,6 +8835,7 @@ local-zone: "flytedesk.com" always_refuse
 local-zone: "fmstitial.xyz" always_refuse
 local-zone: "foambench.com" always_refuse
 local-zone: "focallabs.com" always_refuse
+local-zone: "fontserif.com" always_refuse
 local-zone: "forwrdnow.com" always_refuse
 local-zone: "fothakatu.pro" always_refuse
 local-zone: "fourgears.com" always_refuse
@@ -11515,6 +11521,7 @@ local-zone: "schmuckshow.at" always_refuse
 local-zone: "schmuckshow.ch" always_refuse
 local-zone: "sci.intuit.com" always_refuse
 local-zone: "sclentdom.life" always_refuse
+local-zone: "scoreaisle.com" always_refuse
 local-zone: "sdk.ffxpub.com" always_refuse
 local-zone: "searchgage.com" always_refuse
 local-zone: "sece-ruy.space" always_refuse

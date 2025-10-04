@@ -972,6 +972,7 @@ local-zone: "aiclk.com" always_nxdomain
 local-zone: "aid-ad.jp" always_nxdomain
 local-zone: "aidem.com" always_nxdomain
 local-zone: "aio.media" always_nxdomain
+local-zone: "ajawl.com" always_nxdomain
 local-zone: "akcelo.io" always_nxdomain
 local-zone: "akhado.tv" always_nxdomain
 local-zone: "alfad.pro" always_nxdomain
@@ -1310,6 +1311,7 @@ local-zone: "kliqz.com" always_nxdomain
 local-zone: "kodcad.kr" always_nxdomain
 local-zone: "koddi.com" always_nxdomain
 local-zone: "komli.com" always_nxdomain
+local-zone: "kpwfp.com" always_nxdomain
 local-zone: "krekom.si" always_nxdomain
 local-zone: "krush.com" always_nxdomain
 local-zone: "ksand.com" always_nxdomain
@@ -1479,6 +1481,7 @@ local-zone: "pjatr.com" always_nxdomain
 local-zone: "pjjpp.com" always_nxdomain
 local-zone: "plowh.com" always_nxdomain
 local-zone: "plrst.com" always_nxdomain
+local-zone: "plrvq.com" always_nxdomain
 local-zone: "plxnt.com" always_nxdomain
 local-zone: "pm-srv.co" always_nxdomain
 local-zone: "pnfpb.com" always_nxdomain
@@ -1761,6 +1764,7 @@ local-zone: "ytebb.com" always_nxdomain
 local-zone: "ytihp.com" always_nxdomain
 local-zone: "ytimm.com" always_nxdomain
 local-zone: "ytthn.com" always_nxdomain
+local-zone: "ytyaz.com" always_nxdomain
 local-zone: "yyczo.com" always_nxdomain
 local-zone: "yynbx.com" always_nxdomain
 local-zone: "zallj.com" always_nxdomain
@@ -6864,6 +6868,7 @@ local-zone: "fluentco.com" always_nxdomain
 local-zone: "fluidads.com" always_nxdomain
 local-zone: "flurryad.com" always_nxdomain
 local-zone: "flux-cdn.com" always_nxdomain
+local-zone: "fontlike.com" always_nxdomain
 local-zone: "freakads.com" always_nxdomain
 local-zone: "freewheel.tv" always_nxdomain
 local-zone: "friedone.com" always_nxdomain
@@ -8830,6 +8835,7 @@ local-zone: "flytedesk.com" always_nxdomain
 local-zone: "fmstitial.xyz" always_nxdomain
 local-zone: "foambench.com" always_nxdomain
 local-zone: "focallabs.com" always_nxdomain
+local-zone: "fontserif.com" always_nxdomain
 local-zone: "forwrdnow.com" always_nxdomain
 local-zone: "fothakatu.pro" always_nxdomain
 local-zone: "fourgears.com" always_nxdomain
@@ -11515,6 +11521,7 @@ local-zone: "schmuckshow.at" always_nxdomain
 local-zone: "schmuckshow.ch" always_nxdomain
 local-zone: "sci.intuit.com" always_nxdomain
 local-zone: "sclentdom.life" always_nxdomain
+local-zone: "scoreaisle.com" always_nxdomain
 local-zone: "sdk.ffxpub.com" always_nxdomain
 local-zone: "searchgage.com" always_nxdomain
 local-zone: "sece-ruy.space" always_nxdomain
