@@ -7629,6 +7629,7 @@ local-zone: "spry-tap.pro" always_nxdomain
 local-zone: "srtb.msn.com" always_nxdomain
 local-zone: "srv.7rtb.com" always_nxdomain
 local-zone: "srvqck23.com" always_nxdomain
+local-zone: "srvqck25.com" always_nxdomain
 local-zone: "starmedia.ca" always_nxdomain
 local-zone: "statserv.net" always_nxdomain
 local-zone: "std.wpcdn.pl" always_nxdomain
@@ -19479,6 +19480,7 @@ local-zone: "adplatform.httpool.bg" always_nxdomain
 local-zone: "adplatform.httpool.rs" always_nxdomain
 local-zone: "adplatform.httpool.ru" always_nxdomain
 local-zone: "adplatform.httpool.si" always_nxdomain
+local-zone: "adright.fs.ak-is2.net" always_nxdomain
 local-zone: "ads.1a-infosysteme.de" always_nxdomain
 local-zone: "ads2.indeksonline.net" always_nxdomain
 local-zone: "ads2.mafamillezen.com" always_nxdomain

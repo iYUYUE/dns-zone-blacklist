@@ -7629,6 +7629,7 @@ local-zone: "spry-tap.pro" always_refuse
 local-zone: "srtb.msn.com" always_refuse
 local-zone: "srv.7rtb.com" always_refuse
 local-zone: "srvqck23.com" always_refuse
+local-zone: "srvqck25.com" always_refuse
 local-zone: "starmedia.ca" always_refuse
 local-zone: "statserv.net" always_refuse
 local-zone: "std.wpcdn.pl" always_refuse
@@ -19479,6 +19480,7 @@ local-zone: "adplatform.httpool.bg" always_refuse
 local-zone: "adplatform.httpool.rs" always_refuse
 local-zone: "adplatform.httpool.ru" always_refuse
 local-zone: "adplatform.httpool.si" always_refuse
+local-zone: "adright.fs.ak-is2.net" always_refuse
 local-zone: "ads.1a-infosysteme.de" always_refuse
 local-zone: "ads2.indeksonline.net" always_refuse
 local-zone: "ads2.mafamillezen.com" always_refuse
