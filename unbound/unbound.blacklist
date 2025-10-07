@@ -2438,6 +2438,7 @@ local-zone: "bgynsr.com" always_refuse
 local-zone: "bhnnop.com" always_refuse
 local-zone: "bidder.dev" always_refuse
 local-zone: "bidmag.net" always_refuse
+local-zone: "bidnest.cc" always_refuse
 local-zone: "bidroid.io" always_refuse
 local-zone: "bidtox.com" always_refuse
 local-zone: "bidvay.com" always_refuse
@@ -8006,6 +8007,7 @@ local-zone: "ad.fabrica.cz" always_refuse
 local-zone: "ad.fedsun.org" always_refuse
 local-zone: "ad.findic.com" always_refuse
 local-zone: "adfingers.com" always_refuse
+local-zone: "adfinitys.com" always_refuse
 local-zone: "adfluence.com" always_refuse
 local-zone: "adflyer.media" always_refuse
 local-zone: "adforcast.com" always_refuse

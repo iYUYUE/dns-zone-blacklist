@@ -2438,6 +2438,7 @@ local-zone: "bgynsr.com" always_nxdomain
 local-zone: "bhnnop.com" always_nxdomain
 local-zone: "bidder.dev" always_nxdomain
 local-zone: "bidmag.net" always_nxdomain
+local-zone: "bidnest.cc" always_nxdomain
 local-zone: "bidroid.io" always_nxdomain
 local-zone: "bidtox.com" always_nxdomain
 local-zone: "bidvay.com" always_nxdomain
@@ -8006,6 +8007,7 @@ local-zone: "ad.fabrica.cz" always_nxdomain
 local-zone: "ad.fedsun.org" always_nxdomain
 local-zone: "ad.findic.com" always_nxdomain
 local-zone: "adfingers.com" always_nxdomain
+local-zone: "adfinitys.com" always_nxdomain
 local-zone: "adfluence.com" always_nxdomain
 local-zone: "adflyer.media" always_nxdomain
 local-zone: "adforcast.com" always_nxdomain
