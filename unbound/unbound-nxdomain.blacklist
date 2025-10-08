@@ -1510,6 +1510,7 @@ local-zone: "psser.com" always_nxdomain
 local-zone: "ptomw.com" always_nxdomain
 local-zone: "puads.com" always_nxdomain
 local-zone: "publy.com" always_nxdomain
+local-zone: "puqwn.com" always_nxdomain
 local-zone: "purei.com" always_nxdomain
 local-zone: "pushed.co" always_nxdomain
 local-zone: "pushex.io" always_nxdomain
@@ -2126,6 +2127,7 @@ local-zone: "ads.ghz.gr" always_nxdomain
 local-zone: "adsgig.com" always_nxdomain
 local-zone: "ads.gld.dk" always_nxdomain
 local-zone: "ads.gol.mk" always_nxdomain
+local-zone: "adshn.site" always_nxdomain
 local-zone: "adsight.nl" always_nxdomain
 local-zone: "adsima.net" always_nxdomain
 local-zone: "ad.sizn.cc" always_nxdomain
@@ -6710,6 +6712,7 @@ local-zone: "clknrtrg.pro" always_nxdomain
 local-zone: "cloudmark.mx" always_nxdomain
 local-zone: "cmp2.bild.de" always_nxdomain
 local-zone: "co1linesu.ru" always_nxdomain
+local-zone: "codeaven.com" always_nxdomain
 local-zone: "codefuel.com" always_nxdomain
 local-zone: "codevelop.io" always_nxdomain
 local-zone: "cogocast.net" always_nxdomain

@@ -1510,6 +1510,7 @@ local-zone: "psser.com" always_refuse
 local-zone: "ptomw.com" always_refuse
 local-zone: "puads.com" always_refuse
 local-zone: "publy.com" always_refuse
+local-zone: "puqwn.com" always_refuse
 local-zone: "purei.com" always_refuse
 local-zone: "pushed.co" always_refuse
 local-zone: "pushex.io" always_refuse
@@ -2126,6 +2127,7 @@ local-zone: "ads.ghz.gr" always_refuse
 local-zone: "adsgig.com" always_refuse
 local-zone: "ads.gld.dk" always_refuse
 local-zone: "ads.gol.mk" always_refuse
+local-zone: "adshn.site" always_refuse
 local-zone: "adsight.nl" always_refuse
 local-zone: "adsima.net" always_refuse
 local-zone: "ad.sizn.cc" always_refuse
@@ -6710,6 +6712,7 @@ local-zone: "clknrtrg.pro" always_refuse
 local-zone: "cloudmark.mx" always_refuse
 local-zone: "cmp2.bild.de" always_refuse
 local-zone: "co1linesu.ru" always_refuse
+local-zone: "codeaven.com" always_refuse
 local-zone: "codefuel.com" always_refuse
 local-zone: "codevelop.io" always_refuse
 local-zone: "cogocast.net" always_refuse
