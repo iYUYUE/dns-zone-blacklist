@@ -16322,6 +16322,7 @@ zone "testyschedule.pro" { type master; notify no; file "null.zone.file"; };
 zone "text-link-ads.com" { type master; notify no; file "null.zone.file"; };
 zone "thatobjective.pro" { type master; notify no; file "null.zone.file"; };
 zone "theadsnetwork.com" { type master; notify no; file "null.zone.file"; };
+zone "thebestpaints.com" { type master; notify no; file "null.zone.file"; };
 zone "thebrainybulb.com" { type master; notify no; file "null.zone.file"; };
 zone "thecactusroad.com" { type master; notify no; file "null.zone.file"; };
 zone "thecatmachine.com" { type master; notify no; file "null.zone.file"; };
