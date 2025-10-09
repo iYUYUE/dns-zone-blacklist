@@ -1007,6 +1007,7 @@ local-zone: "avod.live" always_nxdomain
 local-zone: "avrdi.com" always_nxdomain
 local-zone: "awin.team" always_nxdomain
 local-zone: "awprt.com" always_nxdomain
+local-zone: "axavl.com" always_nxdomain
 local-zone: "axdsz.pro" always_nxdomain
 local-zone: "ayzvd.com" always_nxdomain
 local-zone: "azskk.com" always_nxdomain
@@ -1153,6 +1154,7 @@ local-zone: "ebads.net" always_nxdomain
 local-zone: "ebdr3.com" always_nxdomain
 local-zone: "ebqmz.top" always_nxdomain
 local-zone: "eclick.vn" always_nxdomain
+local-zone: "ecnkr.com" always_nxdomain
 local-zone: "ecsdk.com" always_nxdomain
 local-zone: "eforsa.pl" always_nxdomain
 local-zone: "ejfps.com" always_nxdomain
@@ -1173,6 +1175,8 @@ local-zone: "ezmob.com" always_nxdomain
 local-zone: "fatkh.com" always_nxdomain
 local-zone: "fbappi.co" always_nxdomain
 local-zone: "fc.ele.me" always_nxdomain
+local-zone: "fckzx.com" always_nxdomain
+local-zone: "fcmrn.com" always_nxdomain
 local-zone: "fdzev.com" always_nxdomain
 local-zone: "feathr.co" always_nxdomain
 local-zone: "fedsy.xyz" always_nxdomain
@@ -1272,6 +1276,7 @@ local-zone: "ioadx.com" always_nxdomain
 local-zone: "iomad.com" always_nxdomain
 local-zone: "iople.com" always_nxdomain
 local-zone: "iprom.net" always_nxdomain
+local-zone: "ipvcq.com" always_nxdomain
 local-zone: "iqkbi.top" always_nxdomain
 local-zone: "irlad.net" always_nxdomain
 local-zone: "i.ssix.io" always_nxdomain
@@ -1301,6 +1306,7 @@ local-zone: "jwire.com" always_nxdomain
 local-zone: "kadam.net" always_nxdomain
 local-zone: "kargo.com" always_nxdomain
 local-zone: "kayzen.io" always_nxdomain
+local-zone: "kdbov.com" always_nxdomain
 local-zone: "keajs.com" always_nxdomain
 local-zone: "kevel.com" always_nxdomain
 local-zone: "kfbif.com" always_nxdomain
@@ -1352,6 +1358,7 @@ local-zone: "lngtd.com" always_nxdomain
 local-zone: "locals.bg" always_nxdomain
 local-zone: "loopme.me" always_nxdomain
 local-zone: "lsjet.net" always_nxdomain
+local-zone: "lsuix.com" always_nxdomain
 local-zone: "luxup2.ru" always_nxdomain
 local-zone: "lwxjg.com" always_nxdomain
 local-zone: "m1170.top" always_nxdomain
@@ -1551,6 +1558,7 @@ local-zone: "rktch.com" always_nxdomain
 local-zone: "rmvin.com" always_nxdomain
 local-zone: "ro3sf.com" always_nxdomain
 local-zone: "r.pzwl.pl" always_nxdomain
+local-zone: "rqedw.com" always_nxdomain
 local-zone: "rqwel.com" always_nxdomain
 local-zone: "rtb.ex.co" always_nxdomain
 local-zone: "rtbiq.com" always_nxdomain
@@ -1787,6 +1795,7 @@ local-zone: "zallj.com" always_nxdomain
 local-zone: "zanox.com" always_nxdomain
 local-zone: "za.zdn.vn" always_nxdomain
 local-zone: "zbo.media" always_nxdomain
+local-zone: "zejcl.com" always_nxdomain
 local-zone: "zewkj.com" always_nxdomain
 local-zone: "zfish.com" always_nxdomain
 local-zone: "zgqbb.com" always_nxdomain
@@ -2347,6 +2356,7 @@ local-zone: "alephd.com" always_nxdomain
 local-zone: "alflom.top" always_nxdomain
 local-zone: "algorix.co" always_nxdomain
 local-zone: "algovid.tv" always_nxdomain
+local-zone: "aliaf.site" always_nxdomain
 local-zone: "aliwjo.com" always_nxdomain
 local-zone: "allcaps.lt" always_nxdomain
 local-zone: "allyes.com" always_nxdomain
@@ -13080,6 +13090,7 @@ local-zone: "oad-network.com" always_nxdomain
 local-zone: "obviousruin.pro" always_nxdomain
 local-zone: "ocean.radios.rs" always_nxdomain
 local-zone: "ocsrest.ebay.ca" always_nxdomain
+local-zone: "octaneblood.com" always_nxdomain
 local-zone: "offermatica.com" always_nxdomain
 local-zone: "ogle-0740lb.com" always_nxdomain
 local-zone: "oldercdncom.com" always_nxdomain
