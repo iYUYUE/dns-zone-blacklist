@@ -7010,7 +7010,6 @@ zone "iabeurope.eu" { type master; notify no; file "null.zone.file"; };
 zone "iadda.online" { type master; notify no; file "null.zone.file"; };
 zone "ib-broker.co" { type master; notify no; file "null.zone.file"; };
 zone "ibeamads.net" { type master; notify no; file "null.zone.file"; };
-zone "i-bidder.com" { type master; notify no; file "null.zone.file"; };
 zone "i-clicks.net" { type master; notify no; file "null.zone.file"; };
 zone "iconnode.com" { type master; notify no; file "null.zone.file"; };
 zone "iconpeak.com" { type master; notify no; file "null.zone.file"; };
