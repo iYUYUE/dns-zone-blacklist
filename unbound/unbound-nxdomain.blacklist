@@ -1092,12 +1092,15 @@ local-zone: "coull.com" always_nxdomain
 local-zone: "coxmt.com" always_nxdomain
 local-zone: "cp.as.com" always_nxdomain
 local-zone: "cp.eat.de" always_nxdomain
+local-zone: "cphfa.com" always_nxdomain
 local-zone: "cpiyz.com" always_nxdomain
 local-zone: "cpm.media" always_nxdomain
 local-zone: "cp.uwz.at" always_nxdomain
+local-zone: "cpuzo.com" always_nxdomain
 local-zone: "cpwub.com" always_nxdomain
 local-zone: "cpx24.com" always_nxdomain
 local-zone: "cpx24.net" always_nxdomain
+local-zone: "cqazk.com" always_nxdomain
 local-zone: "crhbs.com" always_nxdomain
 local-zone: "criteo.ae" always_nxdomain
 local-zone: "criteo.ai" always_nxdomain
@@ -1127,6 +1130,7 @@ local-zone: "dax.co.id" always_nxdomain
 local-zone: "dblks.net" always_nxdomain
 local-zone: "dbnua.com" always_nxdomain
 local-zone: "dclick.io" always_nxdomain
+local-zone: "dczao.com" always_nxdomain
 local-zone: "ddb.co.nz" always_nxdomain
 local-zone: "de17a.com" always_nxdomain
 local-zone: "delcom.ru" always_nxdomain
@@ -7658,6 +7662,7 @@ local-zone: "skassets.com" always_nxdomain
 local-zone: "skeetads.com" always_nxdomain
 local-zone: "skipper.tech" always_nxdomain
 local-zone: "skipperx.net" always_nxdomain
+local-zone: "slackpod.com" always_nxdomain
 local-zone: "sldelsrv.com" always_nxdomain
 local-zone: "slikslik.com" always_nxdomain
 local-zone: "sloyalty.com" always_nxdomain
@@ -11160,6 +11165,7 @@ local-zone: "letsconnect.at" always_nxdomain
 local-zone: "lifestreet.com" always_nxdomain
 local-zone: "likablefix.pro" always_nxdomain
 local-zone: "likenotify.com" always_nxdomain
+local-zone: "likethedog.com" always_nxdomain
 local-zone: "linketal.co.za" always_nxdomain
 local-zone: "linksvenue.com" always_nxdomain
 local-zone: "linkwithin.com" always_nxdomain
@@ -16245,6 +16251,7 @@ local-zone: "ra.wellsmedia.com" always_nxdomain
 local-zone: "rdr.wargaming.net" always_nxdomain
 local-zone: "reachjunction.com" always_nxdomain
 local-zone: "recruiting-ads.de" always_nxdomain
+local-zone: "redbasketball.com" always_nxdomain
 local-zone: "ref.rbauction.com" always_nxdomain
 local-zone: "registermedia.com" always_nxdomain
 local-zone: "reklama.gazeta.pl" always_nxdomain

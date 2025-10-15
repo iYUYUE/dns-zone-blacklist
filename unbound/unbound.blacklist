@@ -1092,12 +1092,15 @@ local-zone: "coull.com" always_refuse
 local-zone: "coxmt.com" always_refuse
 local-zone: "cp.as.com" always_refuse
 local-zone: "cp.eat.de" always_refuse
+local-zone: "cphfa.com" always_refuse
 local-zone: "cpiyz.com" always_refuse
 local-zone: "cpm.media" always_refuse
 local-zone: "cp.uwz.at" always_refuse
+local-zone: "cpuzo.com" always_refuse
 local-zone: "cpwub.com" always_refuse
 local-zone: "cpx24.com" always_refuse
 local-zone: "cpx24.net" always_refuse
+local-zone: "cqazk.com" always_refuse
 local-zone: "crhbs.com" always_refuse
 local-zone: "criteo.ae" always_refuse
 local-zone: "criteo.ai" always_refuse
@@ -1127,6 +1130,7 @@ local-zone: "dax.co.id" always_refuse
 local-zone: "dblks.net" always_refuse
 local-zone: "dbnua.com" always_refuse
 local-zone: "dclick.io" always_refuse
+local-zone: "dczao.com" always_refuse
 local-zone: "ddb.co.nz" always_refuse
 local-zone: "de17a.com" always_refuse
 local-zone: "delcom.ru" always_refuse
@@ -7658,6 +7662,7 @@ local-zone: "skassets.com" always_refuse
 local-zone: "skeetads.com" always_refuse
 local-zone: "skipper.tech" always_refuse
 local-zone: "skipperx.net" always_refuse
+local-zone: "slackpod.com" always_refuse
 local-zone: "sldelsrv.com" always_refuse
 local-zone: "slikslik.com" always_refuse
 local-zone: "sloyalty.com" always_refuse
@@ -11160,6 +11165,7 @@ local-zone: "letsconnect.at" always_refuse
 local-zone: "lifestreet.com" always_refuse
 local-zone: "likablefix.pro" always_refuse
 local-zone: "likenotify.com" always_refuse
+local-zone: "likethedog.com" always_refuse
 local-zone: "linketal.co.za" always_refuse
 local-zone: "linksvenue.com" always_refuse
 local-zone: "linkwithin.com" always_refuse
@@ -16245,6 +16251,7 @@ local-zone: "ra.wellsmedia.com" always_refuse
 local-zone: "rdr.wargaming.net" always_refuse
 local-zone: "reachjunction.com" always_refuse
 local-zone: "recruiting-ads.de" always_refuse
+local-zone: "redbasketball.com" always_refuse
 local-zone: "ref.rbauction.com" always_refuse
 local-zone: "registermedia.com" always_refuse
 local-zone: "reklama.gazeta.pl" always_refuse
