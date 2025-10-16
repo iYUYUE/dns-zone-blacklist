@@ -1278,6 +1278,7 @@ local-zone: "ikroh.com" always_refuse
 local-zone: "ileads.ru" always_refuse
 local-zone: "ilpsr.com" always_refuse
 local-zone: "imedia.cz" always_refuse
+local-zone: "img.bb.lv" always_refuse
 local-zone: "imgbum.ru" always_refuse
 local-zone: "imsow.com" always_refuse
 local-zone: "inappi.co" always_refuse
@@ -7015,6 +7016,7 @@ local-zone: "grapeads.com" always_refuse
 local-zone: "graphcom.com" always_refuse
 local-zone: "gravitec.net" always_refuse
 local-zone: "graydown.com" always_refuse
+local-zone: "greenbids.ai" always_refuse
 local-zone: "grimytax.pro" always_refuse
 local-zone: "gripdigi.com" always_refuse
 local-zone: "grow.gab.com" always_refuse

@@ -1278,6 +1278,7 @@ local-zone: "ikroh.com" always_nxdomain
 local-zone: "ileads.ru" always_nxdomain
 local-zone: "ilpsr.com" always_nxdomain
 local-zone: "imedia.cz" always_nxdomain
+local-zone: "img.bb.lv" always_nxdomain
 local-zone: "imgbum.ru" always_nxdomain
 local-zone: "imsow.com" always_nxdomain
 local-zone: "inappi.co" always_nxdomain
@@ -7015,6 +7016,7 @@ local-zone: "grapeads.com" always_nxdomain
 local-zone: "graphcom.com" always_nxdomain
 local-zone: "gravitec.net" always_nxdomain
 local-zone: "graydown.com" always_nxdomain
+local-zone: "greenbids.ai" always_nxdomain
 local-zone: "grimytax.pro" always_nxdomain
 local-zone: "gripdigi.com" always_nxdomain
 local-zone: "grow.gab.com" always_nxdomain
