@@ -2569,6 +2569,7 @@ local-zone: "cclpub.com" always_nxdomain
 local-zone: "cd-ads.com" always_nxdomain
 local-zone: "cdn.adf.ly" always_nxdomain
 local-zone: "cdnads.com" always_nxdomain
+local-zone: "cdn-fc.com" always_nxdomain
 local-zone: "cdntrf.com" always_nxdomain
 local-zone: "cdnvid.com" always_nxdomain
 local-zone: "cdxr53.com" always_nxdomain
@@ -7055,6 +7056,7 @@ local-zone: "goaffpro.com" always_nxdomain
 local-zone: "go.cmrdr.com" always_nxdomain
 local-zone: "gokaarts.com" always_nxdomain
 local-zone: "goldbach.com" always_nxdomain
+local-zone: "gomtdata.com" always_nxdomain
 local-zone: "goodbark.com" always_nxdomain
 local-zone: "goodroll.com" always_nxdomain
 local-zone: "gopush.click" always_nxdomain
@@ -16592,7 +16594,6 @@ local-zone: "sponsors.vvng.com" always_nxdomain
 local-zone: "spotscenered.info" always_nxdomain
 local-zone: "squiggly-fill.pro" always_nxdomain
 local-zone: "s.remavatube.pics" always_nxdomain
-local-zone: "srv1.gomtdata.com" always_nxdomain
 local-zone: "srv.hm-news.co.il" always_nxdomain
 local-zone: "starlingmedia.com" always_nxdomain
 local-zone: "static-blau.o9.de" always_nxdomain
@@ -20342,9 +20343,6 @@ local-zone: "inmarcadvertising.com" always_nxdomain
 local-zone: "instructiveengine.pro" always_nxdomain
 local-zone: "interworksmedia.co.kr" always_nxdomain
 local-zone: "intotheblueagency.com" always_nxdomain
-local-zone: "ip219083135.ahcdn.com" always_nxdomain
-local-zone: "ip266637217.ahcdn.com" always_nxdomain
-local-zone: "ip284921632.ahcdn.com" always_nxdomain
 local-zone: "isebis.yutoriform.com" always_nxdomain
 local-zone: "ithaca.hubhubhub.name" always_nxdomain
 local-zone: "itouchadvertising.com" always_nxdomain
@@ -22692,6 +22690,7 @@ local-zone: "gabaggcgbbhbhbecaadf.world" always_nxdomain
 local-zone: "gbibagiechgeajiaaadg.world" always_nxdomain
 local-zone: "gsa24.giaythethaonuhcm.com" always_nxdomain
 local-zone: "hardbeatcommunications.com" always_nxdomain
+local-zone: "hddhbhjgicjacegeaaec.world" always_nxdomain
 local-zone: "hegdcrxavrtk.cdnvideo3.com" always_nxdomain
 local-zone: "hhbehcahhajfffciaaef.world" always_nxdomain
 local-zone: "hhdjcabafaejaibaaaeg.world" always_nxdomain

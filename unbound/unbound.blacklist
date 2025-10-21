@@ -2569,6 +2569,7 @@ local-zone: "cclpub.com" always_refuse
 local-zone: "cd-ads.com" always_refuse
 local-zone: "cdn.adf.ly" always_refuse
 local-zone: "cdnads.com" always_refuse
+local-zone: "cdn-fc.com" always_refuse
 local-zone: "cdntrf.com" always_refuse
 local-zone: "cdnvid.com" always_refuse
 local-zone: "cdxr53.com" always_refuse
@@ -7055,6 +7056,7 @@ local-zone: "goaffpro.com" always_refuse
 local-zone: "go.cmrdr.com" always_refuse
 local-zone: "gokaarts.com" always_refuse
 local-zone: "goldbach.com" always_refuse
+local-zone: "gomtdata.com" always_refuse
 local-zone: "goodbark.com" always_refuse
 local-zone: "goodroll.com" always_refuse
 local-zone: "gopush.click" always_refuse
@@ -16592,7 +16594,6 @@ local-zone: "sponsors.vvng.com" always_refuse
 local-zone: "spotscenered.info" always_refuse
 local-zone: "squiggly-fill.pro" always_refuse
 local-zone: "s.remavatube.pics" always_refuse
-local-zone: "srv1.gomtdata.com" always_refuse
 local-zone: "srv.hm-news.co.il" always_refuse
 local-zone: "starlingmedia.com" always_refuse
 local-zone: "static-blau.o9.de" always_refuse
@@ -20342,9 +20343,6 @@ local-zone: "inmarcadvertising.com" always_refuse
 local-zone: "instructiveengine.pro" always_refuse
 local-zone: "interworksmedia.co.kr" always_refuse
 local-zone: "intotheblueagency.com" always_refuse
-local-zone: "ip219083135.ahcdn.com" always_refuse
-local-zone: "ip266637217.ahcdn.com" always_refuse
-local-zone: "ip284921632.ahcdn.com" always_refuse
 local-zone: "isebis.yutoriform.com" always_refuse
 local-zone: "ithaca.hubhubhub.name" always_refuse
 local-zone: "itouchadvertising.com" always_refuse
@@ -22692,6 +22690,7 @@ local-zone: "gabaggcgbbhbhbecaadf.world" always_refuse
 local-zone: "gbibagiechgeajiaaadg.world" always_refuse
 local-zone: "gsa24.giaythethaonuhcm.com" always_refuse
 local-zone: "hardbeatcommunications.com" always_refuse
+local-zone: "hddhbhjgicjacegeaaec.world" always_refuse
 local-zone: "hegdcrxavrtk.cdnvideo3.com" always_refuse
 local-zone: "hhbehcahhajfffciaaef.world" always_refuse
 local-zone: "hhdjcabafaejaibaaaeg.world" always_refuse
