@@ -11119,6 +11119,7 @@ zone "goalsmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "gob-gob-ul.com" { type master; notify no; file "null.zone.file"; };
 zone "godatafeed.com" { type master; notify no; file "null.zone.file"; };
 zone "godigilant.com" { type master; notify no; file "null.zone.file"; };
+zone "golfersrow.com" { type master; notify no; file "null.zone.file"; };
 zone "go.novirtb.com" { type master; notify no; file "null.zone.file"; };
 zone "goodjoyads.net" { type master; notify no; file "null.zone.file"; };
 zone "goodmove.media" { type master; notify no; file "null.zone.file"; };
