@@ -221,6 +221,7 @@ zone "maaw.io" { type master; notify no; file "null.zone.file"; };
 zone "maio.jp" { type master; notify no; file "null.zone.file"; };
 zone "mbai.cn" { type master; notify no; file "null.zone.file"; };
 zone "mint.ai" { type master; notify no; file "null.zone.file"; };
+zone "mlog.hu" { type master; notify no; file "null.zone.file"; };
 zone "mman.kr" { type master; notify no; file "null.zone.file"; };
 zone "mmin.io" { type master; notify no; file "null.zone.file"; };
 zone "mtpc.se" { type master; notify no; file "null.zone.file"; };
