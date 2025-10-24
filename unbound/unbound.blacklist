@@ -156,6 +156,7 @@ local-zone: "adtr.io" always_refuse
 local-zone: "adv.red" always_refuse
 local-zone: "ad-x.ru" always_refuse
 local-zone: "adzs.nl" always_refuse
+local-zone: "aeko.ch" always_refuse
 local-zone: "agof.de" always_refuse
 local-zone: "alan.sa" always_refuse
 local-zone: "alfa.sd" always_refuse
@@ -8943,6 +8944,7 @@ local-zone: "engagespot.co" always_refuse
 local-zone: "engine.lto.de" always_refuse
 local-zone: "enomotion.com" always_refuse
 local-zone: "eoweridus.com" always_refuse
+local-zone: "epublikey.com" always_refuse
 local-zone: "eqmx04n5s0.ru" always_refuse
 local-zone: "escapicon.net" always_refuse
 local-zone: "escortgps.net" always_refuse
@@ -11013,6 +11015,7 @@ local-zone: "endorsedby.com" always_refuse
 local-zone: "engagecore.com" always_refuse
 local-zone: "enterdrama.com" always_refuse
 local-zone: "entwined.co.ke" always_refuse
+local-zone: "epalete.agency" always_refuse
 local-zone: "e-planning.net" always_refuse
 local-zone: "erasercash.com" always_refuse
 local-zone: "etargetnet.com" always_refuse
