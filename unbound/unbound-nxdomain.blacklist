@@ -6099,6 +6099,7 @@ local-zone: "adaction.com" always_nxdomain
 local-zone: "ad-adapex.io" always_nxdomain
 local-zone: "adadda.group" always_nxdomain
 local-zone: "ad.adesk.com" always_nxdomain
+local-zone: "adaether.com" always_nxdomain
 local-zone: "ad.aikana.de" always_nxdomain
 local-zone: "ad.ajbrc.com" always_nxdomain
 local-zone: "adalladv.com" always_nxdomain
@@ -16582,6 +16583,7 @@ local-zone: "seal-utah.bbb.org" always_nxdomain
 local-zone: "secure.comodo.com" always_nxdomain
 local-zone: "selectmedia.co.in" always_nxdomain
 local-zone: "selfserveplus.com" always_nxdomain
+local-zone: "seniordynamic.com" always_nxdomain
 local-zone: "seosolution.co.in" always_nxdomain
 local-zone: "sequenceindia.com" always_nxdomain
 local-zone: "servedby.bsc.news" always_nxdomain
@@ -17611,6 +17613,7 @@ local-zone: "nsfw.army.delivery" always_nxdomain
 local-zone: "nutritiousrush.com" always_nxdomain
 local-zone: "oa.afishamedia.net" always_nxdomain
 local-zone: "oakinteractive.com" always_nxdomain
+local-zone: "objectsnetwork.com" always_nxdomain
 local-zone: "obvious-stress.pro" always_nxdomain
 local-zone: "odatomarketing.com" always_nxdomain
 local-zone: "omchimcharchan.com" always_nxdomain
@@ -23128,6 +23131,7 @@ local-zone: "brandsdeservebettermedia.com" always_nxdomain
 local-zone: "brandsdeservebettermedia.org" always_nxdomain
 local-zone: "cdnmc.dental-directory.co.uk" always_nxdomain
 local-zone: "click-eu-v4.exclplatmain.com" always_nxdomain
+local-zone: "co-merchandise.opera-api.com" always_nxdomain
 local-zone: "console.sacommunications.com" always_nxdomain
 local-zone: "contile.services.mozilla.com" always_nxdomain
 local-zone: "corporate.frontierconsul.net" always_nxdomain
