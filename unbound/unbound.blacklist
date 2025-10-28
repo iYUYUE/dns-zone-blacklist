@@ -12399,6 +12399,7 @@ local-zone: "ads.kgnapps.com" always_refuse
 local-zone: "ads.kommunal.at" always_refuse
 local-zone: "ads.lamchame.vn" always_refuse
 local-zone: "ads.lasalle.eus" always_refuse
+local-zone: "ads.lenkabd.com" always_refuse
 local-zone: "ads.lexpress.fr" always_refuse
 local-zone: "ads.libertas.mk" always_refuse
 local-zone: "ads.librebor.me" always_refuse
@@ -16608,6 +16609,7 @@ local-zone: "silvergarbage.pro" always_refuse
 local-zone: "simplemission.pro" always_refuse
 local-zone: "sizzling-camp.pro" always_refuse
 local-zone: "sizzlingsmoke.com" always_refuse
+local-zone: "skillsresults.com" always_refuse
 local-zone: "smartadserver.com" always_refuse
 local-zone: "smart-adserver.de" always_refuse
 local-zone: "smart.gflesch.com" always_refuse
@@ -22376,6 +22378,7 @@ local-zone: "ads.transamericafm.com.br" always_refuse
 local-zone: "ads.vitamine-ratgeber.com" always_refuse
 local-zone: "ads-za.privatelabel.co.za" always_refuse
 local-zone: "adultpartnerprogramme.com" always_refuse
+local-zone: "adultpublishernetwork.com" always_refuse
 local-zone: "adultwebmastercoaching.de" always_refuse
 local-zone: "adultwebmasternetwork.net" always_refuse
 local-zone: "adv.baovemoitruong.org.vn" always_refuse
