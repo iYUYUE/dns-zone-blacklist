@@ -1071,6 +1071,7 @@ zone "c8.net.ua" { type master; notify no; file "null.zone.file"; };
 zone "cackle.me" { type master; notify no; file "null.zone.file"; };
 zone "cackle.ru" { type master; notify no; file "null.zone.file"; };
 zone "cadent.tv" { type master; notify no; file "null.zone.file"; };
+zone "cafxq.com" { type master; notify no; file "null.zone.file"; };
 zone "caroda.io" { type master; notify no; file "null.zone.file"; };
 zone "cauly.net" { type master; notify no; file "null.zone.file"; };
 zone "cavai.com" { type master; notify no; file "null.zone.file"; };
