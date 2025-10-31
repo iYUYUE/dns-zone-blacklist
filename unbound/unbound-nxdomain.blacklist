@@ -735,6 +735,7 @@ local-zone: "a2adv.com" always_nxdomain
 local-zone: "a2.zdg.de" always_nxdomain
 local-zone: "a3.zdg.de" always_nxdomain
 local-zone: "a4bbd.com" always_nxdomain
+local-zone: "a7l3i.top" always_nxdomain
 local-zone: "a8723.com" always_nxdomain
 local-zone: "aa.1gr.cz" always_nxdomain
 local-zone: "a-ads.com" always_nxdomain
@@ -1508,6 +1509,7 @@ local-zone: "openx.net" always_nxdomain
 local-zone: "openx.org" always_nxdomain
 local-zone: "opoxv.com" always_nxdomain
 local-zone: "optmd.com" always_nxdomain
+local-zone: "optvz.com" always_nxdomain
 local-zone: "orjzy.com" always_nxdomain
 local-zone: "otm-r.com" always_nxdomain
 local-zone: "ottera.tv" always_nxdomain
@@ -7577,6 +7579,7 @@ local-zone: "p.udn.com.tw" always_nxdomain
 local-zone: "purecars.com" always_nxdomain
 local-zone: "purgrobi.com" always_nxdomain
 local-zone: "purpleads.io" always_nxdomain
+local-zone: "push1000.top" always_nxdomain
 local-zone: "pushalert.co" always_nxdomain
 local-zone: "pushbird.com" always_nxdomain
 local-zone: "pushblog.com" always_nxdomain
@@ -16247,6 +16250,7 @@ local-zone: "hds-api.hearst.io" always_nxdomain
 local-zone: "hearstmediact.com" always_nxdomain
 local-zone: "heavenly-jump.pro" always_nxdomain
 local-zone: "heavenly-poem.pro" always_nxdomain
+local-zone: "heimsferdir.cloud" always_nxdomain
 local-zone: "hewasinlo-bid.com" always_nxdomain
 local-zone: "highburyads.co.za" always_nxdomain
 local-zone: "highfivemedia.com" always_nxdomain

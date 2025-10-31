@@ -735,6 +735,7 @@ local-zone: "a2adv.com" always_refuse
 local-zone: "a2.zdg.de" always_refuse
 local-zone: "a3.zdg.de" always_refuse
 local-zone: "a4bbd.com" always_refuse
+local-zone: "a7l3i.top" always_refuse
 local-zone: "a8723.com" always_refuse
 local-zone: "aa.1gr.cz" always_refuse
 local-zone: "a-ads.com" always_refuse
@@ -1508,6 +1509,7 @@ local-zone: "openx.net" always_refuse
 local-zone: "openx.org" always_refuse
 local-zone: "opoxv.com" always_refuse
 local-zone: "optmd.com" always_refuse
+local-zone: "optvz.com" always_refuse
 local-zone: "orjzy.com" always_refuse
 local-zone: "otm-r.com" always_refuse
 local-zone: "ottera.tv" always_refuse
@@ -7577,6 +7579,7 @@ local-zone: "p.udn.com.tw" always_refuse
 local-zone: "purecars.com" always_refuse
 local-zone: "purgrobi.com" always_refuse
 local-zone: "purpleads.io" always_refuse
+local-zone: "push1000.top" always_refuse
 local-zone: "pushalert.co" always_refuse
 local-zone: "pushbird.com" always_refuse
 local-zone: "pushblog.com" always_refuse
@@ -16247,6 +16250,7 @@ local-zone: "hds-api.hearst.io" always_refuse
 local-zone: "hearstmediact.com" always_refuse
 local-zone: "heavenly-jump.pro" always_refuse
 local-zone: "heavenly-poem.pro" always_refuse
+local-zone: "heimsferdir.cloud" always_refuse
 local-zone: "hewasinlo-bid.com" always_refuse
 local-zone: "highburyads.co.za" always_refuse
 local-zone: "highfivemedia.com" always_refuse
