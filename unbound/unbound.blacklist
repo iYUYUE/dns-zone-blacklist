@@ -3815,6 +3815,7 @@ local-zone: "zxclan.com" always_refuse
 local-zone: "zzfoms.com" always_refuse
 local-zone: "zzxjlr.com" always_refuse
 local-zone: "zzxnxp.com" always_refuse
+local-zone: "06yahoo.com" always_refuse
 local-zone: "0i0i0i0.com" always_refuse
 local-zone: "0y2im3ma.ru" always_refuse
 local-zone: "10xroas.com" always_refuse
@@ -10105,6 +10106,7 @@ local-zone: "wigzopush.com" always_refuse
 local-zone: "wild-army.com" always_refuse
 local-zone: "wildcourt.pro" always_refuse
 local-zone: "windsplay.com" always_refuse
+local-zone: "wink.eham.net" always_refuse
 local-zone: "winkleads.com" always_refuse
 local-zone: "wisetoweb.com" always_refuse
 local-zone: "wispycity.com" always_refuse
@@ -14869,6 +14871,7 @@ local-zone: "ill-purchase.pro" always_refuse
 local-zone: "ilmfpartners.com" always_refuse
 local-zone: "ilovelivecdn.com" always_refuse
 local-zone: "imaginemedia.com" always_refuse
+local-zone: "im-cloud-cdn.com" always_refuse
 local-zone: "impactingads.com" always_refuse
 local-zone: "impressionad.com" always_refuse
 local-zone: "incentivated.com" always_refuse
@@ -16954,12 +16957,22 @@ local-zone: "ztvlz.fapnado.xxx" always_refuse
 local-zone: "zvela.filegram.to" always_refuse
 local-zone: "z.zedtrekh.online" always_refuse
 local-zone: "0.clicks4me.fwh.is" always_refuse
+local-zone: "0.www.78587924.xyz" always_refuse
 local-zone: "100conversions.com" always_refuse
 local-zone: "10kadvertising.com" always_refuse
+local-zone: "1.www.78587924.xyz" always_refuse
 local-zone: "214interactive.com" always_refuse
+local-zone: "2.www.78587924.xyz" always_refuse
 local-zone: "32998zubo36283.com" always_refuse
 local-zone: "3headedmonster.com" always_refuse
 local-zone: "3lanemarketing.com" always_refuse
+local-zone: "3.www.78587924.xyz" always_refuse
+local-zone: "4.www.78587924.xyz" always_refuse
+local-zone: "5.www.78587924.xyz" always_refuse
+local-zone: "6.www.78587924.xyz" always_refuse
+local-zone: "7.www.78587924.xyz" always_refuse
+local-zone: "8.www.78587924.xyz" always_refuse
+local-zone: "9.www.78587924.xyz" always_refuse
 local-zone: "a235.lmtonline.com" always_refuse
 local-zone: "a235.newstimes.com" always_refuse
 local-zone: "a235.seattlepi.com" always_refuse
@@ -21226,6 +21239,7 @@ local-zone: "asg1.xueserverhost.com" always_refuse
 local-zone: "asg2.hostsolutinns.com" always_refuse
 local-zone: "asg2.xueserverhost.com" always_refuse
 local-zone: "assets.gunwarranty.com" always_refuse
+local-zone: "assets.ingrammicro.com" always_refuse
 local-zone: "assets.smoothradio.com" always_refuse
 local-zone: "assets.snapfinance.com" always_refuse
 local-zone: "assets-v2.boisedev.com" always_refuse

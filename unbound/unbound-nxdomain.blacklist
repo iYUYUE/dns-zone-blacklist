@@ -3815,6 +3815,7 @@ local-zone: "zxclan.com" always_nxdomain
 local-zone: "zzfoms.com" always_nxdomain
 local-zone: "zzxjlr.com" always_nxdomain
 local-zone: "zzxnxp.com" always_nxdomain
+local-zone: "06yahoo.com" always_nxdomain
 local-zone: "0i0i0i0.com" always_nxdomain
 local-zone: "0y2im3ma.ru" always_nxdomain
 local-zone: "10xroas.com" always_nxdomain
@@ -10105,6 +10106,7 @@ local-zone: "wigzopush.com" always_nxdomain
 local-zone: "wild-army.com" always_nxdomain
 local-zone: "wildcourt.pro" always_nxdomain
 local-zone: "windsplay.com" always_nxdomain
+local-zone: "wink.eham.net" always_nxdomain
 local-zone: "winkleads.com" always_nxdomain
 local-zone: "wisetoweb.com" always_nxdomain
 local-zone: "wispycity.com" always_nxdomain
@@ -14869,6 +14871,7 @@ local-zone: "ill-purchase.pro" always_nxdomain
 local-zone: "ilmfpartners.com" always_nxdomain
 local-zone: "ilovelivecdn.com" always_nxdomain
 local-zone: "imaginemedia.com" always_nxdomain
+local-zone: "im-cloud-cdn.com" always_nxdomain
 local-zone: "impactingads.com" always_nxdomain
 local-zone: "impressionad.com" always_nxdomain
 local-zone: "incentivated.com" always_nxdomain
@@ -16954,12 +16957,22 @@ local-zone: "ztvlz.fapnado.xxx" always_nxdomain
 local-zone: "zvela.filegram.to" always_nxdomain
 local-zone: "z.zedtrekh.online" always_nxdomain
 local-zone: "0.clicks4me.fwh.is" always_nxdomain
+local-zone: "0.www.78587924.xyz" always_nxdomain
 local-zone: "100conversions.com" always_nxdomain
 local-zone: "10kadvertising.com" always_nxdomain
+local-zone: "1.www.78587924.xyz" always_nxdomain
 local-zone: "214interactive.com" always_nxdomain
+local-zone: "2.www.78587924.xyz" always_nxdomain
 local-zone: "32998zubo36283.com" always_nxdomain
 local-zone: "3headedmonster.com" always_nxdomain
 local-zone: "3lanemarketing.com" always_nxdomain
+local-zone: "3.www.78587924.xyz" always_nxdomain
+local-zone: "4.www.78587924.xyz" always_nxdomain
+local-zone: "5.www.78587924.xyz" always_nxdomain
+local-zone: "6.www.78587924.xyz" always_nxdomain
+local-zone: "7.www.78587924.xyz" always_nxdomain
+local-zone: "8.www.78587924.xyz" always_nxdomain
+local-zone: "9.www.78587924.xyz" always_nxdomain
 local-zone: "a235.lmtonline.com" always_nxdomain
 local-zone: "a235.newstimes.com" always_nxdomain
 local-zone: "a235.seattlepi.com" always_nxdomain
@@ -21226,6 +21239,7 @@ local-zone: "asg1.xueserverhost.com" always_nxdomain
 local-zone: "asg2.hostsolutinns.com" always_nxdomain
 local-zone: "asg2.xueserverhost.com" always_nxdomain
 local-zone: "assets.gunwarranty.com" always_nxdomain
+local-zone: "assets.ingrammicro.com" always_nxdomain
 local-zone: "assets.smoothradio.com" always_nxdomain
 local-zone: "assets.snapfinance.com" always_nxdomain
 local-zone: "assets-v2.boisedev.com" always_nxdomain
