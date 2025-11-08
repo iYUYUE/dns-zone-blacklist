@@ -10379,6 +10379,7 @@ zone "wildcourt.pro" { type master; notify no; file "null.zone.file"; };
 zone "windsplay.com" { type master; notify no; file "null.zone.file"; };
 zone "wink.eham.net" { type master; notify no; file "null.zone.file"; };
 zone "winkleads.com" { type master; notify no; file "null.zone.file"; };
+zone "wisermapp.com" { type master; notify no; file "null.zone.file"; };
 zone "wisetoweb.com" { type master; notify no; file "null.zone.file"; };
 zone "wispycity.com" { type master; notify no; file "null.zone.file"; };
 zone "wondocash.com" { type master; notify no; file "null.zone.file"; };
