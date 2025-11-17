@@ -18384,12 +18384,14 @@ local-zone: "rs-stripe.nola.com" always_refuse
 local-zone: "rs-stripe.oann.com" always_refuse
 local-zone: "rs-stripe.usnn.com" always_refuse
 local-zone: "rs-stripe.wral.com" always_refuse
+local-zone: "rtb-1.yourlust.com" always_refuse
 local-zone: "rubiconproject.com" always_refuse
 local-zone: "rubiconproject.net" always_refuse
 local-zone: "rundown-employ.pro" always_refuse
 local-zone: "rushadvertising.ae" always_refuse
 local-zone: "rvv3.pdnegocios.cl" always_refuse
 local-zone: "s3t3d2y8.afcdn.net" always_refuse
+local-zone: "s3t3d2y9.afcdn.net" always_refuse
 local-zone: "sales-frontier.com" always_refuse
 local-zone: "sapienceglobal.com" always_refuse
 local-zone: "saroadexchange.com" always_refuse

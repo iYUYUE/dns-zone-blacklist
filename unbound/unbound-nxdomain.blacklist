@@ -18384,12 +18384,14 @@ local-zone: "rs-stripe.nola.com" always_nxdomain
 local-zone: "rs-stripe.oann.com" always_nxdomain
 local-zone: "rs-stripe.usnn.com" always_nxdomain
 local-zone: "rs-stripe.wral.com" always_nxdomain
+local-zone: "rtb-1.yourlust.com" always_nxdomain
 local-zone: "rubiconproject.com" always_nxdomain
 local-zone: "rubiconproject.net" always_nxdomain
 local-zone: "rundown-employ.pro" always_nxdomain
 local-zone: "rushadvertising.ae" always_nxdomain
 local-zone: "rvv3.pdnegocios.cl" always_nxdomain
 local-zone: "s3t3d2y8.afcdn.net" always_nxdomain
+local-zone: "s3t3d2y9.afcdn.net" always_nxdomain
 local-zone: "sales-frontier.com" always_nxdomain
 local-zone: "sapienceglobal.com" always_nxdomain
 local-zone: "saroadexchange.com" always_nxdomain
