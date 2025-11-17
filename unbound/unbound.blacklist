@@ -13703,6 +13703,7 @@ local-zone: "mediaxpedia.com" always_refuse
 local-zone: "mediumshort.com" always_refuse
 local-zone: "medyanetads.com" always_refuse
 local-zone: "me-fu-bae.space" always_refuse
+local-zone: "megaphonetv.com" always_refuse
 local-zone: "mekstolande.com" always_refuse
 local-zone: "membersgram.com" always_refuse
 local-zone: "memevideoad.com" always_refuse
@@ -17926,6 +17927,7 @@ local-zone: "cover3creative.com" always_refuse
 local-zone: "cp.computerhoy.com" always_refuse
 local-zone: "cp.donnerwetter.de" always_refuse
 local-zone: "cp.finanzfrage.net" always_refuse
+local-zone: "cp.gamingbible.com" always_refuse
 local-zone: "cp.gartendialog.de" always_refuse
 local-zone: "cp.gequo-travel.de" always_refuse
 local-zone: "cp.gladbachlive.de" always_refuse
@@ -18144,6 +18146,7 @@ local-zone: "iridescentdusk.com" always_refuse
 local-zone: "iw-advertising.com" always_refuse
 local-zone: "iwanttodeliver.com" always_refuse
 local-zone: "jam.hearstapps.com" always_refuse
+local-zone: "jellyfinstream.com" always_refuse
 local-zone: "jenniferspivak.com" always_refuse
 local-zone: "jitterystation.com" always_refuse
 local-zone: "johannes.voith.com" always_refuse
@@ -19811,7 +19814,6 @@ local-zone: "ad8.galsparadise.com" always_refuse
 local-zone: "ad.aege.fr.m.suff.it" always_refuse
 local-zone: "ad-agencyservices.de" always_refuse
 local-zone: "ad.anadoluefessk.org" always_refuse
-local-zone: "adbustr.trk2afse.com" always_refuse
 local-zone: "adbutler-exciton.com" always_refuse
 local-zone: "adbutler-fermion.com" always_refuse
 local-zone: "adbutler-tachyon.com" always_refuse

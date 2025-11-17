@@ -13703,6 +13703,7 @@ local-zone: "mediaxpedia.com" always_nxdomain
 local-zone: "mediumshort.com" always_nxdomain
 local-zone: "medyanetads.com" always_nxdomain
 local-zone: "me-fu-bae.space" always_nxdomain
+local-zone: "megaphonetv.com" always_nxdomain
 local-zone: "mekstolande.com" always_nxdomain
 local-zone: "membersgram.com" always_nxdomain
 local-zone: "memevideoad.com" always_nxdomain
@@ -17926,6 +17927,7 @@ local-zone: "cover3creative.com" always_nxdomain
 local-zone: "cp.computerhoy.com" always_nxdomain
 local-zone: "cp.donnerwetter.de" always_nxdomain
 local-zone: "cp.finanzfrage.net" always_nxdomain
+local-zone: "cp.gamingbible.com" always_nxdomain
 local-zone: "cp.gartendialog.de" always_nxdomain
 local-zone: "cp.gequo-travel.de" always_nxdomain
 local-zone: "cp.gladbachlive.de" always_nxdomain
@@ -18144,6 +18146,7 @@ local-zone: "iridescentdusk.com" always_nxdomain
 local-zone: "iw-advertising.com" always_nxdomain
 local-zone: "iwanttodeliver.com" always_nxdomain
 local-zone: "jam.hearstapps.com" always_nxdomain
+local-zone: "jellyfinstream.com" always_nxdomain
 local-zone: "jenniferspivak.com" always_nxdomain
 local-zone: "jitterystation.com" always_nxdomain
 local-zone: "johannes.voith.com" always_nxdomain
@@ -19811,7 +19814,6 @@ local-zone: "ad8.galsparadise.com" always_nxdomain
 local-zone: "ad.aege.fr.m.suff.it" always_nxdomain
 local-zone: "ad-agencyservices.de" always_nxdomain
 local-zone: "ad.anadoluefessk.org" always_nxdomain
-local-zone: "adbustr.trk2afse.com" always_nxdomain
 local-zone: "adbutler-exciton.com" always_nxdomain
 local-zone: "adbutler-fermion.com" always_nxdomain
 local-zone: "adbutler-tachyon.com" always_nxdomain
