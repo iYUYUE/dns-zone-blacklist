@@ -15364,6 +15364,7 @@ local-zone: "legal-weight.pro" always_refuse
 local-zone: "lemonpackage.com" always_refuse
 local-zone: "lemonsandjoy.com" always_refuse
 local-zone: "level.18huhu.com" always_refuse
+local-zone: "lh.bigcrunch.com" always_refuse
 local-zone: "libraryfacts.com" always_refuse
 local-zone: "libraryscout.com" always_refuse
 local-zone: "libraryvalue.com" always_refuse
@@ -18460,6 +18461,7 @@ local-zone: "shakyadigitech.com" always_refuse
 local-zone: "shameful-touch.pro" always_refuse
 local-zone: "sharpgrowth.com.au" always_refuse
 local-zone: "sherwoodsutton.pro" always_refuse
+local-zone: "ship.bigcrunch.com" always_refuse
 local-zone: "shrillinstance.pro" always_refuse
 local-zone: "shutter-events.com" always_refuse
 local-zone: "siewca.topagrar.pl" always_refuse
@@ -21687,6 +21689,7 @@ local-zone: "adserver.almawdou3.com" always_refuse
 local-zone: "adserver.arbtalk.co.uk" always_refuse
 local-zone: "adserver.asia-city.com" always_refuse
 local-zone: "adserver.becomeyoo.com" always_refuse
+local-zone: "adserver.bigcrunch.com" always_refuse
 local-zone: "adserver.broumovsko.cz" always_refuse
 local-zone: "adserver.cdnstream.com" always_refuse
 local-zone: "adserver.cenebchile.cl" always_refuse
