@@ -20903,6 +20903,7 @@ zone "ads.infobijeljina.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.intimesrevier.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.jeccomposites.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.juergen-elbert.de" { type master; notify no; file "null.zone.file"; };
+zone "ads.kiwi.shigotech.io" { type master; notify no; file "null.zone.file"; };
 zone "ads.klick-kaernten.at" { type master; notify no; file "null.zone.file"; };
 zone "ads.kredit-suchen.net" { type master; notify no; file "null.zone.file"; };
 zone "ads.lagacetand.com.ar" { type master; notify no; file "null.zone.file"; };
