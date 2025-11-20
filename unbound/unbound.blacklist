@@ -11950,6 +11950,7 @@ local-zone: "onemboaran.com" always_refuse
 local-zone: "onetag-sys.com" always_refuse
 local-zone: "onetrust.press" always_refuse
 local-zone: "onresponse.net" always_refuse
+local-zone: "openwidget.com" always_refuse
 local-zone: "openx.diena.lv" always_refuse
 local-zone: "openx.eetop.cn" always_refuse
 local-zone: "openx.s-p-m.ch" always_refuse
@@ -13821,6 +13822,7 @@ local-zone: "orquideassp.com" always_refuse
 local-zone: "o.techmaniak.pl" always_refuse
 local-zone: "otherprofit.com" always_refuse
 local-zone: "otnolatrnup.com" always_refuse
+local-zone: "ottadvisors.com" always_refuse
 local-zone: "outbrainimg.com" always_refuse
 local-zone: "outlinemedia.in" always_refuse
 local-zone: "outsidevibe.com" always_refuse
