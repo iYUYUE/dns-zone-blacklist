@@ -2677,7 +2677,6 @@ local-zone: "cp.moin.de" always_nxdomain
 local-zone: "cps.waz.de" always_nxdomain
 local-zone: "cp.talu.de" always_nxdomain
 local-zone: "cr8adv.com" always_nxdomain
-local-zone: "crcldu.com" always_nxdomain
 local-zone: "crcvba.com" always_nxdomain
 local-zone: "criteo.bid" always_nxdomain
 local-zone: "criteo.com" always_nxdomain

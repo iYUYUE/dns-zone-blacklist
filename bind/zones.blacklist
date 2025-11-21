@@ -2677,7 +2677,6 @@ zone "cp.moin.de" { type master; notify no; file "null.zone.file"; };
 zone "cps.waz.de" { type master; notify no; file "null.zone.file"; };
 zone "cp.talu.de" { type master; notify no; file "null.zone.file"; };
 zone "cr8adv.com" { type master; notify no; file "null.zone.file"; };
-zone "crcldu.com" { type master; notify no; file "null.zone.file"; };
 zone "crcvba.com" { type master; notify no; file "null.zone.file"; };
 zone "criteo.bid" { type master; notify no; file "null.zone.file"; };
 zone "criteo.com" { type master; notify no; file "null.zone.file"; };
