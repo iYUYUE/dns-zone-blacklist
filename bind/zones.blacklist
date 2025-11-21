@@ -22839,6 +22839,7 @@ zone "ad-mrevive.hussverlag.de" { type master; notify no; file "null.zone.file";
 zone "adnet.bunnyandvolkov.com" { type master; notify no; file "null.zone.file"; };
 zone "adnetworkperformance.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.polskiprzemysl.com.pl" { type master; notify no; file "null.zone.file"; };
+zone "ad-rotator.watchluuv.com" { type master; notify no; file "null.zone.file"; };
 zone "ads2.beforeyoubet.com.au" { type master; notify no; file "null.zone.file"; };
 zone "ads2.perrosdebusqueda.es" { type master; notify no; file "null.zone.file"; };
 zone "ads.asianpacificpost.com" { type master; notify no; file "null.zone.file"; };
