@@ -16047,6 +16047,7 @@ zone "5thfloormedia.com" { type master; notify no; file "null.zone.file"; };
 zone "6thborough.agency" { type master; notify no; file "null.zone.file"; };
 zone "8686865554893.com" { type master; notify no; file "null.zone.file"; };
 zone "a01.korrelate.net" { type master; notify no; file "null.zone.file"; };
+zone "a314.gameloft.com" { type master; notify no; file "null.zone.file"; };
 zone "a614.masslive.com" { type master; notify no; file "null.zone.file"; };
 zone "a614.pennlive.com" { type master; notify no; file "null.zone.file"; };
 zone "a614.syracuse.com" { type master; notify no; file "null.zone.file"; };
