@@ -23818,7 +23818,6 @@ zone "static.livingmagonline.com" { type master; notify no; file "null.zone.file
 zone "static.native-commerce.com" { type master; notify no; file "null.zone.file"; };
 zone "stickyadstv.com.akadns.net" { type master; notify no; file "null.zone.file"; };
 zone "sync-unosync-com.geodns.me" { type master; notify no; file "null.zone.file"; };
-zone "test-gateway.instagram.com" { type master; notify no; file "null.zone.file"; };
 zone "uacabilqlgpw.cdnvideo3.com" { type master; notify no; file "null.zone.file"; };
 zone "uk-advertising.weather.com" { type master; notify no; file "null.zone.file"; };
 zone "umtpopxcsedc.cdnvideo3.com" { type master; notify no; file "null.zone.file"; };
