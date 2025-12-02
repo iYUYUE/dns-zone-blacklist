@@ -4941,7 +4941,6 @@ zone "finative.eu" { type master; notify no; file "null.zone.file"; };
 zone "finelay.pro" { type master; notify no; file "null.zone.file"; };
 zone "fireads.org" { type master; notify no; file "null.zone.file"; };
 zone "firelnk.com" { type master; notify no; file "null.zone.file"; };
-zone "flodesk.com" { type master; notify no; file "null.zone.file"; };
 zone "fmovies.net" { type master; notify no; file "null.zone.file"; };
 zone "fomofly.com" { type master; notify no; file "null.zone.file"; };
 zone "foorcdn.com" { type master; notify no; file "null.zone.file"; };
