@@ -8831,6 +8831,7 @@ zone "ad.xmmnsl.com" { type master; notify no; file "null.zone.file"; };
 zone "adxoclick.com" { type master; notify no; file "null.zone.file"; };
 zone "adx.opera.com" { type master; notify no; file "null.zone.file"; };
 zone "adyoulike.com" { type master; notify no; file "null.zone.file"; };
+zone "ad.zetacx.net" { type master; notify no; file "null.zone.file"; };
 zone "adzilla1.name" { type master; notify no; file "null.zone.file"; };
 zone "adzmarket.net" { type master; notify no; file "null.zone.file"; };
 zone "adzmedia.mobi" { type master; notify no; file "null.zone.file"; };

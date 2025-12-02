@@ -8831,6 +8831,7 @@ local-zone: "ad.xmmnsl.com" always_refuse
 local-zone: "adxoclick.com" always_refuse
 local-zone: "adx.opera.com" always_refuse
 local-zone: "adyoulike.com" always_refuse
+local-zone: "ad.zetacx.net" always_refuse
 local-zone: "adzilla1.name" always_refuse
 local-zone: "adzmarket.net" always_refuse
 local-zone: "adzmedia.mobi" always_refuse

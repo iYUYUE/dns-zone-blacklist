@@ -8831,6 +8831,7 @@ local-zone: "ad.xmmnsl.com" always_nxdomain
 local-zone: "adxoclick.com" always_nxdomain
 local-zone: "adx.opera.com" always_nxdomain
 local-zone: "adyoulike.com" always_nxdomain
+local-zone: "ad.zetacx.net" always_nxdomain
 local-zone: "adzilla1.name" always_nxdomain
 local-zone: "adzmarket.net" always_nxdomain
 local-zone: "adzmedia.mobi" always_nxdomain
