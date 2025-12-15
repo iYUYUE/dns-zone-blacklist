@@ -701,6 +701,7 @@ local-zone: "zentr.cc" always_refuse
 local-zone: "zirca.in" always_refuse
 local-zone: "zk1w.com" always_refuse
 local-zone: "11.o7.net" always_refuse
+local-zone: "122da.com" always_refuse
 local-zone: "12had.com" always_refuse
 local-zone: "1611a.com" always_refuse
 local-zone: "17ads.net" always_refuse
@@ -5786,7 +5787,6 @@ local-zone: "vidsrev.com" always_refuse
 local-zone: "vidverto.io" always_refuse
 local-zone: "viewbix.com" always_refuse
 local-zone: "viewlnk.com" always_refuse
-local-zone: "viglink.com" always_refuse
 local-zone: "vincodo.com" always_refuse
 local-zone: "vinit.cloud" always_refuse
 local-zone: "vionito.com" always_refuse
@@ -8606,6 +8606,7 @@ local-zone: "ads.diveba.se" always_refuse
 local-zone: "adsdolfin.com" always_refuse
 local-zone: "ads.drf-tv.de" always_refuse
 local-zone: "ads.dwggl.com" always_refuse
+local-zone: "ads.dxtech.ai" always_refuse
 local-zone: "ads.efind.com" always_refuse
 local-zone: "ads.elitka.kg" always_refuse
 local-zone: "ads.eniro.com" always_refuse
@@ -10212,6 +10213,7 @@ local-zone: "sparkgoal.com" always_refuse
 local-zone: "spearad.video" always_refuse
 local-zone: "speedyads.com" always_refuse
 local-zone: "spicecash.com" always_refuse
+local-zone: "spicytask.pro" always_refuse
 local-zone: "spirit-me.com" always_refuse
 local-zone: "splashnova.de" always_refuse
 local-zone: "sponsorads.de" always_refuse
@@ -11598,7 +11600,6 @@ local-zone: "hilltopads.com" always_refuse
 local-zone: "hilltopads.net" always_refuse
 local-zone: "hindiyahoo.com" always_refuse
 local-zone: "hiro-media.com" always_refuse
-local-zone: "hit.stat24.com" always_refuse
 local-zone: "hjtupiantz.com" always_refuse
 local-zone: "hnh.429men.com" always_refuse
 local-zone: "hopefulrow.com" always_refuse
@@ -14315,7 +14316,6 @@ local-zone: "via-backend.com" always_refuse
 local-zone: "viacustomer.com" always_refuse
 local-zone: "vibrantpact.com" always_refuse
 local-zone: "videocdnfor.com" always_refuse
-local-zone: "video.yahoo.com" always_refuse
 local-zone: "vipissycash.com" always_refuse
 local-zone: "vip-vip-vup.com" always_refuse
 local-zone: "viralnugget.com" always_refuse
@@ -20637,6 +20637,7 @@ local-zone: "socialrocketship.com" always_refuse
 local-zone: "socialservice.center" always_refuse
 local-zone: "softwaredefined.guru" always_refuse
 local-zone: "somethingmassive.com" always_refuse
+local-zone: "sparkling-credit.pro" always_refuse
 local-zone: "specialadservice.com" always_refuse
 local-zone: "spectacular-jury.pro" always_refuse
 local-zone: "spellingthoughts.com" always_refuse
