@@ -9941,6 +9941,7 @@ zone "project-ad.jp" { type master; notify no; file "null.zone.file"; };
 zone "projectadv.it" { type master; notify no; file "null.zone.file"; };
 zone "prom4apps.com" { type master; notify no; file "null.zone.file"; };
 zone "promokrot.com" { type master; notify no; file "null.zone.file"; };
+zone "promolayer.io" { type master; notify no; file "null.zone.file"; };
 zone "promo.skf.com" { type master; notify no; file "null.zone.file"; };
 zone "promoteiq.com" { type master; notify no; file "null.zone.file"; };
 zone "prop.hitc.com" { type master; notify no; file "null.zone.file"; };

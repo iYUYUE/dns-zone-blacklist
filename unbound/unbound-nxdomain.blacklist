@@ -9941,6 +9941,7 @@ local-zone: "project-ad.jp" always_nxdomain
 local-zone: "projectadv.it" always_nxdomain
 local-zone: "prom4apps.com" always_nxdomain
 local-zone: "promokrot.com" always_nxdomain
+local-zone: "promolayer.io" always_nxdomain
 local-zone: "promo.skf.com" always_nxdomain
 local-zone: "promoteiq.com" always_nxdomain
 local-zone: "prop.hitc.com" always_nxdomain
