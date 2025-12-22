@@ -24783,6 +24783,7 @@ zone "adserver-public-cdn.azureedge.net" { type master; notify no; file "null.zo
 zone "adserver-qa.skiresort-service.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.informationnetworkwebsite.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.womendrivingchangemagazine.ca" { type master; notify no; file "null.zone.file"; };
+zone "appsgrowthpromo-pa.googleapis.com" { type master; notify no; file "null.zone.file"; };
 zone "chativarmingsculeprincess.digital" { type master; notify no; file "null.zone.file"; };
 zone "christianadvertisingnetwork.co.za" { type master; notify no; file "null.zone.file"; };
 zone "courier-push-apple.com.akadns.net" { type master; notify no; file "null.zone.file"; };

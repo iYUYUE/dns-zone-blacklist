@@ -24783,6 +24783,7 @@ local-zone: "adserver-public-cdn.azureedge.net" always_nxdomain
 local-zone: "adserver-qa.skiresort-service.com" always_nxdomain
 local-zone: "ads.informationnetworkwebsite.com" always_nxdomain
 local-zone: "ads.womendrivingchangemagazine.ca" always_nxdomain
+local-zone: "appsgrowthpromo-pa.googleapis.com" always_nxdomain
 local-zone: "chativarmingsculeprincess.digital" always_nxdomain
 local-zone: "christianadvertisingnetwork.co.za" always_nxdomain
 local-zone: "courier-push-apple.com.akadns.net" always_nxdomain
