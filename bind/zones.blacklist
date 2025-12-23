@@ -1676,6 +1676,7 @@ zone "smrtb.com" { type master; notify no; file "null.zone.file"; };
 zone "socdm.com" { type master; notify no; file "null.zone.file"; };
 zone "socius.co" { type master; notify no; file "null.zone.file"; };
 zone "sovrn.com" { type master; notify no; file "null.zone.file"; };
+zone "sovtrk.ru" { type master; notify no; file "null.zone.file"; };
 zone "sozhb.com" { type master; notify no; file "null.zone.file"; };
 zone "spider.ad" { type master; notify no; file "null.zone.file"; };
 zone "spnut.com" { type master; notify no; file "null.zone.file"; };

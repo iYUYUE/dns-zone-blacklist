@@ -1676,6 +1676,7 @@ local-zone: "smrtb.com" always_refuse
 local-zone: "socdm.com" always_refuse
 local-zone: "socius.co" always_refuse
 local-zone: "sovrn.com" always_refuse
+local-zone: "sovtrk.ru" always_refuse
 local-zone: "sozhb.com" always_refuse
 local-zone: "spider.ad" always_refuse
 local-zone: "spnut.com" always_refuse

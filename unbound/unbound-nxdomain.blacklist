@@ -1676,6 +1676,7 @@ local-zone: "smrtb.com" always_nxdomain
 local-zone: "socdm.com" always_nxdomain
 local-zone: "socius.co" always_nxdomain
 local-zone: "sovrn.com" always_nxdomain
+local-zone: "sovtrk.ru" always_nxdomain
 local-zone: "sozhb.com" always_nxdomain
 local-zone: "spider.ad" always_nxdomain
 local-zone: "spnut.com" always_nxdomain
