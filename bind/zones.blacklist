@@ -9452,6 +9452,7 @@ zone "guchihyfa.pro" { type master; notify no; file "null.zone.file"; };
 zone "h12-media.com" { type master; notify no; file "null.zone.file"; };
 zone "hadekomas.com" { type master; notify no; file "null.zone.file"; };
 zone "haikusoap.com" { type master; notify no; file "null.zone.file"; };
+zone "halocolor.com" { type master; notify no; file "null.zone.file"; };
 zone "hathberry.com" { type master; notify no; file "null.zone.file"; };
 zone "havamedia.net" { type master; notify no; file "null.zone.file"; };
 zone "hctraffic.com" { type master; notify no; file "null.zone.file"; };
