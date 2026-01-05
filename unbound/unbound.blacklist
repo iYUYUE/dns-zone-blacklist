@@ -4718,6 +4718,7 @@ local-zone: "btserve.com" always_refuse
 local-zone: "bttrack.com" always_refuse
 local-zone: "buxflow.com" always_refuse
 local-zone: "buywords.de" always_refuse
+local-zone: "buzzfry.com" always_refuse
 local-zone: "buzzoola.ru" always_refuse
 local-zone: "buzzvil.com" always_refuse
 local-zone: "bywiola.com" always_refuse
@@ -16999,6 +17000,7 @@ local-zone: "granularcloud.com" always_refuse
 local-zone: "greatfootball.pro" always_refuse
 local-zone: "greenmortgage.pro" always_refuse
 local-zone: "grimy-project.pro" always_refuse
+local-zone: "groovespacing.com" always_refuse
 local-zone: "grouchyreward.pro" always_refuse
 local-zone: "grounded-dump.com" always_refuse
 local-zone: "growfoodsmart.com" always_refuse
