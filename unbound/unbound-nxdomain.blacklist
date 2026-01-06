@@ -292,6 +292,7 @@ local-zone: "zmo.net" always_nxdomain
 local-zone: "00px.net" always_nxdomain
 local-zone: "07ut.com" always_nxdomain
 local-zone: "0ath.net" always_nxdomain
+local-zone: "0lin.com" always_nxdomain
 local-zone: "1ads.com" always_nxdomain
 local-zone: "1dmg.vip" always_nxdomain
 local-zone: "1emn.com" always_nxdomain
@@ -5672,6 +5673,7 @@ local-zone: "sureview.tv" always_nxdomain
 local-zone: "swarmiz.com" always_nxdomain
 local-zone: "synacor.com" always_nxdomain
 local-zone: "sync2ad.com" always_nxdomain
+local-zone: "syscsrv.com" always_nxdomain
 local-zone: "system1.com" always_nxdomain
 local-zone: "s.zkcdn.net" always_nxdomain
 local-zone: "taboola.com" always_nxdomain
@@ -7506,6 +7508,7 @@ local-zone: "mindvolt.com" always_nxdomain
 local-zone: "mirago.co.uk" always_nxdomain
 local-zone: "mivirgin.com" always_nxdomain
 local-zone: "mixerlink.ru" always_nxdomain
+local-zone: "mixplays.com" always_nxdomain
 local-zone: "mktoresp.com" always_nxdomain
 local-zone: "mlb8ys4v.xyz" always_nxdomain
 local-zone: "moakaumo.com" always_nxdomain
@@ -9531,6 +9534,7 @@ local-zone: "index.digital" always_nxdomain
 local-zone: "indoleads.com" always_nxdomain
 local-zone: "infolinks.com" always_nxdomain
 local-zone: "infoscreen.de" always_nxdomain
+local-zone: "infrafood.com" always_nxdomain
 local-zone: "inhousead.net" always_nxdomain
 local-zone: "inmobicdn.net" always_nxdomain
 local-zone: "inorbitad.com" always_nxdomain
@@ -11391,6 +11395,7 @@ local-zone: "cryptvalue.com" always_nxdomain
 local-zone: "csapi.asus.com" always_nxdomain
 local-zone: "c.seksohub.com" always_nxdomain
 local-zone: "cupcakegem.com" always_nxdomain
+local-zone: "curatedtea.com" always_nxdomain
 local-zone: "curbminers.com" always_nxdomain
 local-zone: "curveqatar.com" always_nxdomain
 local-zone: "cwrdigital.com" always_nxdomain
@@ -13220,6 +13225,7 @@ local-zone: "bcnmonetize.com" always_nxdomain
 local-zone: "bdi-services.de" always_nxdomain
 local-zone: "bds.fnltd.co.uk" always_nxdomain
 local-zone: "beancontrol.com" always_nxdomain
+local-zone: "becomemummy.com" always_nxdomain
 local-zone: "beehomemade.com" always_nxdomain
 local-zone: "bejolteonor.com" always_nxdomain
 local-zone: "beludicolor.com" always_nxdomain
@@ -13303,6 +13309,7 @@ local-zone: "cartelsalsa.com" always_nxdomain
 local-zone: "casalemedia.com" always_nxdomain
 local-zone: "catalogcake.com" always_nxdomain
 local-zone: "catchthatad.com" always_nxdomain
+local-zone: "catlanguage.net" always_nxdomain
 local-zone: "cba-fed-igh.com" always_nxdomain
 local-zone: "cbccreative.com" always_nxdomain
 local-zone: "c.cgmission.com" always_nxdomain
@@ -13369,6 +13376,7 @@ local-zone: "code-fuel.co.uk" always_nxdomain
 local-zone: "coldcallpro.com" always_nxdomain
 local-zone: "collectcent.com" always_nxdomain
 local-zone: "commonevent.pro" always_nxdomain
+local-zone: "compilework.com" always_nxdomain
 local-zone: "configchain.com" always_nxdomain
 local-zone: "connexity.co.uk" always_nxdomain
 local-zone: "constintptr.com" always_nxdomain
@@ -13658,6 +13666,7 @@ local-zone: "heavydetail.com" always_nxdomain
 local-zone: "hellscdnusa.com" always_nxdomain
 local-zone: "helltraffic.com" always_nxdomain
 local-zone: "helpfulduty.pro" always_nxdomain
+local-zone: "helpingbits.com" always_nxdomain
 local-zone: "heraldtrack.com" always_nxdomain
 local-zone: "hertechlife.com" always_nxdomain
 local-zone: "hgcustom-ad.xyz" always_nxdomain
@@ -15315,6 +15324,7 @@ local-zone: "fishersfinds.com" always_nxdomain
 local-zone: "fixedopening.com" always_nxdomain
 local-zone: "flashadtools.com" always_nxdomain
 local-zone: "flashtalking.com" always_nxdomain
+local-zone: "flashtexting.com" always_nxdomain
 local-zone: "flawed-earth.pro" always_nxdomain
 local-zone: "flexlinkspro.com" always_nxdomain
 local-zone: "flexplatform.net" always_nxdomain
@@ -15337,6 +15347,7 @@ local-zone: "frozekitchen.com" always_nxdomain
 local-zone: "fuelreaction.com" always_nxdomain
 local-zone: "fumbling-box.pro" always_nxdomain
 local-zone: "funoverbored.com" always_nxdomain
+local-zone: "funtoyplanet.com" always_nxdomain
 local-zone: "fusedcontent.com" always_nxdomain
 local-zone: "fuseplatform.net" always_nxdomain
 local-zone: "gamescdnshop.com" always_nxdomain
