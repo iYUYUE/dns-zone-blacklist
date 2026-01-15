@@ -2994,6 +2994,7 @@ local-zone: "innity.com" always_refuse
 local-zone: "innity.net" always_refuse
 local-zone: "intenze.co" always_refuse
 local-zone: "iogous.com" always_refuse
+local-zone: "iokdep.com" always_refuse
 local-zone: "ionifty.de" always_refuse
 local-zone: "ipiech.com" always_refuse
 local-zone: "ipixels.in" always_refuse
@@ -8175,6 +8176,7 @@ local-zone: "tagbucks.xyz" always_refuse
 local-zone: "tags-cdn.com" always_refuse
 local-zone: "taincash.com" always_refuse
 local-zone: "takerate.com" always_refuse
+local-zone: "talkmego.com" always_refuse
 local-zone: "targetix.net" always_refuse
 local-zone: "tataritv.com" always_refuse
 local-zone: "tc.ci123.com" always_refuse
@@ -22690,6 +22692,7 @@ local-zone: "s2.everydaygayporn.com" always_refuse
 local-zone: "sakcerl.ehrydnmdoe.com" always_refuse
 local-zone: "sane-entertainment.pro" always_refuse
 local-zone: "sarcastic-location.com" always_refuse
+local-zone: "sasaimatch.uk.barclays" always_refuse
 local-zone: "seagulladvertising.com" always_refuse
 local-zone: "seal-bluegrass.bbb.org" always_refuse
 local-zone: "seal-cleveland.bbb.org" always_refuse
