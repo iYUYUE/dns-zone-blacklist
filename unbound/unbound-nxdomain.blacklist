@@ -1063,6 +1063,7 @@ local-zone: "b.fox.com" always_nxdomain
 local-zone: "bhlph.com" always_nxdomain
 local-zone: "biddeo.me" always_nxdomain
 local-zone: "bid.glass" always_nxdomain
+local-zone: "bidgx.com" always_nxdomain
 local-zone: "bigboy.ca" always_nxdomain
 local-zone: "bislr.com" always_nxdomain
 local-zone: "bitad.org" always_nxdomain
@@ -23409,6 +23410,7 @@ local-zone: "adbundle.empowerlocal.co" always_nxdomain
 local-zone: "ad-constructor.yandex.ru" always_nxdomain
 local-zone: "adebis.blackboard60s.com" always_nxdomain
 local-zone: "ad-ebis.mynavi-job20s.jp" always_nxdomain
+local-zone: "adimages.microcenter.com" always_nxdomain
 local-zone: "adimages.startribune.com" always_nxdomain
 local-zone: "ad.jeune-independant.net" always_nxdomain
 local-zone: "ad.mediaprimaplus.com.my" always_nxdomain
@@ -25010,6 +25012,7 @@ local-zone: "d340c1js8izm35.cloudfront.net" always_nxdomain
 local-zone: "d3410ost8gg4o3.cloudfront.net" always_nxdomain
 local-zone: "d35xxde4fgg0cx.cloudfront.net" always_nxdomain
 local-zone: "d361oi6ppvq2ym.cloudfront.net" always_nxdomain
+local-zone: "d37j8pfxu2iogi.cloudfront.net" always_nxdomain
 local-zone: "d37oebn0w9ir6a.cloudfront.net" always_nxdomain
 local-zone: "d37unsldgykj8z.cloudfront.net" always_nxdomain
 local-zone: "d38psrni17bvxu.cloudfront.net" always_nxdomain
@@ -25623,6 +25626,7 @@ local-zone: "push-notification-5-23841.firebaseio.com" always_nxdomain
 local-zone: "sp-manager-magazin-de.manager-magazin.de" always_nxdomain
 local-zone: "tarad-spaces.sgp1.digitaloceanspaces.com" always_nxdomain
 local-zone: "webcontentassessor.global.ssl.fastly.net" always_nxdomain
+local-zone: "6009cd93adec3b6a941dc608.thenerdstash.com" always_nxdomain
 local-zone: "adservice.windindustrie-in-deutschland.de" always_nxdomain
 local-zone: "advertisementshared.blob.core.windows.net" always_nxdomain
 local-zone: "courier-sandbox-push-apple.com.akadns.net" always_nxdomain
