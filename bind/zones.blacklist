@@ -4954,6 +4954,7 @@ zone "fastdmr.com" { type master; notify no; file "null.zone.file"; };
 zone "fastpush.io" { type master; notify no; file "null.zone.file"; };
 zone "fasttony.es" { type master; notify no; file "null.zone.file"; };
 zone "fatebbc.pro" { type master; notify no; file "null.zone.file"; };
+zone "fattail.com" { type master; notify no; file "null.zone.file"; };
 zone "feedify.net" { type master; notify no; file "null.zone.file"; };
 zone "feedify.org" { type master; notify no; file "null.zone.file"; };
 zone "feedmob.com" { type master; notify no; file "null.zone.file"; };
