@@ -2666,6 +2666,7 @@ local-zone: "clkrev.com" always_refuse
 local-zone: "clksor.com" always_refuse
 local-zone: "clktrx.com" always_refuse
 local-zone: "clxxcl0.ru" always_refuse
+local-zone: "cmdmtc.com" always_refuse
 local-zone: "cm.igaw.io" always_refuse
 local-zone: "cmptch.com" always_refuse
 local-zone: "column6.tv" always_refuse
@@ -16407,7 +16408,6 @@ local-zone: "z501lpfg9x8v.com" always_refuse
 local-zone: "zaptushmedia.com" always_refuse
 local-zone: "zicf.inven.co.kr" always_refuse
 local-zone: "zimadsense.co.zw" always_refuse
-local-zone: "01.rtb.cmdmtc.com" always_refuse
 local-zone: "0i.iqostaiwan.com" always_refuse
 local-zone: "0.oldgyhogola.com" always_refuse
 local-zone: "10feettall.com.au" always_refuse
@@ -24161,7 +24161,6 @@ local-zone: "popup.yourpractice.online" always_refuse
 local-zone: "pragatimediasolutions.com" always_refuse
 local-zone: "primary.bannerwerbung.net" always_refuse
 local-zone: "promote.batdongsan.com.vn" always_refuse
-local-zone: "promoted.ticketmaster.com" always_refuse
 local-zone: "prop.astonvillanews.co.uk" always_refuse
 local-zone: "prop.faroutmagazine.co.uk" always_refuse
 local-zone: "prop.liverpoolnews247.com" always_refuse
@@ -25631,7 +25630,6 @@ local-zone: "7adb3aba4022bdf282e1fd5aff82e857.com" always_refuse
 local-zone: "8548b742cbef620d1d03daac936352b1.com" always_refuse
 local-zone: "87ec9959f951bd4a21a31e1bc3055552.com" always_refuse
 local-zone: "a2bbdc6eb859423877dcade96a7c1259.com" always_refuse
-local-zone: "aax-us-east-retail-direct.amazon.com" always_refuse
 local-zone: "adimages.associationheadquarters.com" always_refuse
 local-zone: "adserver.associationheadquarters.com" always_refuse
 local-zone: "adserver.multimediapublishing.com.au" always_refuse
