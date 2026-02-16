@@ -118,6 +118,7 @@ local-zone: "24th.me" always_nxdomain
 local-zone: "3af.org" always_nxdomain
 local-zone: "4dex.io" always_nxdomain
 local-zone: "4fx.com" always_nxdomain
+local-zone: "5bn.net" always_nxdomain
 local-zone: "7ad.org" always_nxdomain
 local-zone: "7mps.in" always_nxdomain
 local-zone: "88gb.in" always_nxdomain
@@ -303,6 +304,7 @@ local-zone: "1emn.com" always_nxdomain
 local-zone: "1fxt.com" always_nxdomain
 local-zone: "1qqg.xyz" always_nxdomain
 local-zone: "1xbtc.io" always_nxdomain
+local-zone: "2-05.com" always_nxdomain
 local-zone: "2ddq.com" always_nxdomain
 local-zone: "2dgg.com" always_nxdomain
 local-zone: "2htg.com" always_nxdomain
@@ -319,6 +321,7 @@ local-zone: "68s8.com" always_nxdomain
 local-zone: "6tip.com" always_nxdomain
 local-zone: "80xy.com" always_nxdomain
 local-zone: "8utb.net" always_nxdomain
+local-zone: "901s.com" always_nxdomain
 local-zone: "9ads.net" always_nxdomain
 local-zone: "9alb.com" always_nxdomain
 local-zone: "9dot9.in" always_nxdomain
@@ -558,6 +561,7 @@ local-zone: "mybid.io" always_nxdomain
 local-zone: "my-ga.me" always_nxdomain
 local-zone: "ncw6.net" always_nxdomain
 local-zone: "ndt5.net" always_nxdomain
+local-zone: "ne83.com" always_nxdomain
 local-zone: "nend.net" always_nxdomain
 local-zone: "nenrk.us" always_nxdomain
 local-zone: "nexd.com" always_nxdomain
@@ -683,6 +687,7 @@ local-zone: "vmax.com" always_nxdomain
 local-zone: "vmg.host" always_nxdomain
 local-zone: "voxus.tv" always_nxdomain
 local-zone: "vrvm.com" always_nxdomain
+local-zone: "w0we.com" always_nxdomain
 local-zone: "w55c.net" always_nxdomain
 local-zone: "webdr.tr" always_nxdomain
 local-zone: "webpu.sh" always_nxdomain
@@ -1044,6 +1049,7 @@ local-zone: "awprt.com" always_nxdomain
 local-zone: "axavl.com" always_nxdomain
 local-zone: "axdsz.pro" always_nxdomain
 local-zone: "aycdt.com" always_nxdomain
+local-zone: "ayhal.com" always_nxdomain
 local-zone: "ayzvd.com" always_nxdomain
 local-zone: "azskk.com" always_nxdomain
 local-zone: "b2bmg.com" always_nxdomain
@@ -1516,6 +1522,7 @@ local-zone: "nlkli.com" always_nxdomain
 local-zone: "nmkli.com" always_nxdomain
 local-zone: "nn125.com" always_nxdomain
 local-zone: "nnvkh.com" always_nxdomain
+local-zone: "nofeu.com" always_nxdomain
 local-zone: "notiks.io" always_nxdomain
 local-zone: "nplxa.com" always_nxdomain
 local-zone: "nqych.com" always_nxdomain
@@ -2585,6 +2592,7 @@ local-zone: "bimsld.com" always_nxdomain
 local-zone: "bingads.es" always_nxdomain
 local-zone: "bitadx.one" always_nxdomain
 local-zone: "bitegri.co" always_nxdomain
+local-zone: "bitrck.com" always_nxdomain
 local-zone: "bjmweb.com" always_nxdomain
 local-zone: "bk4ad.club" always_nxdomain
 local-zone: "blckbx.com" always_nxdomain
@@ -7600,6 +7608,7 @@ local-zone: "mybestdc.com" always_nxdomain
 local-zone: "mycriteo.com" always_nxdomain
 local-zone: "mypopads.com" always_nxdomain
 local-zone: "mypopups.com" always_nxdomain
+local-zone: "mytdsnet.com" always_nxdomain
 local-zone: "mythings.com" always_nxdomain
 local-zone: "mzulenef.com" always_nxdomain
 local-zone: "nababrew.com" always_nxdomain
@@ -12626,6 +12635,7 @@ local-zone: "trafficadv.com" always_nxdomain
 local-zone: "trafficdok.com" always_nxdomain
 local-zone: "trafficput.com" always_nxdomain
 local-zone: "trafficsan.com" always_nxdomain
+local-zone: "traktortds.com" always_nxdomain
 local-zone: "triadmedia.com" always_nxdomain
 local-zone: "triplelift.com" always_nxdomain
 local-zone: "triumphads.com" always_nxdomain
