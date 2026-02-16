@@ -9116,6 +9116,7 @@ local-zone: "bidfilter.com" always_refuse
 local-zone: "bidiology.com" always_refuse
 local-zone: "bidmachine.io" always_refuse
 local-zone: "bidmotion.com" always_refuse
+local-zone: "bidpapers.com" always_refuse
 local-zone: "bidswitch.com" always_refuse
 local-zone: "bidsystem.com" always_refuse
 local-zone: "bidtimize.com" always_refuse

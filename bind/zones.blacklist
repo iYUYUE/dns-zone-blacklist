@@ -9116,6 +9116,7 @@ zone "bidfilter.com" { type master; notify no; file "null.zone.file"; };
 zone "bidiology.com" { type master; notify no; file "null.zone.file"; };
 zone "bidmachine.io" { type master; notify no; file "null.zone.file"; };
 zone "bidmotion.com" { type master; notify no; file "null.zone.file"; };
+zone "bidpapers.com" { type master; notify no; file "null.zone.file"; };
 zone "bidswitch.com" { type master; notify no; file "null.zone.file"; };
 zone "bidsystem.com" { type master; notify no; file "null.zone.file"; };
 zone "bidtimize.com" { type master; notify no; file "null.zone.file"; };
