@@ -6487,6 +6487,7 @@ local-zone: "ads.cdn.live" always_nxdomain
 local-zone: "adschoom.com" always_nxdomain
 local-zone: "adscience.nl" always_nxdomain
 local-zone: "ads.clubs.ma" always_nxdomain
+local-zone: "adsconex.com" always_nxdomain
 local-zone: "ad-score.com" always_nxdomain
 local-zone: "adscouch.com" always_nxdomain
 local-zone: "ads.diena.lv" always_nxdomain

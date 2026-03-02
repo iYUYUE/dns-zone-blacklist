@@ -6487,6 +6487,7 @@ zone "ads.cdn.live" { type master; notify no; file "null.zone.file"; };
 zone "adschoom.com" { type master; notify no; file "null.zone.file"; };
 zone "adscience.nl" { type master; notify no; file "null.zone.file"; };
 zone "ads.clubs.ma" { type master; notify no; file "null.zone.file"; };
+zone "adsconex.com" { type master; notify no; file "null.zone.file"; };
 zone "ad-score.com" { type master; notify no; file "null.zone.file"; };
 zone "adscouch.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.diena.lv" { type master; notify no; file "null.zone.file"; };
