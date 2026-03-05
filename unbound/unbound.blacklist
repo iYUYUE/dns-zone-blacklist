@@ -11386,6 +11386,7 @@ local-zone: "c22x1.xcdn.ovh" always_refuse
 local-zone: "c2.neoncdn.com" always_refuse
 local-zone: "c3.neoncdn.com" always_refuse
 local-zone: "cafefrench.com" always_refuse
+local-zone: "cafejunior.net" always_refuse
 local-zone: "cakeagenda.com" always_refuse
 local-zone: "campartner.com" always_refuse
 local-zone: "cappumedia.com" always_refuse
@@ -16951,6 +16952,7 @@ local-zone: "brownboxgroup.com" always_refuse
 local-zone: "browserpusher.com" always_refuse
 local-zone: "browserupdate.org" always_refuse
 local-zone: "b.tangible.net.nz" always_refuse
+local-zone: "bucketlistbob.com" always_refuse
 local-zone: "bungeesleeves.com" always_refuse
 local-zone: "burlybathroom.pro" always_refuse
 local-zone: "busyeffective.pro" always_refuse
