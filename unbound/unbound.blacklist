@@ -14019,6 +14019,7 @@ local-zone: "live.qwirlz.com" always_refuse
 local-zone: "live.trmzum.com" always_refuse
 local-zone: "live.zrmtrm.com" always_refuse
 local-zone: "lmn-pou-win.com" always_refuse
+local-zone: "loaddisplay.com" always_refuse
 local-zone: "localsensor.com" always_refuse
 local-zone: "locateskill.com" always_refuse
 local-zone: "logoshutter.com" always_refuse
@@ -17854,6 +17855,7 @@ local-zone: "smartadserver.com" always_refuse
 local-zone: "smart-adserver.de" always_refuse
 local-zone: "smart.gflesch.com" always_refuse
 local-zone: "smartnews-ads.com" always_refuse
+local-zone: "smilingmaster.com" always_refuse
 local-zone: "smooth-street.pro" always_refuse
 local-zone: "snowdayonline.xyz" always_refuse
 local-zone: "sociable-user.pro" always_refuse
@@ -17997,6 +17999,7 @@ local-zone: "vistarsagency.com" always_refuse
 local-zone: "vivacioustone.pro" always_refuse
 local-zone: "voicelessvein.com" always_refuse
 local-zone: "voidnetwork.cloud" always_refuse
+local-zone: "voiseadserver.com" always_refuse
 local-zone: "wargaming-aff.com" always_refuse
 local-zone: "warpedbrother.pro" always_refuse
 local-zone: "watery-result.com" always_refuse
