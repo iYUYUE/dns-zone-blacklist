@@ -14001,6 +14001,7 @@ zone "jumbleberry.com" { type master; notify no; file "null.zone.file"; };
 zone "jumpystupid.pro" { type master; notify no; file "null.zone.file"; };
 zone "junexclkmid.com" { type master; notify no; file "null.zone.file"; };
 zone "justpremium.com" { type master; notify no; file "null.zone.file"; };
+zone "justwowjars.com" { type master; notify no; file "null.zone.file"; };
 zone "jy-cy-hei.space" { type master; notify no; file "null.zone.file"; };
 zone "ka2.javbuzz.com" { type master; notify no; file "null.zone.file"; };
 zone "karmaagency.com" { type master; notify no; file "null.zone.file"; };
