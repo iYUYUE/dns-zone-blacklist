@@ -636,6 +636,7 @@ local-zone: "relap.io" always_refuse
 local-zone: "retai.ly" always_refuse
 local-zone: "rg35.net" always_refuse
 local-zone: "rgrd.xyz" always_refuse
+local-zone: "rkv1.com" always_refuse
 local-zone: "r.lsm.lv" always_refuse
 local-zone: "rmbn.net" always_refuse
 local-zone: "r.muu.ee" always_refuse
@@ -15435,6 +15436,7 @@ local-zone: "cdn.laweekly.com" always_refuse
 local-zone: "cedatoplayer.com" always_refuse
 local-zone: "cedexis-test.com" always_refuse
 local-zone: "chairsdonkey.com" always_refuse
+local-zone: "chaosmonitor.com" always_refuse
 local-zone: "chattertulsa.com" always_refuse
 local-zone: "checkbestads.com" always_refuse
 local-zone: "cheerfulmeet.pro" always_refuse

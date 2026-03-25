@@ -636,6 +636,7 @@ local-zone: "relap.io" always_nxdomain
 local-zone: "retai.ly" always_nxdomain
 local-zone: "rg35.net" always_nxdomain
 local-zone: "rgrd.xyz" always_nxdomain
+local-zone: "rkv1.com" always_nxdomain
 local-zone: "r.lsm.lv" always_nxdomain
 local-zone: "rmbn.net" always_nxdomain
 local-zone: "r.muu.ee" always_nxdomain
@@ -15435,6 +15436,7 @@ local-zone: "cdn.laweekly.com" always_nxdomain
 local-zone: "cedatoplayer.com" always_nxdomain
 local-zone: "cedexis-test.com" always_nxdomain
 local-zone: "chairsdonkey.com" always_nxdomain
+local-zone: "chaosmonitor.com" always_nxdomain
 local-zone: "chattertulsa.com" always_nxdomain
 local-zone: "checkbestads.com" always_nxdomain
 local-zone: "cheerfulmeet.pro" always_nxdomain
