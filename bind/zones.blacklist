@@ -12574,6 +12574,7 @@ zone "sortanoisy.com" { type master; notify no; file "null.zone.file"; };
 zone "soulpepper.com" { type master; notify no; file "null.zone.file"; };
 zone "soupystick.pro" { type master; notify no; file "null.zone.file"; };
 zone "speedsquare.co" { type master; notify no; file "null.zone.file"; };
+zone "splicebook.com" { type master; notify no; file "null.zone.file"; };
 zone "sponsorlink.nl" { type master; notify no; file "null.zone.file"; };
 zone "sponsorpay.com" { type master; notify no; file "null.zone.file"; };
 zone "sponsortag.com" { type master; notify no; file "null.zone.file"; };
