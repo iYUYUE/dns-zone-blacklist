@@ -9987,6 +9987,7 @@ zone "notifysrv.com" { type master; notify no; file "null.zone.file"; };
 zone "novaonads.com" { type master; notify no; file "null.zone.file"; };
 zone "novelty.media" { type master; notify no; file "null.zone.file"; };
 zone "noviclick.com" { type master; notify no; file "null.zone.file"; };
+zone "nowaymail.com" { type master; notify no; file "null.zone.file"; };
 zone "nsbadfair.com" { type master; notify no; file "null.zone.file"; };
 zone "nudgeduck.com" { type master; notify no; file "null.zone.file"; };
 zone "numarabiz.com" { type master; notify no; file "null.zone.file"; };
