@@ -10523,6 +10523,7 @@ local-zone: "theadninja.ca" always_refuse
 local-zone: "theadpros.com" always_refuse
 local-zone: "theadside.com" always_refuse
 local-zone: "theagency.com" always_refuse
+local-zone: "thebigvan.com" always_refuse
 local-zone: "thegotoguy.co" always_refuse
 local-zone: "thenextad.com" always_refuse
 local-zone: "theonecdn.com" always_refuse
@@ -15611,8 +15612,11 @@ local-zone: "coinzillatag.com" always_refuse
 local-zone: "coloursquare.net" always_refuse
 local-zone: "commcreative.com" always_refuse
 local-zone: "commercemedia.in" always_refuse
+local-zone: "commercemedia.io" always_refuse
 local-zone: "commercemedia.it" always_refuse
 local-zone: "commercemedia.me" always_refuse
+local-zone: "commercemedia.tv" always_refuse
+local-zone: "commercemedia.us" always_refuse
 local-zone: "common-brush.com" always_refuse
 local-zone: "common-smile.pro" always_refuse
 local-zone: "confiant.msn.com" always_refuse
@@ -16105,6 +16109,7 @@ local-zone: "moviedollars.com" always_refuse
 local-zone: "mpartner.digital" always_refuse
 local-zone: "mtm.mystrify.com" always_refuse
 local-zone: "muddyclassic.com" always_refuse
+local-zone: "mundanesilly.com" always_refuse
 local-zone: "mushroomgods.com" always_refuse
 local-zone: "mwcm.nytimes.com" always_refuse
 local-zone: "myadsmyanmar.com" always_refuse
@@ -16849,6 +16854,7 @@ local-zone: "ad.daves.business" always_refuse
 local-zone: "ad.deli-fuzoku.jp" always_refuse
 local-zone: "ad.diaosiquan.com" always_refuse
 local-zone: "ad.dl.mainpost.de" always_refuse
+local-zone: "addressfriend.com" always_refuse
 local-zone: "adebis.chojyu.com" always_refuse
 local-zone: "adebis.curilla.jp" always_refuse
 local-zone: "adebis.reruju.com" always_refuse
@@ -19065,6 +19071,7 @@ local-zone: "frigid-airline.pro" always_refuse
 local-zone: "frivolous-copy.pro" always_refuse
 local-zone: "front-interest.com" always_refuse
 local-zone: "frosty-anybody.pro" always_refuse
+local-zone: "fruitful-alarm.com" always_refuse
 local-zone: "futureadymedia.com" always_refuse
 local-zone: "fwlive.crackle.com" always_refuse
 local-zone: "galaxyadsmedia.com" always_refuse
@@ -20533,6 +20540,7 @@ local-zone: "irritating-side.com" always_refuse
 local-zone: "ix2.deepsexvids.com" always_refuse
 local-zone: "j45.webringporn.com" always_refuse
 local-zone: "jackpotpakistan.com" always_refuse
+local-zone: "jampacked-cream.com" always_refuse
 local-zone: "jampacked-depth.pro" always_refuse
 local-zone: "jediwebservices.com" always_refuse
 local-zone: "jewishadnetwork.com" always_refuse
@@ -20660,6 +20668,7 @@ local-zone: "opticks.newstor.net" always_refuse
 local-zone: "optimistixmedia.com" always_refuse
 local-zone: "optimon.appspot.com" always_refuse
 local-zone: "organic-tension.pro" always_refuse
+local-zone: "ornery-possible.com" always_refuse
 local-zone: "outlandishlocal.pro" always_refuse
 local-zone: "outlookads.live.com" always_refuse
 local-zone: "overcookedrange.pro" always_refuse
@@ -22534,6 +22543,8 @@ local-zone: "irresponsibleline.pro" always_refuse
 local-zone: "irritating-handle.com" always_refuse
 local-zone: "isebis.yutoriform.com" always_refuse
 local-zone: "itouchadvertising.com" always_refuse
+local-zone: "jampackedquestion.com" always_refuse
+local-zone: "jaunty-leadership.com" always_refuse
 local-zone: "jetadvertising.com.mx" always_refuse
 local-zone: "jetpack.wordpress.com" always_refuse
 local-zone: "junmediadclikrmdi.com" always_refuse
@@ -24376,6 +24387,7 @@ local-zone: "circulation.destentor.nl" always_refuse
 local-zone: "clubstatic.excelhome.net" always_refuse
 local-zone: "cname2.shaken-yoyaku.com" always_refuse
 local-zone: "commercemediaplatform.io" always_refuse
+local-zone: "commercemediaplatform.us" always_refuse
 local-zone: "console.cricketworld.com" always_refuse
 local-zone: "console.miningweekly.com" always_refuse
 local-zone: "console.schrotundkorn.de" always_refuse
@@ -24424,6 +24436,7 @@ local-zone: "indianbannerexchange.com" always_refuse
 local-zone: "insignificanthighway.pro" always_refuse
 local-zone: "interactives.stuff.co.nz" always_refuse
 local-zone: "ipassport.homestyler.com" always_refuse
+local-zone: "jdbhijdadfjfifciaf.world" always_refuse
 local-zone: "jobs.tokyomansion.online" always_refuse
 local-zone: "kampane.virtualstudio.sk" always_refuse
 local-zone: "kreativeprofessional.com" always_refuse
@@ -24788,6 +24801,7 @@ local-zone: "cnameebis.eizoshigoto.com" always_refuse
 local-zone: "cname.mebiusseiyaku.co.jp" always_refuse
 local-zone: "cobblestonemediagroup.com" always_refuse
 local-zone: "comfortableassignment.pro" always_refuse
+local-zone: "commercemediaplatform.biz" always_refuse
 local-zone: "commercemediaplatform.org" always_refuse
 local-zone: "console.informingnews.com" always_refuse
 local-zone: "cp.fraenkische-rezepte.de" always_refuse
