@@ -16948,6 +16948,7 @@ zone "ads.bannerwelt.de" { type master; notify no; file "null.zone.file"; };
 zone "ads.baodatviet.vn" { type master; notify no; file "null.zone.file"; };
 zone "ads.bet2bonus.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.biznisinfo.mk" { type master; notify no; file "null.zone.file"; };
+zone "ads.bloomberg.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.blupurple.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.boostbank.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.brainverse.co" { type master; notify no; file "null.zone.file"; };
