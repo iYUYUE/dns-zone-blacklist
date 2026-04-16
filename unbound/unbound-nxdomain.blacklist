@@ -7098,6 +7098,7 @@ local-zone: "crispbug.pro" always_nxdomain
 local-zone: "criteo.co.at" always_nxdomain
 local-zone: "criteo.co.in" always_nxdomain
 local-zone: "criteo.co.uk" always_nxdomain
+local-zone: "criteo.co.za" always_nxdomain
 local-zone: "criteo.paris" always_nxdomain
 local-zone: "criteopm.org" always_nxdomain
 local-zone: "criteo.store" always_nxdomain
@@ -9371,6 +9372,7 @@ local-zone: "criteo.global" always_nxdomain
 local-zone: "criteo-go.com" always_nxdomain
 local-zone: "criteolabs.fr" always_nxdomain
 local-zone: "criteolabs.it" always_nxdomain
+local-zone: "criteo.org.cn" always_nxdomain
 local-zone: "criteo-pm.com" always_nxdomain
 local-zone: "cronin-co.com" always_nxdomain
 local-zone: "crwdcntrl.net" always_nxdomain
@@ -21510,6 +21512,7 @@ local-zone: "creative-serving.com" always_nxdomain
 local-zone: "creative.spmgroup.in" always_nxdomain
 local-zone: "creatorpassenger.com" always_nxdomain
 local-zone: "criteotechnology.com" always_nxdomain
+local-zone: "criteo-technology.io" always_nxdomain
 local-zone: "cropsadvertising.com" always_nxdomain
 local-zone: "crosspromo.voodoo.io" always_nxdomain
 local-zone: "crta.dailymail.co.uk" always_nxdomain
