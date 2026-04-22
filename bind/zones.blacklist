@@ -15696,6 +15696,7 @@ zone "crochetdivas.com" { type master; notify no; file "null.zone.file"; };
 zone "crossbrowser.com" { type master; notify no; file "null.zone.file"; };
 zone "cruel-tongue.pro" { type master; notify no; file "null.zone.file"; };
 zone "culture-book.com" { type master; notify no; file "null.zone.file"; };
+zone "curiousmetal.com" { type master; notify no; file "null.zone.file"; };
 zone "cutescale.online" { type master; notify no; file "null.zone.file"; };
 zone "cybertronads.com" { type master; notify no; file "null.zone.file"; };
 zone "damaged-unit.pro" { type master; notify no; file "null.zone.file"; };
