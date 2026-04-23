@@ -15440,6 +15440,7 @@ zone "anchored-dig.com" { type master; notify no; file "null.zone.file"; };
 zone "anderson-adv.com" { type master; notify no; file "null.zone.file"; };
 zone "andromedia.co.il" { type master; notify no; file "null.zone.file"; };
 zone "annons.turist.se" { type master; notify no; file "null.zone.file"; };
+zone "annual-spend.com" { type master; notify no; file "null.zone.file"; };
 zone "annunciointl.com" { type master; notify no; file "null.zone.file"; };
 zone "anonymousads.com" { type master; notify no; file "null.zone.file"; };
 zone "anson-stoner.com" { type master; notify no; file "null.zone.file"; };
