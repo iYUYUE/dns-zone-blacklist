@@ -13243,6 +13243,7 @@ zone "ads.euronews.al" { type master; notify no; file "null.zone.file"; };
 zone "ads.evermaps.io" { type master; notify no; file "null.zone.file"; };
 zone "ads.fast-srv.de" { type master; notify no; file "null.zone.file"; };
 zone "ads.fattooch.tn" { type master; notify no; file "null.zone.file"; };
+zone "ads.femtrap.com" { type master; notify no; file "null.zone.file"; };
 zone "adsfirstsun.com" { type master; notify no; file "null.zone.file"; };
 zone "adsforindia.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.foxtech.com" { type master; notify no; file "null.zone.file"; };
