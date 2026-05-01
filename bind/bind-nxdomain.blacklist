@@ -17596,6 +17596,8 @@ ads.gerio.cat CNAME .
 *.ads.gerio.cat CNAME .
 ads.gfsrv.net CNAME .
 *.ads.gfsrv.net CNAME .
+ads.glamur.mk CNAME .
+*.ads.glamur.mk CNAME .
 ads.gotxx.net CNAME .
 *.ads.gotxx.net CNAME .
 ads.gradar.jp CNAME .
@@ -34104,6 +34106,8 @@ ads.imgsrc.com.ar CNAME .
 *.ads.imgsrc.com.ar CNAME .
 ads.imprezzer.com CNAME .
 *.ads.imprezzer.com CNAME .
+ads.informator.ua CNAME .
+*.ads.informator.ua CNAME .
 ads.inkrefuge.com CNAME .
 *.ads.inkrefuge.com CNAME .
 ad.sinovision.net CNAME .
@@ -53280,6 +53284,8 @@ opinionadsadserverelbvpc-1611782868.us-east-1.elb.amazonaws.com CNAME .
 *.opinionadsadserverelbvpc-1611782868.us-east-1.elb.amazonaws.com CNAME .
 nmm-use1-prod-alb-pbs-server-7563893.us-east-1.elb.amazonaws.com CNAME .
 *.nmm-use1-prod-alb-pbs-server-7563893.us-east-1.elb.amazonaws.com CNAME .
+apse2-ssp-prod-adserv-alb-82206463.ap-southeast-2.elb.amazonaws.com CNAME .
+*.apse2-ssp-prod-adserv-alb-82206463.ap-southeast-2.elb.amazonaws.com CNAME .
 apse1-ssp-prod-adserv-alb-365694524.ap-southeast-1.elb.amazonaws.com CNAME .
 *.apse1-ssp-prod-adserv-alb-365694524.ap-southeast-1.elb.amazonaws.com CNAME .
 ad2fa947ed15011e8bb8b02d1070e819-87904156.us-east-1.elb.amazonaws.com CNAME .
