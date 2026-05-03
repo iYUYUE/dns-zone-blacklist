@@ -2803,6 +2803,7 @@ local-zone: "echoru.net" always_refuse
 local-zone: "ecircle.it" always_refuse
 local-zone: "ecookie.nl" always_refuse
 local-zone: "edicoo.com" always_refuse
+local-zone: "edoinc.com" always_refuse
 local-zone: "eeqrlc.com" always_refuse
 local-zone: "egg-ad.com" always_refuse
 local-zone: "eggyey.com" always_refuse
@@ -3012,6 +3013,7 @@ local-zone: "imad24.com" always_refuse
 local-zone: "imgapp.top" always_refuse
 local-zone: "imgbum.net" always_refuse
 local-zone: "imprev.net" always_refuse
+local-zone: "inbake.com" always_refuse
 local-zone: "inmobi.com" always_refuse
 local-zone: "innity.com" always_refuse
 local-zone: "innity.net" always_refuse
@@ -11344,6 +11346,7 @@ local-zone: "appsponsor.com" always_refuse
 local-zone: "arends-inc.com" always_refuse
 local-zone: "ar.fapnado.xxx" always_refuse
 local-zone: "arid-smell.pro" always_refuse
+local-zone: "ark.tubi.video" always_refuse
 local-zone: "armedialab.com" always_refuse
 local-zone: "aronsonads.com" always_refuse
 local-zone: "arti-media.net" always_refuse
@@ -17237,6 +17240,7 @@ local-zone: "agendamedia.co.uk" always_refuse
 local-zone: "agentthinking.com" always_refuse
 local-zone: "agitated-sort.com" always_refuse
 local-zone: "agreeable-ice.com" always_refuse
+local-zone: "aic-ngfts.lge.com" always_refuse
 local-zone: "ajar-emphasis.pro" always_refuse
 local-zone: "alarmingapple.com" always_refuse
 local-zone: "albrightideas.net" always_refuse
@@ -24216,6 +24220,7 @@ local-zone: "valiumvalium.3xforum.ro" always_refuse
 local-zone: "viagraviagra.3xforum.ro" always_refuse
 local-zone: "vicious-instruction.pro" always_refuse
 local-zone: "victorious-relation.com" always_refuse
+local-zone: "videoads.lgtvcommon.com" always_refuse
 local-zone: "videocdnmetrika78.space" always_refuse
 local-zone: "videocdnmetrika79.space" always_refuse
 local-zone: "videocdnmetrika80.space" always_refuse
@@ -25640,6 +25645,7 @@ local-zone: "d2uap9jskdzp2.cloudfront.net" always_refuse
 local-zone: "d2wt7w75gg2vz.cloudfront.net" always_refuse
 local-zone: "d3q33rbmdkxzj.cloudfront.net" always_refuse
 local-zone: "d7x5nblzs94me.cloudfront.net" always_refuse
+local-zone: "d8ghbpr3r4dzt.cloudfront.net" always_refuse
 local-zone: "d8yw4927nnimu.cloudfront.net" always_refuse
 local-zone: "dashboard.evolveplatform.net" always_refuse
 local-zone: "dbcpu9gznkryx.cloudfront.net" always_refuse
@@ -25655,6 +25661,7 @@ local-zone: "dggaenaawxe8z.cloudfront.net" always_refuse
 local-zone: "ditpnbs1ytkn9.cloudfront.net" always_refuse
 local-zone: "djnf6e5yyirys.cloudfront.net" always_refuse
 local-zone: "dkbogvpt0vowq.cloudfront.net" always_refuse
+local-zone: "dlpvhn0f8mnlz.cloudfront.net" always_refuse
 local-zone: "dmdj655uxuj8f.cloudfront.net" always_refuse
 local-zone: "dn0qt3r0xannq.cloudfront.net" always_refuse
 local-zone: "dnhfi5nn2dt67.cloudfront.net" always_refuse
@@ -25892,6 +25899,7 @@ local-zone: "d2ip7iv1l4ergv.cloudfront.net" always_refuse
 local-zone: "d2j042cj1421wi.cloudfront.net" always_refuse
 local-zone: "d2kk0o3fr7ed01.cloudfront.net" always_refuse
 local-zone: "d2klx87bgzngce.cloudfront.net" always_refuse
+local-zone: "d2le8qewapxu2f.cloudfront.net" always_refuse
 local-zone: "d2n2mjq7zqikgh.cloudfront.net" always_refuse
 local-zone: "d2qv82yc3u9tc7.cloudfront.net" always_refuse
 local-zone: "d2swpuhpwp3khd.cloudfront.net" always_refuse
@@ -25925,6 +25933,7 @@ local-zone: "d3izsuga15s7v3.cloudfront.net" always_refuse
 local-zone: "d3j3yrurxcqogk.cloudfront.net" always_refuse
 local-zone: "d3jdulus8lb392.cloudfront.net" always_refuse
 local-zone: "d3k1w8lx8mqizo.cloudfront.net" always_refuse
+local-zone: "d3k6gt80y743t4.cloudfront.net" always_refuse
 local-zone: "d3l320urli0p1u.cloudfront.net" always_refuse
 local-zone: "d3l739e8r8y9v7.cloudfront.net" always_refuse
 local-zone: "d3lcz8vpax4lo2.cloudfront.net" always_refuse
@@ -26014,6 +26023,7 @@ local-zone: "0063450bb8e5e3brave-friend.com" always_refuse
 local-zone: "95bfbe548450b30c.clicknplay.to" always_refuse
 local-zone: "addserver.die-netzwerkstatt.de" always_refuse
 local-zone: "admanager.travelbizmonitor.com" always_refuse
+local-zone: "ads4.production-public.tubi.io" always_refuse
 local-zone: "ads.aspirapolveresenzafili.com" always_refuse
 local-zone: "adserver.beaubrewerdigital.com" always_refuse
 local-zone: "adserver.corrierequotidiano.it" always_refuse
@@ -26444,6 +26454,7 @@ local-zone: "marketing.cyberdefensemediagroup.com" always_refuse
 local-zone: "notification-prod.svc.gearsofwar.net" always_refuse
 local-zone: "params.prod.mwx.ext.mobilityware.com" always_refuse
 local-zone: "pisnalballsprofedresnkrush.solutions" always_refuse
+local-zone: "rainmaker4.production-public.tubi.io" always_refuse
 local-zone: "reliableonlineadvertisingservice.com" always_refuse
 local-zone: "revistavanityfair.contentondemand.es" always_refuse
 local-zone: "rs-stripe.trendingdailyheadlines.com" always_refuse
