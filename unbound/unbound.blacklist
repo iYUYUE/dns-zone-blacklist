@@ -15526,6 +15526,7 @@ local-zone: "banner.sangor.es" always_refuse
 local-zone: "bannersgomlm.com" always_refuse
 local-zone: "banners.olylo.nl" always_refuse
 local-zone: "bannerszerver.hu" always_refuse
+local-zone: "banner.webtar.hu" always_refuse
 local-zone: "banner.wonday.dk" always_refuse
 local-zone: "banner.ws.pho.to" always_refuse
 local-zone: "baseboosters.com" always_refuse
@@ -19567,6 +19568,7 @@ local-zone: "silveraddition.pro" always_refuse
 local-zone: "simg.imadrep.co.kr" always_refuse
 local-zone: "similarnatural.pro" always_refuse
 local-zone: "similar-volume.pro" always_refuse
+local-zone: "simpleworld.online" always_refuse
 local-zone: "sjsmartcontent.org" always_refuse
 local-zone: "sk.alibaba-inc.com" always_refuse
 local-zone: "skeletalstreet.com" always_refuse
@@ -19819,6 +19821,7 @@ local-zone: "adebisu.wowow.co.jp" always_refuse
 local-zone: "adebis.yourbread.jp" always_refuse
 local-zone: "ade.hirose-fx.co.jp" always_refuse
 local-zone: "adexchangeclear.com" always_refuse
+local-zone: "adexchangerapid.com" always_refuse
 local-zone: "adfeeds.stuff.co.nz" always_refuse
 local-zone: "adflexaffiliate.com" always_refuse
 local-zone: "ad.gametower.com.tw" always_refuse
