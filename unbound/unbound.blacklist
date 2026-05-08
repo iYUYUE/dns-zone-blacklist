@@ -2554,6 +2554,7 @@ local-zone: "atovub.com" always_refuse
 local-zone: "atuoep.com" always_refuse
 local-zone: "aumago.com" always_refuse
 local-zone: "auth.dn.se" always_refuse
+local-zone: "avads.live" always_refuse
 local-zone: "avct.cloud" always_refuse
 local-zone: "awcrpu.com" always_refuse
 local-zone: "awejmp.com" always_refuse
@@ -8748,6 +8749,7 @@ local-zone: "ads.bingos.jp" always_refuse
 local-zone: "ads.bitfly.at" always_refuse
 local-zone: "adsbookie.com" always_refuse
 local-zone: "ads.boxtec.ch" always_refuse
+local-zone: "ads.brave.com" always_refuse
 local-zone: "adsbyfpc2.com" always_refuse
 local-zone: "ads.cisde.net" always_refuse
 local-zone: "ads.ck101.com" always_refuse
@@ -12455,6 +12457,7 @@ local-zone: "ptunogroxa.pro" always_refuse
 local-zone: "pubdirecte.com" always_refuse
 local-zone: "publicgood.com" always_refuse
 local-zone: "publicsofa.com" always_refuse
+local-zone: "pubmonetize.io" always_refuse
 local-zone: "pubnative.info" always_refuse
 local-zone: "pub.olyrix.com" always_refuse
 local-zone: "pubsfusion.com" always_refuse
@@ -14761,6 +14764,7 @@ local-zone: "tenderstart.pro" always_refuse
 local-zone: "tenhourweek.com" always_refuse
 local-zone: "ten.ijhyugb.com" always_refuse
 local-zone: "tepidpolicy.com" always_refuse
+local-zone: "testad.gpwa.org" always_refuse
 local-zone: "tg1.copper6.com" always_refuse
 local-zone: "tgpxmanager.com" always_refuse
 local-zone: "tgtg-alerts.com" always_refuse
@@ -18781,6 +18785,7 @@ local-zone: "ad.woman.mynavi.jp" always_refuse
 local-zone: "adwords.google.com" always_refuse
 local-zone: "adworldmasters.com" always_refuse
 local-zone: "ad.xfastest.com.hk" always_refuse
+local-zone: "adx.fulcrum.com.fj" always_refuse
 local-zone: "adzadvertising.com" always_refuse
 local-zone: "adzrevolutions.com" always_refuse
 local-zone: "aemediatraffic.com" always_refuse
@@ -25857,7 +25862,9 @@ local-zone: "cs0008sbeda.moromi-koso-c.com" always_refuse
 local-zone: "cs0010sbeda.theory-clinic.com" always_refuse
 local-zone: "d1180od816jent.cloudfront.net" always_refuse
 local-zone: "d11enq2rymy0yl.cloudfront.net" always_refuse
+local-zone: "d11ywwiwbp5w99.cloudfront.net" always_refuse
 local-zone: "d13k7prax1yi04.cloudfront.net" always_refuse
+local-zone: "d143rkb68zww8w.cloudfront.net" always_refuse
 local-zone: "d14bfzriit2hkf.cloudfront.net" always_refuse
 local-zone: "d15kdpgjg3unno.cloudfront.net" always_refuse
 local-zone: "d172q3toj7w1md.cloudfront.net" always_refuse
@@ -25866,6 +25873,7 @@ local-zone: "d17pjd9ul3l2d4.cloudfront.net" always_refuse
 local-zone: "d17tqr44y57o31.cloudfront.net" always_refuse
 local-zone: "d185y8fkx3tp2z.cloudfront.net" always_refuse
 local-zone: "d188m5xxcpvuue.cloudfront.net" always_refuse
+local-zone: "d1960jnnm1hn35.cloudfront.net" always_refuse
 local-zone: "d1bk6lwzdwelz0.cloudfront.net" always_refuse
 local-zone: "d1by1tbuh4ktib.cloudfront.net" always_refuse
 local-zone: "d1byvlfiet2h9q.cloudfront.net" always_refuse
