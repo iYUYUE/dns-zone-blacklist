@@ -7581,6 +7581,7 @@ zone "mediaedge.ae" { type master; notify no; file "null.zone.file"; };
 zone "media.eso.tv" { type master; notify no; file "null.zone.file"; };
 zone "medialead.de" { type master; notify no; file "null.zone.file"; };
 zone "mediamond.it" { type master; notify no; file "null.zone.file"; };
+zone "mediaone.com" { type master; notify no; file "null.zone.file"; };
 zone "mediapal.net" { type master; notify no; file "null.zone.file"; };
 zone "mediarise.io" { type master; notify no; file "null.zone.file"; };
 zone "mediative.ca" { type master; notify no; file "null.zone.file"; };
