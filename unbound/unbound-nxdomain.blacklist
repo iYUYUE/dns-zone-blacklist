@@ -2862,6 +2862,7 @@ local-zone: "ffbtas.com" always_nxdomain
 local-zone: "fialet.com" always_nxdomain
 local-zone: "fiyifo.com" always_nxdomain
 local-zone: "flarby.com" always_nxdomain
+local-zone: "flavedo.io" always_nxdomain
 local-zone: "flexmg.com" always_nxdomain
 local-zone: "flittz.com" always_nxdomain
 local-zone: "flux-g.com" always_nxdomain
@@ -24351,7 +24352,6 @@ local-zone: "adbundle.empowerlocal.co" always_nxdomain
 local-zone: "ad-constructor.yandex.ru" always_nxdomain
 local-zone: "adebis.blackboard60s.com" always_nxdomain
 local-zone: "ad-ebis.mynavi-job20s.jp" always_nxdomain
-local-zone: "adimages.microcenter.com" always_nxdomain
 local-zone: "adimages.startribune.com" always_nxdomain
 local-zone: "ad.jeune-independant.net" always_nxdomain
 local-zone: "ad.mediaprimaplus.com.my" always_nxdomain

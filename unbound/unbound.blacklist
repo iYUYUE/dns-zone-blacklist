@@ -2862,6 +2862,7 @@ local-zone: "ffbtas.com" always_refuse
 local-zone: "fialet.com" always_refuse
 local-zone: "fiyifo.com" always_refuse
 local-zone: "flarby.com" always_refuse
+local-zone: "flavedo.io" always_refuse
 local-zone: "flexmg.com" always_refuse
 local-zone: "flittz.com" always_refuse
 local-zone: "flux-g.com" always_refuse
@@ -24351,7 +24352,6 @@ local-zone: "adbundle.empowerlocal.co" always_refuse
 local-zone: "ad-constructor.yandex.ru" always_refuse
 local-zone: "adebis.blackboard60s.com" always_refuse
 local-zone: "ad-ebis.mynavi-job20s.jp" always_refuse
-local-zone: "adimages.microcenter.com" always_refuse
 local-zone: "adimages.startribune.com" always_refuse
 local-zone: "ad.jeune-independant.net" always_refuse
 local-zone: "ad.mediaprimaplus.com.my" always_refuse
