@@ -26554,6 +26554,7 @@ zone "rs-branding.conservative.blabber.buzz" { type master; notify no; file "nul
 zone "rs-stripe.daily.thepostmillennial.com" { type master; notify no; file "null.zone.file"; };
 zone "rs-stripe.email.hometextilestoday.com" { type master; notify no; file "null.zone.file"; };
 zone "rs-stripe.thecongressionalinsider.com" { type master; notify no; file "null.zone.file"; };
+zone "sdk-notification-service.cloudbees.io" { type master; notify no; file "null.zone.file"; };
 zone "service-cookie-sync.clusters.pluto.tv" { type master; notify no; file "null.zone.file"; };
 zone "softwaredefinedapplicationdelivery.us" { type master; notify no; file "null.zone.file"; };
 zone "sponsors.stateofdigitalpublishing.com" { type master; notify no; file "null.zone.file"; };

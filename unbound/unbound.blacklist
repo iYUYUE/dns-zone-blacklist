@@ -26554,6 +26554,7 @@ local-zone: "rs-branding.conservative.blabber.buzz" always_refuse
 local-zone: "rs-stripe.daily.thepostmillennial.com" always_refuse
 local-zone: "rs-stripe.email.hometextilestoday.com" always_refuse
 local-zone: "rs-stripe.thecongressionalinsider.com" always_refuse
+local-zone: "sdk-notification-service.cloudbees.io" always_refuse
 local-zone: "service-cookie-sync.clusters.pluto.tv" always_refuse
 local-zone: "softwaredefinedapplicationdelivery.us" always_refuse
 local-zone: "sponsors.stateofdigitalpublishing.com" always_refuse
