@@ -6640,6 +6640,7 @@ zone "ads.urlit.fi" { type master; notify no; file "null.zone.file"; };
 zone "ads.uway.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.vecer.mk" { type master; notify no; file "null.zone.file"; };
 zone "ads.vomay.pl" { type master; notify no; file "null.zone.file"; };
+zone "ads.wenet.pl" { type master; notify no; file "null.zone.file"; };
 zone "ad-swipes.ru" { type master; notify no; file "null.zone.file"; };
 zone "ads.wish.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.witi.com" { type master; notify no; file "null.zone.file"; };
