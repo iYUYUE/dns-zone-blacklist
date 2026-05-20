@@ -99,6 +99,7 @@ local-zone: "rc8.ru" always_refuse
 local-zone: "rev.iq" always_refuse
 local-zone: "rtk.io" always_refuse
 local-zone: "s4m.io" always_refuse
+local-zone: "sli.do" always_refuse
 local-zone: "snd.tc" always_refuse
 local-zone: "sys.lv" always_refuse
 local-zone: "t13.io" always_refuse
@@ -7145,6 +7146,7 @@ local-zone: "deeptime.pro" always_refuse
 local-zone: "deltraff.com" always_refuse
 local-zone: "deqwas.co.jp" always_refuse
 local-zone: "dervalio.com" always_refuse
+local-zone: "dewapush.com" always_refuse
 local-zone: "dfnb-ads.com" always_refuse
 local-zone: "di5stero.com" always_refuse
 local-zone: "di6stero.com" always_refuse
@@ -7734,6 +7736,7 @@ local-zone: "onclklnd.com" always_refuse
 local-zone: "onead.com.tw" always_refuse
 local-zone: "onebyaol.com" always_refuse
 local-zone: "onetrust.com" always_refuse
+local-zone: "onivo.online" always_refuse
 local-zone: "onlymega.com" always_refuse
 local-zone: "onscroll.com" always_refuse
 local-zone: "onshowit.com" always_refuse
@@ -10230,6 +10233,7 @@ local-zone: "push.partners" always_refuse
 local-zone: "pushpro.co.za" always_refuse
 local-zone: "pushprofit.ru" always_refuse
 local-zone: "pushpros.tech" always_refuse
+local-zone: "pushrelay.com" always_refuse
 local-zone: "pushsafer.com" always_refuse
 local-zone: "pushsafer.net" always_refuse
 local-zone: "push-sdk.site" always_refuse
@@ -12623,6 +12627,7 @@ local-zone: "serve.mdpi.com" always_refuse
 local-zone: "servemeads.com" always_refuse
 local-zone: "server4ads.com" always_refuse
 local-zone: "servetraff.com" always_refuse
+local-zone: "setuptrust.com" always_refuse
 local-zone: "sexinfinity.cc" always_refuse
 local-zone: "sexyadsrun.com" always_refuse
 local-zone: "s.golhofer.com" always_refuse
@@ -12835,6 +12840,7 @@ local-zone: "tubby-fish.pro" always_refuse
 local-zone: "tubbyweird.pro" always_refuse
 local-zone: "tude-wuo.space" always_refuse
 local-zone: "tugluhiwhy.pro" always_refuse
+local-zone: "turtleface.net" always_refuse
 local-zone: "twelvedawn.com" always_refuse
 local-zone: "twindesire.com" always_refuse
 local-zone: "twinrdsyte.com" always_refuse
@@ -14173,6 +14179,7 @@ local-zone: "landwestern.com" always_refuse
 local-zone: "lankyliving.pro" always_refuse
 local-zone: "latinobucks.com" always_refuse
 local-zone: "lavanetwork.net" always_refuse
+local-zone: "lavaorganic.com" always_refuse
 local-zone: "lavish-bill.pro" always_refuse
 local-zone: "lavish-joke.pro" always_refuse
 local-zone: "lawhuptacha.pro" always_refuse
@@ -25243,8 +25250,11 @@ local-zone: "casushi.gogamepartners.com" always_refuse
 local-zone: "c.atinternet-solutions.com" always_refuse
 local-zone: "cbdabdhjbacdidbcgabc.world" always_refuse
 local-zone: "cdadhafjgjdchbbhiabd.world" always_refuse
+local-zone: "cdeffgcgabffgjaeaabd.world" always_refuse
 local-zone: "cdn-ketchapp.akamaized.net" always_refuse
 local-zone: "cdrrvlkew.filasofighit.com" always_refuse
+local-zone: "cfccciecgdiacadffabe.world" always_refuse
+local-zone: "cgjjaafjcgaehbgghabf.world" always_refuse
 local-zone: "click-eu-v4.fiddirexol.com" always_refuse
 local-zone: "click-v4.mainexpclkdir.com" always_refuse
 local-zone: "click-v4.plarimoexocli.com" always_refuse
