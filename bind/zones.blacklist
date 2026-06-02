@@ -10624,6 +10624,7 @@ zone "trinisply.com" { type master; notify no; file "null.zone.file"; };
 zone "trisxisys.com" { type master; notify no; file "null.zone.file"; };
 zone "trueoptin.com" { type master; notify no; file "null.zone.file"; };
 zone "trunblock.com" { type master; notify no; file "null.zone.file"; };
+zone "trustpush.net" { type master; notify no; file "null.zone.file"; };
 zone "tryadhawk.com" { type master; notify no; file "null.zone.file"; };
 zone "trygravity.ai" { type master; notify no; file "null.zone.file"; };
 zone "tshop.r10s.jp" { type master; notify no; file "null.zone.file"; };
