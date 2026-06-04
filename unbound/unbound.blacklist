@@ -3233,6 +3233,7 @@ local-zone: "myhayo.com" always_refuse
 local-zone: "myoads.com" always_refuse
 local-zone: "myrsel.com" always_refuse
 local-zone: "myspicy.de" always_refuse
+local-zone: "mythad.com" always_refuse
 local-zone: "n0tify.pro" always_refuse
 local-zone: "naisre.com" always_refuse
 local-zone: "naiyoz.lol" always_refuse
@@ -24137,6 +24138,7 @@ local-zone: "display.lawbulletin.com" always_refuse
 local-zone: "d-kint.d-kintetsu.co.jp" always_refuse
 local-zone: "doubleclickbygoogle.com" always_refuse
 local-zone: "downloads.mailchimp.com" always_refuse
+local-zone: "downyattainprojects.com" always_refuse
 local-zone: "ebisfracora.fracora.com" always_refuse
 local-zone: "ebis.gokusen-ichiba.com" always_refuse
 local-zone: "ebis.housekeeping.or.jp" always_refuse

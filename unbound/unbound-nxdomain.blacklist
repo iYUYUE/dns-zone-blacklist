@@ -3233,6 +3233,7 @@ local-zone: "myhayo.com" always_nxdomain
 local-zone: "myoads.com" always_nxdomain
 local-zone: "myrsel.com" always_nxdomain
 local-zone: "myspicy.de" always_nxdomain
+local-zone: "mythad.com" always_nxdomain
 local-zone: "n0tify.pro" always_nxdomain
 local-zone: "naisre.com" always_nxdomain
 local-zone: "naiyoz.lol" always_nxdomain
@@ -24137,6 +24138,7 @@ local-zone: "display.lawbulletin.com" always_nxdomain
 local-zone: "d-kint.d-kintetsu.co.jp" always_nxdomain
 local-zone: "doubleclickbygoogle.com" always_nxdomain
 local-zone: "downloads.mailchimp.com" always_nxdomain
+local-zone: "downyattainprojects.com" always_nxdomain
 local-zone: "ebisfracora.fracora.com" always_nxdomain
 local-zone: "ebis.gokusen-ichiba.com" always_nxdomain
 local-zone: "ebis.housekeeping.or.jp" always_nxdomain
