@@ -20922,6 +20922,7 @@ zone "push.webandname.com" { type master; notify no; file "null.zone.file"; };
 zone "pushyexcitement.pro" { type master; notify no; file "null.zone.file"; };
 zone "puzzlingcurrent.com" { type master; notify no; file "null.zone.file"; };
 zone "pv.sandro-paris.com" { type master; notify no; file "null.zone.file"; };
+zone "quality-traffic.com" { type master; notify no; file "null.zone.file"; };
 zone "qubeadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "queer.queermedia.pl" { type master; notify no; file "null.zone.file"; };
 zone "quicksilver.scdn.co" { type master; notify no; file "null.zone.file"; };
