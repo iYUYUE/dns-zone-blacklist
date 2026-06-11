@@ -6416,6 +6416,7 @@ local-zone: "adintext.net" always_refuse
 local-zone: "adiquity.com" always_refuse
 local-zone: "ad.jmbbs.com" always_refuse
 local-zone: "adjungle.com" always_refuse
+local-zone: "ad.kavxx.com" always_refuse
 local-zone: "adkernel.com" always_refuse
 local-zone: "adland.co.il" always_refuse
 local-zone: "ad-layer.com" always_refuse
@@ -8240,6 +8241,15 @@ local-zone: "spry-tap.pro" always_refuse
 local-zone: "squadtee.net" always_refuse
 local-zone: "srtb.msn.com" always_refuse
 local-zone: "srv.7rtb.com" always_refuse
+local-zone: "srvqck10.com" always_refuse
+local-zone: "srvqck11.com" always_refuse
+local-zone: "srvqck12.com" always_refuse
+local-zone: "srvqck13.com" always_refuse
+local-zone: "srvqck15.com" always_refuse
+local-zone: "srvqck17.com" always_refuse
+local-zone: "srvqck18.com" always_refuse
+local-zone: "srvqck19.com" always_refuse
+local-zone: "srvqck21.com" always_refuse
 local-zone: "srvqck23.com" always_refuse
 local-zone: "srvqck25.com" always_refuse
 local-zone: "srvqck27.com" always_refuse
@@ -10096,6 +10106,7 @@ local-zone: "oneproseo.com" always_refuse
 local-zone: "onesignal.com" always_refuse
 local-zone: "onetech.group" always_refuse
 local-zone: "onservads.com" always_refuse
+local-zone: "onttsrh5i.com" always_refuse
 local-zone: "op.e-forum.pl" always_refuse
 local-zone: "openxadex.com" always_refuse
 local-zone: "openxmods.com" always_refuse
@@ -11241,6 +11252,7 @@ local-zone: "ads.webinak.sk" always_refuse
 local-zone: "ads.webstix.de" always_refuse
 local-zone: "ads.wesped.com" always_refuse
 local-zone: "ads.xiklab.com" always_refuse
+local-zone: "ads.xnavxx.com" always_refuse
 local-zone: "ads.yoojooz.hu" always_refuse
 local-zone: "ads.youmark.it" always_refuse
 local-zone: "ads.zalora.com" always_refuse
@@ -20614,15 +20626,6 @@ local-zone: "fenixadvertising.in" always_refuse
 local-zone: "ff.heartbeats.space" always_refuse
 local-zone: "ff.loveorbits.store" always_refuse
 local-zone: "filter.fstsrv10.com" always_refuse
-local-zone: "filter.srvqck10.com" always_refuse
-local-zone: "filter.srvqck11.com" always_refuse
-local-zone: "filter.srvqck12.com" always_refuse
-local-zone: "filter.srvqck13.com" always_refuse
-local-zone: "filter.srvqck15.com" always_refuse
-local-zone: "filter.srvqck17.com" always_refuse
-local-zone: "filter.srvqck18.com" always_refuse
-local-zone: "filter.srvqck19.com" always_refuse
-local-zone: "filter.srvqck21.com" always_refuse
 local-zone: "firmimprovement.pro" always_refuse
 local-zone: "firstscreenshot.com" always_refuse
 local-zone: "firstsportmedia.com" always_refuse
@@ -24069,6 +24072,7 @@ local-zone: "api.fastmoonclimbed.com" always_refuse
 local-zone: "appcontent.mobivity.com" always_refuse
 local-zone: "apprehensivebrother.pro" always_refuse
 local-zone: "a.rfihub.com.akadns.net" always_refuse
+local-zone: "as23r23ljf.gameloft.com" always_refuse
 local-zone: "asg1.hostadsmarkets.com" always_refuse
 local-zone: "attractive-external.pro" always_refuse
 local-zone: "back-to-top.appspot.com" always_refuse
