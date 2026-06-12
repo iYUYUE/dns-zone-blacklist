@@ -5165,6 +5165,7 @@ zone "ito-app.org" { type master; notify no; file "null.zone.file"; };
 zone "itonixr.com" { type master; notify no; file "null.zone.file"; };
 zone "iubenda.com" { type master; notify no; file "null.zone.file"; };
 zone "i-vengo.com" { type master; notify no; file "null.zone.file"; };
+zone "iyangka.com" { type master; notify no; file "null.zone.file"; };
 zone "j31k5llk.de" { type master; notify no; file "null.zone.file"; };
 zone "j57m6r86.de" { type master; notify no; file "null.zone.file"; };
 zone "jamwiki.org" { type master; notify no; file "null.zone.file"; };
