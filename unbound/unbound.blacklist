@@ -12121,6 +12121,7 @@ local-zone: "kighoadouk.com" always_refuse
 local-zone: "kighoadouk.net" always_refuse
 local-zone: "kimiagroup.com" always_refuse
 local-zone: "kitetuning.com" always_refuse
+local-zone: "knownmatch.com" always_refuse
 local-zone: "kreativead.com" always_refuse
 local-zone: "krelaymail.com" always_refuse
 local-zone: "krushmedia.com" always_refuse
@@ -16004,6 +16005,7 @@ local-zone: "gracefulmilk.com" always_refuse
 local-zone: "graciousitem.pro" always_refuse
 local-zone: "grandkingdom.com" always_refuse
 local-zone: "granulardear.pro" always_refuse
+local-zone: "granulargame.com" always_refuse
 local-zone: "grave-orange.pro" always_refuse
 local-zone: "grayscaleart.com" always_refuse
 local-zone: "greedy-crash.pro" always_refuse
@@ -18845,6 +18847,7 @@ local-zone: "adstreetagency.com" always_refuse
 local-zone: "adstudiomobile.com" always_refuse
 local-zone: "ads.unehost.com.br" always_refuse
 local-zone: "ads.uni-miskolc.hu" always_refuse
+local-zone: "ads.urgentfury.com" always_refuse
 local-zone: "ads.varldenidag.se" always_refuse
 local-zone: "ads.ventafe.com.ar" always_refuse
 local-zone: "ads.viaphoenix.net" always_refuse
