@@ -4341,6 +4341,7 @@ local-zone: "ads2.gag.it" always_refuse
 local-zone: "ads.2nd.gdn" always_refuse
 local-zone: "ads.3al.com" always_refuse
 local-zone: "ads4you.xyz" always_refuse
+local-zone: "ads.6ix.com" always_refuse
 local-zone: "ads.aae.org" always_refuse
 local-zone: "ads.amna.gr" always_refuse
 local-zone: "ad.santa.lv" always_refuse
@@ -11646,6 +11647,7 @@ local-zone: "cloudtraff.com" always_refuse
 local-zone: "cnt.fc2web.com" always_refuse
 local-zone: "codenode.works" always_refuse
 local-zone: "cointraffic.io" always_refuse
+local-zone: "cold-chart.com" always_refuse
 local-zone: "collabollc.com" always_refuse
 local-zone: "collanetti.com" always_refuse
 local-zone: "collectcent.co" always_refuse
@@ -19603,6 +19605,7 @@ local-zone: "putrid-opening.pro" always_refuse
 local-zone: "qrushaffiliate.com" always_refuse
 local-zone: "quadravision.co.in" always_refuse
 local-zone: "quaint-address.pro" always_refuse
+local-zone: "quaintanywhere.com" always_refuse
 local-zone: "questionmarket.com" always_refuse
 local-zone: "qwrsuhuuxtafcn.com" always_refuse
 local-zone: "rackforstorage.com" always_refuse
@@ -23865,6 +23868,7 @@ local-zone: "adactioninteractive.com" always_refuse
 local-zone: "ad-assets.futurecdn.net" always_refuse
 local-zone: "ad.broadcaststation.net" always_refuse
 local-zone: "ad.chovatelahospodar.sk" always_refuse
+local-zone: "adcreativemarketing.com" always_refuse
 local-zone: "ad-digitalmarketing.com" always_refuse
 local-zone: "addserver.comtomark.com" always_refuse
 local-zone: "adebis8628.matsui.co.jp" always_refuse
