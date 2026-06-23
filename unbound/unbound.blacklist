@@ -8906,6 +8906,7 @@ local-zone: "ads.opinet.pl" always_refuse
 local-zone: "adspalace.com" always_refuse
 local-zone: "ads.pan21.com" always_refuse
 local-zone: "adspecs.co.nz" always_refuse
+local-zone: "adsperity.com" always_refuse
 local-zone: "ads.petvet.bg" always_refuse
 local-zone: "adspirit.info" always_refuse
 local-zone: "ads-pixiv.net" always_refuse
@@ -11227,6 +11228,7 @@ local-zone: "ads.popscan.ch" always_refuse
 local-zone: "ads.press24.mk" always_refuse
 local-zone: "ads.produkt.by" always_refuse
 local-zone: "ads.prowyg.com" always_refuse
+local-zone: "ads.psisat.com" always_refuse
 local-zone: "ads.pulpmx.com" always_refuse
 local-zone: "adspyglass.com" always_refuse
 local-zone: "ads.rajoni.org" always_refuse
@@ -11479,6 +11481,7 @@ local-zone: "be.forklift.de" always_refuse
 local-zone: "behoppipan.com" always_refuse
 local-zone: "benedictad.com" always_refuse
 local-zone: "bentengine.com" always_refuse
+local-zone: "bepixel.net.br" always_refuse
 local-zone: "best-cream.pro" always_refuse
 local-zone: "betasaurus.com" always_refuse
 local-zone: "bidbuddy.co.in" always_refuse
@@ -11674,6 +11677,7 @@ local-zone: "convertadv.com" always_refuse
 local-zone: "convertbox.com" always_refuse
 local-zone: "cookies.lmt.lv" always_refuse
 local-zone: "copytweaks.com" always_refuse
+local-zone: "countjump.cyou" always_refuse
 local-zone: "coupling.media" always_refuse
 local-zone: "couponrail.com" always_refuse
 local-zone: "couponsinc.com" always_refuse
@@ -12818,6 +12822,7 @@ local-zone: "theadstars.com" always_refuse
 local-zone: "theadszone.com" always_refuse
 local-zone: "theadwatch.com" always_refuse
 local-zone: "thecomzone.com" always_refuse
+local-zone: "thecoreadv.com" always_refuse
 local-zone: "theindustry.ch" always_refuse
 local-zone: "themidroll.com" always_refuse
 local-zone: "theppcguys.com" always_refuse
@@ -14847,6 +14852,7 @@ local-zone: "techmistriz.com" always_refuse
 local-zone: "tecnocoches.com" always_refuse
 local-zone: "teenrevenue.com" always_refuse
 local-zone: "tektokmedia.com" always_refuse
+local-zone: "teleportapi.com" always_refuse
 local-zone: "tel-tel-fie.com" always_refuse
 local-zone: "tendermarch.pro" always_refuse
 local-zone: "tenderstart.pro" always_refuse
@@ -17214,6 +17220,7 @@ local-zone: "adsprotection.com" always_refuse
 local-zone: "ads.publicidad.uy" always_refuse
 local-zone: "ads.purplebiz.net" always_refuse
 local-zone: "adspy.javrank.com" always_refuse
+local-zone: "ads.radios.com.py" always_refuse
 local-zone: "ads.randomexp.net" always_refuse
 local-zone: "ads.rc-network.de" always_refuse
 local-zone: "ads.reempresa.org" always_refuse
