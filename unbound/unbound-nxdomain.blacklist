@@ -18728,10 +18728,12 @@ local-zone: "adserver.jetfly.hu" always_nxdomain
 local-zone: "adserver.jforum.fr" always_nxdomain
 local-zone: "adserver.joomla.pl" always_nxdomain
 local-zone: "adserver.juhub.com" always_nxdomain
+local-zone: "adserver.kecsup.hu" always_nxdomain
 local-zone: "adserver.klaxon.pl" always_nxdomain
 local-zone: "adserver.klinfo.hr" always_nxdomain
 local-zone: "adserver.land24.de" always_nxdomain
 local-zone: "adserver.lulop.com" always_nxdomain
+local-zone: "adserver.lyn-x.com" always_nxdomain
 local-zone: "adserver.lystra.se" always_nxdomain
 local-zone: "adserver.mazmo.net" always_nxdomain
 local-zone: "adserver.musify.it" always_nxdomain

@@ -18728,10 +18728,12 @@ local-zone: "adserver.jetfly.hu" always_refuse
 local-zone: "adserver.jforum.fr" always_refuse
 local-zone: "adserver.joomla.pl" always_refuse
 local-zone: "adserver.juhub.com" always_refuse
+local-zone: "adserver.kecsup.hu" always_refuse
 local-zone: "adserver.klaxon.pl" always_refuse
 local-zone: "adserver.klinfo.hr" always_refuse
 local-zone: "adserver.land24.de" always_refuse
 local-zone: "adserver.lulop.com" always_refuse
+local-zone: "adserver.lyn-x.com" always_refuse
 local-zone: "adserver.lystra.se" always_refuse
 local-zone: "adserver.mazmo.net" always_refuse
 local-zone: "adserver.musify.it" always_refuse
