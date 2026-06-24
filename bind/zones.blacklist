@@ -10100,6 +10100,7 @@ zone "ocoglobal.com" { type master; notify no; file "null.zone.file"; };
 zone "octoclick.com" { type master; notify no; file "null.zone.file"; };
 zone "octopi.com.bd" { type master; notify no; file "null.zone.file"; };
 zone "oddduck.co.in" { type master; notify no; file "null.zone.file"; };
+zone "oddityads.com" { type master; notify no; file "null.zone.file"; };
 zone "odd-pause.pro" { type master; notify no; file "null.zone.file"; };
 zone "offergate.pro" { type master; notify no; file "null.zone.file"; };
 zone "offerlink.net" { type master; notify no; file "null.zone.file"; };
