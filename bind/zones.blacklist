@@ -10647,6 +10647,7 @@ zone "trackifyy.com" { type master; notify no; file "null.zone.file"; };
 zone "tradblock.com" { type master; notify no; file "null.zone.file"; };
 zone "tradeleads.su" { type master; notify no; file "null.zone.file"; };
 zone "trafficox.com" { type master; notify no; file "null.zone.file"; };
+zone "trafficvn.com" { type master; notify no; file "null.zone.file"; };
 zone "trafflife.com" { type master; notify no; file "null.zone.file"; };
 zone "travelpad.com" { type master; notify no; file "null.zone.file"; };
 zone "trc.lhmos.com" { type master; notify no; file "null.zone.file"; };
