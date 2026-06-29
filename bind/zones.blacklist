@@ -3679,6 +3679,7 @@ zone "tapjoy.com" { type master; notify no; file "null.zone.file"; };
 zone "tapsell.ir" { type master; notify no; file "null.zone.file"; };
 zone "tarjani.co" { type master; notify no; file "null.zone.file"; };
 zone "tashowy.de" { type master; notify no; file "null.zone.file"; };
+zone "tatads.com" { type master; notify no; file "null.zone.file"; };
 zone "tatrck.com" { type master; notify no; file "null.zone.file"; };
 zone "tavoos.net" { type master; notify no; file "null.zone.file"; };
 zone "tazesty.de" { type master; notify no; file "null.zone.file"; };
