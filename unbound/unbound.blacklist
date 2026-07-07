@@ -1263,6 +1263,7 @@ local-zone: "fedsy.xyz" always_refuse
 local-zone: "fejla.com" always_refuse
 local-zone: "fg09t.com" always_refuse
 local-zone: "fhtrk.com" always_refuse
+local-zone: "fhvfd.com" always_refuse
 local-zone: "fiasq.com" always_refuse
 local-zone: "fiksu.com" always_refuse
 local-zone: "fitad.com" always_refuse
@@ -3521,6 +3522,9 @@ local-zone: "r.azeta.ee" always_refuse
 local-zone: "rbfour.bid" always_refuse
 local-zone: "rb-net.com" always_refuse
 local-zone: "rbqcg6g.de" always_refuse
+local-zone: "rbtfit.com" always_refuse
+local-zone: "rbtget.com" always_refuse
+local-zone: "rbtrgr.com" always_refuse
 local-zone: "rddywd.com" always_refuse
 local-zone: "r.denar.mk" always_refuse
 local-zone: "rdfxgo.com" always_refuse
@@ -3661,6 +3665,7 @@ local-zone: "sudiyo.com" always_refuse
 local-zone: "suke10.com" always_refuse
 local-zone: "sumome.com" always_refuse
 local-zone: "sunhill.in" always_refuse
+local-zone: "suprion.ru" always_refuse
 local-zone: "suxhap.com" always_refuse
 local-zone: "svradv.com" always_refuse
 local-zone: "swaven.com" always_refuse
@@ -4260,6 +4265,7 @@ local-zone: "ad-linx.com" always_refuse
 local-zone: "ad.lista.cz" always_refuse
 local-zone: "adlocal.net" always_refuse
 local-zone: "adlogix.com" always_refuse
+local-zone: "adlook.tech" always_refuse
 local-zone: "adludio.com" always_refuse
 local-zone: "adma.com.au" always_refuse
 local-zone: "admailr.com" always_refuse
@@ -10682,6 +10688,7 @@ local-zone: "trackcitg.com" always_refuse
 local-zone: "trackifyy.com" always_refuse
 local-zone: "tradblock.com" always_refuse
 local-zone: "tradeleads.su" always_refuse
+local-zone: "traffaret.com" always_refuse
 local-zone: "trafficox.com" always_refuse
 local-zone: "trafficvn.com" always_refuse
 local-zone: "trafflife.com" always_refuse
@@ -11193,6 +11200,7 @@ local-zone: "ads.dotomi.com" always_refuse
 local-zone: "ads.d-radar.de" always_refuse
 local-zone: "adsearnbtc.com" always_refuse
 local-zone: "ads.edadeal.ru" always_refuse
+local-zone: "adseedtech.com" always_refuse
 local-zone: "ads.efekty.net" always_refuse
 local-zone: "adsemirate.com" always_refuse
 local-zone: "ads.emolus.com" always_refuse
@@ -21783,6 +21791,7 @@ local-zone: "damp-opportunity.pro" always_refuse
 local-zone: "dangerous-leader.pro" always_refuse
 local-zone: "dashboard.anotun.com" always_refuse
 local-zone: "data-api-zb.dayu.com" always_refuse
+local-zone: "datastream-check.com" always_refuse
 local-zone: "ddd.sexstories69.com" always_refuse
 local-zone: "dearestpromotion.pro" always_refuse
 local-zone: "dearest-response.com" always_refuse
