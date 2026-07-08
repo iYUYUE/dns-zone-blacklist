@@ -1519,6 +1519,7 @@ local-zone: "msads.net" always_refuse
 local-zone: "mt66g.com" always_refuse
 local-zone: "mtfmi.com" always_refuse
 local-zone: "mtgad.com" always_refuse
+local-zone: "mtyjj.com" always_refuse
 local-zone: "munqu.com" always_refuse
 local-zone: "mvmbs.com" always_refuse
 local-zone: "mwlle.com" always_refuse
@@ -8352,6 +8353,7 @@ local-zone: "takerate.com" always_refuse
 local-zone: "talkmego.com" always_refuse
 local-zone: "targetix.net" always_refuse
 local-zone: "tataritv.com" always_refuse
+local-zone: "tatihese.com" always_refuse
 local-zone: "tc.ci123.com" always_refuse
 local-zone: "tdwandco.com" always_refuse
 local-zone: "techixir.com" always_refuse
@@ -18782,6 +18784,7 @@ local-zone: "ads.d-msquared.com" always_refuse
 local-zone: "ads.docunordic.net" always_refuse
 local-zone: "ads.ebihoreanul.ro" always_refuse
 local-zone: "ads.ec-masters.net" always_refuse
+local-zone: "adsense.google.com" always_refuse
 local-zone: "adserve.bestfx.com" always_refuse
 local-zone: "adserve.impel.link" always_refuse
 local-zone: "adserver.1truck.tv" always_refuse

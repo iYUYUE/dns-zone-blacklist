@@ -1519,6 +1519,7 @@ local-zone: "msads.net" always_nxdomain
 local-zone: "mt66g.com" always_nxdomain
 local-zone: "mtfmi.com" always_nxdomain
 local-zone: "mtgad.com" always_nxdomain
+local-zone: "mtyjj.com" always_nxdomain
 local-zone: "munqu.com" always_nxdomain
 local-zone: "mvmbs.com" always_nxdomain
 local-zone: "mwlle.com" always_nxdomain
@@ -8352,6 +8353,7 @@ local-zone: "takerate.com" always_nxdomain
 local-zone: "talkmego.com" always_nxdomain
 local-zone: "targetix.net" always_nxdomain
 local-zone: "tataritv.com" always_nxdomain
+local-zone: "tatihese.com" always_nxdomain
 local-zone: "tc.ci123.com" always_nxdomain
 local-zone: "tdwandco.com" always_nxdomain
 local-zone: "techixir.com" always_nxdomain
@@ -18782,6 +18784,7 @@ local-zone: "ads.d-msquared.com" always_nxdomain
 local-zone: "ads.docunordic.net" always_nxdomain
 local-zone: "ads.ebihoreanul.ro" always_nxdomain
 local-zone: "ads.ec-masters.net" always_nxdomain
+local-zone: "adsense.google.com" always_nxdomain
 local-zone: "adserve.bestfx.com" always_nxdomain
 local-zone: "adserve.impel.link" always_nxdomain
 local-zone: "adserver.1truck.tv" always_nxdomain
