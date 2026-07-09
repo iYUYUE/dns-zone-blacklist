@@ -4367,6 +4367,7 @@ zone "ads.3al.com" { type master; notify no; file "null.zone.file"; };
 zone "ads4you.xyz" { type master; notify no; file "null.zone.file"; };
 zone "ads.6ix.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.aae.org" { type master; notify no; file "null.zone.file"; };
+zone "ads-abc.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.amna.gr" { type master; notify no; file "null.zone.file"; };
 zone "ad.santa.lv" { type master; notify no; file "null.zone.file"; };
 zone "ads.apps.ae" { type master; notify no; file "null.zone.file"; };
