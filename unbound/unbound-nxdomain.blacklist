@@ -4955,6 +4955,7 @@ local-zone: "daiko.co.jp" always_nxdomain
 local-zone: "daisycon.io" always_nxdomain
 local-zone: "dalymix.com" always_nxdomain
 local-zone: "daopush.com" always_nxdomain
+local-zone: "dappier.com" always_nxdomain
 local-zone: "darling.nyc" always_nxdomain
 local-zone: "darvorn.com" always_nxdomain
 local-zone: "dashtwo.com" always_nxdomain
@@ -10580,6 +10581,7 @@ local-zone: "small-ads.com" always_nxdomain
 local-zone: "smart4ads.com" always_nxdomain
 local-zone: "smartclip.com" always_nxdomain
 local-zone: "smartclip.net" always_nxdomain
+local-zone: "smartframe.io" always_nxdomain
 local-zone: "smartology.co" always_nxdomain
 local-zone: "smartyads.com" always_nxdomain
 local-zone: "smashpops.com" always_nxdomain
@@ -21960,6 +21962,7 @@ local-zone: "iadcontent.apple.com" always_nxdomain
 local-zone: "iamyourpusherman.com" always_nxdomain
 local-zone: "idealadvertising.net" always_nxdomain
 local-zone: "ideal-collection.pro" always_nxdomain
+local-zone: "ids.api.gcprivacy.id" always_nxdomain
 local-zone: "igamingadservice.com" always_nxdomain
 local-zone: "ignorant-storage.com" always_nxdomain
 local-zone: "illinformed-camp.pro" always_nxdomain
@@ -22588,6 +22591,7 @@ local-zone: "ads.sibernetworks.com" always_nxdomain
 local-zone: "ads.sinedigital.co.uk" always_nxdomain
 local-zone: "ads.sportsplanner.com" always_nxdomain
 local-zone: "ads.studyonlinebd.com" always_nxdomain
+local-zone: "ads.surfernetwork.com" always_nxdomain
 local-zone: "ads.svishtovtoday.com" always_nxdomain
 local-zone: "ads.teorenalbania.com" always_nxdomain
 local-zone: "ads.tepinvestment.com" always_nxdomain
@@ -23437,7 +23441,6 @@ local-zone: "adserver.rtvdrenthe.nl" always_nxdomain
 local-zone: "adserver.sciflicks.com" always_nxdomain
 local-zone: "adserver.ship2yard.com" always_nxdomain
 local-zone: "adserver.sigma-foto.de" always_nxdomain
-local-zone: "adserver.smartframe.io" always_nxdomain
 local-zone: "adserver.sonicplug.com" always_nxdomain
 local-zone: "adserver.speeda360.com" always_nxdomain
 local-zone: "adserver.stadtrevue.de" always_nxdomain
@@ -23907,7 +23910,6 @@ local-zone: "servedby.globalsmt.net" always_nxdomain
 local-zone: "servedby.indiegraf.com" always_nxdomain
 local-zone: "servedby.medlabmag.com" always_nxdomain
 local-zone: "servedby.polity.org.za" always_nxdomain
-local-zone: "servedby.smartframe.io" always_nxdomain
 local-zone: "service.bv-aff-trx.com" always_nxdomain
 local-zone: "shameless-sentence.pro" always_nxdomain
 local-zone: "shimmering-concept.pro" always_nxdomain

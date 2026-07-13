@@ -4955,6 +4955,7 @@ local-zone: "daiko.co.jp" always_refuse
 local-zone: "daisycon.io" always_refuse
 local-zone: "dalymix.com" always_refuse
 local-zone: "daopush.com" always_refuse
+local-zone: "dappier.com" always_refuse
 local-zone: "darling.nyc" always_refuse
 local-zone: "darvorn.com" always_refuse
 local-zone: "dashtwo.com" always_refuse
@@ -10580,6 +10581,7 @@ local-zone: "small-ads.com" always_refuse
 local-zone: "smart4ads.com" always_refuse
 local-zone: "smartclip.com" always_refuse
 local-zone: "smartclip.net" always_refuse
+local-zone: "smartframe.io" always_refuse
 local-zone: "smartology.co" always_refuse
 local-zone: "smartyads.com" always_refuse
 local-zone: "smashpops.com" always_refuse
@@ -21960,6 +21962,7 @@ local-zone: "iadcontent.apple.com" always_refuse
 local-zone: "iamyourpusherman.com" always_refuse
 local-zone: "idealadvertising.net" always_refuse
 local-zone: "ideal-collection.pro" always_refuse
+local-zone: "ids.api.gcprivacy.id" always_refuse
 local-zone: "igamingadservice.com" always_refuse
 local-zone: "ignorant-storage.com" always_refuse
 local-zone: "illinformed-camp.pro" always_refuse
@@ -22588,6 +22591,7 @@ local-zone: "ads.sibernetworks.com" always_refuse
 local-zone: "ads.sinedigital.co.uk" always_refuse
 local-zone: "ads.sportsplanner.com" always_refuse
 local-zone: "ads.studyonlinebd.com" always_refuse
+local-zone: "ads.surfernetwork.com" always_refuse
 local-zone: "ads.svishtovtoday.com" always_refuse
 local-zone: "ads.teorenalbania.com" always_refuse
 local-zone: "ads.tepinvestment.com" always_refuse
@@ -23437,7 +23441,6 @@ local-zone: "adserver.rtvdrenthe.nl" always_refuse
 local-zone: "adserver.sciflicks.com" always_refuse
 local-zone: "adserver.ship2yard.com" always_refuse
 local-zone: "adserver.sigma-foto.de" always_refuse
-local-zone: "adserver.smartframe.io" always_refuse
 local-zone: "adserver.sonicplug.com" always_refuse
 local-zone: "adserver.speeda360.com" always_refuse
 local-zone: "adserver.stadtrevue.de" always_refuse
@@ -23907,7 +23910,6 @@ local-zone: "servedby.globalsmt.net" always_refuse
 local-zone: "servedby.indiegraf.com" always_refuse
 local-zone: "servedby.medlabmag.com" always_refuse
 local-zone: "servedby.polity.org.za" always_refuse
-local-zone: "servedby.smartframe.io" always_refuse
 local-zone: "service.bv-aff-trx.com" always_refuse
 local-zone: "shameless-sentence.pro" always_refuse
 local-zone: "shimmering-concept.pro" always_refuse
