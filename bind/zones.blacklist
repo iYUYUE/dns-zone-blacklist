@@ -15155,6 +15155,7 @@ zone "wicked-line.pro" { type master; notify no; file "null.zone.file"; };
 zone "widget.1688.com" { type master; notify no; file "null.zone.file"; };
 zone "widgethouse.com" { type master; notify no; file "null.zone.file"; };
 zone "widgetlogic.org" { type master; notify no; file "null.zone.file"; };
+zone "widgets.ups.com" { type master; notify no; file "null.zone.file"; };
 zone "wikiwakywoo.com" { type master; notify no; file "null.zone.file"; };
 zone "wiltedgrade.pro" { type master; notify no; file "null.zone.file"; };
 zone "windingmeat.pro" { type master; notify no; file "null.zone.file"; };
