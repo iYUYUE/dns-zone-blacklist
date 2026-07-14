@@ -1465,6 +1465,7 @@ zone "lozna.xyz" { type master; notify no; file "null.zone.file"; };
 zone "lsjet.net" { type master; notify no; file "null.zone.file"; };
 zone "lsuix.com" { type master; notify no; file "null.zone.file"; };
 zone "luxup2.ru" { type master; notify no; file "null.zone.file"; };
+zone "lwaka.com" { type master; notify no; file "null.zone.file"; };
 zone "lwxjg.com" { type master; notify no; file "null.zone.file"; };
 zone "m1170.top" { type master; notify no; file "null.zone.file"; };
 zone "m32.media" { type master; notify no; file "null.zone.file"; };
