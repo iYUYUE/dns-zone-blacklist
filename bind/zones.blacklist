@@ -22761,6 +22761,7 @@ zone "cloud.newsgram.hp.com" { type master; notify no; file "null.zone.file"; };
 zone "cnameforitp.dermed.jp" { type master; notify no; file "null.zone.file"; };
 zone "cname.jaic-college.jp" { type master; notify no; file "null.zone.file"; };
 zone "code.gunnymienphi.net" { type master; notify no; file "null.zone.file"; };
+zone "colorfulculture.click" { type master; notify no; file "null.zone.file"; };
 zone "commissionfactory.com" { type master; notify no; file "null.zone.file"; };
 zone "competent-partner.pro" { type master; notify no; file "null.zone.file"; };
 zone "competentspecific.com" { type master; notify no; file "null.zone.file"; };
