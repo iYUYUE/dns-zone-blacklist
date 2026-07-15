@@ -912,6 +912,7 @@ local-zone: "adplay.ru" always_nxdomain
 local-zone: "adport.io" always_nxdomain
 local-zone: "ad.prw.pl" always_nxdomain
 local-zone: "adpush.cn" always_nxdomain
+local-zone: "adqic.com" always_nxdomain
 local-zone: "adqub.com" always_nxdomain
 local-zone: "adqva.com" always_nxdomain
 local-zone: "adrain.bg" always_nxdomain
@@ -2097,6 +2098,7 @@ local-zone: "adclub.net" always_nxdomain
 local-zone: "ad-c.media" always_nxdomain
 local-zone: "adcno.site" always_nxdomain
 local-zone: "adcoin.com" always_nxdomain
+local-zone: "adcombi.io" always_nxdomain
 local-zone: "adcore.com" always_nxdomain
 local-zone: "ad-core.ru" always_nxdomain
 local-zone: "ad.cosp.jp" always_nxdomain
@@ -4733,6 +4735,7 @@ local-zone: "atimaze.com" always_nxdomain
 local-zone: "a.trusa.xyz" always_nxdomain
 local-zone: "ats.otto.de" always_nxdomain
 local-zone: "attekmi.com" always_nxdomain
+local-zone: "audience.id" always_nxdomain
 local-zone: "audienzz.ch" always_nxdomain
 local-zone: "audiogo.com" always_nxdomain
 local-zone: "autopush.in" always_nxdomain
@@ -15813,6 +15816,7 @@ local-zone: "carbongarden.net" always_nxdomain
 local-zone: "carelesscamp.pro" always_nxdomain
 local-zone: "carpoolqueen.com" always_nxdomain
 local-zone: "cash4members.com" always_nxdomain
+local-zone: "cashclicking.com" always_nxdomain
 local-zone: "catyadsmedia.com" always_nxdomain
 local-zone: "cauldronfest.com" always_nxdomain
 local-zone: "cbsoutdoor.co.uk" always_nxdomain
@@ -15926,6 +15930,7 @@ local-zone: "cutescale.online" always_nxdomain
 local-zone: "cybertronads.com" always_nxdomain
 local-zone: "damaged-unit.pro" always_nxdomain
 local-zone: "darchermedia.com" always_nxdomain
+local-zone: "data-driven.info" always_nxdomain
 local-zone: "dbaworldwide.com" always_nxdomain
 local-zone: "decimalcross.pro" always_nxdomain
 local-zone: "deemanetwork.com" always_nxdomain
@@ -20192,6 +20197,7 @@ local-zone: "ads.empowerlocal.co" always_nxdomain
 local-zone: "adserve.gkeurope.de" always_nxdomain
 local-zone: "adserver.1agency.de" always_nxdomain
 local-zone: "adserver1.ileon.com" always_nxdomain
+local-zone: "adserver2.mconet.hu" always_nxdomain
 local-zone: "adserver3.mconet.hu" always_nxdomain
 local-zone: "adserver.acquire.nl" always_nxdomain
 local-zone: "adserver.advsun.net" always_nxdomain
@@ -25134,6 +25140,7 @@ local-zone: "ads.marketing-service.org" always_nxdomain
 local-zone: "ads.marktplatz-digital.de" always_nxdomain
 local-zone: "ads.masonstudentmedia.com" always_nxdomain
 local-zone: "ads.periodistadigital.com" always_nxdomain
+local-zone: "ads.plumcreativeworks.com" always_nxdomain
 local-zone: "adsrv.verlagholzhausen.at" always_nxdomain
 local-zone: "ads.suckhoegiadinh.com.vn" always_nxdomain
 local-zone: "ads.thebangkokinsight.com" always_nxdomain

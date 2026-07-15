@@ -912,6 +912,7 @@ local-zone: "adplay.ru" always_refuse
 local-zone: "adport.io" always_refuse
 local-zone: "ad.prw.pl" always_refuse
 local-zone: "adpush.cn" always_refuse
+local-zone: "adqic.com" always_refuse
 local-zone: "adqub.com" always_refuse
 local-zone: "adqva.com" always_refuse
 local-zone: "adrain.bg" always_refuse
@@ -2097,6 +2098,7 @@ local-zone: "adclub.net" always_refuse
 local-zone: "ad-c.media" always_refuse
 local-zone: "adcno.site" always_refuse
 local-zone: "adcoin.com" always_refuse
+local-zone: "adcombi.io" always_refuse
 local-zone: "adcore.com" always_refuse
 local-zone: "ad-core.ru" always_refuse
 local-zone: "ad.cosp.jp" always_refuse
@@ -4733,6 +4735,7 @@ local-zone: "atimaze.com" always_refuse
 local-zone: "a.trusa.xyz" always_refuse
 local-zone: "ats.otto.de" always_refuse
 local-zone: "attekmi.com" always_refuse
+local-zone: "audience.id" always_refuse
 local-zone: "audienzz.ch" always_refuse
 local-zone: "audiogo.com" always_refuse
 local-zone: "autopush.in" always_refuse
@@ -15813,6 +15816,7 @@ local-zone: "carbongarden.net" always_refuse
 local-zone: "carelesscamp.pro" always_refuse
 local-zone: "carpoolqueen.com" always_refuse
 local-zone: "cash4members.com" always_refuse
+local-zone: "cashclicking.com" always_refuse
 local-zone: "catyadsmedia.com" always_refuse
 local-zone: "cauldronfest.com" always_refuse
 local-zone: "cbsoutdoor.co.uk" always_refuse
@@ -15926,6 +15930,7 @@ local-zone: "cutescale.online" always_refuse
 local-zone: "cybertronads.com" always_refuse
 local-zone: "damaged-unit.pro" always_refuse
 local-zone: "darchermedia.com" always_refuse
+local-zone: "data-driven.info" always_refuse
 local-zone: "dbaworldwide.com" always_refuse
 local-zone: "decimalcross.pro" always_refuse
 local-zone: "deemanetwork.com" always_refuse
@@ -20192,6 +20197,7 @@ local-zone: "ads.empowerlocal.co" always_refuse
 local-zone: "adserve.gkeurope.de" always_refuse
 local-zone: "adserver.1agency.de" always_refuse
 local-zone: "adserver1.ileon.com" always_refuse
+local-zone: "adserver2.mconet.hu" always_refuse
 local-zone: "adserver3.mconet.hu" always_refuse
 local-zone: "adserver.acquire.nl" always_refuse
 local-zone: "adserver.advsun.net" always_refuse
@@ -25134,6 +25140,7 @@ local-zone: "ads.marketing-service.org" always_refuse
 local-zone: "ads.marktplatz-digital.de" always_refuse
 local-zone: "ads.masonstudentmedia.com" always_refuse
 local-zone: "ads.periodistadigital.com" always_refuse
+local-zone: "ads.plumcreativeworks.com" always_refuse
 local-zone: "adsrv.verlagholzhausen.at" always_refuse
 local-zone: "ads.suckhoegiadinh.com.vn" always_refuse
 local-zone: "ads.thebangkokinsight.com" always_refuse
