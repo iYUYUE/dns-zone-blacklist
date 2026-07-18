@@ -9535,6 +9535,7 @@ local-zone: "cvsfsqgev.com" always_refuse
 local-zone: "cyad.nate.com" always_refuse
 local-zone: "cyber-z.co.jp" always_refuse
 local-zone: "dabiaozhi.com" always_refuse
+local-zone: "dailykarma.io" always_refuse
 local-zone: "daltrix.click" always_refuse
 local-zone: "dampratio.pro" always_refuse
 local-zone: "damptouch.com" always_refuse
@@ -11827,6 +11828,7 @@ local-zone: "d6.sina.com.cn" always_refuse
 local-zone: "d7.sina.com.cn" always_refuse
 local-zone: "d9.sina.com.cn" always_refuse
 local-zone: "dai.google.com" always_refuse
+local-zone: "dailykarma.com" always_refuse
 local-zone: "dapperdeal.pro" always_refuse
 local-zone: "darksquare.pro" always_refuse
 local-zone: "dartcdnfor.com" always_refuse
