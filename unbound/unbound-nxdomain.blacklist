@@ -8448,6 +8448,7 @@ local-zone: "tssyakir.xyz" always_nxdomain
 local-zone: "tubberlo.com" always_nxdomain
 local-zone: "tubecorp.com" always_nxdomain
 local-zone: "tubehits.com" always_nxdomain
+local-zone: "tuplebar.com" always_nxdomain
 local-zone: "turboadv.com" always_nxdomain
 local-zone: "tv33whpr.com" always_nxdomain
 local-zone: "tvadsync.com" always_nxdomain
@@ -26841,6 +26842,7 @@ local-zone: "ccpa-no-script.psg.nexstardigital.net" always_nxdomain
 local-zone: "factor-service.prod.voltaxservices.io" always_nxdomain
 local-zone: "frontierconsul02.tsunagaru-office.com" always_nxdomain
 local-zone: "media-us-am-crackle-com.akamaized.net" always_nxdomain
+local-zone: "meggnotec.ams3.digitaloceanspaces.com" always_nxdomain
 local-zone: "modal-widget.services.dealerspike.net" always_nxdomain
 local-zone: "nalistfruitatmospherediamondjam.space" always_nxdomain
 local-zone: "rs-branding.conservative.blabber.buzz" always_nxdomain

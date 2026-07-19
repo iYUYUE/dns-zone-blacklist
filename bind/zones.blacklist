@@ -8448,6 +8448,7 @@ zone "tssyakir.xyz" { type master; notify no; file "null.zone.file"; };
 zone "tubberlo.com" { type master; notify no; file "null.zone.file"; };
 zone "tubecorp.com" { type master; notify no; file "null.zone.file"; };
 zone "tubehits.com" { type master; notify no; file "null.zone.file"; };
+zone "tuplebar.com" { type master; notify no; file "null.zone.file"; };
 zone "turboadv.com" { type master; notify no; file "null.zone.file"; };
 zone "tv33whpr.com" { type master; notify no; file "null.zone.file"; };
 zone "tvadsync.com" { type master; notify no; file "null.zone.file"; };
@@ -26841,6 +26842,7 @@ zone "ccpa-no-script.psg.nexstardigital.net" { type master; notify no; file "nul
 zone "factor-service.prod.voltaxservices.io" { type master; notify no; file "null.zone.file"; };
 zone "frontierconsul02.tsunagaru-office.com" { type master; notify no; file "null.zone.file"; };
 zone "media-us-am-crackle-com.akamaized.net" { type master; notify no; file "null.zone.file"; };
+zone "meggnotec.ams3.digitaloceanspaces.com" { type master; notify no; file "null.zone.file"; };
 zone "modal-widget.services.dealerspike.net" { type master; notify no; file "null.zone.file"; };
 zone "nalistfruitatmospherediamondjam.space" { type master; notify no; file "null.zone.file"; };
 zone "rs-branding.conservative.blabber.buzz" { type master; notify no; file "null.zone.file"; };
