@@ -299,6 +299,7 @@ local-zone: "zel.biz" always_refuse
 local-zone: "zm0.net" always_refuse
 local-zone: "zmo.net" always_refuse
 local-zone: "00px.net" always_refuse
+local-zone: "073m.com" always_refuse
 local-zone: "07ut.com" always_refuse
 local-zone: "0ath.net" always_refuse
 local-zone: "0lin.com" always_refuse
@@ -24341,6 +24342,7 @@ local-zone: "dadispapi.gmarket.co.kr" always_refuse
 local-zone: "daily.schoolsweek.co.uk" always_refuse
 local-zone: "dbt.dopascalls.1und1.de" always_refuse
 local-zone: "decisiverequirement.com" always_refuse
+local-zone: "definite-discussion.pro" always_refuse
 local-zone: "directresponsegroup.com" always_refuse
 local-zone: "directus.libertycdn.com" always_refuse
 local-zone: "display.lawbulletin.com" always_refuse
