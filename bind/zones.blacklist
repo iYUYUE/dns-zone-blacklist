@@ -475,6 +475,7 @@ zone "cayo.pro" { type master; notify no; file "null.zone.file"; };
 zone "ccm19.de" { type master; notify no; file "null.zone.file"; };
 zone "cdaz.icu" { type master; notify no; file "null.zone.file"; };
 zone "click.in" { type master; notify no; file "null.zone.file"; };
+zone "clikk.cc" { type master; notify no; file "null.zone.file"; };
 zone "cm65.com" { type master; notify no; file "null.zone.file"; };
 zone "cnobi.jp" { type master; notify no; file "null.zone.file"; };
 zone "coil.com" { type master; notify no; file "null.zone.file"; };
