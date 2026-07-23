@@ -2626,6 +2626,7 @@ local-zone: "bbmedia.cz" always_refuse
 local-zone: "bbrdbr.com" always_refuse
 local-zone: "bcnsrv.com" always_refuse
 local-zone: "bc-sys.com" always_refuse
+local-zone: "beamed.com" always_refuse
 local-zone: "beanse.com" always_refuse
 local-zone: "bearev.xyz" always_refuse
 local-zone: "behave.com" always_refuse
@@ -5325,6 +5326,7 @@ local-zone: "look2jj.com" always_refuse
 local-zone: "look.com.eg" always_refuse
 local-zone: "loudecho.ai" always_refuse
 local-zone: "loveadv.com" always_refuse
+local-zone: "loveota.com" always_refuse
 local-zone: "lpnjump.com" always_refuse
 local-zone: "luckylb.com" always_refuse
 local-zone: "lumenad.com" always_refuse
@@ -5786,6 +5788,7 @@ local-zone: "smaato.asia" always_refuse
 local-zone: "smaato.info" always_refuse
 local-zone: "smaato.mobi" always_refuse
 local-zone: "smac-ad.com" always_refuse
+local-zone: "smartbid.ai" always_refuse
 local-zone: "smartcdn.tv" always_refuse
 local-zone: "smsbump.com" always_refuse
 local-zone: "snapads.com" always_refuse

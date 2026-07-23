@@ -2626,6 +2626,7 @@ local-zone: "bbmedia.cz" always_nxdomain
 local-zone: "bbrdbr.com" always_nxdomain
 local-zone: "bcnsrv.com" always_nxdomain
 local-zone: "bc-sys.com" always_nxdomain
+local-zone: "beamed.com" always_nxdomain
 local-zone: "beanse.com" always_nxdomain
 local-zone: "bearev.xyz" always_nxdomain
 local-zone: "behave.com" always_nxdomain
@@ -5325,6 +5326,7 @@ local-zone: "look2jj.com" always_nxdomain
 local-zone: "look.com.eg" always_nxdomain
 local-zone: "loudecho.ai" always_nxdomain
 local-zone: "loveadv.com" always_nxdomain
+local-zone: "loveota.com" always_nxdomain
 local-zone: "lpnjump.com" always_nxdomain
 local-zone: "luckylb.com" always_nxdomain
 local-zone: "lumenad.com" always_nxdomain
@@ -5786,6 +5788,7 @@ local-zone: "smaato.asia" always_nxdomain
 local-zone: "smaato.info" always_nxdomain
 local-zone: "smaato.mobi" always_nxdomain
 local-zone: "smac-ad.com" always_nxdomain
+local-zone: "smartbid.ai" always_nxdomain
 local-zone: "smartcdn.tv" always_nxdomain
 local-zone: "smsbump.com" always_nxdomain
 local-zone: "snapads.com" always_nxdomain
