@@ -26343,6 +26343,7 @@ zone "d3rr3d0n31t48m.cloudfront.net" { type master; notify no; file "null.zone.f
 zone "d3tglifpd8whs6.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "ddosimgb2l4dnaf7c8gtpw9vk.com" { type master; notify no; file "null.zone.file"; };
 zone "delivery-ci360.uscellular.com" { type master; notify no; file "null.zone.file"; };
+zone "device.marketingcloudapis.com" { type master; notify no; file "null.zone.file"; };
 zone "ebis-tracking.tcb-fukuoka.com" { type master; notify no; file "null.zone.file"; };
 zone "ebis-tracking.tcb-shibuya.com" { type master; notify no; file "null.zone.file"; };
 zone "elusivecomplfruitstrate.click" { type master; notify no; file "null.zone.file"; };
