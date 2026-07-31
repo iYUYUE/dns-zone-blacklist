@@ -749,6 +749,7 @@ local-zone: "1ts18.top" always_refuse
 local-zone: "1ts19.top" always_refuse
 local-zone: "1ts20.top" always_refuse
 local-zone: "21sme.com" always_refuse
+local-zone: "24ads.com" always_refuse
 local-zone: "2588u.com" always_refuse
 local-zone: "2622u.com" always_refuse
 local-zone: "293mk.com" always_refuse
@@ -1681,6 +1682,7 @@ local-zone: "ra.gdi.cz" always_refuse
 local-zone: "rbmyd.com" always_refuse
 local-zone: "rcpsj.com" always_refuse
 local-zone: "red1r.com" always_refuse
+local-zone: "red7e.com" always_refuse
 local-zone: "reebr.com" always_refuse
 local-zone: "revive.tn" always_refuse
 local-zone: "rfhhd.com" always_refuse
@@ -1755,6 +1757,7 @@ local-zone: "symplr.de" always_refuse
 local-zone: "syzif.com" always_refuse
 local-zone: "szimh.com" always_refuse
 local-zone: "szzst.com" always_refuse
+local-zone: "t2adv.com" always_refuse
 local-zone: "tagtoo.co" always_refuse
 local-zone: "tapad.app" always_refuse
 local-zone: "tappx.com" always_refuse
@@ -1842,6 +1845,7 @@ local-zone: "uwxtp.com" always_refuse
 local-zone: "uxzah.com" always_refuse
 local-zone: "uygab.com" always_refuse
 local-zone: "v2006.com" always_refuse
+local-zone: "v7.com.tr" always_refuse
 local-zone: "valuad.io" always_refuse
 local-zone: "valuad.mx" always_refuse
 local-zone: "vayxi.com" always_refuse
@@ -7053,6 +7057,7 @@ local-zone: "bexit.com.ng" always_refuse
 local-zone: "bfairall.com" always_refuse
 local-zone: "bfksfssj.top" always_refuse
 local-zone: "bf-tools.net" always_refuse
+local-zone: "bgynybbt.com" always_refuse
 local-zone: "bicytaxi.com" always_refuse
 local-zone: "bidberry.net" always_refuse
 local-zone: "biddager.com" always_refuse
@@ -7157,6 +7162,7 @@ local-zone: "citrusad.com" always_refuse
 local-zone: "cityads.mobi" always_refuse
 local-zone: "cityads.team" always_refuse
 local-zone: "cjsearch.net" always_refuse
+local-zone: "ckngomxb.com" always_refuse
 local-zone: "claritas.com" always_refuse
 local-zone: "claroads.com" always_refuse
 local-zone: "clcknads.pro" always_refuse
@@ -7291,6 +7297,7 @@ local-zone: "dplivin.mobi" always_refuse
 local-zone: "dpmetro.mobi" always_refuse
 local-zone: "dprandco.com" always_refuse
 local-zone: "drivenio.com" always_refuse
+local-zone: "drlagqnl.com" always_refuse
 local-zone: "droidwiz.com" always_refuse
 local-zone: "dsdjclub.com" always_refuse
 local-zone: "dsfffmb.mobi" always_refuse
@@ -7356,6 +7363,7 @@ local-zone: "fasttony.com" always_refuse
 local-zone: "fatanger.pro" always_refuse
 local-zone: "fat-sand.pro" always_refuse
 local-zone: "faunaads.com" always_refuse
+local-zone: "fdluoxnn.com" always_refuse
 local-zone: "feedify.info" always_refuse
 local-zone: "few-bird.com" always_refuse
 local-zone: "fewmodel.pro" always_refuse
@@ -7720,6 +7728,7 @@ local-zone: "medidexs.com" always_refuse
 local-zone: "megabrain.co" always_refuse
 local-zone: "megapush.top" always_refuse
 local-zone: "meiguotu1.cc" always_refuse
+local-zone: "meijxqop.com" always_refuse
 local-zone: "mein-ppc.com" always_refuse
 local-zone: "mekanism.com" always_refuse
 local-zone: "mengozia.xyz" always_refuse
@@ -8055,6 +8064,7 @@ local-zone: "p.weebly.com" always_refuse
 local-zone: "p.xbcpcn.com" always_refuse
 local-zone: "p.zizulw.org" always_refuse
 local-zone: "qarewien.com" always_refuse
+local-zone: "qclsdthy.com" always_refuse
 local-zone: "qfnimusv.com" always_refuse
 local-zone: "qinvaris.com" always_refuse
 local-zone: "qpwvok0l.xyz" always_refuse
@@ -8538,6 +8548,7 @@ local-zone: "wa.gtimg.com" always_refuse
 local-zone: "waryboot.pro" always_refuse
 local-zone: "waytogrow.eu" always_refuse
 local-zone: "waytogrow.pl" always_refuse
+local-zone: "wdziitkl.com" always_refuse
 local-zone: "wearelmg.com" always_refuse
 local-zone: "web2media.sk" always_refuse
 local-zone: "webads.co.nz" always_refuse
@@ -8612,6 +8623,7 @@ local-zone: "yieldlab.net" always_refuse
 local-zone: "yieldlift.io" always_refuse
 local-zone: "ylbb-x03.top" always_refuse
 local-zone: "yldmgimg.net" always_refuse
+local-zone: "ymvwbdcr.com" always_refuse
 local-zone: "yomob.com.cn" always_refuse
 local-zone: "youwatch.org" always_refuse
 local-zone: "yut4is9b.xyz" always_refuse
@@ -9955,6 +9967,8 @@ local-zone: "kompasads.com" always_refuse
 local-zone: "kontextua.com" always_refuse
 local-zone: "koptogyha.pro" always_refuse
 local-zone: "kosherads.net" always_refuse
+local-zone: "kp-i25176.com" always_refuse
+local-zone: "kp-i25985.com" always_refuse
 local-zone: "kpnqp847j4.ru" always_refuse
 local-zone: "kq6lwk3m9g.ru" always_refuse
 local-zone: "kryptoads.com" always_refuse
