@@ -26854,6 +26854,7 @@ local-zone: "rs-stripe.reademergencymessages.com" always_nxdomain
 local-zone: "separationofcorporationandstate.com" always_nxdomain
 local-zone: "smarteucookiebanner.upsell-apps.com" always_nxdomain
 local-zone: "sszhan.oss-cn-shenzhen.aliyuncs.com" always_nxdomain
+local-zone: "tele-cdn.s3.us-east-2.amazonaws.com" always_nxdomain
 local-zone: "vns121.oss-cn-hongkong.aliyuncs.com" always_nxdomain
 local-zone: "webapplicationstreamingnetwork.info" always_nxdomain
 local-zone: "wixlabs-adsense-v3.uc.r.appspot.com" always_nxdomain

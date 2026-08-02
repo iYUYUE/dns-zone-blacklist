@@ -26854,6 +26854,7 @@ local-zone: "rs-stripe.reademergencymessages.com" always_refuse
 local-zone: "separationofcorporationandstate.com" always_refuse
 local-zone: "smarteucookiebanner.upsell-apps.com" always_refuse
 local-zone: "sszhan.oss-cn-shenzhen.aliyuncs.com" always_refuse
+local-zone: "tele-cdn.s3.us-east-2.amazonaws.com" always_refuse
 local-zone: "vns121.oss-cn-hongkong.aliyuncs.com" always_refuse
 local-zone: "webapplicationstreamingnetwork.info" always_refuse
 local-zone: "wixlabs-adsense-v3.uc.r.appspot.com" always_refuse

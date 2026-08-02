@@ -26854,6 +26854,7 @@ zone "rs-stripe.reademergencymessages.com" { type master; notify no; file "null.
 zone "separationofcorporationandstate.com" { type master; notify no; file "null.zone.file"; };
 zone "smarteucookiebanner.upsell-apps.com" { type master; notify no; file "null.zone.file"; };
 zone "sszhan.oss-cn-shenzhen.aliyuncs.com" { type master; notify no; file "null.zone.file"; };
+zone "tele-cdn.s3.us-east-2.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "vns121.oss-cn-hongkong.aliyuncs.com" { type master; notify no; file "null.zone.file"; };
 zone "webapplicationstreamingnetwork.info" { type master; notify no; file "null.zone.file"; };
 zone "wixlabs-adsense-v3.uc.r.appspot.com" { type master; notify no; file "null.zone.file"; };
