@@ -13070,6 +13070,7 @@ zone "uniquefish.pro" { type master; notify no; file "null.zone.file"; };
 zone "unrulymedia.fr" { type master; notify no; file "null.zone.file"; };
 zone "unruly.systems" { type master; notify no; file "null.zone.file"; };
 zone "untidy-log.pro" { type master; notify no; file "null.zone.file"; };
+zone "unusedpuny.com" { type master; notify no; file "null.zone.file"; };
 zone "unusedunit.com" { type master; notify no; file "null.zone.file"; };
 zone "uprisemedia.in" { type master; notify no; file "null.zone.file"; };
 zone "urbandoubt.com" { type master; notify no; file "null.zone.file"; };
@@ -27026,6 +27027,7 @@ zone "tupchucun-1317440667.cos.ap-chengdu.myqcloud.com" { type master; notify no
 zone "ad-host-backup-america.oss-us-west-1.aliyuncs.com" { type master; notify no; file "null.zone.file"; };
 zone "ad-host-backup-america.s3.us-west-1.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "disruptive-advertising.s3-us-west-2.amazonaws.com" { type master; notify no; file "null.zone.file"; };
+zone "adsagentclientafd-b7hqhjdrf3fpeqh2.b01.azurefd.net" { type master; notify no; file "null.zone.file"; };
 zone "adserver.maltaprofile.info.dedi3501.your-server.de" { type master; notify no; file "null.zone.file"; };
 zone "ads-zeasn-lb-680910626.eu-west-1.elb.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "push-notification-token-service.livesport.services" { type master; notify no; file "null.zone.file"; };

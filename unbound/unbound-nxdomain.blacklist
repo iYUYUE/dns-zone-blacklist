@@ -13070,6 +13070,7 @@ local-zone: "uniquefish.pro" always_nxdomain
 local-zone: "unrulymedia.fr" always_nxdomain
 local-zone: "unruly.systems" always_nxdomain
 local-zone: "untidy-log.pro" always_nxdomain
+local-zone: "unusedpuny.com" always_nxdomain
 local-zone: "unusedunit.com" always_nxdomain
 local-zone: "uprisemedia.in" always_nxdomain
 local-zone: "urbandoubt.com" always_nxdomain
@@ -27026,6 +27027,7 @@ local-zone: "tupchucun-1317440667.cos.ap-chengdu.myqcloud.com" always_nxdomain
 local-zone: "ad-host-backup-america.oss-us-west-1.aliyuncs.com" always_nxdomain
 local-zone: "ad-host-backup-america.s3.us-west-1.amazonaws.com" always_nxdomain
 local-zone: "disruptive-advertising.s3-us-west-2.amazonaws.com" always_nxdomain
+local-zone: "adsagentclientafd-b7hqhjdrf3fpeqh2.b01.azurefd.net" always_nxdomain
 local-zone: "adserver.maltaprofile.info.dedi3501.your-server.de" always_nxdomain
 local-zone: "ads-zeasn-lb-680910626.eu-west-1.elb.amazonaws.com" always_nxdomain
 local-zone: "push-notification-token-service.livesport.services" always_nxdomain
