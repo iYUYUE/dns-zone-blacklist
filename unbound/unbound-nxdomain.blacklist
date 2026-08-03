@@ -314,6 +314,7 @@ local-zone: "2ddq.com" always_nxdomain
 local-zone: "2dgg.com" always_nxdomain
 local-zone: "2ead.com" always_nxdomain
 local-zone: "2htg.com" always_nxdomain
+local-zone: "2mdn.net" always_nxdomain
 local-zone: "2nvs.com" always_nxdomain
 local-zone: "2wins.in" always_nxdomain
 local-zone: "2xc8.net" always_nxdomain
@@ -462,6 +463,7 @@ local-zone: "a.zdg.de" always_nxdomain
 local-zone: "bebi.com" always_nxdomain
 local-zone: "begun.ru" always_nxdomain
 local-zone: "bizo.com" always_nxdomain
+local-zone: "bogos.io" always_nxdomain
 local-zone: "bonad.io" always_nxdomain
 local-zone: "brand.ad" always_nxdomain
 local-zone: "braze.eu" always_nxdomain
@@ -5762,6 +5764,7 @@ local-zone: "s.asvsm.com" always_nxdomain
 local-zone: "sa.vic-m.co" always_nxdomain
 local-zone: "sbmmpn.site" always_nxdomain
 local-zone: "scaleout.jp" always_nxdomain
+local-zone: "scalibur.io" always_nxdomain
 local-zone: "scashwl.com" always_nxdomain
 local-zone: "schoene.net" always_nxdomain
 local-zone: "scibids.com" always_nxdomain
@@ -9758,7 +9761,6 @@ local-zone: "gamepills.com" always_nxdomain
 local-zone: "gamespipe.com" always_nxdomain
 local-zone: "gamionex.live" always_nxdomain
 local-zone: "gbotvisit.com" always_nxdomain
-local-zone: "gcdn.2mdn.net" always_nxdomain
 local-zone: "gecdwmkee.com" always_nxdomain
 local-zone: "geckohost.net" always_nxdomain
 local-zone: "genieessp.com" always_nxdomain
@@ -20141,6 +20143,7 @@ local-zone: "zealousfinance.pro" always_nxdomain
 local-zone: "zealousversion.pro" always_nxdomain
 local-zone: "zestymarketing.com" always_nxdomain
 local-zone: "zeustechnology.com" always_nxdomain
+local-zone: "zhblpljqjwsog.site" always_nxdomain
 local-zone: "zhqz.transhero.com" always_nxdomain
 local-zone: "zonewedgeshaft.com" always_nxdomain
 local-zone: "zucksadnetwork.com" always_nxdomain

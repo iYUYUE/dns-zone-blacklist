@@ -314,6 +314,7 @@ local-zone: "2ddq.com" always_refuse
 local-zone: "2dgg.com" always_refuse
 local-zone: "2ead.com" always_refuse
 local-zone: "2htg.com" always_refuse
+local-zone: "2mdn.net" always_refuse
 local-zone: "2nvs.com" always_refuse
 local-zone: "2wins.in" always_refuse
 local-zone: "2xc8.net" always_refuse
@@ -462,6 +463,7 @@ local-zone: "a.zdg.de" always_refuse
 local-zone: "bebi.com" always_refuse
 local-zone: "begun.ru" always_refuse
 local-zone: "bizo.com" always_refuse
+local-zone: "bogos.io" always_refuse
 local-zone: "bonad.io" always_refuse
 local-zone: "brand.ad" always_refuse
 local-zone: "braze.eu" always_refuse
@@ -5762,6 +5764,7 @@ local-zone: "s.asvsm.com" always_refuse
 local-zone: "sa.vic-m.co" always_refuse
 local-zone: "sbmmpn.site" always_refuse
 local-zone: "scaleout.jp" always_refuse
+local-zone: "scalibur.io" always_refuse
 local-zone: "scashwl.com" always_refuse
 local-zone: "schoene.net" always_refuse
 local-zone: "scibids.com" always_refuse
@@ -9758,7 +9761,6 @@ local-zone: "gamepills.com" always_refuse
 local-zone: "gamespipe.com" always_refuse
 local-zone: "gamionex.live" always_refuse
 local-zone: "gbotvisit.com" always_refuse
-local-zone: "gcdn.2mdn.net" always_refuse
 local-zone: "gecdwmkee.com" always_refuse
 local-zone: "geckohost.net" always_refuse
 local-zone: "genieessp.com" always_refuse
@@ -20141,6 +20143,7 @@ local-zone: "zealousfinance.pro" always_refuse
 local-zone: "zealousversion.pro" always_refuse
 local-zone: "zestymarketing.com" always_refuse
 local-zone: "zeustechnology.com" always_refuse
+local-zone: "zhblpljqjwsog.site" always_refuse
 local-zone: "zhqz.transhero.com" always_refuse
 local-zone: "zonewedgeshaft.com" always_refuse
 local-zone: "zucksadnetwork.com" always_refuse
