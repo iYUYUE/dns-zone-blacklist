@@ -3607,6 +3607,7 @@ local-zone: "rofant.com" always_refuse
 local-zone: "rowlnk.com" always_refuse
 local-zone: "rqnvci.com" always_refuse
 local-zone: "rquecb.com" always_refuse
+local-zone: "rs.none.sk" always_refuse
 local-zone: "rtbcon.com" always_refuse
 local-zone: "rtbpop.com" always_refuse
 local-zone: "rtmark.net" always_refuse
@@ -22114,6 +22115,7 @@ local-zone: "media.bytesignal.com" always_refuse
 local-zone: "mediajunction.com.au" always_refuse
 local-zone: "media.kansascity.com" always_refuse
 local-zone: "media.planpokera.com" always_refuse
+local-zone: "media.roscasinos.com" always_refuse
 local-zone: "mediaworksagency.com" always_refuse
 local-zone: "mediumassignment.com" always_refuse
 local-zone: "melodiousharmony.com" always_refuse
@@ -22783,6 +22785,7 @@ local-zone: "avenuea-razorfish.com" always_refuse
 local-zone: "aw01.pub.funshion.com" always_refuse
 local-zone: "babyishcommission.com" always_refuse
 local-zone: "bam.actionnetwork.com" always_refuse
+local-zone: "banner.boyens-webs.de" always_refuse
 local-zone: "banner.campingland.dk" always_refuse
 local-zone: "banner.companywall.hr" always_refuse
 local-zone: "banner.companywall.me" always_refuse
