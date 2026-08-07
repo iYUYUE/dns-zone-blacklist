@@ -1702,6 +1702,7 @@ local-zone: "rm358.com" always_nxdomain
 local-zone: "rmvin.com" always_nxdomain
 local-zone: "ro3sf.com" always_nxdomain
 local-zone: "roeye.com" always_nxdomain
+local-zone: "rosstv.ru" always_nxdomain
 local-zone: "r.pzwl.pl" always_nxdomain
 local-zone: "rqedw.com" always_nxdomain
 local-zone: "rqwel.com" always_nxdomain
@@ -24905,6 +24906,7 @@ local-zone: "console.schrotundkorn.de" always_nxdomain
 local-zone: "contentcapitalonline.com" always_nxdomain
 local-zone: "content-ci360.coppel.com" always_nxdomain
 local-zone: "cookie-cdn.cookiepro.com" always_nxdomain
+local-zone: "cookie-consent.ucl.ac.uk" always_nxdomain
 local-zone: "cooperative-weakness.pro" always_nxdomain
 local-zone: "cp.pre-auto.esferize.com" always_nxdomain
 local-zone: "cp.stadtbranchenbuch.com" always_nxdomain

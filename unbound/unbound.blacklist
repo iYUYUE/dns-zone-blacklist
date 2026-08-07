@@ -1702,6 +1702,7 @@ local-zone: "rm358.com" always_refuse
 local-zone: "rmvin.com" always_refuse
 local-zone: "ro3sf.com" always_refuse
 local-zone: "roeye.com" always_refuse
+local-zone: "rosstv.ru" always_refuse
 local-zone: "r.pzwl.pl" always_refuse
 local-zone: "rqedw.com" always_refuse
 local-zone: "rqwel.com" always_refuse
@@ -24905,6 +24906,7 @@ local-zone: "console.schrotundkorn.de" always_refuse
 local-zone: "contentcapitalonline.com" always_refuse
 local-zone: "content-ci360.coppel.com" always_refuse
 local-zone: "cookie-cdn.cookiepro.com" always_refuse
+local-zone: "cookie-consent.ucl.ac.uk" always_refuse
 local-zone: "cooperative-weakness.pro" always_refuse
 local-zone: "cp.pre-auto.esferize.com" always_refuse
 local-zone: "cp.stadtbranchenbuch.com" always_refuse
