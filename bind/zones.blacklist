@@ -7534,6 +7534,7 @@ zone "hp250820.com" { type master; notify no; file "null.zone.file"; };
 zone "hprofits.com" { type master; notify no; file "null.zone.file"; };
 zone "hrahdmon.com" { type master; notify no; file "null.zone.file"; };
 zone "hrbaal0z.xyz" { type master; notify no; file "null.zone.file"; };
+zone "html-load.cc" { type master; notify no; file "null.zone.file"; };
 zone "hunopajy.pro" { type master; notify no; file "null.zone.file"; };
 zone "hyperadx.com" { type master; notify no; file "null.zone.file"; };
 zone "hzgf8j12.xyz" { type master; notify no; file "null.zone.file"; };
