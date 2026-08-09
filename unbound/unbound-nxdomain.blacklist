@@ -2182,6 +2182,7 @@ local-zone: "adindex.de" always_nxdomain
 local-zone: "adinmo.com" always_nxdomain
 local-zone: "adio.co.il" always_nxdomain
 local-zone: "adiply.com" always_nxdomain
+local-zone: "adipolo.co" always_nxdomain
 local-zone: "adisfy.com" always_nxdomain
 local-zone: "adition.de" always_nxdomain
 local-zone: "aditude.io" always_nxdomain
@@ -2250,6 +2251,7 @@ local-zone: "adop.co.kr" always_nxdomain
 local-zone: "adorca.com" always_nxdomain
 local-zone: "adotic.com" always_nxdomain
 local-zone: "adoveo.com" always_nxdomain
+local-zone: "adovid.com" always_nxdomain
 local-zone: "adpays.net" always_nxdomain
 local-zone: "ad-pic.com" always_nxdomain
 local-zone: "ad.picr.de" always_nxdomain
@@ -7742,6 +7744,7 @@ local-zone: "mas92trk.com" always_nxdomain
 local-zone: "masakeku.com" always_nxdomain
 local-zone: "ma-static.ru" always_nxdomain
 local-zone: "matrixads.in" always_nxdomain
+local-zone: "maxesads.com" always_nxdomain
 local-zone: "maxetise.net" always_nxdomain
 local-zone: "maxforta.com" always_nxdomain
 local-zone: "maximally.io" always_nxdomain
@@ -10695,6 +10698,7 @@ local-zone: "sohonet.co.uk" always_nxdomain
 local-zone: "sokmil-ad.com" always_nxdomain
 local-zone: "soldigital.in" always_nxdomain
 local-zone: "solomon89.xyz" always_nxdomain
+local-zone: "sonicsads.com" always_nxdomain
 local-zone: "sourceoak.com" always_nxdomain
 local-zone: "sour-hate.pro" always_nxdomain
 local-zone: "soxivuphy.com" always_nxdomain
@@ -12629,6 +12633,7 @@ local-zone: "pavonefood.com" always_nxdomain
 local-zone: "paxventure.com" always_nxdomain
 local-zone: "pay4results.ee" always_nxdomain
 local-zone: "payexecute.com" always_nxdomain
+local-zone: "paypal-ads.com" always_nxdomain
 local-zone: "pbs.atomik.vip" always_nxdomain
 local-zone: "p.buawop.cloud" always_nxdomain
 local-zone: "pebblemedia.be" always_nxdomain
@@ -23667,6 +23672,7 @@ local-zone: "ads.themedicportal.com" always_nxdomain
 local-zone: "ads.themooreagency.com" always_nxdomain
 local-zone: "ads.thinkgeoenergy.com" always_nxdomain
 local-zone: "ads.todotransporte.com" always_nxdomain
+local-zone: "ads-ttp2.us.tiktok.com" always_nxdomain
 local-zone: "ad.studioclassroom.com" always_nxdomain
 local-zone: "ads.veritasconnect.com" always_nxdomain
 local-zone: "ads.vorsicht-online.de" always_nxdomain
@@ -27098,6 +27104,7 @@ local-zone: "adsagentclientafd-b7hqhjdrf3fpeqh2.b01.azurefd.net" always_nxdomain
 local-zone: "adserver.maltaprofile.info.dedi3501.your-server.de" always_nxdomain
 local-zone: "ads-zeasn-lb-680910626.eu-west-1.elb.amazonaws.com" always_nxdomain
 local-zone: "push-notification-token-service.livesport.services" always_nxdomain
+local-zone: "ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com" always_nxdomain
 local-zone: "hindsight-music-library.s3.ap-south-1.amazonaws.com" always_nxdomain
 local-zone: "adserver-1277986481.ap-northeast-1.elb.amazonaws.com" always_nxdomain
 local-zone: "adwhirl-vpc-1-1282838770.us-east-1.elb.amazonaws.com" always_nxdomain

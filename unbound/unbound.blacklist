@@ -2182,6 +2182,7 @@ local-zone: "adindex.de" always_refuse
 local-zone: "adinmo.com" always_refuse
 local-zone: "adio.co.il" always_refuse
 local-zone: "adiply.com" always_refuse
+local-zone: "adipolo.co" always_refuse
 local-zone: "adisfy.com" always_refuse
 local-zone: "adition.de" always_refuse
 local-zone: "aditude.io" always_refuse
@@ -2250,6 +2251,7 @@ local-zone: "adop.co.kr" always_refuse
 local-zone: "adorca.com" always_refuse
 local-zone: "adotic.com" always_refuse
 local-zone: "adoveo.com" always_refuse
+local-zone: "adovid.com" always_refuse
 local-zone: "adpays.net" always_refuse
 local-zone: "ad-pic.com" always_refuse
 local-zone: "ad.picr.de" always_refuse
@@ -7742,6 +7744,7 @@ local-zone: "mas92trk.com" always_refuse
 local-zone: "masakeku.com" always_refuse
 local-zone: "ma-static.ru" always_refuse
 local-zone: "matrixads.in" always_refuse
+local-zone: "maxesads.com" always_refuse
 local-zone: "maxetise.net" always_refuse
 local-zone: "maxforta.com" always_refuse
 local-zone: "maximally.io" always_refuse
@@ -10695,6 +10698,7 @@ local-zone: "sohonet.co.uk" always_refuse
 local-zone: "sokmil-ad.com" always_refuse
 local-zone: "soldigital.in" always_refuse
 local-zone: "solomon89.xyz" always_refuse
+local-zone: "sonicsads.com" always_refuse
 local-zone: "sourceoak.com" always_refuse
 local-zone: "sour-hate.pro" always_refuse
 local-zone: "soxivuphy.com" always_refuse
@@ -12629,6 +12633,7 @@ local-zone: "pavonefood.com" always_refuse
 local-zone: "paxventure.com" always_refuse
 local-zone: "pay4results.ee" always_refuse
 local-zone: "payexecute.com" always_refuse
+local-zone: "paypal-ads.com" always_refuse
 local-zone: "pbs.atomik.vip" always_refuse
 local-zone: "p.buawop.cloud" always_refuse
 local-zone: "pebblemedia.be" always_refuse
@@ -23667,6 +23672,7 @@ local-zone: "ads.themedicportal.com" always_refuse
 local-zone: "ads.themooreagency.com" always_refuse
 local-zone: "ads.thinkgeoenergy.com" always_refuse
 local-zone: "ads.todotransporte.com" always_refuse
+local-zone: "ads-ttp2.us.tiktok.com" always_refuse
 local-zone: "ad.studioclassroom.com" always_refuse
 local-zone: "ads.veritasconnect.com" always_refuse
 local-zone: "ads.vorsicht-online.de" always_refuse
@@ -27098,6 +27104,7 @@ local-zone: "adsagentclientafd-b7hqhjdrf3fpeqh2.b01.azurefd.net" always_refuse
 local-zone: "adserver.maltaprofile.info.dedi3501.your-server.de" always_refuse
 local-zone: "ads-zeasn-lb-680910626.eu-west-1.elb.amazonaws.com" always_refuse
 local-zone: "push-notification-token-service.livesport.services" always_refuse
+local-zone: "ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com" always_refuse
 local-zone: "hindsight-music-library.s3.ap-south-1.amazonaws.com" always_refuse
 local-zone: "adserver-1277986481.ap-northeast-1.elb.amazonaws.com" always_refuse
 local-zone: "adwhirl-vpc-1-1282838770.us-east-1.elb.amazonaws.com" always_refuse
