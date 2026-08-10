@@ -1895,6 +1895,7 @@ local-zone: "vntsm.com" always_nxdomain
 local-zone: "voljr.com" always_nxdomain
 local-zone: "voxco.com" always_nxdomain
 local-zone: "vptbn.com" always_nxdomain
+local-zone: "vr-gc.com" always_nxdomain
 local-zone: "vserv.com" always_nxdomain
 local-zone: "vtaos.xyz" always_nxdomain
 local-zone: "vtgwo.com" always_nxdomain
@@ -9655,6 +9656,7 @@ local-zone: "dcmagency.com" always_nxdomain
 local-zone: "dcntr-ads.com" always_nxdomain
 local-zone: "deepfried.com" always_nxdomain
 local-zone: "delecpuzz.com" always_nxdomain
+local-zone: "deleshyva.com" always_nxdomain
 local-zone: "deliverad.com" always_nxdomain
 local-zone: "delta-boa.com" always_nxdomain
 local-zone: "demand.supply" always_nxdomain
@@ -16554,6 +16556,7 @@ local-zone: "nauticaldate.pro" always_nxdomain
 local-zone: "nauticalhair.com" always_nxdomain
 local-zone: "navigaglobal.com" always_nxdomain
 local-zone: "nbnrsa.manrec.cc" always_nxdomain
+local-zone: "neat-example.com" always_nxdomain
 local-zone: "nervousprize.pro" always_nxdomain
 local-zone: "net.contoscn.com" always_nxdomain
 local-zone: "netcuriosity.com" always_nxdomain
@@ -23597,6 +23600,7 @@ local-zone: "adserver.cdnstream.com" always_nxdomain
 local-zone: "adserver.cenebchile.cl" always_nxdomain
 local-zone: "adserver.curiouscat.me" always_nxdomain
 local-zone: "adserver.cybersales.cz" always_nxdomain
+local-zone: "adserver.cynomedia.com" always_nxdomain
 local-zone: "adserver.doctoreto.com" always_nxdomain
 local-zone: "adserver.ekorodzice.pl" always_nxdomain
 local-zone: "adserver.elboletin.com" always_nxdomain
@@ -23689,6 +23693,7 @@ local-zone: "ads.mygrocerydeals.com" always_nxdomain
 local-zone: "ads.nationalhotrod.com" always_nxdomain
 local-zone: "ads.nghenhinvietnam.vn" always_nxdomain
 local-zone: "ads.nosproducteurs.com" always_nxdomain
+local-zone: "ads.officerentinfo.com" always_nxdomain
 local-zone: "ads.olhardireto.com.br" always_nxdomain
 local-zone: "ads.panmediamatrix.com" always_nxdomain
 local-zone: "ads.pesmojprijatelj.si" always_nxdomain
@@ -24800,6 +24805,7 @@ local-zone: "adebis.blackboard60s.com" always_nxdomain
 local-zone: "ad-ebis.mynavi-job20s.jp" always_nxdomain
 local-zone: "adimages.startribune.com" always_nxdomain
 local-zone: "ad.jeune-independant.net" always_nxdomain
+local-zone: "adkit-advertising.amazon" always_nxdomain
 local-zone: "ad.mediaprimaplus.com.my" always_nxdomain
 local-zone: "ad-mrevive.hussverlag.de" always_nxdomain
 local-zone: "adnet.bunnyandvolkov.com" always_nxdomain

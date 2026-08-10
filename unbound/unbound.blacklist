@@ -1895,6 +1895,7 @@ local-zone: "vntsm.com" always_refuse
 local-zone: "voljr.com" always_refuse
 local-zone: "voxco.com" always_refuse
 local-zone: "vptbn.com" always_refuse
+local-zone: "vr-gc.com" always_refuse
 local-zone: "vserv.com" always_refuse
 local-zone: "vtaos.xyz" always_refuse
 local-zone: "vtgwo.com" always_refuse
@@ -9655,6 +9656,7 @@ local-zone: "dcmagency.com" always_refuse
 local-zone: "dcntr-ads.com" always_refuse
 local-zone: "deepfried.com" always_refuse
 local-zone: "delecpuzz.com" always_refuse
+local-zone: "deleshyva.com" always_refuse
 local-zone: "deliverad.com" always_refuse
 local-zone: "delta-boa.com" always_refuse
 local-zone: "demand.supply" always_refuse
@@ -16554,6 +16556,7 @@ local-zone: "nauticaldate.pro" always_refuse
 local-zone: "nauticalhair.com" always_refuse
 local-zone: "navigaglobal.com" always_refuse
 local-zone: "nbnrsa.manrec.cc" always_refuse
+local-zone: "neat-example.com" always_refuse
 local-zone: "nervousprize.pro" always_refuse
 local-zone: "net.contoscn.com" always_refuse
 local-zone: "netcuriosity.com" always_refuse
@@ -23597,6 +23600,7 @@ local-zone: "adserver.cdnstream.com" always_refuse
 local-zone: "adserver.cenebchile.cl" always_refuse
 local-zone: "adserver.curiouscat.me" always_refuse
 local-zone: "adserver.cybersales.cz" always_refuse
+local-zone: "adserver.cynomedia.com" always_refuse
 local-zone: "adserver.doctoreto.com" always_refuse
 local-zone: "adserver.ekorodzice.pl" always_refuse
 local-zone: "adserver.elboletin.com" always_refuse
@@ -23689,6 +23693,7 @@ local-zone: "ads.mygrocerydeals.com" always_refuse
 local-zone: "ads.nationalhotrod.com" always_refuse
 local-zone: "ads.nghenhinvietnam.vn" always_refuse
 local-zone: "ads.nosproducteurs.com" always_refuse
+local-zone: "ads.officerentinfo.com" always_refuse
 local-zone: "ads.olhardireto.com.br" always_refuse
 local-zone: "ads.panmediamatrix.com" always_refuse
 local-zone: "ads.pesmojprijatelj.si" always_refuse
@@ -24800,6 +24805,7 @@ local-zone: "adebis.blackboard60s.com" always_refuse
 local-zone: "ad-ebis.mynavi-job20s.jp" always_refuse
 local-zone: "adimages.startribune.com" always_refuse
 local-zone: "ad.jeune-independant.net" always_refuse
+local-zone: "adkit-advertising.amazon" always_refuse
 local-zone: "ad.mediaprimaplus.com.my" always_refuse
 local-zone: "ad-mrevive.hussverlag.de" always_refuse
 local-zone: "adnet.bunnyandvolkov.com" always_refuse
