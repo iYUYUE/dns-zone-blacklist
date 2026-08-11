@@ -10262,7 +10262,6 @@ local-zone: "nextday.media" always_refuse
 local-zone: "nexus24.co.uk" always_refuse
 local-zone: "ngadverts.com" always_refuse
 local-zone: "ng.virgul.com" always_refuse
-local-zone: "nice-team.net" always_refuse
 local-zone: "nikijones.com" always_refuse
 local-zone: "nimbus.com.ng" always_refuse
 local-zone: "nipechala.com" always_refuse
@@ -12013,6 +12012,7 @@ local-zone: "dream-cash.com" always_refuse
 local-zone: "dreamentia.com" always_refuse
 local-zone: "dreamsdome.com" always_refuse
 local-zone: "drevniicdn.com" always_refuse
+local-zone: "drift-pixel.ai" always_refuse
 local-zone: "driftpizza.com" always_refuse
 local-zone: "drollwharf.com" always_refuse
 local-zone: "dry-editor.com" always_refuse
@@ -13846,6 +13846,7 @@ local-zone: "atozcityads.com" always_refuse
 local-zone: "auctionhook.net" always_refuse
 local-zone: "audiencerun.com" always_refuse
 local-zone: "a.ulisxyz.store" always_refuse
+local-zone: "autocommerce.io" always_refuse
 local-zone: "av5.mofoshd.org" always_refuse
 local-zone: "awareunique.pro" always_refuse
 local-zone: "awesomewash.pro" always_refuse
