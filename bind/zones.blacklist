@@ -18799,6 +18799,7 @@ zone "valuablemarch.com" { type master; notify no; file "null.zone.file"; };
 zone "valuecommerce.com" { type master; notify no; file "null.zone.file"; };
 zone "veinteractive.com" { type master; notify no; file "null.zone.file"; };
 zone "vereigenmedia.com" { type master; notify no; file "null.zone.file"; };
+zone "vervegroupinc.net" { type master; notify no; file "null.zone.file"; };
 zone "video-ads.a2z.com" { type master; notify no; file "null.zone.file"; };
 zone "videoadserver.com" { type master; notify no; file "null.zone.file"; };
 zone "videoadserving.tv" { type master; notify no; file "null.zone.file"; };
