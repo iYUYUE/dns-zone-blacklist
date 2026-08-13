@@ -4757,6 +4757,7 @@ local-zone: "anetwork.ir" always_refuse
 local-zone: "aniview.com" always_refuse
 local-zone: "annabac.com" always_refuse
 local-zone: "anstrex.com" always_refuse
+local-zone: "antpeak.com" always_refuse
 local-zone: "anunaad.com" always_refuse
 local-zone: "anxin59.com" always_refuse
 local-zone: "anyadx.live" always_refuse
@@ -4955,6 +4956,7 @@ local-zone: "checkm8.com" always_refuse
 local-zone: "choozle.com" always_refuse
 local-zone: "cityads.com" always_refuse
 local-zone: "citylife.sg" always_refuse
+local-zone: "clcksrv.com" always_refuse
 local-zone: "cli2020.com" always_refuse
 local-zone: "click2m.org" always_refuse
 local-zone: "clickbig.in" always_refuse
@@ -13879,6 +13881,7 @@ local-zone: "axisadserve.com" always_refuse
 local-zone: "azzurro-blu.com" always_refuse
 local-zone: "b91.yahoo.co.jp" always_refuse
 local-zone: "b97.yahoo.co.jp" always_refuse
+local-zone: "b99.yahoo.co.jp" always_refuse
 local-zone: "backtension.com" always_refuse
 local-zone: "baderrutter.com" always_refuse
 local-zone: "bagsurprise.com" always_refuse
@@ -27107,7 +27110,6 @@ local-zone: "rs-stripe.conservativejournalreview.com" always_refuse
 local-zone: "sfiedgreatorganisationbrightfruits.site" always_refuse
 local-zone: "softwaredefinedapplicationdelivery.info" always_refuse
 local-zone: "vupulse-api-production.s3.amazonaws.com" always_refuse
-local-zone: "webchannel-content.eservice.emarsys.net" always_refuse
 local-zone: "yield-op-idsync.live.streamtheworld.com" always_refuse
 local-zone: "383guanggao.oss-cn-shenzhen.aliyuncs.com" always_refuse
 local-zone: "768guangg1.oss-cn-guangzhou.aliyuncs.com" always_refuse

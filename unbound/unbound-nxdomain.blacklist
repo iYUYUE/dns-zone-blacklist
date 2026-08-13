@@ -4757,6 +4757,7 @@ local-zone: "anetwork.ir" always_nxdomain
 local-zone: "aniview.com" always_nxdomain
 local-zone: "annabac.com" always_nxdomain
 local-zone: "anstrex.com" always_nxdomain
+local-zone: "antpeak.com" always_nxdomain
 local-zone: "anunaad.com" always_nxdomain
 local-zone: "anxin59.com" always_nxdomain
 local-zone: "anyadx.live" always_nxdomain
@@ -4955,6 +4956,7 @@ local-zone: "checkm8.com" always_nxdomain
 local-zone: "choozle.com" always_nxdomain
 local-zone: "cityads.com" always_nxdomain
 local-zone: "citylife.sg" always_nxdomain
+local-zone: "clcksrv.com" always_nxdomain
 local-zone: "cli2020.com" always_nxdomain
 local-zone: "click2m.org" always_nxdomain
 local-zone: "clickbig.in" always_nxdomain
@@ -13879,6 +13881,7 @@ local-zone: "axisadserve.com" always_nxdomain
 local-zone: "azzurro-blu.com" always_nxdomain
 local-zone: "b91.yahoo.co.jp" always_nxdomain
 local-zone: "b97.yahoo.co.jp" always_nxdomain
+local-zone: "b99.yahoo.co.jp" always_nxdomain
 local-zone: "backtension.com" always_nxdomain
 local-zone: "baderrutter.com" always_nxdomain
 local-zone: "bagsurprise.com" always_nxdomain
@@ -27107,7 +27110,6 @@ local-zone: "rs-stripe.conservativejournalreview.com" always_nxdomain
 local-zone: "sfiedgreatorganisationbrightfruits.site" always_nxdomain
 local-zone: "softwaredefinedapplicationdelivery.info" always_nxdomain
 local-zone: "vupulse-api-production.s3.amazonaws.com" always_nxdomain
-local-zone: "webchannel-content.eservice.emarsys.net" always_nxdomain
 local-zone: "yield-op-idsync.live.streamtheworld.com" always_nxdomain
 local-zone: "383guanggao.oss-cn-shenzhen.aliyuncs.com" always_nxdomain
 local-zone: "768guangg1.oss-cn-guangzhou.aliyuncs.com" always_nxdomain
