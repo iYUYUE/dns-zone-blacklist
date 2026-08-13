@@ -1448,6 +1448,7 @@ local-zone: "kliqz.com" always_refuse
 local-zone: "kodcad.kr" always_refuse
 local-zone: "koddi.com" always_refuse
 local-zone: "komli.com" always_refuse
+local-zone: "korfo.org" always_refuse
 local-zone: "kpwfp.com" always_refuse
 local-zone: "krekom.si" always_refuse
 local-zone: "krush.com" always_refuse
@@ -1638,6 +1639,7 @@ local-zone: "peep5.com" always_refuse
 local-zone: "pell8.com" always_refuse
 local-zone: "perhoj.no" always_refuse
 local-zone: "pftfk.com" always_refuse
+local-zone: "picdn.vip" always_refuse
 local-zone: "pinion.gg" always_refuse
 local-zone: "piuyt.com" always_refuse
 local-zone: "pjatr.com" always_refuse
@@ -3730,6 +3732,7 @@ local-zone: "sqm8kkf.de" always_refuse
 local-zone: "squren.com" always_refuse
 local-zone: "srtrkr.top" always_refuse
 local-zone: "srvqck.com" always_refuse
+local-zone: "srvqk1.com" always_refuse
 local-zone: "ssacdn.com" always_refuse
 local-zone: "staygg.com" always_refuse
 local-zone: "stcvhf.com" always_refuse
@@ -11863,6 +11866,7 @@ local-zone: "clickbanner.gr" always_refuse
 local-zone: "clickbooth.com" always_refuse
 local-zone: "clickermob.com" always_refuse
 local-zone: "clickfetti.com" always_refuse
+local-zone: "clickiocmp.com" always_refuse
 local-zone: "clickmenia.com" always_refuse
 local-zone: "clickmon.co.kr" always_refuse
 local-zone: "click-moon.com" always_refuse
@@ -12170,6 +12174,7 @@ local-zone: "genelajans.com" always_refuse
 local-zone: "gentleship.pro" always_refuse
 local-zone: "getfastads.com" always_refuse
 local-zone: "getpublica.com" always_refuse
+local-zone: "getpulse.click" always_refuse
 local-zone: "getpushnow.com" always_refuse
 local-zone: "getsquirrel.co" always_refuse
 local-zone: "getwagtail.com" always_refuse
@@ -14052,6 +14057,7 @@ local-zone: "clkfeed1006.com" always_refuse
 local-zone: "clkfeed1008.com" always_refuse
 local-zone: "clkfeed1009.com" always_refuse
 local-zone: "clkoplardir.com" always_refuse
+local-zone: "cloakpro.online" always_refuse
 local-zone: "cloudyreach.pro" always_refuse
 local-zone: "clovenmedia.com" always_refuse
 local-zone: "cm.usatoday.com" always_refuse
@@ -17045,6 +17051,7 @@ local-zone: "thebitcellar.com" always_refuse
 local-zone: "thedatinglab.com" always_refuse
 local-zone: "thedirecthor.com" always_refuse
 local-zone: "thefishstops.com" always_refuse
+local-zone: "thegreattech.com" always_refuse
 local-zone: "thelistinc.co.uk" always_refuse
 local-zone: "themediagrid.com" always_refuse
 local-zone: "themediamove.com" always_refuse
@@ -23252,6 +23259,7 @@ local-zone: "player.reklamvidi.net" always_refuse
 local-zone: "plus.timesofindia.com" always_refuse
 local-zone: "podcastupfront.stream" always_refuse
 local-zone: "popup2.lifterapps.com" always_refuse
+local-zone: "powered-by-revidy.com" always_refuse
 local-zone: "powerfulsensitive.pro" always_refuse
 local-zone: "precious-election.com" always_refuse
 local-zone: "premiumimpression.com" always_refuse

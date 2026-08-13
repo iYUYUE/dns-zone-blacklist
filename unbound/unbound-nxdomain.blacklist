@@ -1448,6 +1448,7 @@ local-zone: "kliqz.com" always_nxdomain
 local-zone: "kodcad.kr" always_nxdomain
 local-zone: "koddi.com" always_nxdomain
 local-zone: "komli.com" always_nxdomain
+local-zone: "korfo.org" always_nxdomain
 local-zone: "kpwfp.com" always_nxdomain
 local-zone: "krekom.si" always_nxdomain
 local-zone: "krush.com" always_nxdomain
@@ -1638,6 +1639,7 @@ local-zone: "peep5.com" always_nxdomain
 local-zone: "pell8.com" always_nxdomain
 local-zone: "perhoj.no" always_nxdomain
 local-zone: "pftfk.com" always_nxdomain
+local-zone: "picdn.vip" always_nxdomain
 local-zone: "pinion.gg" always_nxdomain
 local-zone: "piuyt.com" always_nxdomain
 local-zone: "pjatr.com" always_nxdomain
@@ -3730,6 +3732,7 @@ local-zone: "sqm8kkf.de" always_nxdomain
 local-zone: "squren.com" always_nxdomain
 local-zone: "srtrkr.top" always_nxdomain
 local-zone: "srvqck.com" always_nxdomain
+local-zone: "srvqk1.com" always_nxdomain
 local-zone: "ssacdn.com" always_nxdomain
 local-zone: "staygg.com" always_nxdomain
 local-zone: "stcvhf.com" always_nxdomain
@@ -11863,6 +11866,7 @@ local-zone: "clickbanner.gr" always_nxdomain
 local-zone: "clickbooth.com" always_nxdomain
 local-zone: "clickermob.com" always_nxdomain
 local-zone: "clickfetti.com" always_nxdomain
+local-zone: "clickiocmp.com" always_nxdomain
 local-zone: "clickmenia.com" always_nxdomain
 local-zone: "clickmon.co.kr" always_nxdomain
 local-zone: "click-moon.com" always_nxdomain
@@ -12170,6 +12174,7 @@ local-zone: "genelajans.com" always_nxdomain
 local-zone: "gentleship.pro" always_nxdomain
 local-zone: "getfastads.com" always_nxdomain
 local-zone: "getpublica.com" always_nxdomain
+local-zone: "getpulse.click" always_nxdomain
 local-zone: "getpushnow.com" always_nxdomain
 local-zone: "getsquirrel.co" always_nxdomain
 local-zone: "getwagtail.com" always_nxdomain
@@ -14052,6 +14057,7 @@ local-zone: "clkfeed1006.com" always_nxdomain
 local-zone: "clkfeed1008.com" always_nxdomain
 local-zone: "clkfeed1009.com" always_nxdomain
 local-zone: "clkoplardir.com" always_nxdomain
+local-zone: "cloakpro.online" always_nxdomain
 local-zone: "cloudyreach.pro" always_nxdomain
 local-zone: "clovenmedia.com" always_nxdomain
 local-zone: "cm.usatoday.com" always_nxdomain
@@ -17045,6 +17051,7 @@ local-zone: "thebitcellar.com" always_nxdomain
 local-zone: "thedatinglab.com" always_nxdomain
 local-zone: "thedirecthor.com" always_nxdomain
 local-zone: "thefishstops.com" always_nxdomain
+local-zone: "thegreattech.com" always_nxdomain
 local-zone: "thelistinc.co.uk" always_nxdomain
 local-zone: "themediagrid.com" always_nxdomain
 local-zone: "themediamove.com" always_nxdomain
@@ -23252,6 +23259,7 @@ local-zone: "player.reklamvidi.net" always_nxdomain
 local-zone: "plus.timesofindia.com" always_nxdomain
 local-zone: "podcastupfront.stream" always_nxdomain
 local-zone: "popup2.lifterapps.com" always_nxdomain
+local-zone: "powered-by-revidy.com" always_nxdomain
 local-zone: "powerfulsensitive.pro" always_nxdomain
 local-zone: "precious-election.com" always_nxdomain
 local-zone: "premiumimpression.com" always_nxdomain
