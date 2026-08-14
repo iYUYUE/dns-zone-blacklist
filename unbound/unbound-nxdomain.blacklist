@@ -746,6 +746,7 @@ local-zone: "zirca.in" always_nxdomain
 local-zone: "zk1w.com" always_nxdomain
 local-zone: "064kk.com" always_nxdomain
 local-zone: "071kk.com" always_nxdomain
+local-zone: "10zon.com" always_nxdomain
 local-zone: "11.o7.net" always_nxdomain
 local-zone: "122da.com" always_nxdomain
 local-zone: "12had.com" always_nxdomain
@@ -17172,6 +17173,7 @@ local-zone: "visariomedia.com" always_nxdomain
 local-zone: "vital-formal.pro" always_nxdomain
 local-zone: "vivid-demand.pro" always_nxdomain
 local-zone: "vkcdnservice.com" always_nxdomain
+local-zone: "vuzismoothie.net" always_nxdomain
 local-zone: "vwmejrkzhsob.com" always_nxdomain
 local-zone: "walker-assoc.com" always_nxdomain
 local-zone: "warm-product.pro" always_nxdomain
