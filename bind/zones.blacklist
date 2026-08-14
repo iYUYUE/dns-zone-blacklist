@@ -8550,6 +8550,7 @@ zone "tradplus.com" { type master; notify no; file "null.zone.file"; };
 zone "traffic.club" { type master; notify no; file "null.zone.file"; };
 zone "trafiq.trade" { type master; notify no; file "null.zone.file"; };
 zone "traforet.com" { type master; notify no; file "null.zone.file"; };
+zone "trakit31.com" { type master; notify no; file "null.zone.file"; };
 zone "tranding.bid" { type master; notify no; file "null.zone.file"; };
 zone "travesti.com" { type master; notify no; file "null.zone.file"; };
 zone "trellian.com" { type master; notify no; file "null.zone.file"; };
