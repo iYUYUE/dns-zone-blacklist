@@ -11412,6 +11412,7 @@ zone "ads.ffxiah.com" { type master; notify no; file "null.zone.file"; };
 zone "adsflyhigh.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.forfur.com" { type master; notify no; file "null.zone.file"; };
 zone "adsfunnels.com" { type master; notify no; file "null.zone.file"; };
+zone "ads.fzi.com.br" { type master; notify no; file "null.zone.file"; };
 zone "ads.gagolga.de" { type master; notify no; file "null.zone.file"; };
 zone "ads.gelsen.net" { type master; notify no; file "null.zone.file"; };
 zone "ads.gfecdn.com" { type master; notify no; file "null.zone.file"; };
