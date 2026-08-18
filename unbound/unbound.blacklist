@@ -19503,6 +19503,7 @@ local-zone: "complexnetwork.pro" always_refuse
 local-zone: "concrete-shirt.pro" always_refuse
 local-zone: "conforama-push.com" always_refuse
 local-zone: "consent.bumble.com" always_refuse
+local-zone: "consent.google.com" always_refuse
 local-zone: "consentmanager.net" always_refuse
 local-zone: "consent.unilad.com" always_refuse
 local-zone: "console.adspmg.com" always_refuse
@@ -20192,6 +20193,7 @@ local-zone: "stopautomatons.com" always_refuse
 local-zone: "stoprobotsmart.com" always_refuse
 local-zone: "strawberryfrog.com" always_refuse
 local-zone: "stridentladder.pro" always_refuse
+local-zone: "stripchat.beeg.com" always_refuse
 local-zone: "striped-permit.com" always_refuse
 local-zone: "stupid-analyst.pro" always_refuse
 local-zone: "stupid-command.pro" always_refuse
@@ -23074,6 +23076,14 @@ local-zone: "concession072925.shop" always_refuse
 local-zone: "connected-stories.com" always_refuse
 local-zone: "connect.theotrade.com" always_refuse
 local-zone: "consent.gameforge.com" always_refuse
+local-zone: "consent.google.com.af" always_refuse
+local-zone: "consent.google.com.ag" always_refuse
+local-zone: "consent.google.com.ai" always_refuse
+local-zone: "consent.google.com.ar" always_refuse
+local-zone: "consent.google.com.au" always_refuse
+local-zone: "consent.google.com.bd" always_refuse
+local-zone: "consent.google.com.mm" always_refuse
+local-zone: "consent.google.com.pk" always_refuse
 local-zone: "consent.liberation.fr" always_refuse
 local-zone: "consent-notice.ft.com" always_refuse
 local-zone: "content-ci360.knvb.nl" always_refuse
@@ -23441,7 +23451,6 @@ local-zone: "sharadadvertising.com" always_refuse
 local-zone: "shimmering-strike.pro" always_refuse
 local-zone: "shockinghighlight.pro" always_refuse
 local-zone: "shout.gamewatcher.com" always_refuse
-local-zone: "siloh-ns1.plutotv.net" always_refuse
 local-zone: "sitescoutadserver.com" always_refuse
 local-zone: "slippery-computer.com" always_refuse
 local-zone: "smartadserverapis.com" always_refuse
@@ -27278,6 +27287,7 @@ local-zone: "ads-zeasn-lb-680910626.eu-west-1.elb.amazonaws.com" always_refuse
 local-zone: "push-notification-token-service.livesport.services" always_refuse
 local-zone: "ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com" always_refuse
 local-zone: "hindsight-music-library.s3.ap-south-1.amazonaws.com" always_refuse
+local-zone: "ad-creatives-public.commondatastorage.googleapis.com" always_refuse
 local-zone: "adserver-1277986481.ap-northeast-1.elb.amazonaws.com" always_refuse
 local-zone: "adwhirl-vpc-1-1282838770.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "prod.us-east-1.cxm-bcn.publisher-services.amazon.dev" always_refuse

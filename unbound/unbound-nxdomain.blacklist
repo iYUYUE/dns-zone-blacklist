@@ -19503,6 +19503,7 @@ local-zone: "complexnetwork.pro" always_nxdomain
 local-zone: "concrete-shirt.pro" always_nxdomain
 local-zone: "conforama-push.com" always_nxdomain
 local-zone: "consent.bumble.com" always_nxdomain
+local-zone: "consent.google.com" always_nxdomain
 local-zone: "consentmanager.net" always_nxdomain
 local-zone: "consent.unilad.com" always_nxdomain
 local-zone: "console.adspmg.com" always_nxdomain
@@ -20192,6 +20193,7 @@ local-zone: "stopautomatons.com" always_nxdomain
 local-zone: "stoprobotsmart.com" always_nxdomain
 local-zone: "strawberryfrog.com" always_nxdomain
 local-zone: "stridentladder.pro" always_nxdomain
+local-zone: "stripchat.beeg.com" always_nxdomain
 local-zone: "striped-permit.com" always_nxdomain
 local-zone: "stupid-analyst.pro" always_nxdomain
 local-zone: "stupid-command.pro" always_nxdomain
@@ -23074,6 +23076,14 @@ local-zone: "concession072925.shop" always_nxdomain
 local-zone: "connected-stories.com" always_nxdomain
 local-zone: "connect.theotrade.com" always_nxdomain
 local-zone: "consent.gameforge.com" always_nxdomain
+local-zone: "consent.google.com.af" always_nxdomain
+local-zone: "consent.google.com.ag" always_nxdomain
+local-zone: "consent.google.com.ai" always_nxdomain
+local-zone: "consent.google.com.ar" always_nxdomain
+local-zone: "consent.google.com.au" always_nxdomain
+local-zone: "consent.google.com.bd" always_nxdomain
+local-zone: "consent.google.com.mm" always_nxdomain
+local-zone: "consent.google.com.pk" always_nxdomain
 local-zone: "consent.liberation.fr" always_nxdomain
 local-zone: "consent-notice.ft.com" always_nxdomain
 local-zone: "content-ci360.knvb.nl" always_nxdomain
@@ -23441,7 +23451,6 @@ local-zone: "sharadadvertising.com" always_nxdomain
 local-zone: "shimmering-strike.pro" always_nxdomain
 local-zone: "shockinghighlight.pro" always_nxdomain
 local-zone: "shout.gamewatcher.com" always_nxdomain
-local-zone: "siloh-ns1.plutotv.net" always_nxdomain
 local-zone: "sitescoutadserver.com" always_nxdomain
 local-zone: "slippery-computer.com" always_nxdomain
 local-zone: "smartadserverapis.com" always_nxdomain
@@ -27278,6 +27287,7 @@ local-zone: "ads-zeasn-lb-680910626.eu-west-1.elb.amazonaws.com" always_nxdomain
 local-zone: "push-notification-token-service.livesport.services" always_nxdomain
 local-zone: "ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com" always_nxdomain
 local-zone: "hindsight-music-library.s3.ap-south-1.amazonaws.com" always_nxdomain
+local-zone: "ad-creatives-public.commondatastorage.googleapis.com" always_nxdomain
 local-zone: "adserver-1277986481.ap-northeast-1.elb.amazonaws.com" always_nxdomain
 local-zone: "adwhirl-vpc-1-1282838770.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "prod.us-east-1.cxm-bcn.publisher-services.amazon.dev" always_nxdomain
