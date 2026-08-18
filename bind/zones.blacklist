@@ -17410,6 +17410,7 @@ zone "adgroupagency.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.gxind-expo.net" { type master; notify no; file "null.zone.file"; };
 zone "ad.haomaishou.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.hello-jobs.com" { type master; notify no; file "null.zone.file"; };
+zone "ad-hls.tunein.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.howcard.com.tw" { type master; notify no; file "null.zone.file"; };
 zone "adimage.bokee.com" { type master; notify no; file "null.zone.file"; };
 zone "adimages.beeb.com" { type master; notify no; file "null.zone.file"; };

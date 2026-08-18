@@ -17410,6 +17410,7 @@ local-zone: "adgroupagency.com" always_refuse
 local-zone: "ad.gxind-expo.net" always_refuse
 local-zone: "ad.haomaishou.com" always_refuse
 local-zone: "ad.hello-jobs.com" always_refuse
+local-zone: "ad-hls.tunein.com" always_refuse
 local-zone: "ad.howcard.com.tw" always_refuse
 local-zone: "adimage.bokee.com" always_refuse
 local-zone: "adimages.beeb.com" always_refuse

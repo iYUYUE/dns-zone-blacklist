@@ -17410,6 +17410,7 @@ local-zone: "adgroupagency.com" always_nxdomain
 local-zone: "ad.gxind-expo.net" always_nxdomain
 local-zone: "ad.haomaishou.com" always_nxdomain
 local-zone: "ad.hello-jobs.com" always_nxdomain
+local-zone: "ad-hls.tunein.com" always_nxdomain
 local-zone: "ad.howcard.com.tw" always_nxdomain
 local-zone: "adimage.bokee.com" always_nxdomain
 local-zone: "adimages.beeb.com" always_nxdomain
