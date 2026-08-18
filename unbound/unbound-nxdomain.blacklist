@@ -600,6 +600,7 @@ local-zone: "nots.app" always_nxdomain
 local-zone: "notsy.io" always_nxdomain
 local-zone: "novem.pl" always_nxdomain
 local-zone: "nrich.ai" always_nxdomain
+local-zone: "nya5.com" always_nxdomain
 local-zone: "o3mdm.in" always_nxdomain
 local-zone: "oath.com" always_nxdomain
 local-zone: "obedo.nl" always_nxdomain
@@ -748,6 +749,7 @@ local-zone: "zedo.com" always_nxdomain
 local-zone: "zentr.cc" always_nxdomain
 local-zone: "zirca.in" always_nxdomain
 local-zone: "zk1w.com" always_nxdomain
+local-zone: "041gg.com" always_nxdomain
 local-zone: "064kk.com" always_nxdomain
 local-zone: "071kk.com" always_nxdomain
 local-zone: "10zon.com" always_nxdomain
@@ -26636,6 +26638,7 @@ local-zone: "eyeonadvertisingsolutions.com" always_nxdomain
 local-zone: "fruitkings.gogamepartners.com" always_nxdomain
 local-zone: "giphyscripts.s3.amazonaws.com" always_nxdomain
 local-zone: "hurricanedigitalmarketing.com" always_nxdomain
+local-zone: "interlinecustomroofingllc.com" always_nxdomain
 local-zone: "leadgenerationservices.com.au" always_nxdomain
 local-zone: "mailadvertisingcreative.co.uk" always_nxdomain
 local-zone: "makumva.all-usanomination.com" always_nxdomain

@@ -600,6 +600,7 @@ local-zone: "nots.app" always_refuse
 local-zone: "notsy.io" always_refuse
 local-zone: "novem.pl" always_refuse
 local-zone: "nrich.ai" always_refuse
+local-zone: "nya5.com" always_refuse
 local-zone: "o3mdm.in" always_refuse
 local-zone: "oath.com" always_refuse
 local-zone: "obedo.nl" always_refuse
@@ -748,6 +749,7 @@ local-zone: "zedo.com" always_refuse
 local-zone: "zentr.cc" always_refuse
 local-zone: "zirca.in" always_refuse
 local-zone: "zk1w.com" always_refuse
+local-zone: "041gg.com" always_refuse
 local-zone: "064kk.com" always_refuse
 local-zone: "071kk.com" always_refuse
 local-zone: "10zon.com" always_refuse
@@ -26636,6 +26638,7 @@ local-zone: "eyeonadvertisingsolutions.com" always_refuse
 local-zone: "fruitkings.gogamepartners.com" always_refuse
 local-zone: "giphyscripts.s3.amazonaws.com" always_refuse
 local-zone: "hurricanedigitalmarketing.com" always_refuse
+local-zone: "interlinecustomroofingllc.com" always_refuse
 local-zone: "leadgenerationservices.com.au" always_refuse
 local-zone: "mailadvertisingcreative.co.uk" always_refuse
 local-zone: "makumva.all-usanomination.com" always_refuse
