@@ -471,6 +471,7 @@ local-zone: "a.zdg.de" always_refuse
 local-zone: "bebi.com" always_refuse
 local-zone: "begun.ru" always_refuse
 local-zone: "bizo.com" always_refuse
+local-zone: "bmad.xyz" always_refuse
 local-zone: "bogos.io" always_refuse
 local-zone: "bonad.io" always_refuse
 local-zone: "brand.ad" always_refuse
@@ -11854,6 +11855,7 @@ local-zone: "brightroll.com" always_refuse
 local-zone: "brightruin.pro" always_refuse
 local-zone: "briskchart.com" always_refuse
 local-zone: "brisk-cold.pro" always_refuse
+local-zone: "broadstreet.ai" always_refuse
 local-zone: "brokenease.com" always_refuse
 local-zone: "bronzesong.pro" always_refuse
 local-zone: "brown-wake.pro" always_refuse

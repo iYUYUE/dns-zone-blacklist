@@ -471,6 +471,7 @@ local-zone: "a.zdg.de" always_nxdomain
 local-zone: "bebi.com" always_nxdomain
 local-zone: "begun.ru" always_nxdomain
 local-zone: "bizo.com" always_nxdomain
+local-zone: "bmad.xyz" always_nxdomain
 local-zone: "bogos.io" always_nxdomain
 local-zone: "bonad.io" always_nxdomain
 local-zone: "brand.ad" always_nxdomain
@@ -11854,6 +11855,7 @@ local-zone: "brightroll.com" always_nxdomain
 local-zone: "brightruin.pro" always_nxdomain
 local-zone: "briskchart.com" always_nxdomain
 local-zone: "brisk-cold.pro" always_nxdomain
+local-zone: "broadstreet.ai" always_nxdomain
 local-zone: "brokenease.com" always_nxdomain
 local-zone: "bronzesong.pro" always_nxdomain
 local-zone: "brown-wake.pro" always_nxdomain
