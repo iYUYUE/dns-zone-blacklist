@@ -7985,6 +7985,7 @@ local-zone: "nuimedia.com" always_refuse
 local-zone: "numberly.com" always_refuse
 local-zone: "nvcartel.com" always_refuse
 local-zone: "oagnatch.com" always_refuse
+local-zone: "oa.opera.com" always_refuse
 local-zone: "oarao.online" always_refuse
 local-zone: "ocaeliek.com" always_refuse
 local-zone: "octo-pus.net" always_refuse
@@ -21599,6 +21600,7 @@ local-zone: "surprised-staff.com" always_refuse
 local-zone: "swan-swan-goose.com" always_refuse
 local-zone: "swelteringcrazy.pro" always_refuse
 local-zone: "t7z.cupid.iqiyi.com" always_refuse
+local-zone: "taboola-display.com" always_refuse
 local-zone: "tangible-season.pro" always_refuse
 local-zone: "targetadnetwork.com" always_refuse
 local-zone: "targetcharlotte.com" always_refuse
