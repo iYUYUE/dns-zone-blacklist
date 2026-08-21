@@ -3730,6 +3730,7 @@ zone "seckin.net" { type master; notify no; file "null.zone.file"; };
 zone "secraq.com" { type master; notify no; file "null.zone.file"; };
 zone "seedapp.jp" { type master; notify no; file "null.zone.file"; };
 zone "seguno.com" { type master; notify no; file "null.zone.file"; };
+zone "selzee.com" { type master; notify no; file "null.zone.file"; };
 zone "sendpul.se" { type master; notify no; file "null.zone.file"; };
 zone "sendsay.ru" { type master; notify no; file "null.zone.file"; };
 zone "seopack.jp" { type master; notify no; file "null.zone.file"; };
