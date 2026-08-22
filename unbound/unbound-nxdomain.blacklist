@@ -26760,6 +26760,7 @@ local-zone: "ebis-tracking.tcb-fukuoka.com" always_nxdomain
 local-zone: "ebis-tracking.tcb-shibuya.com" always_nxdomain
 local-zone: "elusivecomplfruitstrate.click" always_nxdomain
 local-zone: "eyeonadvertisingsolutions.com" always_nxdomain
+local-zone: "fetch.streaming-1.workers.dev" always_nxdomain
 local-zone: "fruitkings.gogamepartners.com" always_nxdomain
 local-zone: "giphyscripts.s3.amazonaws.com" always_nxdomain
 local-zone: "hurricanedigitalmarketing.com" always_nxdomain

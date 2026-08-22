@@ -26760,6 +26760,7 @@ zone "ebis-tracking.tcb-fukuoka.com" { type master; notify no; file "null.zone.f
 zone "ebis-tracking.tcb-shibuya.com" { type master; notify no; file "null.zone.file"; };
 zone "elusivecomplfruitstrate.click" { type master; notify no; file "null.zone.file"; };
 zone "eyeonadvertisingsolutions.com" { type master; notify no; file "null.zone.file"; };
+zone "fetch.streaming-1.workers.dev" { type master; notify no; file "null.zone.file"; };
 zone "fruitkings.gogamepartners.com" { type master; notify no; file "null.zone.file"; };
 zone "giphyscripts.s3.amazonaws.com" { type master; notify no; file "null.zone.file"; };
 zone "hurricanedigitalmarketing.com" { type master; notify no; file "null.zone.file"; };
