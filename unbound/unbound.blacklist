@@ -1882,7 +1882,6 @@ local-zone: "udbaa.com" always_refuse
 local-zone: "udimi.com" always_refuse
 local-zone: "uektb.com" always_refuse
 local-zone: "ueopf.com" always_refuse
-local-zone: "ueuee.com" always_refuse
 local-zone: "ulaen.com" always_refuse
 local-zone: "ulixes.pl" always_refuse
 local-zone: "umllb.com" always_refuse
@@ -14941,6 +14940,7 @@ local-zone: "play.rooski.net" always_refuse
 local-zone: "plexmedia.co.uk" always_refuse
 local-zone: "pluggedlabs.com" always_refuse
 local-zone: "pluseight.co.uk" always_refuse
+local-zone: "plwzxtaqxjc.com" always_refuse
 local-zone: "pocketalert.app" always_refuse
 local-zone: "podhigaiads.com" always_refuse
 local-zone: "podsearchad.com" always_refuse
@@ -15157,6 +15157,7 @@ local-zone: "sendtraff.click" always_refuse
 local-zone: "sendwebpush.com" always_refuse
 local-zone: "sentrymagic.com" always_refuse
 local-zone: "serenitygem.com" always_refuse
+local-zone: "servedbyivo.com" always_refuse
 local-zone: "serveris.lnk.lt" always_refuse
 local-zone: "serve.vitzo.com" always_refuse
 local-zone: "serving-sys.com" always_refuse
@@ -15911,6 +15912,7 @@ local-zone: "ads.tabuflix.com" always_refuse
 local-zone: "ads.taonline.com" always_refuse
 local-zone: "ads.techtunes.co" always_refuse
 local-zone: "ads.techtunes.io" always_refuse
+local-zone: "adsterratech.com" always_refuse
 local-zone: "ads.thaiware.com" always_refuse
 local-zone: "ads.thesun.co.uk" always_refuse
 local-zone: "ads.tocka.com.mk" always_refuse
