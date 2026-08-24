@@ -7374,6 +7374,7 @@ local-zone: "contobox.com" always_refuse
 local-zone: "cont.website" always_refuse
 local-zone: "converto.com" always_refuse
 local-zone: "cookiebox.ro" always_refuse
+local-zone: "copper6.live" always_refuse
 local-zone: "corp.aol.com" always_refuse
 local-zone: "corwrite.com" always_refuse
 local-zone: "coxmedia.com" always_refuse
@@ -7494,6 +7495,7 @@ local-zone: "eeono.online" always_refuse
 local-zone: "efindads.com" always_refuse
 local-zone: "eggfirst.com" always_refuse
 local-zone: "egumball.net" always_refuse
+local-zone: "ei.rlcdn.com" always_refuse
 local-zone: "ekamsply.com" always_refuse
 local-zone: "eleavers.com" always_refuse
 local-zone: "elicaowl.com" always_refuse
@@ -7780,6 +7782,7 @@ local-zone: "kochi562.top" always_refuse
 local-zone: "kotucuzu.xyz" always_refuse
 local-zone: "kubikads.com" always_refuse
 local-zone: "kueezrtb.com" always_refuse
+local-zone: "kueezssp.com" always_refuse
 local-zone: "kuponacdn.de" always_refuse
 local-zone: "kuti8iar.xyz" always_refuse
 local-zone: "kutuheca.com" always_refuse
@@ -8788,6 +8791,7 @@ local-zone: "xcsghana.com" always_refuse
 local-zone: "xd51vd1y.xyz" always_refuse
 local-zone: "xh1tsu69.xyz" always_refuse
 local-zone: "xingu-ad.com" always_refuse
+local-zone: "xlgmedia.com" always_refuse
 local-zone: "xlviirdr.com" always_refuse
 local-zone: "xmay6dqh.xyz" always_refuse
 local-zone: "xmllover.com" always_refuse
@@ -17013,6 +17017,7 @@ local-zone: "royalsweeper.com" always_refuse
 local-zone: "rs2.hometalk.com" always_refuse
 local-zone: "rs3.hometalk.com" always_refuse
 local-zone: "rs-stripe.cf.org" always_refuse
+local-zone: "rtb.linkedin.com" always_refuse
 local-zone: "rtb.optinian.com" always_refuse
 local-zone: "rundownheart.com" always_refuse
 local-zone: "rural-report.pro" always_refuse
@@ -21643,6 +21648,7 @@ local-zone: "sprinklecontent.com" always_refuse
 local-zone: "spyglass.reklon.net" always_refuse
 local-zone: "s.skimresources.com" always_refuse
 local-zone: "stankeviciusmgm.com" always_refuse
+local-zone: "startappnetwork.com" always_refuse
 local-zone: "startappservice.com" always_refuse
 local-zone: "static.afterpay.com" always_refuse
 local-zone: "static.bauercdn.com" always_refuse
@@ -25418,6 +25424,7 @@ local-zone: "rs-stripe.tourtrivia.com" always_refuse
 local-zone: "rs-stripe.triviaboat.com" always_refuse
 local-zone: "rs-stripe.truthpress.com" always_refuse
 local-zone: "rs-stripe.wordthirst.com" always_refuse
+local-zone: "rtb-us-west.linkedin.com" always_refuse
 local-zone: "rubicon-match.dotomi.com" always_refuse
 local-zone: "s0-2mdn-net.l.google.com" always_refuse
 local-zone: "s2s.sportslocalmedia.com" always_refuse
@@ -25725,6 +25732,7 @@ local-zone: "global-api.homestyler.com" always_refuse
 local-zone: "globaldigitaladagency.com" always_refuse
 local-zone: "goldjaguaradvertising.com" always_refuse
 local-zone: "googleadapis.l.google.com" always_refuse
+local-zone: "googledv-match.dotomi.com" always_refuse
 local-zone: "greenappleadvertising.com" always_refuse
 local-zone: "gstaticadssl.l.google.com" always_refuse
 local-zone: "images.cavalier-romand.ch" always_refuse
