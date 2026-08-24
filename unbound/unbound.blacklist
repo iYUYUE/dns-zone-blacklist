@@ -1084,6 +1084,7 @@ local-zone: "aqofl.com" always_refuse
 local-zone: "asa.co.nz" always_refuse
 local-zone: "asapp.com" always_refuse
 local-zone: "auihf.com" always_refuse
+local-zone: "auqot.com" always_refuse
 local-zone: "avads.net" always_refuse
 local-zone: "avazu.com" always_refuse
 local-zone: "avazu.net" always_refuse
@@ -1277,6 +1278,7 @@ local-zone: "eforsa.pl" always_refuse
 local-zone: "ejfps.com" always_refuse
 local-zone: "ejvnu.com" always_refuse
 local-zone: "elcjj.com" always_refuse
+local-zone: "emrld.ltd" always_refuse
 local-zone: "enmbg.com" always_refuse
 local-zone: "eqads.com" always_refuse
 local-zone: "eqfgc.com" always_refuse
@@ -1352,6 +1354,7 @@ local-zone: "gnezdo.ru" always_refuse
 local-zone: "go2yd.com" always_refuse
 local-zone: "godkc.com" always_refuse
 local-zone: "go-fet.ch" always_refuse
+local-zone: "goqon.com" always_refuse
 local-zone: "gpcrn.com" always_refuse
 local-zone: "gprhe.com" always_refuse
 local-zone: "greky.xyz" always_refuse
@@ -1594,6 +1597,7 @@ local-zone: "newmo.com" always_refuse
 local-zone: "nfemo.com" always_refuse
 local-zone: "nfsuj.com" always_refuse
 local-zone: "ngads.com" always_refuse
+local-zone: "nidiv.com" always_refuse
 local-zone: "nlkli.com" always_refuse
 local-zone: "nmkli.com" always_refuse
 local-zone: "nn125.com" always_refuse
@@ -1999,9 +2003,11 @@ local-zone: "ylx-2.com" always_refuse
 local-zone: "ylx-3.com" always_refuse
 local-zone: "ylx-4.com" always_refuse
 local-zone: "yoaap.com" always_refuse
+local-zone: "yohle.com" always_refuse
 local-zone: "yomob.com" always_refuse
 local-zone: "yotpo.com" always_refuse
 local-zone: "youmi.net" always_refuse
+local-zone: "ypetp.com" always_refuse
 local-zone: "ypxnu.com" always_refuse
 local-zone: "yqeuu.com" always_refuse
 local-zone: "yrsfs.com" always_refuse
@@ -2111,6 +2117,7 @@ local-zone: "abasana.in" always_refuse
 local-zone: "abgroup.gr" always_refuse
 local-zone: "ablida.net" always_refuse
 local-zone: "abn-ad.com" always_refuse
+local-zone: "absdom.com" always_refuse
 local-zone: "abxyz.info" always_refuse
 local-zone: "acacdn.com" always_refuse
 local-zone: "acadot.com" always_refuse
@@ -2963,6 +2970,7 @@ local-zone: "eiecaw.com" always_refuse
 local-zone: "ekcsc2.com" always_refuse
 local-zone: "elnnap.com" always_refuse
 local-zone: "emerse.com" always_refuse
+local-zone: "emrldtp.cc" always_refuse
 local-zone: "emxdgt.com" always_refuse
 local-zone: "enbpvt.com" always_refuse
 local-zone: "enfads.com" always_refuse
@@ -3871,6 +3879,7 @@ local-zone: "traffic.ru" always_refuse
 local-zone: "trendmd.co" always_refuse
 local-zone: "trex.media" always_refuse
 local-zone: "tripple.at" always_refuse
+local-zone: "trpwdg.com" always_refuse
 local-zone: "trugaze.io" always_refuse
 local-zone: "truste.com" always_refuse
 local-zone: "trustx.org" always_refuse
