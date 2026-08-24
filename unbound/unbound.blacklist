@@ -2942,6 +2942,7 @@ local-zone: "dsw3rw.com" always_refuse
 local-zone: "dszmga.com" always_refuse
 local-zone: "dszutx.com" always_refuse
 local-zone: "dth.org.ng" always_refuse
+local-zone: "dtiadb.com" always_refuse
 local-zone: "dtmpub.com" always_refuse
 local-zone: "dtscdn.com" always_refuse
 local-zone: "dvypar.com" always_refuse
@@ -9083,6 +9084,7 @@ local-zone: "ad.onvista.de" always_refuse
 local-zone: "adopslatam.cl" always_refuse
 local-zone: "ad-optima.com" always_refuse
 local-zone: "adoric-om.com" always_refuse
+local-zone: "ad.parkvv.com" always_refuse
 local-zone: "adparlour.com" always_refuse
 local-zone: "adpartner.pro" always_refuse
 local-zone: "adpathway.com" always_refuse
@@ -10471,7 +10473,11 @@ local-zone: "onefeed.co.uk" always_refuse
 local-zone: "onelouder.com" always_refuse
 local-zone: "onepixelz.com" always_refuse
 local-zone: "oneproseo.com" always_refuse
+local-zone: "onesignal.biz" always_refuse
 local-zone: "onesignal.com" always_refuse
+local-zone: "onesignal.org" always_refuse
+local-zone: "onesignal.pro" always_refuse
+local-zone: "onesignal.pub" always_refuse
 local-zone: "onetech.group" always_refuse
 local-zone: "onservads.com" always_refuse
 local-zone: "onttsrh5i.com" always_refuse
@@ -10890,7 +10896,6 @@ local-zone: "sparkflow.net" always_refuse
 local-zone: "sparkgoal.com" always_refuse
 local-zone: "spearad.video" always_refuse
 local-zone: "speedyads.com" always_refuse
-local-zone: "spicecash.com" always_refuse
 local-zone: "spicysort.pro" always_refuse
 local-zone: "spicytask.pro" always_refuse
 local-zone: "spiffyboy.com" always_refuse
@@ -12793,6 +12798,11 @@ local-zone: "onclickmax.com" always_refuse
 local-zone: "onekey.network" always_refuse
 local-zone: "onelivetra.com" always_refuse
 local-zone: "onemboaran.com" always_refuse
+local-zone: "onesignal.info" always_refuse
+local-zone: "onesignal.mobi" always_refuse
+local-zone: "onesignal.plus" always_refuse
+local-zone: "onesignal.tech" always_refuse
+local-zone: "onesignal.zone" always_refuse
 local-zone: "onespecify.com" always_refuse
 local-zone: "onetag-sys.com" always_refuse
 local-zone: "onetouch8.info" always_refuse
@@ -14872,6 +14882,7 @@ local-zone: "onclickalgo.com" always_refuse
 local-zone: "oncustomer.asia" always_refuse
 local-zone: "one.iugbhsu.com" always_refuse
 local-zone: "one.progmxs.com" always_refuse
+local-zone: "onesignal.email" always_refuse
 local-zone: "onesocailse.com" always_refuse
 local-zone: "onlinebiz.co.in" always_refuse
 local-zone: "onsolrockon.com" always_refuse

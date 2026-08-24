@@ -2942,6 +2942,7 @@ local-zone: "dsw3rw.com" always_nxdomain
 local-zone: "dszmga.com" always_nxdomain
 local-zone: "dszutx.com" always_nxdomain
 local-zone: "dth.org.ng" always_nxdomain
+local-zone: "dtiadb.com" always_nxdomain
 local-zone: "dtmpub.com" always_nxdomain
 local-zone: "dtscdn.com" always_nxdomain
 local-zone: "dvypar.com" always_nxdomain
@@ -9083,6 +9084,7 @@ local-zone: "ad.onvista.de" always_nxdomain
 local-zone: "adopslatam.cl" always_nxdomain
 local-zone: "ad-optima.com" always_nxdomain
 local-zone: "adoric-om.com" always_nxdomain
+local-zone: "ad.parkvv.com" always_nxdomain
 local-zone: "adparlour.com" always_nxdomain
 local-zone: "adpartner.pro" always_nxdomain
 local-zone: "adpathway.com" always_nxdomain
@@ -10471,7 +10473,11 @@ local-zone: "onefeed.co.uk" always_nxdomain
 local-zone: "onelouder.com" always_nxdomain
 local-zone: "onepixelz.com" always_nxdomain
 local-zone: "oneproseo.com" always_nxdomain
+local-zone: "onesignal.biz" always_nxdomain
 local-zone: "onesignal.com" always_nxdomain
+local-zone: "onesignal.org" always_nxdomain
+local-zone: "onesignal.pro" always_nxdomain
+local-zone: "onesignal.pub" always_nxdomain
 local-zone: "onetech.group" always_nxdomain
 local-zone: "onservads.com" always_nxdomain
 local-zone: "onttsrh5i.com" always_nxdomain
@@ -10890,7 +10896,6 @@ local-zone: "sparkflow.net" always_nxdomain
 local-zone: "sparkgoal.com" always_nxdomain
 local-zone: "spearad.video" always_nxdomain
 local-zone: "speedyads.com" always_nxdomain
-local-zone: "spicecash.com" always_nxdomain
 local-zone: "spicysort.pro" always_nxdomain
 local-zone: "spicytask.pro" always_nxdomain
 local-zone: "spiffyboy.com" always_nxdomain
@@ -12793,6 +12798,11 @@ local-zone: "onclickmax.com" always_nxdomain
 local-zone: "onekey.network" always_nxdomain
 local-zone: "onelivetra.com" always_nxdomain
 local-zone: "onemboaran.com" always_nxdomain
+local-zone: "onesignal.info" always_nxdomain
+local-zone: "onesignal.mobi" always_nxdomain
+local-zone: "onesignal.plus" always_nxdomain
+local-zone: "onesignal.tech" always_nxdomain
+local-zone: "onesignal.zone" always_nxdomain
 local-zone: "onespecify.com" always_nxdomain
 local-zone: "onetag-sys.com" always_nxdomain
 local-zone: "onetouch8.info" always_nxdomain
@@ -14872,6 +14882,7 @@ local-zone: "onclickalgo.com" always_nxdomain
 local-zone: "oncustomer.asia" always_nxdomain
 local-zone: "one.iugbhsu.com" always_nxdomain
 local-zone: "one.progmxs.com" always_nxdomain
+local-zone: "onesignal.email" always_nxdomain
 local-zone: "onesocailse.com" always_nxdomain
 local-zone: "onlinebiz.co.in" always_nxdomain
 local-zone: "onsolrockon.com" always_nxdomain
