@@ -1418,7 +1418,9 @@ local-zone: "iprom.net" always_refuse
 local-zone: "ipvcq.com" always_refuse
 local-zone: "iqkbi.top" always_refuse
 local-zone: "irlad.net" always_refuse
+local-zone: "ispvh.com" always_refuse
 local-zone: "i.ssix.io" always_refuse
+local-zone: "itpqa.com" always_refuse
 local-zone: "itsup.com" always_refuse
 local-zone: "iurny.com" always_refuse
 local-zone: "iytlj.com" always_refuse
@@ -1495,6 +1497,7 @@ local-zone: "kzwgn.com" always_refuse
 local-zone: "l4mcdn.fr" always_refuse
 local-zone: "ladsp.com" always_refuse
 local-zone: "lataz.com" always_refuse
+local-zone: "ldrws.com" always_refuse
 local-zone: "ldvuz.org" always_refuse
 local-zone: "leadsy.ai" always_refuse
 local-zone: "lexs9.com" always_refuse
@@ -1554,6 +1557,7 @@ local-zone: "mngpr.com" always_refuse
 local-zone: "mnhjk.com" always_refuse
 local-zone: "mntft.com" always_refuse
 local-zone: "mn-tz.com" always_refuse
+local-zone: "mn-tz.ltd" always_refuse
 local-zone: "moa.rocks" always_refuse
 local-zone: "moba8.net" always_refuse
 local-zone: "mobgc.com" always_refuse
@@ -3358,6 +3362,7 @@ local-zone: "mnaspm.com" always_refuse
 local-zone: "mnayto.com" always_refuse
 local-zone: "mnhjkl.com" always_refuse
 local-zone: "mnlfui.com" always_refuse
+local-zone: "mntzco.com" always_refuse
 local-zone: "mobday.com" always_refuse
 local-zone: "mobiads.in" always_refuse
 local-zone: "mobiads.ru" always_refuse

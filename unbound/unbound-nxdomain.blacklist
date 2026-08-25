@@ -1418,7 +1418,9 @@ local-zone: "iprom.net" always_nxdomain
 local-zone: "ipvcq.com" always_nxdomain
 local-zone: "iqkbi.top" always_nxdomain
 local-zone: "irlad.net" always_nxdomain
+local-zone: "ispvh.com" always_nxdomain
 local-zone: "i.ssix.io" always_nxdomain
+local-zone: "itpqa.com" always_nxdomain
 local-zone: "itsup.com" always_nxdomain
 local-zone: "iurny.com" always_nxdomain
 local-zone: "iytlj.com" always_nxdomain
@@ -1495,6 +1497,7 @@ local-zone: "kzwgn.com" always_nxdomain
 local-zone: "l4mcdn.fr" always_nxdomain
 local-zone: "ladsp.com" always_nxdomain
 local-zone: "lataz.com" always_nxdomain
+local-zone: "ldrws.com" always_nxdomain
 local-zone: "ldvuz.org" always_nxdomain
 local-zone: "leadsy.ai" always_nxdomain
 local-zone: "lexs9.com" always_nxdomain
@@ -1554,6 +1557,7 @@ local-zone: "mngpr.com" always_nxdomain
 local-zone: "mnhjk.com" always_nxdomain
 local-zone: "mntft.com" always_nxdomain
 local-zone: "mn-tz.com" always_nxdomain
+local-zone: "mn-tz.ltd" always_nxdomain
 local-zone: "moa.rocks" always_nxdomain
 local-zone: "moba8.net" always_nxdomain
 local-zone: "mobgc.com" always_nxdomain
@@ -3358,6 +3362,7 @@ local-zone: "mnaspm.com" always_nxdomain
 local-zone: "mnayto.com" always_nxdomain
 local-zone: "mnhjkl.com" always_nxdomain
 local-zone: "mnlfui.com" always_nxdomain
+local-zone: "mntzco.com" always_nxdomain
 local-zone: "mobday.com" always_nxdomain
 local-zone: "mobiads.in" always_nxdomain
 local-zone: "mobiads.ru" always_nxdomain
