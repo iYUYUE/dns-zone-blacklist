@@ -1966,6 +1966,7 @@ zone "wmadv.com" { type master; notify no; file "null.zone.file"; };
 zone "woidd.icu" { type master; notify no; file "null.zone.file"; };
 zone "woobi.com" { type master; notify no; file "null.zone.file"; };
 zone "workey.se" { type master; notify no; file "null.zone.file"; };
+zone "wow-l.com" { type master; notify no; file "null.zone.file"; };
 zone "wpmsx.com" { type master; notify no; file "null.zone.file"; };
 zone "wvdme.com" { type master; notify no; file "null.zone.file"; };
 zone "wycji.top" { type master; notify no; file "null.zone.file"; };
