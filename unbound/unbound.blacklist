@@ -3708,6 +3708,7 @@ local-zone: "rexsrv.com" always_refuse
 local-zone: "rfihub.com" always_refuse
 local-zone: "rfpozf.com" always_refuse
 local-zone: "rfxmnd.com" always_refuse
+local-zone: "rhcdom.com" always_refuse
 local-zone: "riqosf.com" always_refuse
 local-zone: "rixaka.com" always_refuse
 local-zone: "rjuhxs.com" always_refuse
@@ -6107,6 +6108,7 @@ local-zone: "tripple.net" always_refuse
 local-zone: "trivver.com" always_refuse
 local-zone: "trkbrso.com" always_refuse
 local-zone: "truendo.com" always_refuse
+local-zone: "tsdtocl.com" always_refuse
 local-zone: "tubeadv.com" always_refuse
 local-zone: "tubepush.eu" always_refuse
 local-zone: "turboads.de" always_refuse
@@ -7171,6 +7173,7 @@ local-zone: "applocus.com" always_refuse
 local-zone: "applovin.com" always_refuse
 local-zone: "appmonet.com" always_refuse
 local-zone: "appmonsta.ai" always_refuse
+local-zone: "appnerve.net" always_refuse
 local-zone: "appnexus.com" always_refuse
 local-zone: "appnexus.net" always_refuse
 local-zone: "appodeal.com" always_refuse
@@ -16390,6 +16393,7 @@ local-zone: "epicswimming.com" always_refuse
 local-zone: "epnaffiliate.com" always_refuse
 local-zone: "epomtestsite.com" always_refuse
 local-zone: "erotiekbuddy.com" always_refuse
+local-zone: "error-report.com" always_refuse
 local-zone: "esprit-click.com" always_refuse
 local-zone: "ethical-page.pro" always_refuse
 local-zone: "euphoric-bad.pro" always_refuse
@@ -16844,6 +16848,7 @@ local-zone: "onedropocean.com" always_refuse
 local-zone: "onvictinitor.com" always_refuse
 local-zone: "open.oneplus.net" always_refuse
 local-zone: "openvideoads.com" always_refuse
+local-zone: "openwebmedia.org" always_refuse
 local-zone: "openx2.kytary.cz" always_refuse
 local-zone: "openx.babinet.cz" always_refuse
 local-zone: "openx.bergfex.at" always_refuse
@@ -17917,6 +17922,7 @@ local-zone: "angeliccounty.pro" always_refuse
 local-zone: "animated-bill.pro" always_refuse
 local-zone: "api.bridgeoos.com" always_refuse
 local-zone: "api.reviews.co.uk" always_refuse
+local-zone: "api-sg.tingot.com" always_refuse
 local-zone: "api.techwalla.com" always_refuse
 local-zone: "apiv1.oschina.net" always_refuse
 local-zone: "appodealstack.com" always_refuse
@@ -23259,6 +23265,7 @@ local-zone: "click-eu.preclknu.com" always_refuse
 local-zone: "click-v4.yoclpknu.com" always_refuse
 local-zone: "cloud9-advertising.eu" always_refuse
 local-zone: "cloud.newsgram.hp.com" always_refuse
+local-zone: "cm-exchange.toast.com" always_refuse
 local-zone: "cnameforitp.dermed.jp" always_refuse
 local-zone: "cname.jaic-college.jp" always_refuse
 local-zone: "code.gunnymienphi.net" always_refuse
@@ -25471,6 +25478,7 @@ local-zone: "rs-stripe.tourtrivia.com" always_refuse
 local-zone: "rs-stripe.triviaboat.com" always_refuse
 local-zone: "rs-stripe.truthpress.com" always_refuse
 local-zone: "rs-stripe.wordthirst.com" always_refuse
+local-zone: "rtb-us-east.linkedin.com" always_refuse
 local-zone: "rtb-us-west.linkedin.com" always_refuse
 local-zone: "rubicon-match.dotomi.com" always_refuse
 local-zone: "s0-2mdn-net.l.google.com" always_refuse
