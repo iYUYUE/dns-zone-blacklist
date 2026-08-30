@@ -7421,6 +7421,7 @@ local-zone: "cpidroid.com" always_refuse
 local-zone: "cpmvibes.com" always_refuse
 local-zone: "cp.prisma.de" always_refuse
 local-zone: "craft.net.in" always_refuse
+local-zone: "crbbgate.com" always_refuse
 local-zone: "creatopy.com" always_refuse
 local-zone: "credentia.in" always_refuse
 local-zone: "cribstore.in" always_refuse
@@ -21678,6 +21679,7 @@ local-zone: "servedby.quirks.com" always_refuse
 local-zone: "serve.oxcluster.com" always_refuse
 local-zone: "service.alitrip.com" always_refuse
 local-zone: "service.goadnow.com" always_refuse
+local-zone: "servicesadmedia.com" always_refuse
 local-zone: "servingmillions.com" always_refuse
 local-zone: "serving-nightth.com" always_refuse
 local-zone: "serving-tlewall.com" always_refuse

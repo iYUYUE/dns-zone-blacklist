@@ -7421,6 +7421,7 @@ local-zone: "cpidroid.com" always_nxdomain
 local-zone: "cpmvibes.com" always_nxdomain
 local-zone: "cp.prisma.de" always_nxdomain
 local-zone: "craft.net.in" always_nxdomain
+local-zone: "crbbgate.com" always_nxdomain
 local-zone: "creatopy.com" always_nxdomain
 local-zone: "credentia.in" always_nxdomain
 local-zone: "cribstore.in" always_nxdomain
@@ -21678,6 +21679,7 @@ local-zone: "servedby.quirks.com" always_nxdomain
 local-zone: "serve.oxcluster.com" always_nxdomain
 local-zone: "service.alitrip.com" always_nxdomain
 local-zone: "service.goadnow.com" always_nxdomain
+local-zone: "servicesadmedia.com" always_nxdomain
 local-zone: "servingmillions.com" always_nxdomain
 local-zone: "serving-nightth.com" always_nxdomain
 local-zone: "serving-tlewall.com" always_nxdomain
