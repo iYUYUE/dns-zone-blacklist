@@ -23240,6 +23240,7 @@ local-zone: "behavioral-banner.com" always_refuse
 local-zone: "behaviouralbanner.com" always_refuse
 local-zone: "behavioural-banner.fr" always_refuse
 local-zone: "bidbarrel.cbsnews.com" always_refuse
+local-zone: "bidwise-intentads.com" always_refuse
 local-zone: "bigtalkmediahouse.com" always_refuse
 local-zone: "bilder-a.akamaihd.net" always_refuse
 local-zone: "bingads.microsoft.com" always_refuse

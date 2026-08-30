@@ -23240,6 +23240,7 @@ zone "behavioral-banner.com" { type master; notify no; file "null.zone.file"; };
 zone "behaviouralbanner.com" { type master; notify no; file "null.zone.file"; };
 zone "behavioural-banner.fr" { type master; notify no; file "null.zone.file"; };
 zone "bidbarrel.cbsnews.com" { type master; notify no; file "null.zone.file"; };
+zone "bidwise-intentads.com" { type master; notify no; file "null.zone.file"; };
 zone "bigtalkmediahouse.com" { type master; notify no; file "null.zone.file"; };
 zone "bilder-a.akamaihd.net" { type master; notify no; file "null.zone.file"; };
 zone "bingads.microsoft.com" { type master; notify no; file "null.zone.file"; };
