@@ -1113,6 +1113,7 @@ local-zone: "batch.com" always_refuse
 local-zone: "bblaa.com" always_refuse
 local-zone: "bboy1.com" always_refuse
 local-zone: "bcprm.com" always_refuse
+local-zone: "bef77.com" always_refuse
 local-zone: "betop.fun" always_refuse
 local-zone: "bfmio.com" always_refuse
 local-zone: "b.fox.com" always_refuse
@@ -1798,6 +1799,7 @@ local-zone: "sovrn.com" always_refuse
 local-zone: "sovtrk.ru" always_refuse
 local-zone: "sowve.com" always_refuse
 local-zone: "sozhb.com" always_refuse
+local-zone: "spbgc.com" always_refuse
 local-zone: "spider.ad" always_refuse
 local-zone: "spnut.com" always_refuse
 local-zone: "spoods.de" always_refuse
@@ -9863,6 +9865,7 @@ local-zone: "doomhedge.com" always_refuse
 local-zone: "dopey-way.pro" always_refuse
 local-zone: "dotdotlab.com" always_refuse
 local-zone: "doublemax.net" always_refuse
+local-zone: "douvibube.com" always_refuse
 local-zone: "drabmodel.pro" always_refuse
 local-zone: "dreamajax.com" always_refuse
 local-zone: "dreamstore.ch" always_refuse
@@ -12778,6 +12781,7 @@ local-zone: "networknyc.com" always_refuse
 local-zone: "new17write.com" always_refuse
 local-zone: "newcommand.pro" always_refuse
 local-zone: "newormedia.com" always_refuse
+local-zone: "newsbotnet.com" always_refuse
 local-zone: "newspassid.com" always_refuse
 local-zone: "newstarads.com" always_refuse
 local-zone: "nexus-soft.org" always_refuse
@@ -16598,6 +16602,7 @@ local-zone: "icorpado.urbo.ro" always_refuse
 local-zone: "idealbranding.in" always_refuse
 local-zone: "idiotic-fear.pro" always_refuse
 local-zone: "igvlmfbgihrr.com" always_refuse
+local-zone: "ill-fatedodd.com" always_refuse
 local-zone: "ill-purchase.pro" always_refuse
 local-zone: "ilmfpartners.com" always_refuse
 local-zone: "ilovelivecdn.com" always_refuse
