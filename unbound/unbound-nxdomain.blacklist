@@ -1800,7 +1800,6 @@ local-zone: "sovrn.com" always_nxdomain
 local-zone: "sovtrk.ru" always_nxdomain
 local-zone: "sowve.com" always_nxdomain
 local-zone: "sozhb.com" always_nxdomain
-local-zone: "spbgc.com" always_nxdomain
 local-zone: "spider.ad" always_nxdomain
 local-zone: "spnut.com" always_nxdomain
 local-zone: "spoods.de" always_nxdomain
@@ -11065,6 +11064,7 @@ local-zone: "trifoilad.com" always_nxdomain
 local-zone: "trinisply.com" always_nxdomain
 local-zone: "trisxisys.com" always_nxdomain
 local-zone: "trueoptin.com" always_nxdomain
+local-zone: "trumbhost.com" always_nxdomain
 local-zone: "trunblock.com" always_nxdomain
 local-zone: "trustpush.net" always_nxdomain
 local-zone: "tryadhawk.com" always_nxdomain
