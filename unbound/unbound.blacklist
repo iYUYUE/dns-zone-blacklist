@@ -796,6 +796,7 @@ local-zone: "52zxz.com" always_refuse
 local-zone: "58vpn.com" always_refuse
 local-zone: "5rocks.io" always_refuse
 local-zone: "6561a.com" always_refuse
+local-zone: "69ktq.com" always_refuse
 local-zone: "6ea.co.za" always_refuse
 local-zone: "71360.com" always_refuse
 local-zone: "7xc4n.com" always_refuse
@@ -1073,6 +1074,7 @@ local-zone: "ammadv.it" always_refuse
 local-zone: "amoad.com" always_refuse
 local-zone: "amon1.net" always_refuse
 local-zone: "ampry.com" always_refuse
+local-zone: "amrox.org" always_refuse
 local-zone: "andand.in" always_refuse
 local-zone: "anixe.net" always_refuse
 local-zone: "a.nova.cz" always_refuse
@@ -2914,6 +2916,7 @@ local-zone: "cxtvli.com" always_refuse
 local-zone: "cxuapz.xyz" always_refuse
 local-zone: "cybmas.com" always_refuse
 local-zone: "cycsfe.com" always_refuse
+local-zone: "dadgah.org" always_refuse
 local-zone: "dagnar.com" always_refuse
 local-zone: "dahxwf.com" always_refuse
 local-zone: "dalyio.com" always_refuse
@@ -2976,6 +2979,7 @@ local-zone: "dvypar.com" always_refuse
 local-zone: "dxpxlt.com" always_refuse
 local-zone: "dyneml.com" always_refuse
 local-zone: "dytupr.com" always_refuse
+local-zone: "dyxalo.com" always_refuse
 local-zone: "eabids.com" always_refuse
 local-zone: "eadgxy.com" always_refuse
 local-zone: "earzow.com" always_refuse
@@ -3108,6 +3112,7 @@ local-zone: "glispa.com" always_refuse
 local-zone: "global.com" always_refuse
 local-zone: "gluads.com" always_refuse
 local-zone: "gmcsco.com" always_refuse
+local-zone: "gmeuco.com" always_refuse
 local-zone: "gmiads.com" always_refuse
 local-zone: "go2frr.com" always_refuse
 local-zone: "go2-me.com" always_refuse
@@ -8843,7 +8848,6 @@ local-zone: "wofollow.com" always_refuse
 local-zone: "wolftain.com" always_refuse
 local-zone: "wordchip.com" always_refuse
 local-zone: "wovifohe.pro" always_refuse
-local-zone: "wpadmngr.com" always_refuse
 local-zone: "wry-boss.com" always_refuse
 local-zone: "wry-kiss.pro" always_refuse
 local-zone: "wz.xyxz.site" always_refuse

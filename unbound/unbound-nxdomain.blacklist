@@ -796,6 +796,7 @@ local-zone: "52zxz.com" always_nxdomain
 local-zone: "58vpn.com" always_nxdomain
 local-zone: "5rocks.io" always_nxdomain
 local-zone: "6561a.com" always_nxdomain
+local-zone: "69ktq.com" always_nxdomain
 local-zone: "6ea.co.za" always_nxdomain
 local-zone: "71360.com" always_nxdomain
 local-zone: "7xc4n.com" always_nxdomain
@@ -1073,6 +1074,7 @@ local-zone: "ammadv.it" always_nxdomain
 local-zone: "amoad.com" always_nxdomain
 local-zone: "amon1.net" always_nxdomain
 local-zone: "ampry.com" always_nxdomain
+local-zone: "amrox.org" always_nxdomain
 local-zone: "andand.in" always_nxdomain
 local-zone: "anixe.net" always_nxdomain
 local-zone: "a.nova.cz" always_nxdomain
@@ -2914,6 +2916,7 @@ local-zone: "cxtvli.com" always_nxdomain
 local-zone: "cxuapz.xyz" always_nxdomain
 local-zone: "cybmas.com" always_nxdomain
 local-zone: "cycsfe.com" always_nxdomain
+local-zone: "dadgah.org" always_nxdomain
 local-zone: "dagnar.com" always_nxdomain
 local-zone: "dahxwf.com" always_nxdomain
 local-zone: "dalyio.com" always_nxdomain
@@ -2976,6 +2979,7 @@ local-zone: "dvypar.com" always_nxdomain
 local-zone: "dxpxlt.com" always_nxdomain
 local-zone: "dyneml.com" always_nxdomain
 local-zone: "dytupr.com" always_nxdomain
+local-zone: "dyxalo.com" always_nxdomain
 local-zone: "eabids.com" always_nxdomain
 local-zone: "eadgxy.com" always_nxdomain
 local-zone: "earzow.com" always_nxdomain
@@ -3108,6 +3112,7 @@ local-zone: "glispa.com" always_nxdomain
 local-zone: "global.com" always_nxdomain
 local-zone: "gluads.com" always_nxdomain
 local-zone: "gmcsco.com" always_nxdomain
+local-zone: "gmeuco.com" always_nxdomain
 local-zone: "gmiads.com" always_nxdomain
 local-zone: "go2frr.com" always_nxdomain
 local-zone: "go2-me.com" always_nxdomain
@@ -8843,7 +8848,6 @@ local-zone: "wofollow.com" always_nxdomain
 local-zone: "wolftain.com" always_nxdomain
 local-zone: "wordchip.com" always_nxdomain
 local-zone: "wovifohe.pro" always_nxdomain
-local-zone: "wpadmngr.com" always_nxdomain
 local-zone: "wry-boss.com" always_nxdomain
 local-zone: "wry-kiss.pro" always_nxdomain
 local-zone: "wz.xyxz.site" always_nxdomain
