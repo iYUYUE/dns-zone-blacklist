@@ -25516,7 +25516,6 @@ zone "nancyrosenandcompany.com" { type master; notify no; file "null.zone.file";
 zone "newopenx.simplethings.de" { type master; notify no; file "null.zone.file"; };
 zone "newsletter.linuxbabe.com" { type master; notify no; file "null.zone.file"; };
 zone "norwegianadvertising.com" { type master; notify no; file "null.zone.file"; };
-zone "notification.tubecup.net" { type master; notify no; file "null.zone.file"; };
 zone "oathmidiadigitalltda.com" { type master; notify no; file "null.zone.file"; };
 zone "oglasi.slo-podnapisi.net" { type master; notify no; file "null.zone.file"; };
 zone "o.outstreamoctober.store" { type master; notify no; file "null.zone.file"; };
