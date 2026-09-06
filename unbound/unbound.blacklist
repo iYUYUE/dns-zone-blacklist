@@ -53,6 +53,7 @@ local-zone: "adv.hu" always_refuse
 local-zone: "adv.so" always_refuse
 local-zone: "adx.io" always_refuse
 local-zone: "adx.pt" always_refuse
+local-zone: "adx.ws" always_refuse
 local-zone: "afp.ai" always_refuse
 local-zone: "anr.in" always_refuse
 local-zone: "arx.gr" always_refuse
@@ -685,6 +686,7 @@ local-zone: "sdad.biz" always_refuse
 local-zone: "senja.io" always_refuse
 local-zone: "shara.li" always_refuse
 local-zone: "shown.io" always_refuse
+local-zone: "sided.ai" always_refuse
 local-zone: "sided.co" always_refuse
 local-zone: "sift.com" always_refuse
 local-zone: "smi2.net" always_refuse
@@ -1291,6 +1293,7 @@ local-zone: "effic.pro" always_refuse
 local-zone: "eforsa.pl" always_refuse
 local-zone: "ejfps.com" always_refuse
 local-zone: "ejvnu.com" always_refuse
+local-zone: "ekhay.com" always_refuse
 local-zone: "elcjj.com" always_refuse
 local-zone: "emrld.ltd" always_refuse
 local-zone: "enmbg.com" always_refuse
@@ -1330,6 +1333,7 @@ local-zone: "fit-ad.jp" always_refuse
 local-zone: "fkehg.com" always_refuse
 local-zone: "flipp.com" always_refuse
 local-zone: "flite.com" always_refuse
+local-zone: "fliwe.com" always_refuse
 local-zone: "fonaso.eu" always_refuse
 local-zone: "fosfoz.cn" always_refuse
 local-zone: "fouoh.com" always_refuse
@@ -1715,6 +1719,7 @@ local-zone: "ptomw.com" always_refuse
 local-zone: "puads.com" always_refuse
 local-zone: "publy.com" always_refuse
 local-zone: "pubtm.com" always_refuse
+local-zone: "pu-ll.com" always_refuse
 local-zone: "puqwn.com" always_refuse
 local-zone: "purei.com" always_refuse
 local-zone: "pushed.co" always_refuse
@@ -1859,6 +1864,7 @@ local-zone: "tncid.app" always_refuse
 local-zone: "tnlnk.com" always_refuse
 local-zone: "tonic.com" always_refuse
 local-zone: "top10x.io" always_refuse
+local-zone: "toxvm.vip" always_refuse
 local-zone: "toxye.com" always_refuse
 local-zone: "tpbid.com" always_refuse
 local-zone: "tpdrv.com" always_refuse
@@ -1993,6 +1999,7 @@ local-zone: "wpmsx.com" always_refuse
 local-zone: "wvdme.com" always_refuse
 local-zone: "wycji.top" always_refuse
 local-zone: "x3x3x.xyz" always_refuse
+local-zone: "xamek.com" always_refuse
 local-zone: "xandr.com" always_refuse
 local-zone: "xaxis.com" always_refuse
 local-zone: "xcdus.com" always_refuse
@@ -2644,9 +2651,11 @@ local-zone: "aj2744.top" always_refuse
 local-zone: "aj2745.top" always_refuse
 local-zone: "aj2752.top" always_refuse
 local-zone: "aj2759.top" always_refuse
+local-zone: "aj2787.top" always_refuse
 local-zone: "aj3039.bid" always_refuse
 local-zone: "aj3054.bid" always_refuse
 local-zone: "aj3067.bid" always_refuse
+local-zone: "aj3101.top" always_refuse
 local-zone: "aj3105.top" always_refuse
 local-zone: "ajjac.club" always_refuse
 local-zone: "ajscdn.com" always_refuse
@@ -3318,6 +3327,7 @@ local-zone: "kwgefe.com" always_refuse
 local-zone: "kwtrdd.com" always_refuse
 local-zone: "kwtyuv.com" always_refuse
 local-zone: "kxhhim.com" always_refuse
+local-zone: "kyvixo.com" always_refuse
 local-zone: "lattor.com" always_refuse
 local-zone: "lawsivo.ru" always_refuse
 local-zone: "leadera.in" always_refuse
@@ -3648,6 +3658,7 @@ local-zone: "pstatp.com" always_refuse
 local-zone: "ptadsrv.de" always_refuse
 local-zone: "ptosrd.com" always_refuse
 local-zone: "pubadx.one" always_refuse
+local-zone: "pubbug.com" always_refuse
 local-zone: "pubeasy.io" always_refuse
 local-zone: "publir.com" always_refuse
 local-zone: "pubwise.io" always_refuse
@@ -3772,6 +3783,7 @@ local-zone: "rtrgt2.com" always_refuse
 local-zone: "rtscix.com" always_refuse
 local-zone: "rtyufo.com" always_refuse
 local-zone: "rwpypf.com" always_refuse
+local-zone: "ryfweb.com" always_refuse
 local-zone: "rygfjv.com" always_refuse
 local-zone: "rytzyh.com" always_refuse
 local-zone: "rzjirk.com" always_refuse
@@ -21459,7 +21471,6 @@ local-zone: "hs.hentaislayer.net" always_refuse
 local-zone: "huk5b1356qqm18p.cfd" always_refuse
 local-zone: "hurtfulmagazine.pro" always_refuse
 local-zone: "iabargentina.com.ar" always_refuse
-local-zone: "iamcommunication.co" always_refuse
 local-zone: "idealdiscussion.pro" always_refuse
 local-zone: "idealvisibility.com" always_refuse
 local-zone: "idolized-record.pro" always_refuse
