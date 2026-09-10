@@ -1219,6 +1219,7 @@ local-zone: "cpwub.com" always_refuse
 local-zone: "cpx24.com" always_refuse
 local-zone: "cpx24.net" always_refuse
 local-zone: "cqazk.com" always_refuse
+local-zone: "crcdn.org" always_refuse
 local-zone: "crhbs.com" always_refuse
 local-zone: "criteo.ae" always_refuse
 local-zone: "criteo.ai" always_refuse

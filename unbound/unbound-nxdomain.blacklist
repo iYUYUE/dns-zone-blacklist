@@ -1219,6 +1219,7 @@ local-zone: "cpwub.com" always_nxdomain
 local-zone: "cpx24.com" always_nxdomain
 local-zone: "cpx24.net" always_nxdomain
 local-zone: "cqazk.com" always_nxdomain
+local-zone: "crcdn.org" always_nxdomain
 local-zone: "crhbs.com" always_nxdomain
 local-zone: "criteo.ae" always_nxdomain
 local-zone: "criteo.ai" always_nxdomain

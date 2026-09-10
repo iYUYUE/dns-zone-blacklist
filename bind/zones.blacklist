@@ -1219,6 +1219,7 @@ zone "cpwub.com" { type master; notify no; file "null.zone.file"; };
 zone "cpx24.com" { type master; notify no; file "null.zone.file"; };
 zone "cpx24.net" { type master; notify no; file "null.zone.file"; };
 zone "cqazk.com" { type master; notify no; file "null.zone.file"; };
+zone "crcdn.org" { type master; notify no; file "null.zone.file"; };
 zone "crhbs.com" { type master; notify no; file "null.zone.file"; };
 zone "criteo.ae" { type master; notify no; file "null.zone.file"; };
 zone "criteo.ai" { type master; notify no; file "null.zone.file"; };
