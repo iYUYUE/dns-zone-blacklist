@@ -8612,6 +8612,12 @@ local-zone: "s.elnz23.com" always_nxdomain
 local-zone: "selwrite.com" always_nxdomain
 local-zone: "semi-cod.com" always_nxdomain
 local-zone: "sendlane.com" always_nxdomain
+local-zone: "sendpule.com" always_nxdomain
+local-zone: "sendpulse.by" always_nxdomain
+local-zone: "sendpulse.cl" always_nxdomain
+local-zone: "sendpulse.mx" always_nxdomain
+local-zone: "sendpulse.ng" always_nxdomain
+local-zone: "sendpulse.ru" always_nxdomain
 local-zone: "sendpush.net" always_nxdomain
 local-zone: "send-web.com" always_nxdomain
 local-zone: "serconmp.com" always_nxdomain
@@ -10947,6 +10953,7 @@ local-zone: "s.elink3w.com" always_nxdomain
 local-zone: "s.elink3x.com" always_nxdomain
 local-zone: "semeshycy.pro" always_nxdomain
 local-zone: "sendpulse.com" always_nxdomain
+local-zone: "sendpulse.net" always_nxdomain
 local-zone: "seoingage.com" always_nxdomain
 local-zone: "septads.store" always_nxdomain
 local-zone: "servads.co.za" always_nxdomain
@@ -13250,6 +13257,8 @@ local-zone: "secyourads.com" always_nxdomain
 local-zone: "seedadscdn.com" always_nxdomain
 local-zone: "seekremote.com" always_nxdomain
 local-zone: "sem-wizard.com" always_nxdomain
+local-zone: "send-pulse.com" always_nxdomain
+local-zone: "sendpulses.com" always_nxdomain
 local-zone: "serve.mdpi.com" always_nxdomain
 local-zone: "servemeads.com" always_nxdomain
 local-zone: "server4ads.com" always_nxdomain
@@ -18609,6 +18618,7 @@ local-zone: "impactserving.com" always_nxdomain
 local-zone: "impartialsing.pro" always_nxdomain
 local-zone: "imp.assistdrv.com" always_nxdomain
 local-zone: "imsolutions.co.za" always_nxdomain
+local-zone: "inadsexchange.com" always_nxdomain
 local-zone: "indexexchange.com" always_nxdomain
 local-zone: "indystarmedia.com" always_nxdomain
 local-zone: "infantile-dot.pro" always_nxdomain

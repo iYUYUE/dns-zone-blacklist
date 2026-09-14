@@ -8612,6 +8612,12 @@ local-zone: "s.elnz23.com" always_refuse
 local-zone: "selwrite.com" always_refuse
 local-zone: "semi-cod.com" always_refuse
 local-zone: "sendlane.com" always_refuse
+local-zone: "sendpule.com" always_refuse
+local-zone: "sendpulse.by" always_refuse
+local-zone: "sendpulse.cl" always_refuse
+local-zone: "sendpulse.mx" always_refuse
+local-zone: "sendpulse.ng" always_refuse
+local-zone: "sendpulse.ru" always_refuse
 local-zone: "sendpush.net" always_refuse
 local-zone: "send-web.com" always_refuse
 local-zone: "serconmp.com" always_refuse
@@ -10947,6 +10953,7 @@ local-zone: "s.elink3w.com" always_refuse
 local-zone: "s.elink3x.com" always_refuse
 local-zone: "semeshycy.pro" always_refuse
 local-zone: "sendpulse.com" always_refuse
+local-zone: "sendpulse.net" always_refuse
 local-zone: "seoingage.com" always_refuse
 local-zone: "septads.store" always_refuse
 local-zone: "servads.co.za" always_refuse
@@ -13250,6 +13257,8 @@ local-zone: "secyourads.com" always_refuse
 local-zone: "seedadscdn.com" always_refuse
 local-zone: "seekremote.com" always_refuse
 local-zone: "sem-wizard.com" always_refuse
+local-zone: "send-pulse.com" always_refuse
+local-zone: "sendpulses.com" always_refuse
 local-zone: "serve.mdpi.com" always_refuse
 local-zone: "servemeads.com" always_refuse
 local-zone: "server4ads.com" always_refuse
@@ -18609,6 +18618,7 @@ local-zone: "impactserving.com" always_refuse
 local-zone: "impartialsing.pro" always_refuse
 local-zone: "imp.assistdrv.com" always_refuse
 local-zone: "imsolutions.co.za" always_refuse
+local-zone: "inadsexchange.com" always_refuse
 local-zone: "indexexchange.com" always_refuse
 local-zone: "indystarmedia.com" always_refuse
 local-zone: "infantile-dot.pro" always_refuse
