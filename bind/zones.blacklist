@@ -2071,6 +2071,7 @@ zone "yynbx.com" { type master; notify no; file "null.zone.file"; };
 zone "zakld.com" { type master; notify no; file "null.zone.file"; };
 zone "zallj.com" { type master; notify no; file "null.zone.file"; };
 zone "zanox.com" { type master; notify no; file "null.zone.file"; };
+zone "zatij.com" { type master; notify no; file "null.zone.file"; };
 zone "za.zdn.vn" { type master; notify no; file "null.zone.file"; };
 zone "zbo.media" { type master; notify no; file "null.zone.file"; };
 zone "zejcl.com" { type master; notify no; file "null.zone.file"; };
