@@ -2771,6 +2771,7 @@ local-zone: "bannaz.com" always_refuse
 local-zone: "banner.com" always_refuse
 local-zone: "banner.net" always_refuse
 local-zone: "banners.ru" always_refuse
+local-zone: "bauval.org" always_refuse
 local-zone: "b.big7.com" always_refuse
 local-zone: "bbmedia.cz" always_refuse
 local-zone: "bbrdbr.com" always_refuse
@@ -6666,6 +6667,7 @@ local-zone: "a.bramb.site" always_refuse
 local-zone: "a.brani.site" always_refuse
 local-zone: "a.brasov.net" always_refuse
 local-zone: "a.brene.site" always_refuse
+local-zone: "abscloud.org" always_refuse
 local-zone: "a.btrem.site" always_refuse
 local-zone: "abw.fraza.ua" always_refuse
 local-zone: "acebunny.com" always_refuse
@@ -12862,6 +12864,7 @@ local-zone: "montantara.top" always_refuse
 local-zone: "monthlyhat.com" always_refuse
 local-zone: "monumetric.com" always_refuse
 local-zone: "moonlitads.com" always_refuse
+local-zone: "moon-zoom.info" always_refuse
 local-zone: "mostlysunny.co" always_refuse
 local-zone: "motherol.space" always_refuse
 local-zone: "mrsmith.agency" always_refuse
@@ -13042,6 +13045,7 @@ local-zone: "placelocal.com" always_refuse
 local-zone: "platform-a.com" always_refuse
 local-zone: "playbuy.agency" always_refuse
 local-zone: "playground.xyz" always_refuse
+local-zone: "playonrain.com" always_refuse
 local-zone: "pleighties.com" always_refuse
 local-zone: "plhhisqiem.com" always_refuse
 local-zone: "plushpanic.com" always_refuse
@@ -14478,6 +14482,7 @@ local-zone: "crossinstall.io" always_refuse
 local-zone: "crossover.co.in" always_refuse
 local-zone: "crowded-you.pro" always_refuse
 local-zone: "crtracklink.com" always_refuse
+local-zone: "cryptechpak.com" always_refuse
 local-zone: "cumexskandal.de" always_refuse
 local-zone: "customermaps.ca" always_refuse
 local-zone: "customermaps.co" always_refuse
@@ -20361,6 +20366,7 @@ local-zone: "pitiful-tongue.pro" always_refuse
 local-zone: "plain-champion.pro" always_refuse
 local-zone: "plaintivedance.pro" always_refuse
 local-zone: "platform-one.co.jp" always_refuse
+local-zone: "playfunpartner.com" always_refuse
 local-zone: "pleasingsafety.pro" always_refuse
 local-zone: "plushcinfafema.com" always_refuse
 local-zone: "pns.affworld.cloud" always_refuse
@@ -26732,6 +26738,7 @@ local-zone: "ae-136.global.ssl.fastly.net" always_refuse
 local-zone: "agressionsexuellemontreal.ca" always_refuse
 local-zone: "alkambacreativesolutions.com" always_refuse
 local-zone: "allnews.chestertelegraph.org" always_refuse
+local-zone: "answeringfinenessshingle.com" always_refuse
 local-zone: "api.floatingcarforgotten.com" always_refuse
 local-zone: "apixgcp-prod.ingrammicro.com" always_refuse
 local-zone: "as.thoroughbreddailynews.com" always_refuse
