@@ -766,7 +766,10 @@ local-zone: "014uu.com" always_refuse
 local-zone: "01ivf.com" always_refuse
 local-zone: "041gg.com" always_refuse
 local-zone: "064kk.com" always_refuse
+local-zone: "065kk.com" always_refuse
+local-zone: "067kk.com" always_refuse
 local-zone: "071kk.com" always_refuse
+local-zone: "079kk.com" always_refuse
 local-zone: "10zon.com" always_refuse
 local-zone: "11.o7.net" always_refuse
 local-zone: "122da.com" always_refuse
@@ -20022,6 +20025,7 @@ local-zone: "eskaymarketing.com" always_refuse
 local-zone: "eskimocreative.com" always_refuse
 local-zone: "etherealbamboo.com" always_refuse
 local-zone: "europasorprende.it" always_refuse
+local-zone: "eustatsunative.com" always_refuse
 local-zone: "event.hankyung.com" always_refuse
 local-zone: "evolveadagency.com" always_refuse
 local-zone: "evolvemediallc.com" always_refuse

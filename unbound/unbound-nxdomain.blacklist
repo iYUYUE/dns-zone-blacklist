@@ -766,7 +766,10 @@ local-zone: "014uu.com" always_nxdomain
 local-zone: "01ivf.com" always_nxdomain
 local-zone: "041gg.com" always_nxdomain
 local-zone: "064kk.com" always_nxdomain
+local-zone: "065kk.com" always_nxdomain
+local-zone: "067kk.com" always_nxdomain
 local-zone: "071kk.com" always_nxdomain
+local-zone: "079kk.com" always_nxdomain
 local-zone: "10zon.com" always_nxdomain
 local-zone: "11.o7.net" always_nxdomain
 local-zone: "122da.com" always_nxdomain
@@ -20022,6 +20025,7 @@ local-zone: "eskaymarketing.com" always_nxdomain
 local-zone: "eskimocreative.com" always_nxdomain
 local-zone: "etherealbamboo.com" always_nxdomain
 local-zone: "europasorprende.it" always_nxdomain
+local-zone: "eustatsunative.com" always_nxdomain
 local-zone: "event.hankyung.com" always_nxdomain
 local-zone: "evolveadagency.com" always_nxdomain
 local-zone: "evolvemediallc.com" always_nxdomain
