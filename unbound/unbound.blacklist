@@ -17465,6 +17465,7 @@ local-zone: "tg1.viewtv.cloud" always_refuse
 local-zone: "thebitcellar.com" always_refuse
 local-zone: "thedatinglab.com" always_refuse
 local-zone: "thedirecthor.com" always_refuse
+local-zone: "theengagelab.com" always_refuse
 local-zone: "thefishstops.com" always_refuse
 local-zone: "thegreattech.com" always_refuse
 local-zone: "thelistinc.co.uk" always_refuse
@@ -22781,6 +22782,7 @@ local-zone: "moballeghangroup.com" always_refuse
 local-zone: "mobileadexchange.net" always_refuse
 local-zone: "monarchmarketing.com" always_refuse
 local-zone: "mondiapayopticks.com" always_refuse
+local-zone: "mosaic2.jerkmate.com" always_refuse
 local-zone: "motionless-range.pro" always_refuse
 local-zone: "mountainous-fall.pro" always_refuse
 local-zone: "mtl4.alibaba-inc.com" always_refuse
@@ -27762,6 +27764,7 @@ local-zone: "survey-alb-new-1082488714.us-east-1.elb.amazonaws.com" always_refus
 local-zone: "asia-southeast1-gae-redirector-prod.cloudfunctions.net" always_refuse
 local-zone: "adwombat-services-470191665.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "adserver-vpc-alb-3-917510562.us-east-1.elb.amazonaws.com" always_refuse
+local-zone: "atlassian-cookies.prod-east.frontend.public.atl-paas.net" always_refuse
 local-zone: "adserver-vpc-alb-0-2072243822.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "adserver-vpc-alb-1-2048135467.us-east-1.elb.amazonaws.com" always_refuse
 local-zone: "adserver-vpc-alb-2-1898430250.us-east-1.elb.amazonaws.com" always_refuse

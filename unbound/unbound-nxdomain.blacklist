@@ -17465,6 +17465,7 @@ local-zone: "tg1.viewtv.cloud" always_nxdomain
 local-zone: "thebitcellar.com" always_nxdomain
 local-zone: "thedatinglab.com" always_nxdomain
 local-zone: "thedirecthor.com" always_nxdomain
+local-zone: "theengagelab.com" always_nxdomain
 local-zone: "thefishstops.com" always_nxdomain
 local-zone: "thegreattech.com" always_nxdomain
 local-zone: "thelistinc.co.uk" always_nxdomain
@@ -22781,6 +22782,7 @@ local-zone: "moballeghangroup.com" always_nxdomain
 local-zone: "mobileadexchange.net" always_nxdomain
 local-zone: "monarchmarketing.com" always_nxdomain
 local-zone: "mondiapayopticks.com" always_nxdomain
+local-zone: "mosaic2.jerkmate.com" always_nxdomain
 local-zone: "motionless-range.pro" always_nxdomain
 local-zone: "mountainous-fall.pro" always_nxdomain
 local-zone: "mtl4.alibaba-inc.com" always_nxdomain
@@ -27762,6 +27764,7 @@ local-zone: "survey-alb-new-1082488714.us-east-1.elb.amazonaws.com" always_nxdom
 local-zone: "asia-southeast1-gae-redirector-prod.cloudfunctions.net" always_nxdomain
 local-zone: "adwombat-services-470191665.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "adserver-vpc-alb-3-917510562.us-east-1.elb.amazonaws.com" always_nxdomain
+local-zone: "atlassian-cookies.prod-east.frontend.public.atl-paas.net" always_nxdomain
 local-zone: "adserver-vpc-alb-0-2072243822.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "adserver-vpc-alb-1-2048135467.us-east-1.elb.amazonaws.com" always_nxdomain
 local-zone: "adserver-vpc-alb-2-1898430250.us-east-1.elb.amazonaws.com" always_nxdomain
