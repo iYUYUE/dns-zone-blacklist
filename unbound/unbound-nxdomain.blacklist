@@ -770,6 +770,7 @@ local-zone: "065kk.com" always_nxdomain
 local-zone: "067kk.com" always_nxdomain
 local-zone: "071kk.com" always_nxdomain
 local-zone: "079kk.com" always_nxdomain
+local-zone: "094kk.com" always_nxdomain
 local-zone: "10zon.com" always_nxdomain
 local-zone: "11.o7.net" always_nxdomain
 local-zone: "122da.com" always_nxdomain
@@ -15450,6 +15451,7 @@ local-zone: "spuriousair.com" always_nxdomain
 local-zone: "sqexpertise.com" always_nxdomain
 local-zone: "squarecamel.com" always_nxdomain
 local-zone: "squinbested.com" always_nxdomain
+local-zone: "srtb-ax.msn.com" always_nxdomain
 local-zone: "srv.elpueblo.mx" always_nxdomain
 local-zone: "ssl2anyone2.com" always_nxdomain
 local-zone: "ssp-bcc-ads.com" always_nxdomain

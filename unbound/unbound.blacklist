@@ -770,6 +770,7 @@ local-zone: "065kk.com" always_refuse
 local-zone: "067kk.com" always_refuse
 local-zone: "071kk.com" always_refuse
 local-zone: "079kk.com" always_refuse
+local-zone: "094kk.com" always_refuse
 local-zone: "10zon.com" always_refuse
 local-zone: "11.o7.net" always_refuse
 local-zone: "122da.com" always_refuse
@@ -15450,6 +15451,7 @@ local-zone: "spuriousair.com" always_refuse
 local-zone: "sqexpertise.com" always_refuse
 local-zone: "squarecamel.com" always_refuse
 local-zone: "squinbested.com" always_refuse
+local-zone: "srtb-ax.msn.com" always_refuse
 local-zone: "srv.elpueblo.mx" always_refuse
 local-zone: "ssl2anyone2.com" always_refuse
 local-zone: "ssp-bcc-ads.com" always_refuse
