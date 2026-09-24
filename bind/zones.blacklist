@@ -20576,6 +20576,7 @@ zone "sourcecodeinfo.com" { type master; notify no; file "null.zone.file"; };
 zone "spacetraveldin.com" { type master; notify no; file "null.zone.file"; };
 zone "spicesonwheels.com" { type master; notify no; file "null.zone.file"; };
 zone "sp-micro.b-cdn.net" { type master; notify no; file "null.zone.file"; };
+zone "sportsclubstat.com" { type master; notify no; file "null.zone.file"; };
 zone "spotlightmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "spotted-speech.com" { type master; notify no; file "null.zone.file"; };
 zone "squiggly-dance.pro" { type master; notify no; file "null.zone.file"; };
