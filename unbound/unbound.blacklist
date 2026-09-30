@@ -462,6 +462,7 @@ local-zone: "anura.io" always_refuse
 local-zone: "ao.la.lv" always_refuse
 local-zone: "aori.com" always_refuse
 local-zone: "appm.app" always_refuse
+local-zone: "aqml.org" always_refuse
 local-zone: "arke.com" always_refuse
 local-zone: "arlox.io" always_refuse
 local-zone: "audio.ad" always_refuse
@@ -1636,6 +1637,7 @@ local-zone: "n5725.com" always_refuse
 local-zone: "najva.com" always_refuse
 local-zone: "namel.net" always_refuse
 local-zone: "ndiux.com" always_refuse
+local-zone: "nennne.cc" always_refuse
 local-zone: "neoban.su" always_refuse
 local-zone: "neory.com" always_refuse
 local-zone: "newad.com" always_refuse
@@ -3900,6 +3902,7 @@ local-zone: "squren.com" always_refuse
 local-zone: "srtrkr.top" always_refuse
 local-zone: "srvqck.com" always_refuse
 local-zone: "srvqk1.com" always_refuse
+local-zone: "srvqk2.com" always_refuse
 local-zone: "srvqk3.com" always_refuse
 local-zone: "ssacdn.com" always_refuse
 local-zone: "staygg.com" always_refuse
@@ -7590,6 +7593,7 @@ local-zone: "digilant.com" always_refuse
 local-zone: "digiquals.in" always_refuse
 local-zone: "digislots.in" always_refuse
 local-zone: "digitizer.ae" always_refuse
+local-zone: "directyp.org" always_refuse
 local-zone: "dishacom.com" always_refuse
 local-zone: "districtm.ca" always_refuse
 local-zone: "districtm.io" always_refuse
@@ -10576,6 +10580,7 @@ local-zone: "network-n.com" always_refuse
 local-zone: "newage.agency" always_refuse
 local-zone: "newbesthd.pro" always_refuse
 local-zone: "newsochub.com" always_refuse
+local-zone: "newtorkin.com" always_refuse
 local-zone: "newwhyweb.com" always_refuse
 local-zone: "nextclass.pro" always_refuse
 local-zone: "nextday.media" always_refuse
