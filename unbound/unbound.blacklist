@@ -792,6 +792,8 @@ local-zone: "1ts17.top" always_refuse
 local-zone: "1ts18.top" always_refuse
 local-zone: "1ts19.top" always_refuse
 local-zone: "1ts20.top" always_refuse
+local-zone: "1x1x5.com" always_refuse
+local-zone: "1x1x7.com" always_refuse
 local-zone: "21sme.com" always_refuse
 local-zone: "24ads.com" always_refuse
 local-zone: "2588u.com" always_refuse
@@ -1822,6 +1824,7 @@ local-zone: "sagum.org" always_refuse
 local-zone: "salik.biz" always_refuse
 local-zone: "sam4m.com" always_refuse
 local-zone: "saypan.in" always_refuse
+local-zone: "sc3xy.xyz" always_refuse
 local-zone: "scpge.com" always_refuse
 local-zone: "sc.r7.com" always_refuse
 local-zone: "sdad.mobi" always_refuse
@@ -2897,6 +2900,8 @@ local-zone: "celtra.com" always_refuse
 local-zone: "centro.net" always_refuse
 local-zone: "cerebro.us" always_refuse
 local-zone: "cfetas.com" always_refuse
+local-zone: "cffjpg.com" always_refuse
+local-zone: "cffpic.com" always_refuse
 local-zone: "chicory.co" always_refuse
 local-zone: "chnsrv.com" always_refuse
 local-zone: "cibago.com" always_refuse
@@ -6480,6 +6485,7 @@ local-zone: "1tds26q95.de" always_refuse
 local-zone: "1traffic.pro" always_refuse
 local-zone: "1trust.rocks" always_refuse
 local-zone: "1trust.trade" always_refuse
+local-zone: "1x6arks9.xyz" always_refuse
 local-zone: "20184jlkf.de" always_refuse
 local-zone: "203p7gmp4.de" always_refuse
 local-zone: "20l2ldrn2.de" always_refuse
@@ -6998,6 +7004,7 @@ local-zone: "adsknife.com" always_refuse
 local-zone: "adslaney.com" always_refuse
 local-zone: "ads.les4h.fr" always_refuse
 local-zone: "ads.loppi.se" always_refuse
+local-zone: "ad.sltup.xyz" always_refuse
 local-zone: "adsmandu.com" always_refuse
 local-zone: "ads.marry.vn" always_refuse
 local-zone: "adsmedia.com" always_refuse
@@ -9730,6 +9737,7 @@ local-zone: "b.comihon.com" always_refuse
 local-zone: "beachfront.io" always_refuse
 local-zone: "beaconads.com" always_refuse
 local-zone: "beaverads.com" always_refuse
+local-zone: "benchform.org" always_refuse
 local-zone: "beopinion.com" always_refuse
 local-zone: "bestadbid.com" always_refuse
 local-zone: "bestadsrv.com" always_refuse
@@ -9737,6 +9745,7 @@ local-zone: "best-rope.pro" always_refuse
 local-zone: "best-seat.pro" always_refuse
 local-zone: "betaedito.com" always_refuse
 local-zone: "betazebra.com" always_refuse
+local-zone: "betteradz.com" always_refuse
 local-zone: "bewellads.com" always_refuse
 local-zone: "bewhidare.com" always_refuse
 local-zone: "b.filexan.com" always_refuse
@@ -27098,6 +27107,7 @@ local-zone: "d2f0uviei09pxb.cloudfront.net" always_refuse
 local-zone: "d2fucu4fhozx2v.cloudfront.net" always_refuse
 local-zone: "d2geju3h8qicv6.cloudfront.net" always_refuse
 local-zone: "d2h8zr0m6mus4x.cloudfront.net" always_refuse
+local-zone: "d2il9fvx33nb2t.cloudfront.net" always_refuse
 local-zone: "d2ip7iv1l4ergv.cloudfront.net" always_refuse
 local-zone: "d2j042cj1421wi.cloudfront.net" always_refuse
 local-zone: "d2kk0o3fr7ed01.cloudfront.net" always_refuse
