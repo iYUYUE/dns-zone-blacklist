@@ -2912,6 +2912,7 @@ local-zone: "cerebro.us" always_nxdomain
 local-zone: "cfetas.com" always_nxdomain
 local-zone: "cffjpg.com" always_nxdomain
 local-zone: "cffpic.com" always_nxdomain
+local-zone: "cffpng.com" always_nxdomain
 local-zone: "chicory.co" always_nxdomain
 local-zone: "chnsrv.com" always_nxdomain
 local-zone: "cibago.com" always_nxdomain
@@ -3199,6 +3200,7 @@ local-zone: "goldlab.de" always_nxdomain
 local-zone: "goneto.xyz" always_nxdomain
 local-zone: "goraps.com" always_nxdomain
 local-zone: "go-srv.com" always_nxdomain
+local-zone: "gotojs.xyz" always_nxdomain
 local-zone: "gp2hmr.com" always_nxdomain
 local-zone: "graphy.com" always_nxdomain
 local-zone: "grmtas.com" always_nxdomain
@@ -12531,6 +12533,7 @@ local-zone: "fanyamedia.net" always_nxdomain
 local-zone: "fasterjson.com" always_nxdomain
 local-zone: "fathiwhopy.com" always_nxdomain
 local-zone: "favoritego.pro" always_nxdomain
+local-zone: "faxcoupons.com" always_nxdomain
 local-zone: "fbofferads.com" always_nxdomain
 local-zone: "fdma-media.com" always_nxdomain
 local-zone: "feedback.tools" always_nxdomain
@@ -20555,6 +20558,7 @@ local-zone: "plain-champion.pro" always_nxdomain
 local-zone: "plaintivedance.pro" always_nxdomain
 local-zone: "platform-one.co.jp" always_nxdomain
 local-zone: "playfunpartner.com" always_nxdomain
+local-zone: "playhubconnect.com" always_nxdomain
 local-zone: "pleasingsafety.pro" always_nxdomain
 local-zone: "plushcinfafema.com" always_nxdomain
 local-zone: "pns.affworld.cloud" always_nxdomain

@@ -2912,6 +2912,7 @@ local-zone: "cerebro.us" always_refuse
 local-zone: "cfetas.com" always_refuse
 local-zone: "cffjpg.com" always_refuse
 local-zone: "cffpic.com" always_refuse
+local-zone: "cffpng.com" always_refuse
 local-zone: "chicory.co" always_refuse
 local-zone: "chnsrv.com" always_refuse
 local-zone: "cibago.com" always_refuse
@@ -3199,6 +3200,7 @@ local-zone: "goldlab.de" always_refuse
 local-zone: "goneto.xyz" always_refuse
 local-zone: "goraps.com" always_refuse
 local-zone: "go-srv.com" always_refuse
+local-zone: "gotojs.xyz" always_refuse
 local-zone: "gp2hmr.com" always_refuse
 local-zone: "graphy.com" always_refuse
 local-zone: "grmtas.com" always_refuse
@@ -12531,6 +12533,7 @@ local-zone: "fanyamedia.net" always_refuse
 local-zone: "fasterjson.com" always_refuse
 local-zone: "fathiwhopy.com" always_refuse
 local-zone: "favoritego.pro" always_refuse
+local-zone: "faxcoupons.com" always_refuse
 local-zone: "fbofferads.com" always_refuse
 local-zone: "fdma-media.com" always_refuse
 local-zone: "feedback.tools" always_refuse
@@ -20555,6 +20558,7 @@ local-zone: "plain-champion.pro" always_refuse
 local-zone: "plaintivedance.pro" always_refuse
 local-zone: "platform-one.co.jp" always_refuse
 local-zone: "playfunpartner.com" always_refuse
+local-zone: "playhubconnect.com" always_refuse
 local-zone: "pleasingsafety.pro" always_refuse
 local-zone: "plushcinfafema.com" always_refuse
 local-zone: "pns.affworld.cloud" always_refuse
