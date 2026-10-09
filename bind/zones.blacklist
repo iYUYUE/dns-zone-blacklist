@@ -110,6 +110,8 @@ zone "t13.io" { type master; notify no; file "null.zone.file"; };
 zone "tbn.ru" { type master; notify no; file "null.zone.file"; };
 zone "tpk.lv" { type master; notify no; file "null.zone.file"; };
 zone "tpk.mx" { type master; notify no; file "null.zone.file"; };
+zone "tpo.li" { type master; notify no; file "null.zone.file"; };
+zone "tpx.lt" { type master; notify no; file "null.zone.file"; };
 zone "tvp.tv" { type master; notify no; file "null.zone.file"; };
 zone "uaa.ug" { type master; notify no; file "null.zone.file"; };
 zone "uni.cc" { type master; notify no; file "null.zone.file"; };
@@ -27277,6 +27279,7 @@ zone "d1tprjo2w7krrh.cloudfront.net" { type master; notify no; file "null.zone.f
 zone "d1tru86qrby720.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "d1upt0rqzff34l.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "d1ux8fwkxchynl.cloudfront.net" { type master; notify no; file "null.zone.file"; };
+zone "d1vi0y7mo94mcb.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "d1voyiv1eh2vzr.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "d20kffh39acpue.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "d20u24a0cw7x43.cloudfront.net" { type master; notify no; file "null.zone.file"; };
@@ -27862,6 +27865,7 @@ zone "digitalmarketingagencyinpakistan.com" { type master; notify no; file "null
 zone "f4820863aa87c160a3ba03a2a4c91c01.com" { type master; notify no; file "null.zone.file"; };
 zone "ffb7df5a878b59e42e257c042f54bed2.com" { type master; notify no; file "null.zone.file"; };
 zone "marketing.cyberdefensemediagroup.com" { type master; notify no; file "null.zone.file"; };
+zone "mobile-push-notifications.grweb.site" { type master; notify no; file "null.zone.file"; };
 zone "notification-prod.svc.gearsofwar.net" { type master; notify no; file "null.zone.file"; };
 zone "params.prod.mwx.ext.mobilityware.com" { type master; notify no; file "null.zone.file"; };
 zone "pisnalballsprofedresnkrush.solutions" { type master; notify no; file "null.zone.file"; };

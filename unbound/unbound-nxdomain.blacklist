@@ -110,6 +110,8 @@ local-zone: "t13.io" always_nxdomain
 local-zone: "tbn.ru" always_nxdomain
 local-zone: "tpk.lv" always_nxdomain
 local-zone: "tpk.mx" always_nxdomain
+local-zone: "tpo.li" always_nxdomain
+local-zone: "tpx.lt" always_nxdomain
 local-zone: "tvp.tv" always_nxdomain
 local-zone: "uaa.ug" always_nxdomain
 local-zone: "uni.cc" always_nxdomain
@@ -27277,6 +27279,7 @@ local-zone: "d1tprjo2w7krrh.cloudfront.net" always_nxdomain
 local-zone: "d1tru86qrby720.cloudfront.net" always_nxdomain
 local-zone: "d1upt0rqzff34l.cloudfront.net" always_nxdomain
 local-zone: "d1ux8fwkxchynl.cloudfront.net" always_nxdomain
+local-zone: "d1vi0y7mo94mcb.cloudfront.net" always_nxdomain
 local-zone: "d1voyiv1eh2vzr.cloudfront.net" always_nxdomain
 local-zone: "d20kffh39acpue.cloudfront.net" always_nxdomain
 local-zone: "d20u24a0cw7x43.cloudfront.net" always_nxdomain
@@ -27862,6 +27865,7 @@ local-zone: "digitalmarketingagencyinpakistan.com" always_nxdomain
 local-zone: "f4820863aa87c160a3ba03a2a4c91c01.com" always_nxdomain
 local-zone: "ffb7df5a878b59e42e257c042f54bed2.com" always_nxdomain
 local-zone: "marketing.cyberdefensemediagroup.com" always_nxdomain
+local-zone: "mobile-push-notifications.grweb.site" always_nxdomain
 local-zone: "notification-prod.svc.gearsofwar.net" always_nxdomain
 local-zone: "params.prod.mwx.ext.mobilityware.com" always_nxdomain
 local-zone: "pisnalballsprofedresnkrush.solutions" always_nxdomain
