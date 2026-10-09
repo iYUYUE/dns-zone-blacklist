@@ -108,6 +108,8 @@ zone "snd.tc" { type master; notify no; file "null.zone.file"; };
 zone "sys.lv" { type master; notify no; file "null.zone.file"; };
 zone "t13.io" { type master; notify no; file "null.zone.file"; };
 zone "tbn.ru" { type master; notify no; file "null.zone.file"; };
+zone "tpk.lv" { type master; notify no; file "null.zone.file"; };
+zone "tpk.mx" { type master; notify no; file "null.zone.file"; };
 zone "tvp.tv" { type master; notify no; file "null.zone.file"; };
 zone "uaa.ug" { type master; notify no; file "null.zone.file"; };
 zone "uni.cc" { type master; notify no; file "null.zone.file"; };

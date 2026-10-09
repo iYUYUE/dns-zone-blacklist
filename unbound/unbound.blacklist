@@ -108,6 +108,8 @@ local-zone: "snd.tc" always_refuse
 local-zone: "sys.lv" always_refuse
 local-zone: "t13.io" always_refuse
 local-zone: "tbn.ru" always_refuse
+local-zone: "tpk.lv" always_refuse
+local-zone: "tpk.mx" always_refuse
 local-zone: "tvp.tv" always_refuse
 local-zone: "uaa.ug" always_refuse
 local-zone: "uni.cc" always_refuse

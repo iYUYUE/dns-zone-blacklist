@@ -108,6 +108,8 @@ local-zone: "snd.tc" always_nxdomain
 local-zone: "sys.lv" always_nxdomain
 local-zone: "t13.io" always_nxdomain
 local-zone: "tbn.ru" always_nxdomain
+local-zone: "tpk.lv" always_nxdomain
+local-zone: "tpk.mx" always_nxdomain
 local-zone: "tvp.tv" always_nxdomain
 local-zone: "uaa.ug" always_nxdomain
 local-zone: "uni.cc" always_nxdomain
