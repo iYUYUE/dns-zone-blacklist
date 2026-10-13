@@ -16562,6 +16562,7 @@ zone "calvarycards.com" { type master; notify no; file "null.zone.file"; };
 zone "campaign.avg.com" { type master; notify no; file "null.zone.file"; };
 zone "campaignlake.com" { type master; notify no; file "null.zone.file"; };
 zone "cannonchange.com" { type master; notify no; file "null.zone.file"; };
+zone "capitalopera.com" { type master; notify no; file "null.zone.file"; };
 zone "captainstick.com" { type master; notify no; file "null.zone.file"; };
 zone "carbongarden.net" { type master; notify no; file "null.zone.file"; };
 zone "cardproducer.com" { type master; notify no; file "null.zone.file"; };
