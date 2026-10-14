@@ -9358,6 +9358,7 @@ local-zone: "adpopcorn.com" always_refuse
 local-zone: "ad.prohost.pl" always_refuse
 local-zone: "adprotect.net" always_refuse
 local-zone: "adpush.com.tr" always_refuse
+local-zone: "adq.afafb.com" always_refuse
 local-zone: "ad.rawasy.com" always_refuse
 local-zone: "adreactor.com" always_refuse
 local-zone: "adrecover.com" always_refuse
@@ -11037,6 +11038,7 @@ local-zone: "rollmeout.xyz" always_refuse
 local-zone: "rootclick.com" always_refuse
 local-zone: "rose.ixbt.com" always_refuse
 local-zone: "rs-stripe.com" always_refuse
+local-zone: "rtb.afafb.com" always_refuse
 local-zone: "rtbdemand.com" always_refuse
 local-zone: "rtbmarket.com" always_refuse
 local-zone: "rtbsystem.com" always_refuse
@@ -24604,6 +24606,7 @@ local-zone: "affiliates.thrixxx.com" always_refuse
 local-zone: "afftrackrc.21.partners" always_refuse
 local-zone: "agenteimmobiliare.info" always_refuse
 local-zone: "aggravatingchicken.pro" always_refuse
+local-zone: "ali-push-api.afafb.com" always_refuse
 local-zone: "alternativeadverts.com" always_refuse
 local-zone: "altitudedigital.com.au" always_refuse
 local-zone: "americanadagencies.com" always_refuse
@@ -27142,6 +27145,7 @@ local-zone: "maximumdecimus.clicknplay.to" always_refuse
 local-zone: "mdeport.mediosdeportivos.com" always_refuse
 local-zone: "medad.med.wanfangdata.com.cn" always_refuse
 local-zone: "media.geinoschool-hikaku.net" always_refuse
+local-zone: "mediation-receiver.afafb.com" always_refuse
 local-zone: "media.top-kazino-rejting.com" always_refuse
 local-zone: "monorail-edge.shopifysvc.com" always_refuse
 local-zone: "mountainviewmarketingllc.com" always_refuse
