@@ -820,6 +820,7 @@ local-zone: "4wnet.com" always_nxdomain
 local-zone: "51fun.xyz" always_nxdomain
 local-zone: "52zxz.com" always_nxdomain
 local-zone: "58vpn.com" always_nxdomain
+local-zone: "5gvci.com" always_nxdomain
 local-zone: "5rocks.io" always_nxdomain
 local-zone: "6561a.com" always_nxdomain
 local-zone: "69ktq.com" always_nxdomain
@@ -8375,6 +8376,7 @@ local-zone: "p.hatzhq.net" always_nxdomain
 local-zone: "phonecup.com" always_nxdomain
 local-zone: "pianwela.xyz" always_nxdomain
 local-zone: "pipeaota.com" always_nxdomain
+local-zone: "pishrust.com" always_nxdomain
 local-zone: "pixad.com.tr" always_nxdomain
 local-zone: "pixalate.com" always_nxdomain
 local-zone: "pixelpie.com" always_nxdomain
@@ -11915,6 +11917,7 @@ local-zone: "ads.rknappe.eu" always_nxdomain
 local-zone: "ads.roblox.com" always_nxdomain
 local-zone: "adsrv.alter.si" always_nxdomain
 local-zone: "ads.safarme.ir" always_nxdomain
+local-zone: "ads-server.net" always_nxdomain
 local-zone: "ads.sexsub.one" always_nxdomain
 local-zone: "ads.sinkwa.com" always_nxdomain
 local-zone: "ads.sirved.com" always_nxdomain

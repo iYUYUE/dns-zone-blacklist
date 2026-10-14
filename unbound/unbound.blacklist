@@ -820,6 +820,7 @@ local-zone: "4wnet.com" always_refuse
 local-zone: "51fun.xyz" always_refuse
 local-zone: "52zxz.com" always_refuse
 local-zone: "58vpn.com" always_refuse
+local-zone: "5gvci.com" always_refuse
 local-zone: "5rocks.io" always_refuse
 local-zone: "6561a.com" always_refuse
 local-zone: "69ktq.com" always_refuse
@@ -8375,6 +8376,7 @@ local-zone: "p.hatzhq.net" always_refuse
 local-zone: "phonecup.com" always_refuse
 local-zone: "pianwela.xyz" always_refuse
 local-zone: "pipeaota.com" always_refuse
+local-zone: "pishrust.com" always_refuse
 local-zone: "pixad.com.tr" always_refuse
 local-zone: "pixalate.com" always_refuse
 local-zone: "pixelpie.com" always_refuse
@@ -11915,6 +11917,7 @@ local-zone: "ads.rknappe.eu" always_refuse
 local-zone: "ads.roblox.com" always_refuse
 local-zone: "adsrv.alter.si" always_refuse
 local-zone: "ads.safarme.ir" always_refuse
+local-zone: "ads-server.net" always_refuse
 local-zone: "ads.sexsub.one" always_refuse
 local-zone: "ads.sinkwa.com" always_refuse
 local-zone: "ads.sirved.com" always_refuse
