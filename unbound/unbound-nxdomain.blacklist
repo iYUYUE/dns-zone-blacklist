@@ -1269,6 +1269,7 @@ local-zone: "criteo.sk" always_nxdomain
 local-zone: "criteo.tv" always_nxdomain
 local-zone: "criteo.tw" always_nxdomain
 local-zone: "crm4d.com" always_nxdomain
+local-zone: "crn77.com" always_nxdomain
 local-zone: "crpoy.com" always_nxdomain
 local-zone: "csjuq.com" always_nxdomain
 local-zone: "d2ads.com" always_nxdomain
@@ -1482,6 +1483,7 @@ local-zone: "i.ssix.io" always_nxdomain
 local-zone: "itpqa.com" always_nxdomain
 local-zone: "itsup.com" always_nxdomain
 local-zone: "iurny.com" always_nxdomain
+local-zone: "ivddn.com" always_nxdomain
 local-zone: "iytlj.com" always_nxdomain
 local-zone: "izcle.com" always_nxdomain
 local-zone: "izooto.in" always_nxdomain
@@ -1681,6 +1683,7 @@ local-zone: "notiks.io" always_nxdomain
 local-zone: "nplxa.com" always_nxdomain
 local-zone: "nqych.com" always_nxdomain
 local-zone: "nrtru.com" always_nxdomain
+local-zone: "nsb42.com" always_nxdomain
 local-zone: "ntzgd.com" always_nxdomain
 local-zone: "nui.media" always_nxdomain
 local-zone: "nuxad.com" always_nxdomain
@@ -1835,6 +1838,7 @@ local-zone: "rthsu.com" always_nxdomain
 local-zone: "rtrgt.com" always_nxdomain
 local-zone: "rttrk.com" always_nxdomain
 local-zone: "rutrk.org" always_nxdomain
+local-zone: "rv400.com" always_nxdomain
 local-zone: "rvmtv.com" always_nxdomain
 local-zone: "rwadx.com" always_nxdomain
 local-zone: "rxlnd.net" always_nxdomain
@@ -10385,6 +10389,7 @@ local-zone: "huskyshoe.pro" always_nxdomain
 local-zone: "hyperxxx.club" always_nxdomain
 local-zone: "hyrewusha.pro" always_nxdomain
 local-zone: "iabireland.ie" always_nxdomain
+local-zone: "iad.anm.co.uk" always_nxdomain
 local-zone: "iad.apple.com" always_nxdomain
 local-zone: "iambivert.com" always_nxdomain
 local-zone: "iamniyati.com" always_nxdomain
@@ -18092,6 +18097,7 @@ local-zone: "ads.challenges.tn" always_nxdomain
 local-zone: "ads.christiani.de" always_nxdomain
 local-zone: "ads.citytv.com.co" always_nxdomain
 local-zone: "ads.collettiva.it" always_nxdomain
+local-zone: "ads.dailymail.com" always_nxdomain
 local-zone: "ads.dailyroto.com" always_nxdomain
 local-zone: "ads.darikradio.bg" always_nxdomain
 local-zone: "ads.datacenter.is" always_nxdomain

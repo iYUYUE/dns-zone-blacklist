@@ -1269,6 +1269,7 @@ local-zone: "criteo.sk" always_refuse
 local-zone: "criteo.tv" always_refuse
 local-zone: "criteo.tw" always_refuse
 local-zone: "crm4d.com" always_refuse
+local-zone: "crn77.com" always_refuse
 local-zone: "crpoy.com" always_refuse
 local-zone: "csjuq.com" always_refuse
 local-zone: "d2ads.com" always_refuse
@@ -1482,6 +1483,7 @@ local-zone: "i.ssix.io" always_refuse
 local-zone: "itpqa.com" always_refuse
 local-zone: "itsup.com" always_refuse
 local-zone: "iurny.com" always_refuse
+local-zone: "ivddn.com" always_refuse
 local-zone: "iytlj.com" always_refuse
 local-zone: "izcle.com" always_refuse
 local-zone: "izooto.in" always_refuse
@@ -1681,6 +1683,7 @@ local-zone: "notiks.io" always_refuse
 local-zone: "nplxa.com" always_refuse
 local-zone: "nqych.com" always_refuse
 local-zone: "nrtru.com" always_refuse
+local-zone: "nsb42.com" always_refuse
 local-zone: "ntzgd.com" always_refuse
 local-zone: "nui.media" always_refuse
 local-zone: "nuxad.com" always_refuse
@@ -1835,6 +1838,7 @@ local-zone: "rthsu.com" always_refuse
 local-zone: "rtrgt.com" always_refuse
 local-zone: "rttrk.com" always_refuse
 local-zone: "rutrk.org" always_refuse
+local-zone: "rv400.com" always_refuse
 local-zone: "rvmtv.com" always_refuse
 local-zone: "rwadx.com" always_refuse
 local-zone: "rxlnd.net" always_refuse
@@ -10385,6 +10389,7 @@ local-zone: "huskyshoe.pro" always_refuse
 local-zone: "hyperxxx.club" always_refuse
 local-zone: "hyrewusha.pro" always_refuse
 local-zone: "iabireland.ie" always_refuse
+local-zone: "iad.anm.co.uk" always_refuse
 local-zone: "iad.apple.com" always_refuse
 local-zone: "iambivert.com" always_refuse
 local-zone: "iamniyati.com" always_refuse
@@ -18092,6 +18097,7 @@ local-zone: "ads.challenges.tn" always_refuse
 local-zone: "ads.christiani.de" always_refuse
 local-zone: "ads.citytv.com.co" always_refuse
 local-zone: "ads.collettiva.it" always_refuse
+local-zone: "ads.dailymail.com" always_refuse
 local-zone: "ads.dailyroto.com" always_refuse
 local-zone: "ads.darikradio.bg" always_refuse
 local-zone: "ads.datacenter.is" always_refuse
