@@ -3083,6 +3083,7 @@ local-zone: "dmskgo.com" always_refuse
 local-zone: "dmstrk.com" always_refuse
 local-zone: "dmzjmp.com" always_refuse
 local-zone: "dnaads.com" always_refuse
+local-zone: "dnacdn.net" always_refuse
 local-zone: "dnoyrz.com" always_refuse
 local-zone: "dolead.com" always_refuse
 local-zone: "dom360.com" always_refuse

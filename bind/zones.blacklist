@@ -3083,6 +3083,7 @@ zone "dmskgo.com" { type master; notify no; file "null.zone.file"; };
 zone "dmstrk.com" { type master; notify no; file "null.zone.file"; };
 zone "dmzjmp.com" { type master; notify no; file "null.zone.file"; };
 zone "dnaads.com" { type master; notify no; file "null.zone.file"; };
+zone "dnacdn.net" { type master; notify no; file "null.zone.file"; };
 zone "dnoyrz.com" { type master; notify no; file "null.zone.file"; };
 zone "dolead.com" { type master; notify no; file "null.zone.file"; };
 zone "dom360.com" { type master; notify no; file "null.zone.file"; };
