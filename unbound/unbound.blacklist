@@ -1872,6 +1872,7 @@ local-zone: "skated.co" always_refuse
 local-zone: "sldxc.com" always_refuse
 local-zone: "slido.com" always_refuse
 local-zone: "slitm.net" always_refuse
+local-zone: "sliwn.com" always_refuse
 local-zone: "slsv1.com" always_refuse
 local-zone: "slsv2.com" always_refuse
 local-zone: "smaad.net" always_refuse
@@ -2112,6 +2113,7 @@ local-zone: "yohle.com" always_refuse
 local-zone: "yomob.com" always_refuse
 local-zone: "yotpo.com" always_refuse
 local-zone: "youmi.net" always_refuse
+local-zone: "ypby4.com" always_refuse
 local-zone: "ypetp.com" always_refuse
 local-zone: "ypxnu.com" always_refuse
 local-zone: "yqeuu.com" always_refuse
@@ -22211,6 +22213,7 @@ local-zone: "quizzicaltackle.pro" always_refuse
 local-zone: "ragemediaglobal.com" always_refuse
 local-zone: "ragged-specific.pro" always_refuse
 local-zone: "rainmakersindia.net" always_refuse
+local-zone: "rapidadexchange.com" always_refuse
 local-zone: "realistic-fruit.pro" always_refuse
 local-zone: "realistic-total.pro" always_refuse
 local-zone: "realisticwindow.com" always_refuse
