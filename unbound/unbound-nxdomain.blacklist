@@ -84,6 +84,7 @@ local-zone: "m2c.rs" always_nxdomain
 local-zone: "maf.ad" always_nxdomain
 local-zone: "mox.tv" always_nxdomain
 local-zone: "mrf.io" always_nxdomain
+local-zone: "mrf.lu" always_nxdomain
 local-zone: "n49.de" always_nxdomain
 local-zone: "nmd.dk" always_nxdomain
 local-zone: "n.rich" always_nxdomain
@@ -7708,6 +7709,7 @@ local-zone: "data.cnn.com" always_nxdomain
 local-zone: "dataseat.com" always_nxdomain
 local-zone: "datawrkz.com" always_nxdomain
 local-zone: "datspush.com" always_nxdomain
+local-zone: "dblarson.com" always_nxdomain
 local-zone: "dc-storm.com" always_nxdomain
 local-zone: "deadsand.pro" always_nxdomain
 local-zone: "dealeron.com" always_nxdomain
@@ -12629,6 +12631,7 @@ local-zone: "exchangead.com" always_nxdomain
 local-zone: "exmainclck.com" always_nxdomain
 local-zone: "expertcity.com" always_nxdomain
 local-zone: "expmnclick.com" always_nxdomain
+local-zone: "extracover.net" always_nxdomain
 local-zone: "eyeviewads.com" always_nxdomain
 local-zone: "ezadsystem.com" always_nxdomain
 local-zone: "f.5turistov.ru" always_nxdomain
@@ -18625,6 +18628,7 @@ local-zone: "cname.sognando.jp" always_nxdomain
 local-zone: "cname.sokuyaku.jp" always_nxdomain
 local-zone: "coalmerchants.com" always_nxdomain
 local-zone: "coarse-master.pro" always_nxdomain
+local-zone: "cockatielcafe.com" always_nxdomain
 local-zone: "codigofuente.info" always_nxdomain
 local-zone: "coinisnetwork.com" always_nxdomain
 local-zone: "colorsonchain.com" always_nxdomain
@@ -26841,6 +26845,7 @@ local-zone: "mediablueads.trafficman.io" always_nxdomain
 local-zone: "medialink-jssdk.moomoo.com" always_nxdomain
 local-zone: "media.topcasinoukraine.com" always_nxdomain
 local-zone: "mediavisionadvertising.com" always_nxdomain
+local-zone: "merchandise.opera-api2.com" always_nxdomain
 local-zone: "mercury.dl.playstation.net" always_nxdomain
 local-zone: "myadserver2.greenrobot.com" always_nxdomain
 local-zone: "myadserver3.greenrobot.com" always_nxdomain
