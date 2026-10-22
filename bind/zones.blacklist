@@ -5226,6 +5226,7 @@ zone "buywords.de" { type master; notify no; file "null.zone.file"; };
 zone "buzzfry.com" { type master; notify no; file "null.zone.file"; };
 zone "buzzoola.ru" { type master; notify no; file "null.zone.file"; };
 zone "buzzvil.com" { type master; notify no; file "null.zone.file"; };
+zone "bvfront.com" { type master; notify no; file "null.zone.file"; };
 zone "bywiola.com" { type master; notify no; file "null.zone.file"; };
 zone "c457pd0.com" { type master; notify no; file "null.zone.file"; };
 zone "c4n.xxx8.me" { type master; notify no; file "null.zone.file"; };
