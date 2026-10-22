@@ -749,6 +749,7 @@ local-zone: "voxus.tv" always_nxdomain
 local-zone: "vrvm.com" always_nxdomain
 local-zone: "w0we.com" always_nxdomain
 local-zone: "w55c.net" always_nxdomain
+local-zone: "we0x.com" always_nxdomain
 local-zone: "webdr.tr" always_nxdomain
 local-zone: "webpu.sh" always_nxdomain
 local-zone: "weks.net" always_nxdomain
@@ -1916,6 +1917,7 @@ local-zone: "tappx.com" always_nxdomain
 local-zone: "tarad.com" always_nxdomain
 local-zone: "tatari.tv" always_nxdomain
 local-zone: "tauzo.xyz" always_nxdomain
+local-zone: "tbyh5.com" always_nxdomain
 local-zone: "tcktp.com" always_nxdomain
 local-zone: "tdqqx.com" always_nxdomain
 local-zone: "teads.com" always_nxdomain
@@ -1929,6 +1931,7 @@ local-zone: "tiller.co" always_nxdomain
 local-zone: "tjzuh.com" always_nxdomain
 local-zone: "tk0x1.com" always_nxdomain
 local-zone: "tmll1.com" always_nxdomain
+local-zone: "tmll8.com" always_nxdomain
 local-zone: "tmll9.com" always_nxdomain
 local-zone: "tmska.com" always_nxdomain
 local-zone: "tncid.app" always_nxdomain
@@ -8208,7 +8211,6 @@ local-zone: "mediabros.ch" always_nxdomain
 local-zone: "mediacpc.com" always_nxdomain
 local-zone: "mediaedge.ae" always_nxdomain
 local-zone: "media.eso.tv" always_nxdomain
-local-zone: "media-lab.ai" always_nxdomain
 local-zone: "medialead.de" always_nxdomain
 local-zone: "mediamond.it" always_nxdomain
 local-zone: "mediaone.com" always_nxdomain
@@ -18469,7 +18471,6 @@ local-zone: "aqua-adserver.com" always_nxdomain
 local-zone: "arabs.alarbda.net" always_nxdomain
 local-zone: "arabs.arab-xn.com" always_nxdomain
 local-zone: "arabs.nodzway.com" always_nxdomain
-local-zone: "arachnidapp.click" always_nxdomain
 local-zone: "a.reissue2871.xyz" always_nxdomain
 local-zone: "arnoldfurnace.com" always_nxdomain
 local-zone: "aromaticpoint.com" always_nxdomain
@@ -21748,7 +21749,6 @@ local-zone: "conduit-banners.com" always_nxdomain
 local-zone: "confidencetalks.com" always_nxdomain
 local-zone: "connectingdots.asia" always_nxdomain
 local-zone: "consciouswriter.pro" always_nxdomain
-local-zone: "constantcontact.com" always_nxdomain
 local-zone: "consumerknowhow.com" always_nxdomain
 local-zone: "conversantmedia.com" always_nxdomain
 local-zone: "conversiongiant.com" always_nxdomain

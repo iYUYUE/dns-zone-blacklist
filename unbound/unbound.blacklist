@@ -749,6 +749,7 @@ local-zone: "voxus.tv" always_refuse
 local-zone: "vrvm.com" always_refuse
 local-zone: "w0we.com" always_refuse
 local-zone: "w55c.net" always_refuse
+local-zone: "we0x.com" always_refuse
 local-zone: "webdr.tr" always_refuse
 local-zone: "webpu.sh" always_refuse
 local-zone: "weks.net" always_refuse
@@ -1916,6 +1917,7 @@ local-zone: "tappx.com" always_refuse
 local-zone: "tarad.com" always_refuse
 local-zone: "tatari.tv" always_refuse
 local-zone: "tauzo.xyz" always_refuse
+local-zone: "tbyh5.com" always_refuse
 local-zone: "tcktp.com" always_refuse
 local-zone: "tdqqx.com" always_refuse
 local-zone: "teads.com" always_refuse
@@ -1929,6 +1931,7 @@ local-zone: "tiller.co" always_refuse
 local-zone: "tjzuh.com" always_refuse
 local-zone: "tk0x1.com" always_refuse
 local-zone: "tmll1.com" always_refuse
+local-zone: "tmll8.com" always_refuse
 local-zone: "tmll9.com" always_refuse
 local-zone: "tmska.com" always_refuse
 local-zone: "tncid.app" always_refuse
@@ -8208,7 +8211,6 @@ local-zone: "mediabros.ch" always_refuse
 local-zone: "mediacpc.com" always_refuse
 local-zone: "mediaedge.ae" always_refuse
 local-zone: "media.eso.tv" always_refuse
-local-zone: "media-lab.ai" always_refuse
 local-zone: "medialead.de" always_refuse
 local-zone: "mediamond.it" always_refuse
 local-zone: "mediaone.com" always_refuse
@@ -18469,7 +18471,6 @@ local-zone: "aqua-adserver.com" always_refuse
 local-zone: "arabs.alarbda.net" always_refuse
 local-zone: "arabs.arab-xn.com" always_refuse
 local-zone: "arabs.nodzway.com" always_refuse
-local-zone: "arachnidapp.click" always_refuse
 local-zone: "a.reissue2871.xyz" always_refuse
 local-zone: "arnoldfurnace.com" always_refuse
 local-zone: "aromaticpoint.com" always_refuse
@@ -21748,7 +21749,6 @@ local-zone: "conduit-banners.com" always_refuse
 local-zone: "confidencetalks.com" always_refuse
 local-zone: "connectingdots.asia" always_refuse
 local-zone: "consciouswriter.pro" always_refuse
-local-zone: "constantcontact.com" always_refuse
 local-zone: "consumerknowhow.com" always_refuse
 local-zone: "conversantmedia.com" always_refuse
 local-zone: "conversiongiant.com" always_refuse
