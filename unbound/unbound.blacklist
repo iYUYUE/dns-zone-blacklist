@@ -541,6 +541,7 @@ local-zone: "fixel.ai" always_refuse
 local-zone: "fluct.jp" always_refuse
 local-zone: "forza.ie" always_refuse
 local-zone: "ftt2.com" always_refuse
+local-zone: "g24w.com" always_refuse
 local-zone: "gee8.com" always_refuse
 local-zone: "gogel.al" always_refuse
 local-zone: "gosrv.cl" always_refuse
@@ -695,6 +696,7 @@ local-zone: "ropx.xyz" always_refuse
 local-zone: "rtb.buzz" always_refuse
 local-zone: "rubid.su" always_refuse
 local-zone: "s3jg.com" always_refuse
+local-zone: "s8ey.com" always_refuse
 local-zone: "sdad.biz" always_refuse
 local-zone: "senja.io" always_refuse
 local-zone: "shara.li" always_refuse
@@ -1396,6 +1398,7 @@ local-zone: "fwmrm.net" always_refuse
 local-zone: "fxxag.com" always_refuse
 local-zone: "fyber.com" always_refuse
 local-zone: "fytch.com" always_refuse
+local-zone: "g2nft.com" always_refuse
 local-zone: "g8ads.com" always_refuse
 local-zone: "gad-s.com" always_refuse
 local-zone: "gbupl.com" always_refuse
@@ -1434,6 +1437,7 @@ local-zone: "hai8g.com" always_refuse
 local-zone: "hb.20m.es" always_refuse
 local-zone: "h-bid.com" always_refuse
 local-zone: "he7ll.com" always_refuse
+local-zone: "hepelu.my" always_refuse
 local-zone: "heqgr.com" always_refuse
 local-zone: "hervo.top" always_refuse
 local-zone: "hexiim.de" always_refuse
@@ -1856,6 +1860,7 @@ local-zone: "rxrtb.com" always_refuse
 local-zone: "rzekl.com" always_refuse
 local-zone: "rzlgt.com" always_refuse
 local-zone: "rzviy.com" always_refuse
+local-zone: "s2517.com" always_refuse
 local-zone: "sagum.org" always_refuse
 local-zone: "salik.biz" always_refuse
 local-zone: "sam4m.com" always_refuse
@@ -2207,6 +2212,7 @@ local-zone: "667.agency" always_refuse
 local-zone: "717trk.com" always_refuse
 local-zone: "734map.net" always_refuse
 local-zone: "739trk.com" always_refuse
+local-zone: "788857.com" always_refuse
 local-zone: "789112.top" always_refuse
 local-zone: "7bchhgh.de" always_refuse
 local-zone: "7click.com" always_refuse
@@ -3039,6 +3045,8 @@ local-zone: "criteo.xyz" always_refuse
 local-zone: "critoe.com" always_refuse
 local-zone: "critoo.com" always_refuse
 local-zone: "crtred.com" always_refuse
+local-zone: "crxcr2.com" always_refuse
+local-zone: "crxcra.com" always_refuse
 local-zone: "cryjun.com" always_refuse
 local-zone: "cryteo.com" always_refuse
 local-zone: "ctjdwm.com" always_refuse
@@ -3603,6 +3611,7 @@ local-zone: "nelhon.com" always_refuse
 local-zone: "nelweb.net" always_refuse
 local-zone: "neobux.com" always_refuse
 local-zone: "neon.today" always_refuse
+local-zone: "nesber.com" always_refuse
 local-zone: "net-ads.mk" always_refuse
 local-zone: "netb11.com" always_refuse
 local-zone: "netexs.com" always_refuse
@@ -6255,6 +6264,7 @@ local-zone: "steepto.com" always_refuse
 local-zone: "sting24.com" always_refuse
 local-zone: "storeya.com" always_refuse
 local-zone: "studads.com" always_refuse
+local-zone: "suaplf.live" always_refuse
 local-zone: "sublime.xyz" always_refuse
 local-zone: "suggestv.io" always_refuse
 local-zone: "suite66.com" always_refuse
@@ -15637,6 +15647,7 @@ local-zone: "runnyextent.com" always_refuse
 local-zone: "ruralwriter.pro" always_refuse
 local-zone: "rusty-grade.pro" always_refuse
 local-zone: "rytheshigro.pro" always_refuse
+local-zone: "sacdnssedge.com" always_refuse
 local-zone: "safetybrush.com" always_refuse
 local-zone: "salesdoubler.ua" always_refuse
 local-zone: "salesiq.zoho.in" always_refuse
@@ -24095,6 +24106,7 @@ local-zone: "harmoniouspartner.pro" always_refuse
 local-zone: "hauntingdependent.pro" always_refuse
 local-zone: "healthyadvertising.es" always_refuse
 local-zone: "hellothere.filefox.io" always_refuse
+local-zone: "highrevenueformat.com" always_refuse
 local-zone: "hollowcombination.pro" always_refuse
 local-zone: "hospitable-effort.pro" always_refuse
 local-zone: "hotteaadvertising.com" always_refuse
@@ -24520,7 +24532,6 @@ local-zone: "videocdnmetrika78.com" always_refuse
 local-zone: "videocdnmetrika79.com" always_refuse
 local-zone: "videocdnmetrika80.com" always_refuse
 local-zone: "videocdnmetrika81.com" always_refuse
-local-zone: "video.sacdnssedge.com" always_refuse
 local-zone: "vigilantprinciple.pro" always_refuse
 local-zone: "vmrcommunications.com" always_refuse
 local-zone: "walkeradvertising.com" always_refuse
@@ -24535,7 +24546,6 @@ local-zone: "whistleradvantage.com" always_refuse
 local-zone: "whitestarmediainc.com" always_refuse
 local-zone: "widget.clips4sale.com" always_refuse
 local-zone: "widget.cloudinary.com" always_refuse
-local-zone: "widget-ext.crxcra.com" always_refuse
 local-zone: "widget.freshworks.com" always_refuse
 local-zone: "widget.harnessapp.com" always_refuse
 local-zone: "widget.info-static.ru" always_refuse
@@ -25846,7 +25856,6 @@ local-zone: "worldbannerexchange.com" always_refuse
 local-zone: "worldwidedigitalads.com" always_refuse
 local-zone: "worrisomedifference.com" always_refuse
 local-zone: "xenmediamarketing.co.uk" always_refuse
-local-zone: "xhvideo.sacdnssedge.com" always_refuse
 local-zone: "xml.goneawa-serving.com" always_refuse
 local-zone: "xml.indforh-serving.com" always_refuse
 local-zone: "xml.safesearchguard.com" always_refuse
@@ -27557,6 +27566,7 @@ local-zone: "d31otfhas71ais.cloudfront.net" always_refuse
 local-zone: "d31vxm9ubutrmw.cloudfront.net" always_refuse
 local-zone: "d340c1js8izm35.cloudfront.net" always_refuse
 local-zone: "d3410ost8gg4o3.cloudfront.net" always_refuse
+local-zone: "d351izjhjvccs2.cloudfront.net" always_refuse
 local-zone: "d35xxde4fgg0cx.cloudfront.net" always_refuse
 local-zone: "d361oi6ppvq2ym.cloudfront.net" always_refuse
 local-zone: "d37j8pfxu2iogi.cloudfront.net" always_refuse
