@@ -337,6 +337,7 @@ local-zone: "2mdn.net" always_nxdomain
 local-zone: "2nvs.com" always_nxdomain
 local-zone: "2wins.in" always_nxdomain
 local-zone: "2xc8.net" always_nxdomain
+local-zone: "2y2s.com" always_nxdomain
 local-zone: "3ccx.xyz" always_nxdomain
 local-zone: "3cube.ae" always_nxdomain
 local-zone: "3dpop.kr" always_nxdomain
@@ -537,6 +538,7 @@ local-zone: "ed10.net" always_nxdomain
 local-zone: "eeco.xyz" always_nxdomain
 local-zone: "ela1.com" always_nxdomain
 local-zone: "elama.ru" always_nxdomain
+local-zone: "emrld.cc" always_nxdomain
 local-zone: "epom.com" always_nxdomain
 local-zone: "esy1.com" always_nxdomain
 local-zone: "etarg.ru" always_nxdomain
@@ -816,6 +818,7 @@ local-zone: "1x1x5.com" always_nxdomain
 local-zone: "1x1x7.com" always_nxdomain
 local-zone: "21sme.com" always_nxdomain
 local-zone: "24ads.com" always_nxdomain
+local-zone: "255md.com" always_nxdomain
 local-zone: "2588u.com" always_nxdomain
 local-zone: "2622u.com" always_nxdomain
 local-zone: "293mk.com" always_nxdomain
@@ -1227,6 +1230,7 @@ local-zone: "cafxq.com" always_nxdomain
 local-zone: "caroda.io" always_nxdomain
 local-zone: "cauly.net" always_nxdomain
 local-zone: "cavai.com" always_nxdomain
+local-zone: "cawsg.com" always_nxdomain
 local-zone: "cayo.tech" always_nxdomain
 local-zone: "cbads.com" always_nxdomain
 local-zone: "cbbvi.com" always_nxdomain
@@ -1426,6 +1430,7 @@ local-zone: "gjl15.com" always_nxdomain
 local-zone: "gkksi.com" always_nxdomain
 local-zone: "glawi.com" always_nxdomain
 local-zone: "glize.com" always_nxdomain
+local-zone: "gljsw.com" always_nxdomain
 local-zone: "gmads.net" always_nxdomain
 local-zone: "gmo-am.jp" always_nxdomain
 local-zone: "gndrz.com" always_nxdomain
@@ -2212,6 +2217,7 @@ local-zone: "3rsppty.cn" always_nxdomain
 local-zone: "405ads.com" always_nxdomain
 local-zone: "416trk.com" always_nxdomain
 local-zone: "42jdbcb.de" always_nxdomain
+local-zone: "472888.xyz" always_nxdomain
 local-zone: "480app.com" always_nxdomain
 local-zone: "4dsply.com" always_nxdomain
 local-zone: "4sqt6jq.de" always_nxdomain
@@ -3280,6 +3286,7 @@ local-zone: "ghcvpd.com" always_nxdomain
 local-zone: "gimbal.com" always_nxdomain
 local-zone: "giprnh.com" always_nxdomain
 local-zone: "gitoku.com" always_nxdomain
+local-zone: "gldmel.com" always_nxdomain
 local-zone: "glispa.com" always_nxdomain
 local-zone: "global.com" always_nxdomain
 local-zone: "gluads.com" always_nxdomain
@@ -10441,6 +10448,7 @@ local-zone: "go1.spre.work" always_nxdomain
 local-zone: "go1.st3a3.com" always_nxdomain
 local-zone: "go1.tjre.work" always_nxdomain
 local-zone: "go1.were.work" always_nxdomain
+local-zone: "go.beegsex.tv" always_nxdomain
 local-zone: "goclicker.com" always_nxdomain
 local-zone: "godigipro.com" always_nxdomain
 local-zone: "goldadvert.cz" always_nxdomain
@@ -10631,6 +10639,7 @@ local-zone: "kq6lwk3m9g.ru" always_nxdomain
 local-zone: "kryptoads.com" always_nxdomain
 local-zone: "kurejysho.pro" always_nxdomain
 local-zone: "kvcd7w375h.ru" always_nxdomain
+local-zone: "kvkqwgbgw.com" always_nxdomain
 local-zone: "lame-home.pro" always_nxdomain
 local-zone: "landkarts.com" always_nxdomain
 local-zone: "langrauoz.xyz" always_nxdomain
@@ -11018,6 +11027,7 @@ local-zone: "popunders.bid" always_nxdomain
 local-zone: "popviking.com" always_nxdomain
 local-zone: "porfunteld.ru" always_nxdomain
 local-zone: "pornkiads.com" always_nxdomain
+local-zone: "porntrader.nl" always_nxdomain
 local-zone: "pos.baidu.com" always_nxdomain
 local-zone: "postclick.com" always_nxdomain
 local-zone: "postscript.io" always_nxdomain
@@ -17976,6 +17986,7 @@ local-zone: "tracecontent.com" always_nxdomain
 local-zone: "trackcityads.com" always_nxdomain
 local-zone: "trackprimary.com" always_nxdomain
 local-zone: "trade080227.shop" always_nxdomain
+local-zone: "trade.beegsex.tv" always_nxdomain
 local-zone: "tradedoubler.com" always_nxdomain
 local-zone: "tradehouse.media" always_nxdomain
 local-zone: "trader.garant.ru" always_nxdomain
@@ -20363,6 +20374,7 @@ local-zone: "cdn.megadata.co.kr" always_nxdomain
 local-zone: "cdn.richimages.org" always_nxdomain
 local-zone: "cdn.sentinelbi.com" always_nxdomain
 local-zone: "cdn-ssl.vidible.tv" always_nxdomain
+local-zone: "cdn.storagexhd.com" always_nxdomain
 local-zone: "cdn.triboomedia.it" always_nxdomain
 local-zone: "cgiadvertising.com" always_nxdomain
 local-zone: "cheappollution.pro" always_nxdomain
