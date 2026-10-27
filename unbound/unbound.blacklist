@@ -341,6 +341,7 @@ local-zone: "2y2s.com" always_refuse
 local-zone: "3ccx.xyz" always_refuse
 local-zone: "3cube.ae" always_refuse
 local-zone: "3dpop.kr" always_refuse
+local-zone: "3pxx.com" always_refuse
 local-zone: "484l.com" always_refuse
 local-zone: "484r.com" always_refuse
 local-zone: "5sens.tn" always_refuse
@@ -829,6 +830,7 @@ local-zone: "302br.net" always_refuse
 local-zone: "30ads.com" always_refuse
 local-zone: "3852a.com" always_refuse
 local-zone: "3dspk.com" always_refuse
+local-zone: "3leap.com" always_refuse
 local-zone: "3lift.com" always_refuse
 local-zone: "3mads.com" always_refuse
 local-zone: "3nbf4.com" always_refuse
@@ -854,6 +856,7 @@ local-zone: "92mim.com" always_refuse
 local-zone: "9591x.com" always_refuse
 local-zone: "99gt7.com" always_refuse
 local-zone: "9h7n8.com" always_refuse
+local-zone: "9hito.com" always_refuse
 local-zone: "9lt1f7.ru" always_refuse
 local-zone: "a2adv.com" always_refuse
 local-zone: "a2.zdg.de" always_refuse
@@ -10792,6 +10795,7 @@ local-zone: "moblinear.com" always_refuse
 local-zone: "mobperads.net" always_refuse
 local-zone: "mobpushup.com" always_refuse
 local-zone: "mobstarry.com" always_refuse
+local-zone: "mobuppsx.site" always_refuse
 local-zone: "mobwonder.com" always_refuse
 local-zone: "modoro360.com" always_refuse
 local-zone: "moistword.com" always_refuse
