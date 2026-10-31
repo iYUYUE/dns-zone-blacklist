@@ -20944,6 +20944,7 @@ zone "newsharecounts.com" { type master; notify no; file "null.zone.file"; };
 zone "ngccdcrdgskjpl.com" { type master; notify no; file "null.zone.file"; };
 zone "nicheadnetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "nikkoscreative.com" { type master; notify no; file "null.zone.file"; };
+zone "northwavepoint.com" { type master; notify no; file "null.zone.file"; };
 zone "notablevehicle.com" { type master; notify no; file "null.zone.file"; };
 zone "notads.1gi3rir.xyz" { type master; notify no; file "null.zone.file"; };
 zone "noundictionary.com" { type master; notify no; file "null.zone.file"; };
