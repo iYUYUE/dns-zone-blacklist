@@ -509,6 +509,7 @@ local-zone: "appm.app" always_nxdomain
 local-zone: "aqml.org" always_nxdomain
 local-zone: "arke.com" always_nxdomain
 local-zone: "arlox.io" always_nxdomain
+local-zone: "atype.jp" always_nxdomain
 local-zone: "audio.ad" always_nxdomain
 local-zone: "augen.in" always_nxdomain
 local-zone: "avada.io" always_nxdomain
@@ -7715,6 +7716,7 @@ local-zone: "awempire.com" always_nxdomain
 local-zone: "aweproto.com" always_nxdomain
 local-zone: "awltovhc.com" always_nxdomain
 local-zone: "axiombid.com" always_nxdomain
+local-zone: "axiosuse.org" always_nxdomain
 local-zone: "a.yamcha.xyz" always_nxdomain
 local-zone: "b1ll3r11.xyz" always_nxdomain
 local-zone: "b1-media.com" always_nxdomain
@@ -8327,6 +8329,7 @@ local-zone: "impactify.it" always_nxdomain
 local-zone: "imprexis.biz" always_nxdomain
 local-zone: "indexssp.com" always_nxdomain
 local-zone: "indirads.org" always_nxdomain
+local-zone: "indscout.com" always_nxdomain
 local-zone: "influads.com" always_nxdomain
 local-zone: "ingretor.com" always_nxdomain
 local-zone: "inlugiar.com" always_nxdomain
@@ -14037,6 +14040,7 @@ local-zone: "socialsnap.com" always_nxdomain
 local-zone: "socialvibe.com" always_nxdomain
 local-zone: "sociomantic.de" always_nxdomain
 local-zone: "socioshout.com" always_nxdomain
+local-zone: "softscales.com" always_nxdomain
 local-zone: "soggy-duty.com" always_nxdomain
 local-zone: "soilphotos.com" always_nxdomain
 local-zone: "soireenews.com" always_nxdomain
@@ -15505,6 +15509,7 @@ local-zone: "gjanedesign.com" always_nxdomain
 local-zone: "glasscoyote.com" always_nxdomain
 local-zone: "globaladsrv.com" always_nxdomain
 local-zone: "glo-glo-oom.com" always_nxdomain
+local-zone: "glookockish.com" always_nxdomain
 local-zone: "glumrevenue.com" always_nxdomain
 local-zone: "glunaukaimo.net" always_nxdomain
 local-zone: "go1.imlive.work" always_nxdomain
@@ -26076,6 +26081,7 @@ local-zone: "seal-upstatesc.bbb.org" always_nxdomain
 local-zone: "seal-wisconsin.bbb.org" always_nxdomain
 local-zone: "seattleadvertising.com" always_nxdomain
 local-zone: "secure.jdn.monster.com" always_nxdomain
+local-zone: "securetrackingnode.com" always_nxdomain
 local-zone: "secure.trust-guard.com" always_nxdomain
 local-zone: "sep02.hinagiku-life.jp" always_nxdomain
 local-zone: "servedby.cryptoslam.io" always_nxdomain

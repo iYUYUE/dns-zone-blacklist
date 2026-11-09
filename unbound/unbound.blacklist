@@ -509,6 +509,7 @@ local-zone: "appm.app" always_refuse
 local-zone: "aqml.org" always_refuse
 local-zone: "arke.com" always_refuse
 local-zone: "arlox.io" always_refuse
+local-zone: "atype.jp" always_refuse
 local-zone: "audio.ad" always_refuse
 local-zone: "augen.in" always_refuse
 local-zone: "avada.io" always_refuse
@@ -7715,6 +7716,7 @@ local-zone: "awempire.com" always_refuse
 local-zone: "aweproto.com" always_refuse
 local-zone: "awltovhc.com" always_refuse
 local-zone: "axiombid.com" always_refuse
+local-zone: "axiosuse.org" always_refuse
 local-zone: "a.yamcha.xyz" always_refuse
 local-zone: "b1ll3r11.xyz" always_refuse
 local-zone: "b1-media.com" always_refuse
@@ -8327,6 +8329,7 @@ local-zone: "impactify.it" always_refuse
 local-zone: "imprexis.biz" always_refuse
 local-zone: "indexssp.com" always_refuse
 local-zone: "indirads.org" always_refuse
+local-zone: "indscout.com" always_refuse
 local-zone: "influads.com" always_refuse
 local-zone: "ingretor.com" always_refuse
 local-zone: "inlugiar.com" always_refuse
@@ -14037,6 +14040,7 @@ local-zone: "socialsnap.com" always_refuse
 local-zone: "socialvibe.com" always_refuse
 local-zone: "sociomantic.de" always_refuse
 local-zone: "socioshout.com" always_refuse
+local-zone: "softscales.com" always_refuse
 local-zone: "soggy-duty.com" always_refuse
 local-zone: "soilphotos.com" always_refuse
 local-zone: "soireenews.com" always_refuse
@@ -15505,6 +15509,7 @@ local-zone: "gjanedesign.com" always_refuse
 local-zone: "glasscoyote.com" always_refuse
 local-zone: "globaladsrv.com" always_refuse
 local-zone: "glo-glo-oom.com" always_refuse
+local-zone: "glookockish.com" always_refuse
 local-zone: "glumrevenue.com" always_refuse
 local-zone: "glunaukaimo.net" always_refuse
 local-zone: "go1.imlive.work" always_refuse
@@ -26076,6 +26081,7 @@ local-zone: "seal-upstatesc.bbb.org" always_refuse
 local-zone: "seal-wisconsin.bbb.org" always_refuse
 local-zone: "seattleadvertising.com" always_refuse
 local-zone: "secure.jdn.monster.com" always_refuse
+local-zone: "securetrackingnode.com" always_refuse
 local-zone: "secure.trust-guard.com" always_refuse
 local-zone: "sep02.hinagiku-life.jp" always_refuse
 local-zone: "servedby.cryptoslam.io" always_refuse
