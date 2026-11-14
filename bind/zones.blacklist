@@ -8530,6 +8530,7 @@ zone "malafaat.com" { type master; notify no; file "null.zone.file"; };
 zone "mambasms.com" { type master; notify no; file "null.zone.file"; };
 zone "mamruoa.club" { type master; notify no; file "null.zone.file"; };
 zone "mamshirt.com" { type master; notify no; file "null.zone.file"; };
+zone "mangamad.com" { type master; notify no; file "null.zone.file"; };
 zone "mangoadv.com" { type master; notify no; file "null.zone.file"; };
 zone "mangrao.club" { type master; notify no; file "null.zone.file"; };
 zone "mansfield.us" { type master; notify no; file "null.zone.file"; };
