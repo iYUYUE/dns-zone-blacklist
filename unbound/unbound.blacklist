@@ -3165,9 +3165,12 @@ local-zone: "crxcra.com" always_refuse
 local-zone: "cryjun.com" always_refuse
 local-zone: "cryteo.com" always_refuse
 local-zone: "cszpra.com" always_refuse
+local-zone: "ctcdwm.com" always_refuse
 local-zone: "ctjdwm.com" always_refuse
 local-zone: "ctjmf3j.de" always_refuse
 local-zone: "ctouid.com" always_refuse
+local-zone: "ctsdwm.com" always_refuse
+local-zone: "ctwmcd.com" always_refuse
 local-zone: "ctwmsg.com" always_refuse
 local-zone: "cualbr.com" always_refuse
 local-zone: "cubeegg.de" always_refuse
@@ -3774,6 +3777,7 @@ local-zone: "nhmedia.nl" always_refuse
 local-zone: "nht5dbh.cc" always_refuse
 local-zone: "nitaro.net" always_refuse
 local-zone: "njhtcz.com" always_refuse
+local-zone: "nktrdr.com" always_refuse
 local-zone: "nnaisn.com" always_refuse
 local-zone: "nocrit.com" always_refuse
 local-zone: "noddus.com" always_refuse
@@ -8081,6 +8085,7 @@ local-zone: "dsfffmb.mobi" always_refuse
 local-zone: "dspunion.com" always_refuse
 local-zone: "dtcbarre.com" always_refuse
 local-zone: "dtprofit.com" always_refuse
+local-zone: "dualping.com" always_refuse
 local-zone: "duetcode.com" always_refuse
 local-zone: "dupiwipo.xyz" always_refuse
 local-zone: "duq8bcrl.xyz" always_refuse
@@ -10920,6 +10925,7 @@ local-zone: "infrafood.com" always_refuse
 local-zone: "ingctures.com" always_refuse
 local-zone: "ingul-ysa.com" always_refuse
 local-zone: "inhousead.net" always_refuse
+local-zone: "inkcoupon.com" always_refuse
 local-zone: "inmobicdn.net" always_refuse
 local-zone: "inorbitad.com" always_refuse
 local-zone: "inspi-dsp.com" always_refuse
@@ -13072,6 +13078,7 @@ local-zone: "drollwharf.com" always_refuse
 local-zone: "dry-editor.com" always_refuse
 local-zone: "duannianc3.com" always_refuse
 local-zone: "duhquietly.com" always_refuse
+local-zone: "duhrawhide.com" always_refuse
 local-zone: "dutchleader.nl" always_refuse
 local-zone: "d.zetarail.com" always_refuse
 local-zone: "dzrs3yuexz.com" always_refuse
@@ -13581,6 +13588,7 @@ local-zone: "meta247ads.com" always_refuse
 local-zone: "methodcash.com" always_refuse
 local-zone: "microad-cn.com" always_refuse
 local-zone: "microadinc.com" always_refuse
+local-zone: "millhouses.com" always_refuse
 local-zone: "mimedialabs.in" always_refuse
 local-zone: "mindfulgem.com" always_refuse
 local-zone: "min.ogaku.site" always_refuse
@@ -14027,6 +14035,7 @@ local-zone: "sandydrunk.com" always_refuse
 local-zone: "sas.rea.global" always_refuse
 local-zone: "savefromad.net" always_refuse
 local-zone: "saxa-noa.space" always_refuse
+local-zone: "schoolpaws.com" always_refuse
 local-zone: "sclentdom.life" always_refuse
 local-zone: "scoreaisle.com" always_refuse
 local-zone: "sdk.ffxpub.com" always_refuse
@@ -15881,6 +15890,7 @@ local-zone: "mobipromote.com" always_refuse
 local-zone: "monetize-me.com" always_refuse
 local-zone: "moomauhooso.net" always_refuse
 local-zone: "morevisits.info" always_refuse
+local-zone: "morxaventh.info" always_refuse
 local-zone: "mosalas-adv.com" always_refuse
 local-zone: "motioncabin.com" always_refuse
 local-zone: "motionsketch.in" always_refuse
@@ -16062,6 +16072,7 @@ local-zone: "podsearchad.com" always_refuse
 local-zone: "podvertizer.com" always_refuse
 local-zone: "po.funshion.com" always_refuse
 local-zone: "pointamedia.com" always_refuse
+local-zone: "pointsshare.com" always_refuse
 local-zone: "polaracademy.me" always_refuse
 local-zone: "polarmobile.com" always_refuse
 local-zone: "politemajor.com" always_refuse
@@ -16271,6 +16282,7 @@ local-zone: "seal-ms.bbb.org" always_refuse
 local-zone: "sealtravels.com" always_refuse
 local-zone: "searchermag.net" always_refuse
 local-zone: "searchiqnet.com" always_refuse
+local-zone: "searchitems.com" always_refuse
 local-zone: "secretmedia.com" always_refuse
 local-zone: "sedoparking.com" always_refuse
 local-zone: "seekfind.com.au" always_refuse
@@ -21969,6 +21981,7 @@ local-zone: "triangularsink.pro" always_refuse
 local-zone: "tronmaster.academy" always_refuse
 local-zone: "truthfuldrawer.pro" always_refuse
 local-zone: "tryexogenous.click" always_refuse
+local-zone: "tsdesignstudio.net" always_refuse
 local-zone: "tubeadvertising.eu" always_refuse
 local-zone: "turtle360media.com" always_refuse
 local-zone: "tv35zeg6.t0r.space" always_refuse
